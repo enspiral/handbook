@@ -31,3 +31,5 @@ I have ideas or suggestions for Cobudget features / design / etc, or I found a b
 Check out the roadmap to see what’s already in progress. Submit feedback on this form. If you want to get involved on an ongoing basis, we can add you to our Slack group where we discuss this stuff.
 
 Feel free to post comments and questions here on this Loomio thread. Looking forward to everyone’s feedback!
+
+link to previous collab funding reports
