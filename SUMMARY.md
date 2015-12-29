@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Venture Profiles](ventures.md)
+* [Venture Profiles](venture_profiles.md)
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
