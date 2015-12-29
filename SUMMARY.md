@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Ventures](ventures.md)
 * [Money](money.md)
-   * Collaborative Funding
+   * [Collaborative Funding](collabfunding.md)
 * [Tools](tools.md)
 
