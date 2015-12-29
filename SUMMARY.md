@@ -6,5 +6,5 @@
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
 * [Tools](tools.md)
-* Foundation Structure
+* [Foundation Structure](foundation_structure.md)
 
