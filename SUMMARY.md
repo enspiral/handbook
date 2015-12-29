@@ -4,6 +4,6 @@
 * [Ventures](ventures.md)
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
-   * [fixedcosts](fixedcosts.md)
+   * [Fixed Costs](fixedcosts.md)
 * [Tools](tools.md)
 
