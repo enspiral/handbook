@@ -5,6 +5,6 @@
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
-   * Test Article
+   * [Test Article](test_article.md)
 * [Tools](tools.md)
 
