@@ -10,4 +10,3 @@
    * [Shareholding](shareholding.md)
    * [Constitution](constitution.md)
    * [Board of Directors](board.md)
-
