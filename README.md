@@ -1,48 +1,21 @@
 # user-manual
 
-- updated once per year
-public but audience is contributors, especially new ones
-give everyone the same context as the core team
 
-overview
-what is enspiral
-purpose, mission
+Who is this for?
+* contributers
+* members
+* Ops
+* replicator
 
-agreements
-people
-ventures etc.
 
-ventures
-page for each venture
 
-core systems
-how collab funding works
-loom
-chalkle
-my.enspiral
+How this book works
 
-structure
-what the board is
-what can go in the foundation (grant holding)
-legal structure of the foundation
 
-retreats
-what are retreats
-how do you get invited
-how to be at a retreat
+* updated once per year
+* public but audience is contributors, especially new ones
+* give everyone the same context as the core team
+* what can be changed, what requires a loomio decision
 
-brand guidelines
-comms guidelines
-catalyst
-mastermind
-jargon list
 
-diversity policy
-
-research
-
-tips / survival guide
-individual contribution process
-reserves policy
-onboarding process
 
