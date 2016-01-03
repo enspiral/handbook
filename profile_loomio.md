@@ -1,0 +1,2 @@
+# Venture Profile: Loomio Cooperative
+
