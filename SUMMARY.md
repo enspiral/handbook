@@ -28,5 +28,5 @@
 * [Retreats](retreats.md)
 * [Tools](tools.md)
 * [People](people.md)
-* History
+* [History](history.md)
 
