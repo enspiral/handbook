@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Ventures](ventures.md)
+   * Venture Profile: Loomio Cooperative
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
