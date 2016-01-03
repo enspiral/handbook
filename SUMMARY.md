@@ -27,4 +27,5 @@
    * [Venture Stewards](venture_stewards.md)
 * [Retreats](retreats.md)
 * [Tools](tools.md)
+* People
 
