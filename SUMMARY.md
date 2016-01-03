@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Venture Profiles](ventures_profiles.md)
+* [Venture Profiles](venture_profiles.md)
    * [Venture Profile: Loomio Cooperative](profile_loomio.md)
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
