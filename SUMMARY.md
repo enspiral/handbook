@@ -6,6 +6,7 @@
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
+   * Reserves
 * [Foundation Structure](foundation_structure.md)
    * [Ops Scope](ops-scope.md)
    * [Shareholding](shareholding.md)
