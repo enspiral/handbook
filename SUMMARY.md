@@ -20,5 +20,5 @@
 * [Venture Processes](venture_processes.md)
    * [Venture Agreement](venture_agreement.md)
    * [Venture Contract](venture_contract.md)
-   * Venture Onboarding
+   * [Venture Onboarding](venture_onboarding.md)
 
