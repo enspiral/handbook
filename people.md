@@ -1,5 +1,7 @@
 # People
 
 Member agreement
-contributor
+
+contributor agreement
+
 onboarding/offboarding contributors and members
