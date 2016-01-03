@@ -12,4 +12,5 @@
    * [Board of Directors](board.md)
 * [Strategy](strategy.md)
    * [Mastermind 2014](mastermind_2014.md)
+   * Mastermind 2015
 
