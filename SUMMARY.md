@@ -20,7 +20,7 @@
 * [Venture Processes](venture_processes.md)
    * [Venture Agreement](venture_agreement.md)
    * [Venture Contract](venture_contract.md)
-   * [Venture Onboarding](venture_onboarding.md)
+   * [Venture Onboarding & Offboarding](venture_onboarding.md)
    * [Venture Reporting](venture_reporting.md)
    * [Proto-Ventures](proto-ventures.md)
 
