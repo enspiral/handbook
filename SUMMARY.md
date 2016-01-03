@@ -11,7 +11,7 @@
    * [Shareholding](shareholding.md)
    * [Constitution](constitution.md)
    * [Board of Directors](board.md)
-   * [Comms Role](comms_role.md)
+   * [Comms Role](comms-role.md)
 * [Strategy](strategy.md)
    * [Mastermind 2014](mastermind_2014.md)
    * [Mastermind 2015](mastermind_2015.md)
