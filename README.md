@@ -16,6 +16,11 @@ How this book works
 * public but audience is contributors, especially new ones
 * give everyone the same context as the core team
 * what can be changed, what requires a loomio decision
+* 
+
+This is focused on foundation
+
+links to other gitbooks (loomio, services, etc)
 
 
 
