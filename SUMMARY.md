@@ -11,5 +11,5 @@
    * [Constitution](constitution.md)
    * [Board of Directors](board.md)
 * [Strategy](strategy.md)
-   * Mastermind 2014
+   * [Mastermind 2014](mastermind_2014.md)
 
