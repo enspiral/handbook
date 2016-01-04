@@ -36,7 +36,7 @@
 * [Agreements](agreements.md)
 * [Tools](tools.md)
 * [More Info](more_info.md)
-   * Video
+   * [Video](video.md)
    * Articles
    * Reports
    * Studies
