@@ -7,7 +7,7 @@
    * [The Story of Enspiral](the_story_of_enspiral.md)
    * [Purpose](purpose.md)
    * [Values](values.md)
-   * Design Principles
+   * [Design Principles](design_principles.md)
 * [Venture Profiles](venture_profiles.md)
    * [Venture Profile: Loomio Cooperative](profile_loomio.md)
 * [Venture Processes](venture_processes.md)
