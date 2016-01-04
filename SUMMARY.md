@@ -21,7 +21,7 @@
        * [Proto-Ventures](proto-ventures.md)
        * [Venture Stewards](venture_stewards.md)
 * [People](people.md)
-   * Members
+   * [Members](members.md)
    * Contributors
 * [Culture](culture.md)
    * [Practices](practices.md)
