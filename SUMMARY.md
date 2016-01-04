@@ -37,7 +37,7 @@
 * [Tools](tools.md)
 * [More Info](more_info.md)
    * [Video](video.md)
-   * Articles
+   * [Articles](articles.md)
    * Reports
    * Studies
 * [Future Chapters](future_chapters.md)
