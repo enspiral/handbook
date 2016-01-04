@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
    * [How This Manual Works](how_this_manual_works.md)
-     * [How This Manual Works](how_this_manual_works.md)
    * [Scope of this Manual](scope_of_this_manual.md)
 * [Context](context.md)
    * [The Story of Enspiral](the_story_of_enspiral.md)
@@ -37,6 +36,7 @@
 * [Agreements](agreements.md)
 * [Tools](tools.md)
 * [More Info](more_info.md)
+   * Video
 * [Future Chapters](future_chapters.md)
 * [Leadership](leadership.md)
    * [Catalyst Experiment 2015](catalyst_2015.md)
