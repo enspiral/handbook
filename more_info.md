@@ -17,3 +17,6 @@ Past major projects of the foundation
 - Lifehack
 - Enspiral connect / open Enspiral
 - Social series
+
+
+links to facebook, twitter, enspiral tales, website
