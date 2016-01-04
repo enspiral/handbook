@@ -9,7 +9,7 @@
    * [Values](values.md)
    * [Design Principles](design_principles.md)
    * [Network Structure](network_structure.md)
-   * Timeline
+   * [Timeline](timeline.md)
 * [Venture Profiles](venture_profiles.md)
    * [Venture Profile: Loomio Cooperative](profile_loomio.md)
 * [Venture Processes](venture_processes.md)
