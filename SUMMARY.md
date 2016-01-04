@@ -39,7 +39,7 @@
    * [Video](video.md)
    * [Articles](articles.md)
    * [Reports](reports.md)
-   * Studies
+   * [Studies](studies.md)
 * [Future Chapters](future_chapters.md)
 * [Leadership](leadership.md)
    * [Catalyst Experiment 2015](catalyst_2015.md)
