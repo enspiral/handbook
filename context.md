@@ -6,6 +6,8 @@ purpose
 
 principles
 
+design principles
+
 network structure (foundation, ventures, people)
 
 timeline
