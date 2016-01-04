@@ -26,7 +26,6 @@
 * [Leadership](leadership.md)
    * [Catalyst Experiment 2015](catalyst_2015.md)
    * [Support Crew 2012-13](supportcrew.md)
-* [Retreats](retreats.md)
 * [Tools](tools.md)
 * [People](people.md)
 * [Agreements](agreements.md)
