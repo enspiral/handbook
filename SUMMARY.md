@@ -32,4 +32,5 @@
 * [Context](context.md)
 * [More Info](more_info.md)
 * [Culture](culture.md)
+   * Practices
 
