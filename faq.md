@@ -15,3 +15,5 @@ can i have an enspiral email?
 how do I add contributor?
 
 how do i add new member?
+
+how to be a buddy?
