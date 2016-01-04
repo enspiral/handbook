@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [How This Manual Works](how_this_manual_works.md)
-   * Scope of this Manual
+   * [Scope of this Manual](scope_of_this_manual.md)
 * [Context](context.md)
 * [Venture Profiles](venture_profiles.md)
    * [Venture Profile: Loomio Cooperative](profile_loomio.md)
