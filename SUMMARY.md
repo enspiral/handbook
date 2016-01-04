@@ -19,7 +19,7 @@
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
    * [Reserves](reserves.md)
-* [Foundation Structure](foundation_structure.md)
+* [Enspiral Foundation](foundation.md)
    * [Ops Scope](ops-scope.md)
    * [Shareholding](shareholding.md)
    * [Constitution](constitution.md)
