@@ -26,7 +26,6 @@
    * [Board of Directors](board.md)
    * [Comms Role](comms-role.md)
 * [Agreements](agreements.md)
-* [Onboarding](onboarding.md)
 * [Tools](tools.md)
 * [More Info](more_info.md)
 * [Future Chapters](future_chapters.md)
