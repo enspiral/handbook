@@ -1,2 +1,5 @@
 # Future Chapters
 
+Strategy
+
+Leadership
