@@ -36,5 +36,5 @@
 * [Strategy](strategy.md)
    * [Mastermind 2014](mastermind_2014.md)
    * [Mastermind 2015](mastermind_2015.md)
-* FAQ
+* [FAQ](faq.md)
 
