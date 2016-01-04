@@ -37,6 +37,7 @@
 * [Tools](tools.md)
 * [More Info](more_info.md)
    * Video
+   * Articles
 * [Future Chapters](future_chapters.md)
 * [Leadership](leadership.md)
    * [Catalyst Experiment 2015](catalyst_2015.md)
