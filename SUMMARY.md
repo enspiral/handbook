@@ -4,6 +4,7 @@
    * [How This Manual Works](how_this_manual_works.md)
    * [Scope of this Manual](scope_of_this_manual.md)
 * [Context](context.md)
+   * The Story of Enspiral
 * [Venture Profiles](venture_profiles.md)
    * [Venture Profile: Loomio Cooperative](profile_loomio.md)
 * [Venture Processes](venture_processes.md)
