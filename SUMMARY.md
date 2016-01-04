@@ -3,7 +3,8 @@
 * [Introduction](README.md)
    * [How This Manual Works](how_this_manual_works.md)
    * [Scope of this Manual](scope_of_this_manual.md)
-     * [scope scope](scopescope.md)
+       * [scope scope](scopescope.md)
+   * test
 * [Context](context.md)
    * [The Story of Enspiral](the_story_of_enspiral.md)
    * [Purpose](purpose.md)
