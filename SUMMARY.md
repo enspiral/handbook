@@ -35,5 +35,5 @@
 * [Context](context.md)
 * [More Info](more_info.md)
 * [Onboarding](onboarding.md)
-* Future Chapters
+* [Future Chapters](future_chapters.md)
 
