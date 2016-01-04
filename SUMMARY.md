@@ -29,11 +29,11 @@
 * [Onboarding](onboarding.md)
 * [Tools](tools.md)
 * [More Info](more_info.md)
+* [Future Chapters](future_chapters.md)
 * [Leadership](leadership.md)
    * [Catalyst Experiment 2015](catalyst_2015.md)
    * [Support Crew 2012-13](supportcrew.md)
 * [Strategy](strategy.md)
    * [Mastermind 2014](mastermind_2014.md)
    * [Mastermind 2015](mastermind_2015.md)
-* [Future Chapters](future_chapters.md)
 
