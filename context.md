@@ -6,6 +6,8 @@ purpose
 
 principles
 
+network structure (foundation, ventures, people)
+
 timeline
 
 numbers
