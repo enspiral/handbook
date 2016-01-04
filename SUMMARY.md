@@ -29,7 +29,6 @@
 * [Retreats](retreats.md)
 * [Tools](tools.md)
 * [People](people.md)
-* [History](history.md)
 * [Agreements](agreements.md)
 * [Context](context.md)
 
