@@ -38,7 +38,7 @@
 * [More Info](more_info.md)
    * [Video](video.md)
    * [Articles](articles.md)
-   * Reports
+   * [Reports](reports.md)
    * Studies
 * [Future Chapters](future_chapters.md)
 * [Leadership](leadership.md)
