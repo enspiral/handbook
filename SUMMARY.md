@@ -8,7 +8,7 @@
    * [Purpose](purpose.md)
    * [Values](values.md)
    * [Design Principles](design_principles.md)
-   * Network Structure
+   * [Network Structure](network_structure.md)
    * Timeline
 * [Venture Profiles](venture_profiles.md)
    * [Venture Profile: Loomio Cooperative](profile_loomio.md)
