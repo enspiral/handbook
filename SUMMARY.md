@@ -22,7 +22,7 @@
        * [Venture Stewards](venture_stewards.md)
 * [People](people.md)
    * [Members](members.md)
-   * Contributors
+   * [Contributors](contributors.md)
 * [Culture](culture.md)
    * [Practices](practices.md)
    * [Retreats](retreats.md)
