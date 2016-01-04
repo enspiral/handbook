@@ -6,6 +6,7 @@
 * [Context](context.md)
    * [The Story of Enspiral](the_story_of_enspiral.md)
    * [Purpose](purpose.md)
+   * Values
 * [Venture Profiles](venture_profiles.md)
    * [Venture Profile: Loomio Cooperative](profile_loomio.md)
 * [Venture Processes](venture_processes.md)
