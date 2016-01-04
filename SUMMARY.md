@@ -31,5 +31,5 @@
 * [People](people.md)
 * [Agreements](agreements.md)
 * [Context](context.md)
-* More Info
+* [More Info](more_info.md)
 
