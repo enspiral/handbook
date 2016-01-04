@@ -9,10 +9,6 @@ Who is this for?
 
 
 
-How this book works
-
-
-
 
 This is focused on foundation
 
