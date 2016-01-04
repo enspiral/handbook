@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Context](context.md)
 * [Venture Profiles](venture_profiles.md)
    * [Venture Profile: Loomio Cooperative](profile_loomio.md)
 * [Venture Processes](venture_processes.md)
@@ -32,7 +33,6 @@
 * [Tools](tools.md)
 * [People](people.md)
 * [Agreements](agreements.md)
-* [Context](context.md)
 * [More Info](more_info.md)
 * [Onboarding](onboarding.md)
 * [Future Chapters](future_chapters.md)
