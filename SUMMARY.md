@@ -17,7 +17,6 @@
        * [Venture Agreement](venture_agreement.md)
        * [Venture Contract](venture_contract.md)
        * [Venture Onboarding & Offboarding](venture_onboarding.md)
-       * [Venture Reporting](venture_reporting.md)
 * [People](people.md)
    * [Contributors](contributors.md)
    * [Members](members.md)
