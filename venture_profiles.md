@@ -4,6 +4,9 @@
 
 *What the venture does*
 
+**Links to website or other resources**
+* website
+
 **Latest Quarterly Update**
 
 *answer to 'your quarter in one sentence'*
@@ -14,12 +17,9 @@
 *Where did this venture come from?*
 
 
-**Links to website or other resources**
-* website
-
 **Legal structure**
 
-*Company type, shareholding info*
+*Incorporation type, shareholding info*
 
 **Business Model**
 
