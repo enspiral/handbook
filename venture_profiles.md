@@ -2,11 +2,11 @@
 
 *Headings*
 
-Basic description
+Venture Description (
 
-Link to website + any other info
+Links to website and other resources
 
-Legal structure
+Legal Structure
 
 Contact person + venture stewards
 
