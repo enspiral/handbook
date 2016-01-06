@@ -26,7 +26,7 @@
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
    * [Reserves](reserves.md)
-* [Enspiral Foundation](foundation.md)
+* [Enspiral Foundation Ltd](foundation.md)
    * [Ops Scope](ops-scope.md)
    * [Shareholding](shareholding.md)
    * [Constitution](constitution.md)
