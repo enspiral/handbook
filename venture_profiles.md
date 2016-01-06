@@ -1,21 +1,56 @@
 # Venture Profiles
 
-*Headings*
+**Venture Description (200 words)**
 
-Venture Description (
+*What the venture does*
 
-Links to website and other resources
+**Latest Quarterly Update**
 
-Legal Structure
+*answer to 'your quarter in one sentence'*
 
-Contact person + venture stewards
 
-Impact strategy / theory of change
+**Founding Date & Brief History**
 
-Key personnel
+*Where did this venture come from?*
 
-Business model
 
-Founding date and brief history
+**Links to website or other resources**
+* website
 
-Foundation contribution
+**Legal structure**
+
+*Company type, shareholding info*
+
+**Business Model**
+
+*Revenue streams, types of clients/users*
+
+**Impact Strategy / Theory of Change**
+
+*Social impact mission*
+
+
+**Enspiral Foundation Contribution**
+
+*What you offer the network, financial and non-financial*
+
+
+**Key personnel**
+
+*team members and roles*
+* person - role
+* person - role
+
+**Contact person** 
+
+*must be key personnel*
+
+* Person - contact info
+
+**Venture Stewards** 
+
+*must be Enspiral members*
+
+* one 
+* two
+* three
