@@ -1,8 +1,10 @@
 # Venture Introduction Template
 
-To apply as a new venture, the following information is submitted for consideration by the Enspiral Members. These headings comprise the information needed for a venture's [public profile](venture_profiles.md) and initial quarterly update.
+To apply as a new venture, the following information is submitted by the venture stewards for consideration by the Enspiral Members. (See the [Venture Agreement](venture_agreement.md) for more details).
 
-**Venture Name**
+These headings comprise the information needed for a venture's [public profile](venture_profiles.md) and initial quarterly update.
+
+##Venture Name
 
 **Venture Stewards** 
 
