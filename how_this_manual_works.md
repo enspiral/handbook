@@ -1,4 +1,4 @@
-# How This Manual Works
+# About This Handbook
 
 * updated once per year
 * public but audience is contributors, especially new ones
