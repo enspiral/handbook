@@ -1,9 +1,15 @@
-# user-manual
+# Enspiral Handbook
 
 
 
+Table of contents
 
-links to other gitbooks (loomio, services, etc)
+Links to other Enspiral stuff
+
+* website
+* other network gitbooks (Loomio, Services)
+
+Contact info?
 
 
 
