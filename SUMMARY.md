@@ -36,6 +36,7 @@
    * [People Agreement](people_agreement.md)
    * [Board Agreement](board_agreement.md)
    * [Brand Agreement](brand_agreement.md)
+   * Diversity Agreement
 * [Tools](tools.md)
 * [More Info](more_info.md)
    * [Video](video.md)
