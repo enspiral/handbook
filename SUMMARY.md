@@ -33,7 +33,7 @@
    * [Board of Directors](board.md)
    * [Comms Role](comms-role.md)
 * [Agreements](agreements.md)
-   * People Agreement
+   * [People Agreement](people_agreement.md)
 * [Tools](tools.md)
 * [More Info](more_info.md)
    * [Video](video.md)
