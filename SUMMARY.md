@@ -18,7 +18,7 @@
    * [Contributors](contributors.md)
    * [Members](members.md)
 * [Culture & Tools](culture.md)
-   * [Digital Tools](tools.md)
+   * [Digital Tools](digital_tools.md)
    * [Practices](practices.md)
    * [Retreats](retreats.md)
 * [Money](money.md)
