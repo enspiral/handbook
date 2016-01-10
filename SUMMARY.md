@@ -37,6 +37,7 @@
    * [Board Agreement](board_agreement.md)
    * [Brand Agreement](brand_agreement.md)
    * [Diversity Agreement](diversity_agreement.md)
+   * Financial Agreement
 * [Tools](tools.md)
 * [More Info](more_info.md)
    * [Video](video.md)
