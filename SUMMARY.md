@@ -15,7 +15,6 @@
    * [Venture Processes](venture_processes.md)
        * [Venture Contract](venture_contract.md)
        * [Venture Introduction Template](venture_introduction_template.md)
-       * [Venture Agreement](venture_agreement.md)
 * [People](people.md)
    * [Contributors](contributors.md)
    * [Members](members.md)
