@@ -17,7 +17,7 @@
 * [People](people.md)
    * [Contributors](contributors.md)
    * [Members](members.md)
-* [Culture](culture.md)
+* [Culture & Tools](culture.md)
    * [Tools](tools.md)
    * [Practices](practices.md)
    * [Retreats](retreats.md)
