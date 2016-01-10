@@ -21,7 +21,7 @@
    * [Digital Tools](digital_tools.md)
    * [Practices](practices.md)
    * [Retreats](retreats.md)
-   * Comms Guidelines
+   * [Comms Guidelines](comms_guidelines.md)
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
