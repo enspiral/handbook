@@ -38,7 +38,7 @@
    * [Brand Agreement](brand_agreement.md)
    * [Diversity Agreement](diversity_agreement.md)
    * [Financial Agreement](financial_agreement.md)
-   * [Venture Agreement](venture_agreement.md)
+   * Venture Agreement
 * [Tools](tools.md)
 * [More Info](more_info.md)
    * [Video](video.md)
