@@ -34,7 +34,7 @@
    * [Comms Role](comms-role.md)
 * [Agreements](agreements.md)
    * [People Agreement](people_agreement.md)
-   * Board Agreement
+   * [Board Agreement](board_agreement.md)
 * [Tools](tools.md)
 * [More Info](more_info.md)
    * [Video](video.md)
