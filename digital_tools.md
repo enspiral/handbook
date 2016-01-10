@@ -1,4 +1,4 @@
-# Tools
+# Digital Tools
 
 * Loomio
 * Slack
