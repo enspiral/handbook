@@ -5,7 +5,6 @@
 * [Context](context.md)
    * [The Story of Enspiral](the_story_of_enspiral.md)
    * [Purpose](purpose.md)
-   * [Values](values.md)
    * [Design Principles](design_principles.md)
    * [Network Structure](network_structure.md)
    * [Timeline](timeline.md)
