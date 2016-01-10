@@ -7,6 +7,51 @@ This guide is here to give an overview of the channels we've officially decided 
 
 These comms channels are hosted by the Enspiral Foundation and are open to all contributors (or wider). If you are a contributor but lack access to something, contact foundation@enspiral.com
 
+# Communications Channels and Tools
+
+**[Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) - Decisions**
+
+Our tool for decision making. The assumption is everyone will see everything. A proposal passed on Loomio becomes network policy.
+
+Posting on Loomio in the main Enspiral group sends a notification out to everyone (nearly 300 people around the world), and so should be used judiciously. Tends to get noisy if we over-use it.
+
+Two categories of content appropriate for Loomio: a topic that could lead to a decision that affects the whole network, or important information everyone really needs to discuss.
+
+Feel free to start subgroups on Loomio if you'd like a more targeted collaboration space with a subset of Enspiral people.
+
+**[Slack](http://enspiral.slack.com) - Daily Comms**
+
+Daily chatting, realtime comms, quick questions, intersting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
+
+**[Chalkle](http://www.chalkle.com/enspiral) - Events/Classes**
+
+Enspiral's Chalkle Channel is where events and classes are posted that everyone is welcome to attend. If you'd like to host one, feel free! They can be free or you can charge. Chalkle events are visible on the public internet, but only 'followers' of the channel (including all contributors) will get a direct invitation. [More info](https://docs.google.com/document/d/1Phe94mRRo5yMpxiNiZiiX-sRKpsDQcDTbh9J7sdjIBY/edit?usp=sharing).
+
+**[Cobudget](beta.cobudget.co/#/groups/41) - Collaborative Funding**
+
+Our tool for budgeting and financial decision making. Enspiral's discretionary budget is distributed using a democratic process. All contributors are welcome to raise buckets (funding requests) and comment on buckets. If your message is about spending collective money, it probably makes sense to post it here as a bucket or comment.
+
+**Enspiral News - Broadcast**
+
+Every two weeks, a newsletter goes out to all Enspiral contributors via Mailchimp. It has info from ventures, media coverage, updates on decisions and happenings, and inspirational animal gifs. 
+
+To get something published in News, email news@enspiral.com or post in the #enspiral-news Slack channel. If you want to reach the whole network with non-urgent infomation, this is the way.
+
+**Google Apps**
+
+* Email - Everyone at Enspiral is entitled to an Enspiral email address if they need one to represent Enspiral to clients or the public. Email is great for one-on-one or small group correspondence, or one-way announcements.
+
+* Calendar - Great for your own planning and for private events and meetings where you have a specific guest list in mind. If you want to put out an open invitation, use [Chalkle](http://www.chalkle.com/enspiral] instead.
+
+* Drive - We use Drive (Docs, Sheets, Forms) extensively, but we're moving all 'official' documentation off it and onto GitHub. If a team you're working with uses Drive, you'll be invited to the relevant folders/docs.
+
+**Facebook & Twitter**
+
+Enspiral has a [facebook page](https://www.facebook.com/Enspiral) and Twitter (@enspiral) - to get something posted here, contact news@enspiral.com. If you have friends who want to keep up with Enspiral but aren’t in the network itself, tell them to like/follow.
+
+**[Blog - Enspiral Tales](http://blog.enspiral.com)**
+
+Enspiral has a publication on Medium called Enspiral Tales that many people are actively contributing to. Generally, we welcome content from anyone in the network. The Fairy Blogmother is currently Rich Bartlett - talk to him if you’re interested in blogging. 
 
 
 ## Comms Tips and Guidelines
