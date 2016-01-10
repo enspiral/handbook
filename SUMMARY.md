@@ -34,6 +34,7 @@
    * [Comms Role](comms-role.md)
 * [Agreements](agreements.md)
    * [Venture Agreement](venture_agreement.md)
+   * [People Agreement])()
 * [Tools](tools.md)
 * [More Info](more_info.md)
    * [Video](video.md)
