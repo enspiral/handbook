@@ -39,7 +39,7 @@
    * [Board Agreement](board_agreement.md)
    * [Brand Agreement](brand_agreement.md)
    * [Financial Agreement](financial_agreement.md)
-   * Decisions Agreement
+   * [Decisions Agreement](decisions_agreement.md)
 * [More Info](more_info.md)
    * [Video](video.md)
    * [Articles](articles.md)
