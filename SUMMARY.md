@@ -45,8 +45,6 @@
    * [Reports](reports.md)
    * [Studies](studies.md)
 * [Future Chapters](future_chapters.md)
-* [Leadership](leadership.md)
-   * [Support Crew 2012-13](supportcrew.md)
 * [Strategy](strategy.md)
    * [Mastermind 2014](mastermind_2014.md)
    * [Mastermind 2015](mastermind_2015.md)
