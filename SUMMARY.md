@@ -45,8 +45,5 @@
    * [Reports](reports.md)
    * [Studies](studies.md)
 * [Future Chapters](future_chapters.md)
-* [Strategy](strategy.md)
-   * [Mastermind 2014](mastermind_2014.md)
-   * [Mastermind 2015](mastermind_2015.md)
 * [FAQ](faq.md)
 
