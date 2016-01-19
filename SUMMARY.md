@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 * [Context](context.md)
+   * [Enspiral Vision](enspiral_vision.md)
    * [Purpose & Values](purpose.md)
    * [Design Principles](design_principles.md)
    * [Network Structure](network_structure.md)
    * [Story & Timeline](timeline.md)
-   * [Enspiral Vision](enspiral_vision.md)
 * [Ventures](ventures.md)
    * [Venture Profiles](venture_profiles.md)
        * [Venture Profile: Loomio Cooperative](profile_loomio.md)
