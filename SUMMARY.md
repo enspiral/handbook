@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * [About This Handbook](about.md)
 * [Context](context.md)
    * [The Story of Enspiral](the_story_of_enspiral.md)
    * [Purpose & Values](purpose.md)
