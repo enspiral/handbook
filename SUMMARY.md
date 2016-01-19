@@ -11,7 +11,7 @@
    * [Venture Profiles](venture_profiles.md)
        * [Venture Profile: Loomio Cooperative](profile_loomio.md)
    * [Venture Processes](venture_processes.md)
-       * [Venture Contract](venture_contract.md)
+       * [Venture MOU](venture_contract.md)
        * [Venture Introduction Template](venture_introduction_template.md)
 * [People](people.md)
    * [Contributors](contributors.md)
