@@ -10,6 +10,8 @@ We are proud members of this decentralised movement.
 
 Our mission is to help more people to spend their lives working on stuff that matters. There is a trickle of human energy going into the greatest issues of our times and we want to help turn that into a river.
 
+--------------------------
+
 
 Values
 
