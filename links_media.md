@@ -2,4 +2,4 @@
 
 Coming soon!
 
-Videos, interviews, articles, etc
+Videos, interviews, articles, academic studies, etc
