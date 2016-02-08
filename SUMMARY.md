@@ -13,7 +13,6 @@
        * [Venture Introduction Template](venture_introduction_template.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
-   * [Practices](practices.md)
    * [Retreats](retreats.md)
    * [Comms Guidelines](comms_guidelines.md)
    * [Digital Technology](digital_tech.md)
