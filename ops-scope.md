@@ -1,3 +1,8 @@
+# Enspiral Ops Scope of Work
+
+Enspiral Foundation Limited has contracted Enspiral Ops to provide a range of back office and administrative services.
+
+
 Enspiral Services Limited, Operations team 
 Scope of Work for Enspiral Foundation
 Foundation Agreement
