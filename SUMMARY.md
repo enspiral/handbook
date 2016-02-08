@@ -39,6 +39,5 @@
    * [Articles](articles.md)
    * [Reports](reports.md)
    * [Studies](studies.md)
-* [Future Chapters](future_chapters.md)
 * [FAQ](faq.md)
 
