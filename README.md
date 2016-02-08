@@ -4,30 +4,19 @@ DRAFT - NOT READY TO BE SEEN BY ANYONE YET
 
 # About This Handbook
 
-* updated once per year
-* public but audience is contributors + members
-* give everyone the same context
-* some parts can be changed, some require a loomio decision (agreements)
-* pull requests via github - how to
+The information in this handbook pertains to Enspiral Foundation Limited and the Enspiral network as a whole. Many Enspiral ventures and teams will have different processes.
 
-# Scope 
+This Handbook's primary audience is Enspiral contributors, but it will be publicly available for others who might find it useful. The goal is to give everyone in the network as much clarity and context as possible, while sharing our structures and proactices with the outside world as well.
 
-Who is this for?
-* contributers
-* members
-* Ops
-* replicator
+Most content in this Handbook is intended to be updated fairly infrequently (such as once a year). But this should be a living document that many people can contribute to improving and updating.
 
+Most of this handbook us open to be updated and improved by making a pull request. However, there are a few specific sections that have more formal processes for changing. 
 
+**To add here:**
+
+* How-to about updating or suggesing changes
+* Links to other open documentation from around Enspiral (such as Loomio, Lifehack, Services, Dev Academy) 
+* Contact info and further links
 
 
-This is focused on **Foundation**
-
-
-Links to other Enspiral stuff
-
-* website
-* other network gitbooks (Loomio, Services)
-
-Contact info
 
