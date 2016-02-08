@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Context](context.md)
    * [Enspiral Vision](enspiral_vision.md)
-   * [Purpose & Values](purpose.md)
    * [Design Principles](design_principles.md)
    * [Enspiral Values](values.md)
    * [Network Structure](network_structure.md)
