@@ -37,5 +37,5 @@
 * [More Info](more_info.md)
    * [Major Projects](major_projects.md)
    * [Links, Media, Reports](links_media.md)
-   * Glossary
+   * [Glossary](glossary.md)
 
