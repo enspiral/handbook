@@ -1,5 +1,7 @@
 # Venture Introduction Template
 
+**note: this new template is currently under discussion and has not yet been agreed by the network - DRAFT ONLY**
+
 To apply as a new venture, the following information is submitted by the venture stewards for consideration by the Enspiral Members. (See the [Venture Agreement](venture_agreement.md) for more details).
 
 
