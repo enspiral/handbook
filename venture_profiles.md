@@ -1,5 +1,7 @@
 # Venture Profiles
 
+*Coming soon! There will be a profile page for each Enspiral venture, with the following format*
+
 **Venture Description (200 words)**
 
 *What the venture does*
