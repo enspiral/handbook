@@ -1,18 +1,18 @@
 # People
 
-Overview of individual engagement
+Coming soon! 
 
-Governed by people agreement
+In this section....
 
-Member agreement
+Overview of different ways people engage as individuals at Enspiral
 
-Member list? link to website?
+How to become a contributor
 
-Member processes 
-- add contributor link
-- how to add a new member
-- buddy system
+Individual opt-in and contribution process
 
-onboarding/offboarding contributors and members
+Onboarding documentation
 
-individual contribution and re-opt in process
+Link to People Agreement
+
+Link to list of Members
+
