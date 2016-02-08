@@ -41,4 +41,5 @@
    * [Studies](studies.md)
    * [Major Projects](major_projects.md)
    * [Links & Media](links_media.md)
+   * Reports & Studies
 
