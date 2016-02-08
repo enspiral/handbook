@@ -17,7 +17,7 @@ Current fixed costs for Enspiral Foundation Ltd, agreed by member decision (link
 |  Accounting | $350  |
 |  Provisional Tax |  $240 |
 | Ops/Admin ([scope](https://enspiral.gitbooks.io/enspiral-handbook/content/ops-scope.html))  |  $3500 |
-| Comms (scope) |   $400 |
+| Comms ([scope](https://enspiral.gitbooks.io/enspiral-handbook/content/comms-role.html)) |   $400 |
 | SaaS tools  |  $1150 |
 |  **Total** | **$5240**  |
 
