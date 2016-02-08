@@ -17,6 +17,7 @@
    * [Practices](practices.md)
    * [Retreats](retreats.md)
    * [Comms Guidelines](comms_guidelines.md)
+   * Digital Technology
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
