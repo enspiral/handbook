@@ -1,10 +1,5 @@
 # Culture
 
-intro to the importance
+coming soon!
 
-decison-making
-
-privacy/transparency
-
-Rich & Chloe's doc:
-https://docs.google.com/document/d/1MhYYhZVGJ8wguBsQYICsQ4s_qvKDWz5Zc-pnLgAeQGQ/edit
+Overview of the role of culture at Enspiral and how we build it
