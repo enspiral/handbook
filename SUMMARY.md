@@ -21,7 +21,7 @@
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
    * [Fixed Costs](fixedcosts.md)
-   * Financial Transparency
+   * [Financial Transparency](financial_transparency.md)
 * [Enspiral Foundation Ltd](foundation.md)
    * [Constitution](constitution.md)
    * [Shareholding](shareholding.md)
