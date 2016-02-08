@@ -4,7 +4,6 @@
 * [Context](context.md)
    * [Enspiral Vision](enspiral_vision.md)
    * [Enspiral Values](values.md)
-   * [Design Principles](design_principles.md)
    * [Network Structure](network_structure.md)
    * [Story & Timeline](timeline.md)
 * [Ventures](ventures.md)
