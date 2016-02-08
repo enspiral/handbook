@@ -6,9 +6,9 @@ Coming soon!
 
 What we report publicly and why
 
-# fixedcosts
+# Fixed Costs
 
-Current fixed costs for Enspiral Foundation Ltd, agreed by member decision (link to financial agreement)
+Current fixed costs for Enspiral Foundation Ltd, (link to financial agreement)
 
 
 
