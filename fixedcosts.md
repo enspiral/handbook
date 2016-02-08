@@ -1,11 +1,20 @@
 # fixedcosts
 
-(approx) monthly:
+Current fixed costs for Enspiral Foundation Ltd
 
-    Accounting $350
-    Provisonal Tax $240
-    Ops/Admin $3500 (scope) 
-    Comms $400 (scope)
-    'internal' SaaS (CompanyBox, HelpScout etc) $250
 
-Currently individual contributions go into a separate budget covering basically just Loomio ($200) and Google Apps ($950) as our 'collaborative tools' that most contributors connect with. 
+
+|  Monthly Expenses |   |
+|---|---|
+|  Accounting | $350  |
+|  Provisional Tax |  $240 |
+| Ops/Admin (scope)  |  $3500 |
+| Comms (scope) |   $400 |
+| SaaS tools  |  $1150 |
+|  **Total** | **$5240**  |
+
+
+
+Current info about Reserves:
+
+Coming soon
