@@ -23,7 +23,6 @@
    * [Financial Transparency](financial_transparency.md)
 * [Enspiral Foundation Ltd](foundation.md)
    * [Constitution](constitution.md)
-   * [Shareholding](shareholding.md)
    * [Ops Scope](ops-scope.md)
    * [Board of Directors](board.md)
    * [Comms Role](comms-role.md)
