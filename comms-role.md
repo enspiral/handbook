@@ -1,3 +1,7 @@
+# Comms Role Scope
+
+The Enspiral Foundation contracts 
+
 About Enspiral
 Enspiral is a virtual and physical network of companies and professionals brought together by a set of shared values and a passion for positive social impact. The Enspiral Foundation supports the whole network and holds the social mission vision of Enspiral - more people working on stuff that matters.
 
