@@ -39,5 +39,5 @@
    * [Articles](articles.md)
    * [Reports](reports.md)
    * [Studies](studies.md)
-   * Major Projects
+   * [Major Projects](major_projects.md)
 
