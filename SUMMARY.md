@@ -17,7 +17,7 @@
    * [Practices](practices.md)
    * [Retreats](retreats.md)
    * [Comms Guidelines](comms_guidelines.md)
-   * Digital Technology
+   * [Digital Technology](digital_tech.md)
    * Cultural Technology
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
