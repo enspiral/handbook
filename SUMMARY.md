@@ -8,7 +8,6 @@
    * [Story & Timeline](timeline.md)
 * [Ventures](ventures.md)
    * [Venture Profiles](venture_profiles.md)
-       * [Venture Profile: Loomio Cooperative](profile_loomio.md)
    * [Venture Processes](venture_processes.md)
        * [Venture MOU](venture_contract.md)
        * [Venture Introduction Template](venture_introduction_template.md)
