@@ -7,7 +7,7 @@ This guide is here to give an overview of the channels we've officially decided 
 
 These comms channels are hosted by the Enspiral Foundation and are open to all contributors (or wider). If you are a contributor but lack access to something, contact foundation@enspiral.com
 
-# Communications Channels and Tools
+# Channels and Tools
 
 **[Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) - Decisions**
 
@@ -19,7 +19,7 @@ Two categories of content appropriate for Loomio: a topic that could lead to a d
 
 Feel free to start subgroups on Loomio if you'd like a more targeted collaboration space with a subset of Enspiral people.
 
-**[Slack](http://enspiral.slack.com) - Daily Comms**
+**[Slack](http://enspiral.slack.com) - Daily Realtime Comms**
 
 Daily chatting, realtime comms, quick questions, intersting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
 
@@ -45,9 +45,12 @@ To get something published in News, email news@enspiral.com or post in the #ensp
 
 * Drive - We use Drive (Docs, Sheets, Forms) extensively, but we're moving all 'official' documentation off it and onto GitHub. If a team you're working with uses Drive, you'll be invited to the relevant folders/docs.
 
-**Facebook & Twitter**
+**Facebook - Casual Asynchronous Comms**
 
-Enspiral has a [facebook page](https://www.facebook.com/Enspiral) and Twitter (@enspiral) - to get something posted here, contact news@enspiral.com. If you have friends who want to keep up with Enspiral but aren’t in the network itself, tell them to like/follow.
+* Public [Facebook page](https://www.facebook.com/Enspiral) - Updates, news, and links relavent to Enspiral followers. This is a one-to-many channel. To get something posted here, contact news@enspiral.com.
+
+* Private [Facebook group](https://www.facebook.com/groups/enspiral) - A space to share links, updates, ideas, and discussion. This is a many-to-many channel, where everyone can post and reply.
+
 
 **[Blog - Enspiral Tales](http://blog.enspiral.com)**
 
@@ -67,13 +70,15 @@ We are all greatly enriched by all of our engagement. Your voice is welcome. You
 Know the various channels available and consciously decide where to post. Within a given tool, post to the right group or channel. 
 
 Basically: 
-* General communication goes on Slack. You will reach whoever opts in to read when you happen to post.
-* Topics requiring a decision by the network go on Loomio
+* Topics requiring a decision and affecting everyone go on Loomio
 * Events go on Chalkle
-* One-way announcements to contributors go in News
-* Public info goes on Facebook and Twitter
+* Broadcast announcements to all contributors go in News
+* Casual realtime communication goes on Slack. You will reach whoever opts in to read when you happen to post.
+* Other casual communication goes in the Facebook group - again you'll reach whoever opts in there.
+* Public info and links go on Facebook and Twitter
+* Long form public sharing goes on Enspiral Tales
 
-Messages relevant only to a limited group of people should be emailed directly, or posted in a specific slack channel or Loomio subgroup.
+Messages relevant only to a limited group of people should be emailed directly, or posted in a specific Slack channel or Loomio subgroup.
 
 **Subject Lines are a Channel**
 
@@ -89,7 +94,7 @@ If you want people to click through to other content, include links! People will
 
 **Tag Specific People**
 
-If a post is relevant to specific people, tag them (on Slack or Loomio) to help them notice it's there. People will often respond directly to stuff they are tagged in, which can increase engagement. Don’t post a comment that is just tagging a name though - that means the person will get an email notification that simply says their name. You want them to get a message too. 
+If a post is relevant to specific people, tag them (on Slack, Loomio, Facebook) to help them notice it's there. People will often respond directly to stuff they are tagged in, which can increase engagement. Don’t post a comment that is just tagging a name though - that means the person will get an email notification that simply says their name. You want them to get a message too. 
 
 **Be Very Sparing with @Channel tags**
 
@@ -101,37 +106,20 @@ If you’re linking to something on Google Drive (or any other site), make sure 
 
 **Include *All* Context**
 
-Write everything message as if to someone who has never heard of it before, especially network-wide messages. Don’t assume people already know any context, since your audience has diverse levels of engagement. We want invitations to engagement to be as accessible as possible. Be aware of Enspiral jargon and assumptions. Assume everyone is hearing about everything for the first time, every time - because many people will be. Include links to relevant background info or previous discussions so people can catch themselves up.
+Write every message as if to someone who has never heard of it before, especially network-wide messages. Don’t assume people already know any context, since your audience has diverse levels of engagement. We want invitations to engagement to be as accessible as possible. Be aware of Enspiral jargon and assumptions. Include links to relevant background info or previous discussions so people can catch themselves up.
 
 **Make it Count**
 
-Send out as few messages as possible, and use each one to the max. Consider how precious people’s time is. Our attention is a commons we share - if we start overusing it, we'll degrade it for everyone. Do a quick search to see if there’s already an existing thread on the topic before posting a new one. On Slack, use @ tagging, channels, and DMs strategically - e.g. check the channel list for appropriate groups before posting niche questions in #watercooler.
+Send out as few messages as possible, and use each one to the max. Consider how precious people’s time is. Our attention is a commons we share - if we start overusing it, we'll degrade it for everyone. Do a quick search to see if there’s already an existing thread on the topic before posting a new one. 
 
 **Ask for Help**
 
 Realize that any time you’re communicating to large groups of people, you are doing comms work. If you’re not sure, or not very experienced with comms work, just check in with someone who can help you think through your message and how you’re delivering it to make sure it’s maximally effective.
 
 **Keep it brief**
+
 ‘nough said!
 
-
-## Slack Tips
-
-Channels are like chat rooms, and they’re preceded by a #hashtag. You can browse the list and join/leave as many as you fancy. If a topic is missing, create it and invite people in. Keep your titles short and descriptive so someone browsing the list knows exactly what’s up (#cool-shit, #enspiral-space, #accounting-help, #dev-chat, etc)
-
-If you mention a channel by # in another channel, it will create a link to that channel. This is useful when moderating and directing users to more appropriate channels (e.g. hey, I think this conversation is better suited for #enspiral-space!)
-
-Private channels are invite-only groups - useful for small projects, teams with commercially sensitive information, safe spaces, or planning surprise parties. Anyone can create one and invite others. 
-
-Direct Messages (DMs) are one-on-one private messages - use these to ask a question of a single individual, or continue an exciting conversation out of a public channel to avoid dominating it. 
-
-Emoji are the best part of Slack! You can react to posts (just like a Facebook or Twitter like, only better because you can have pandas, poop, lazar kiwi, or Rich’s face instead of thumbs and stars!) or express your feelings. 
-
-Slack has a ton of useful shortcuts - from markdown for formatting text to adding ¯\_(ツ)_/¯ to your messages. Type / to see a list of them. 
-
-Slackbot is your helpful robot friend. They’ll help you setup your account, and you can also use them as a reminder service. Send Slackbot a message in the format ‘remind me to [do a thing] at [a time]’ to set reminders. Slackbot is pretty smart, and understands both relative and absolute time (e.g. in two hours, tomorrow at 10 am, Monday at noon, or 28 February 2020 will all work).
-
-We have a free account, which means we can only view our last 10,000 messages (across all channels). If you need to save important conversations or decisions, make sure you take screenshots or otherwise document what happened! 
 
 ## If you need help...
 
