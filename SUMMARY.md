@@ -39,5 +39,4 @@
    * [Articles](articles.md)
    * [Reports](reports.md)
    * [Studies](studies.md)
-* [FAQ](faq.md)
 
