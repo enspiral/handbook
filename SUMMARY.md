@@ -7,6 +7,7 @@
    * [Design Principles](design_principles.md)
    * [Network Structure](network_structure.md)
    * [Story & Timeline](timeline.md)
+   * Enspiral Values
 * [Ventures](ventures.md)
    * [Venture Profiles](venture_profiles.md)
        * [Venture Profile: Loomio Cooperative](profile_loomio.md)
