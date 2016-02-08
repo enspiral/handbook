@@ -1,17 +1,13 @@
 # Venture Contract
 
-Standard template, blanks for venture name and contribution level
+Coming soon!
 
-Legal document
+Standard template for the MOU between each venture and the foundation.
 
-either party can terminate with one month notice
-
-financial contribution is clearly specified but is variable
-
-goes through HelloSign / Ops
-
-signed by the venture contact person and Foundation director(s)
-
-only signed after member approval initially, but changes to contribution are totally up to the venture - Foundation agrees to sign anything proposed
-
-Any changes reported in next quarterly update
+* Simple English - official but not a legalese contract
+* either party can terminate with one month notice
+* financial contribution is clearly specified
+* signed by the venture contact person and Foundation director(s)
+* signed after member approval of inviting venture initially
+* changes to contribution are totally up to the venture - Foundation board agrees to sign any contribution proposed
+* Any changes reported in next quarterly venture update
