@@ -12,7 +12,6 @@
        * [Venture MOU](venture_contract.md)
        * [Venture Introduction Template](venture_introduction_template.md)
 * [People](people.md)
-   * [Contributors](contributors.md)
    * [Members](members.md)
 * [Culture & Tools](culture.md)
    * [Digital Tools](digital_tools.md)
