@@ -35,7 +35,6 @@
    * [Financial Agreement](financial_agreement.md)
    * [Decisions Agreement](decisions_agreement.md)
 * [More Info](more_info.md)
-   * [Video](video.md)
    * [Reports](reports.md)
    * [Major Projects](major_projects.md)
    * [Links, Media, Reports](links_media.md)
