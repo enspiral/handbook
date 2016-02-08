@@ -25,7 +25,7 @@
    * [Constitution](constitution.md)
    * [Ops Scope](ops-scope.md)
    * [Board of Directors](board.md)
-   * [Comms Role](comms-role.md)
+   * [Comms Role Scope](comms-role.md)
 * [Agreements](agreements.md)
    * [Venture Agreement](venture_agreement.md)
    * [People Agreement](people_agreement.md)
