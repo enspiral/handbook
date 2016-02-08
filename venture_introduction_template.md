@@ -2,13 +2,14 @@
 
 To apply as a new venture, the following information is submitted by the venture stewards for consideration by the Enspiral Members. (See the [Venture Agreement](venture_agreement.md) for more details).
 
-These headings comprise the information needed for a venture's [public profile](venture_profiles.md) and initial quarterly update.
 
 ##Venture Name
 
-**Venture Stewards** 
+**Contact person** 
 
-*must be Enspiral members*
+* Person - contact info
+
+**Venture Stewards** 
 
 * one 
 * two
@@ -28,12 +29,6 @@ These headings comprise the information needed for a venture's [public profile](
 * person - role
 * person - role
 
-**Contact person** 
-
-*must be key personnel*
-
-* Person - contact info
-
 
 **Founding Date & Brief History**
 
@@ -46,7 +41,7 @@ These headings comprise the information needed for a venture's [public profile](
 
 **Business Model**
 
-*Revenue streams, types of clients/users*
+*Revenue streams, types of clients/users, plan for financial sustainability and growth*
 
 **Impact Strategy / Theory of Change**
 
@@ -61,17 +56,6 @@ These headings comprise the information needed for a venture's [public profile](
 
 *How can the network support the venture?*
 
-**Revenue**
-
-*Amounts and sources*
-
-**Expenses**
-
-**Accrual P&L**
-
-**Cash Position**
-
-**Net Position**
 
 
 
