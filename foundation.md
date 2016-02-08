@@ -12,7 +12,11 @@ Purpose, scope, role
 * Budget comes from contributions from ventures and individuals
 * Not intended to hold financial risk
 
-Role in the network
+Notes...
+* The Enspiral Foundation is incorporated as a limited liability company with a charitable constitution. It is not officially registered as a Charity, but is governed for charitable purposes.
+* The Enspiral members are the shareholderser of the Foundation and collectively own it
+* Shareholding relates to decision-making stakeholding power, and does not bear financial dividends.
+* The Foundation is structured so that no profit is taken out - all financial returns are re-invested in supporting the network as a whole and its social impact mission.
 
 Structure
 - constitution
