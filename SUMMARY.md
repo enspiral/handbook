@@ -38,7 +38,6 @@
    * [Video](video.md)
    * [Articles](articles.md)
    * [Reports](reports.md)
-   * [Studies](studies.md)
    * [Major Projects](major_projects.md)
    * [Links, Media, Reports](links_media.md)
 
