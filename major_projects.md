@@ -1,5 +1,7 @@
 # Major Projects
 
+Coming soon!
+
 Past major projects of the foundation
 - os//os 
 - Namaste grant
