@@ -1,5 +1,8 @@
 # Network Structure
 
-Foundation + Ventures
+Coming soon!
 
-Members/Contributors/Friends
+Overview how it fits together, for people and organisations....
+
+* The Enspiral Foundation and Enspiral Ventures
+* Members and Contributors
