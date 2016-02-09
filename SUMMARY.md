@@ -25,7 +25,7 @@
    * [Board of Directors](board.md)
    * [Ops Scope](ops-scope.md)
    * [Comms Role Scope](comms-role.md)
-   * Catalysts
+   * [Catalysts](catalysts.md)
 * [Agreements](agreements.md)
    * [Diversity Agreement](diversity_agreement.md)
    * [Venture Agreement](venture_agreement.md)
