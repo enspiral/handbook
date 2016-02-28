@@ -3,7 +3,7 @@
 
 ### Context
 
-This agreement sets out the roles and responsibilities of the Enspiral Foundation Board and the powers granted to the Directors of Enspiral Foundation Ltd. As a registered limited liability company, Enspiral Foundation Ltd is legally required to have a board of directors and a chairperson. 
+This agreement sets out the roles and responsibilities of the Enspiral Foundation Board and the powers granted to the Directors of Enspiral Foundation Ltd. As a [registered limited liability company](https://www.business.govt.nz/companies/app/ui/pages/companies/3415611), Enspiral Foundation Ltd is legally required to have a board of directors and a chairperson. 
 
 Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so our approach is a “minimum viable board” (MVB), with a narrow compliance focus.
 
@@ -11,7 +11,7 @@ Enspiral’s goal is to distribute vision, strategy, and leadership as widely as
 ### Roles & Responsibilities
 
 * Ensure Enspiral Foundation Ltd is fully compliant with New Zealand laws and regulations, and its company constitution. 
-* Maintain an overview of current finances, long term financial view, and adequate reserves (as defined in the Financial Agreement). 
+* Maintain an overview of current finances, long term financial view, and adequate reserves (as defined in the [Financial Agreement](https://enspiral.gitbooks.io/enspiral-handbook/content/financial_agreement.html)). 
 * Decide what kind of financial activity can go through the Foundation, and oversee activity in the Foundation’s accounts.
 * Oversee all agreements between Enspiral Foundation Ltd and other entities (including Enspiral Ventures and external organisations), such as MOUs, service contracts, fundholding arrangements, etc.
 * Make recommendations about substantive decisions involving Enspiral Foundation Ltd and its assets, consulting with the shareholders and wider network.
@@ -19,7 +19,7 @@ Enspiral’s goal is to distribute vision, strategy, and leadership as widely as
 
 ###Selection & Composition
 
-* Members (shareholders) and existing directors are expected to actively maintain a diverse board in keeping with the Enspiral Diversity Agreement.
+* Members (shareholders) and existing directors are expected to actively maintain a diverse board in keeping with the [Diversity Agreement](https://enspiral.gitbooks.io/enspiral-handbook/content/diversity_agreement.html).
 * Enspiral currently has no quota or strict compositional requirements of the board as we do not want to limit the spectrum of diversity considered.
 * Directors do not need to be Enspiral Members, and the perspectives of non-member directors should be welcomed. 
 
