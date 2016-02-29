@@ -34,7 +34,7 @@
    * [Brand Agreement](brand_agreement.md)
    * [Financial Agreement](financial_agreement.md)
    * [Decisions Agreement](decisions_agreement.md)
-   * Catalyst Agreement
+   * [Catalyst Agreement](catalyst_agreement.md)
 * [More Info](more_info.md)
    * [Major Projects](major_projects.md)
    * [Links, Media, Reports](links_media.md)
