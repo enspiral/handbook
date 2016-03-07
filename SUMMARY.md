@@ -10,6 +10,7 @@
    * [Venture Profiles](venture_profiles.md)
    * [Venture Processes](venture_processes.md)
        * [Venture Introduction Template](venture_introduction_template.md)
+       * Venture MOU
 * [People](people.md)
 * [Culture & Tools](culture.md)
    * [Retreats](retreats.md)
