@@ -8,6 +8,7 @@
    * [Story & Timeline](timeline.md)
 * [Ventures](ventures.md)
    * [Venture Profiles](venture_profiles.md)
+       * Proto-Ventures
    * [Venture Processes](venture_processes.md)
        * [Venture Introduction Template](venture_introduction_template.md)
        * [Venture MOU](venture_mou.md)
