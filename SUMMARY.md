@@ -7,6 +7,7 @@
    * [Network Structure](network_structure.md)
    * [Story & Timeline](timeline.md)
 * [Ventures](ventures.md)
+   * [Proto-Ventures](proto-ventures.md)
    * [Venture Profiles](venture_profiles.md)
        * [Proto-Ventures](proto-ventures.md)
    * [Venture Processes](venture_processes.md)
