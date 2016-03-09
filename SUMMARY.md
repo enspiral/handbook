@@ -21,7 +21,7 @@
        * [Chalkle Venture Profile](chalkle_venture_profile.md)
        * [Enspiral Foundation Venture Profile](enspiral_foundation_venture_profile.md)
        * [EXP Venture Profile](exp_venture_profile.md)
-       * Metric Engine Venture Profile
+       * [Metric Engine Venture Profile](metric_engine_venture_profile.md)
        * Orientation Aotearoa Venture Profile
        * Scoop Venture Profile
        * Rabid Venture Profile
