@@ -15,6 +15,7 @@
        * [ActionStation Venture Profile](actionstation_venture_profile.md)
        * [Enspiral Academy Venture Profile](enspiral_academy_venture_profile.md)
        * [Lifehack Venture Profile](lifehack_venture_profile.md)
+       * Enspiral Accounting Venture Profile
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
