@@ -1,8 +1,9 @@
 # Proto-Ventures
 
-Page listing the current proto-ventures. Short explanation of what proto-ventures are, with link to venture agreement for details.
+*description of what proto-ventures are*
 
-Proto-Venture name
-Short venture description
-Key personnel
-Proto-venture stewards
+### [Proto-Venture name]
+* Short venture description
+* Most recent 'your quarter in one sentence' update from reporting
+* Key personnel / contact person
+* Proto-venture stewards
