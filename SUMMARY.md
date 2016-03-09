@@ -22,7 +22,7 @@
        * [Enspiral Foundation Venture Profile](enspiral_foundation_venture_profile.md)
        * [EXP Venture Profile](exp_venture_profile.md)
        * [Metric Engine Venture Profile](metric_engine_venture_profile.md)
-       * Orientation Aotearoa Venture Profile
+       * [Orientation Aotearoa Venture Profile](orientation_aotearoa_venture_profile.md)
        * Scoop Venture Profile
        * Rabid Venture Profile
        * Volunteer Impact Venture Profile
