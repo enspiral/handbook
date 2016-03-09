@@ -13,7 +13,7 @@
    * [Venture Profiles](venture_profiles.md)
        * [Loomio Venture Profile](loomio_venture_profile.md)
        * [ActionStation Venture Profile](actionstation_venture_profile.md)
-       * Enspiral Academy Venture Profile
+       * [Enspiral Academy Venture Profile](enspiral_academy_venture_profile.md)
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
