@@ -19,6 +19,7 @@
        * [Bucky Box Venture Profile](bucky_box_venture_profile.md)
        * [Enspiral Services Venture Profile](enspiral_services_venture_profile.md)
        * [Chalkle Venture Profile](chalkle_venture_profile.md)
+       * Enspiral Foundation Venture Profile
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
