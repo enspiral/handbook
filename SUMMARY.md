@@ -24,7 +24,7 @@
        * [Metric Engine Venture Profile](metric_engine_venture_profile.md)
        * [Orientation Aotearoa Venture Profile](orientation_aotearoa_venture_profile.md)
        * [Scoop Venture Profile](scoop_venture_profile.md)
-       * Rabid Venture Profile
+       * [Rabid Venture Profile](rabid_venture_profile.md)
        * Volunteer Impact Venture Profile
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
