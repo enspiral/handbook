@@ -25,7 +25,7 @@
        * [Orientation Aotearoa Venture Profile](orientation_aotearoa_venture_profile.md)
        * [Scoop Venture Profile](scoop_venture_profile.md)
        * [Rabid Venture Profile](rabid_venture_profile.md)
-       * Volunteer Impact Venture Profile
+       * [Volunteer Impact Venture Profile](volunteer_impact_venture_profile.md)
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
