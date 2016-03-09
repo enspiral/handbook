@@ -25,6 +25,7 @@
        * Orientation Aotearoa Venture Profile
        * Scoop Venture Profile
        * Rabid Venture Profile
+       * Volunteer Impact Venture Profile
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
