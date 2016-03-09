@@ -23,6 +23,7 @@
        * [EXP Venture Profile](exp_venture_profile.md)
        * Metric Engine Venture Profile
        * Orientation Aotearoa Venture Profile
+       * Scoop Venture Profile
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
