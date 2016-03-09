@@ -21,6 +21,7 @@
        * [Chalkle Venture Profile](chalkle_venture_profile.md)
        * [Enspiral Foundation Venture Profile](enspiral_foundation_venture_profile.md)
        * [EXP Venture Profile](exp_venture_profile.md)
+       * Metric Engine Venture Profile
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
