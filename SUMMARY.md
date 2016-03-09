@@ -11,6 +11,7 @@
        * [Venture Introduction Template](venture_introduction_template.md)
        * [Venture MOU](venture_mou.md)
    * [Venture Profiles](venture_profiles.md)
+       * Loomio Venture Profile
    * [Proto-Ventures](proto-ventures.md)
 * [People](people.md)
 * [Culture & Tools](culture.md)
