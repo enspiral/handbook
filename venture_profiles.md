@@ -1,58 +1,53 @@
 # Venture Profiles
 
-*Coming soon! There will be a profile page for each Enspiral venture, with the following format (under discussion)*
+Each Enspiral venture maintains a profile page in this handbook, following this template.
+
+## [Venture Name]
 
 **Venture Description (200 words)**
 
 *What the venture does*
+
+**Key personnel**
+
+*team members and roles*
+
+* Specify contact person and their contact details (one key personnel)
 
 **Links to website or other resources**
 * website
 
 **Latest Quarterly Update**
 
-*answer to 'your quarter in one sentence'*
+* *date updated*
 
+*'your quarter in one sentence'*
 
 **Founding Date & Brief History**
 
 *Where did this venture come from?*
 
-
 **Legal structure**
 
-*Incorporation type, shareholding info*
+*Incorporation type, ownership info*
 
 **Business Model**
 
-*Revenue streams, types of clients/users*
+*Revenue streams, types of clients/users, financial aspirations*
 
-**Impact Strategy / Theory of Change**
+**Social Impact Strategy / Theory of Change**
 
-*Social impact mission*
+*What is the positive change the venture was conceived to make in the world? How will you bring this about?*
 
-
-**Enspiral Foundation Contribution**
-
-*What you offer the network, financial and non-financial*
-
-
-**Key personnel**
-
-*team members and roles*
-* person - role
-* person - role
-
-**Contact person** 
-
-*must be key personnel*
-
-* Person - contact info
+---
 
 **Venture Stewards** 
-
-*must be Enspiral members*
 
 * one 
 * two
 * three
+
+**Enspiral Foundation Contribution**
+
+* financial
+* non-financial
