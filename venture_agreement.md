@@ -8,11 +8,11 @@ The Enspiral network is based on high trust, reciprocity, and mutual support. Ve
 
 Ventures join the Enspiral network because they believe their own success is enhanced and their mission better achieved through collaborative network participation, mutual support, and interdependence. Ventures that join fundamentally value Enspiral and want to see it thrive. Many of our ventures wouldn’t exist without the support they have received from the wider network, and others choose to engage because of deep alignment of purpose and culture.
 
-**Associated documents**
-* Venture MOU template
-* Quarterly update form
-* Venture profile template
-* Venture introduction template
+**Associated Documents**
+* [Venture MOU template](https://enspiral.gitbooks.io/enspiral-handbook/content/venture_mou.html)
+* [Quarterly update form](https://docs.google.com/forms/d/11Oz-HM1Wt8CbzxZpzGmjjFcd-sp9vahoqcLuL3UysT4/viewform)
+* [Venture profile template](https://enspiral.gitbooks.io/enspiral-handbook/content/venture_profiles.html)
+* [Venture introduction template](https://enspiral.gitbooks.io/enspiral-handbook/content/venture_introduction_template.html)
 
 ###Roles
 **Key Personnel**
