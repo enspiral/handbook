@@ -80,7 +80,7 @@ Financial contributions by Ventures fuel the maintenance and development of Ensp
 
 Each venture defines how they wish to contribute to the network, financially and otherwise. This could be a flat monthly fee, a percentage of revenue, discounts on services, or any other contribution they wish to make. The basis of the Enspiral model is reciprocity and generosity - the expectation is to contribute at a level reasonable to the resources and stage of the venture.
 
-Financial contributions are made to the Enspiral Foundation, ideally on a monthly basis. Ventures are invited to participate in our collaborative funding process to decide how the discretionary portion of their contribution will be spent (as defined in the Financial Agreement).
+Financial contributions are made to the Enspiral Foundation, ideally on a monthly basis. Ventures are invited to participate in our collaborative funding process to decide how the discretionary portion of their contribution will be spent (as defined in the [Financial Agreement](https://enspiral.gitbooks.io/enspiral-handbook/content/financial_agreement.html)).
 
 **Adjusting Contribution**
 
