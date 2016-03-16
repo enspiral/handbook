@@ -64,10 +64,15 @@ Loomio decisions are generally preceded by a Loomio discussion. It is recommende
 
 Any participant can raise a proposal, which describes a clear course of action or resolution. Once a proposal has been created, participants are asked to state a position. 
 
-| YES | You’re happy with the proposal. |
+| POSITION | MEANING |
+| -- | -- |
+| YES | You’re happy with the proposal.|
 | NO | You’re happy for the group to decide without you. |
 | ABSTAIN | You think there might be a better alternative, but you’re willing to go with the group’s decision. |
 | BLOCK | You’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead. |
+
+
+
 
  
 ###Blocking
