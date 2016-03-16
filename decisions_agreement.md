@@ -9,16 +9,16 @@ Enspiral is also a network building shared commons, and pursuing shared aspirati
 
 ###Decision Protocol: Consensus 
 
-For formal decisions, Enspiral uses consensus decision-making, a methodology with a specific meaning and practice. Consensus does not mean unanimous agreement or engagement from everyone on all decisions. The key concept is consent (you can live with it), which is distinct from agreement (it’s your preference or first choice). 
+For formal decisions, Enspiral uses [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), a methodology with a specific meaning and practice. Consensus does not mean unanimous agreement or engagement from everyone on all decisions. The key concept is consent (you can live with it), which is distinct from agreement (it’s your preference or first choice). 
 
 ###Agreements
 
 Formal decisions with everyone are only intended to be used when they will have significant impact on the wider network. This Decision Agreement is the core agreement from which all others derive their mandate.
 
-In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are documented in our Handbook. Decisions to change existing Agree    ments or create new ones are made by everyone in the network together.
+In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](https://enspiral.gitbooks.io/enspiral-handbook/content/agreements.html). Decisions to change existing Agree    ments or create new ones are made by everyone in the network together.
 
 ###Decision Tool: Loomio
-At Enspiral, formal decisions are made using a software tool called Loomio, which helps groups make collective decisions using constructive deliberation. This process is based on the principle that diverse perspectives can be synthesised to achieve better solutions that work for more people. 
+At Enspiral, formal decisions are made using a software tool called [Loomio](http://www.loomio.org), which helps groups make collective decisions using constructive deliberation. This process is based on the principle that diverse perspectives can be synthesised to achieve better solutions that work for more people. 
 
 While making use of other channels (online and offline) to enrich input into a decision is strongly encouraged, the results on Loomio are considered the official outcome. This is so that we can keep a clear record and archive, and to ensure that everyone who desires to participate in a given decision-making process has the opportunity to make their voice heard.
 
@@ -54,8 +54,8 @@ Additionally, we have other types of formal decisions for specific circumstances
 
 | Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
 | -- | -- | -- | -- | -- |
-| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days (10 working days encouraged when possible) | This option should be used for more consequential decisions, such as changes to Enspiral Agreements. |
-| Quorum Decision  | Passes as long as there are no blocks.| Requires at least 75% of all eligible voters to agree or abstain (meaning at least ¾ of all group members must participate) | 5 working days (10 working days encouraged when possible) | This option is used when a Special Resolution (as defined in the Constitution) is required |
+| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days (10 working days encouraged when possible) | This option should be used for more consequential decisions, such as changes to [Enspiral Agreements](https://enspiral.gitbooks.io/enspiral-handbook/content/agreements.html). |
+| Quorum Decision  | Passes as long as there are no blocks.| Requires at least 75% of all eligible voters to agree or abstain (meaning at least ¾ of all group members must participate) | 5 working days (10 working days encouraged when possible) | This option is used when a Special Resolution (as defined in the [Constitution](https://enspiral.gitbooks.io/enspiral-handbook/content/constitution.html)) is required |
 | Emergency Decision | Passes even if there are blocks, but requires 75% of those stating a position to agree | None | 10 working days. If faster action is required, the board can exercise its emergency powers. | This option is a safeguard when the normal decision making processes fails. This option is only used in specific circumstances where a minority block would be destructive, such as removing a member, contributor, catalyst or venture from the community or a role. |
 
 
@@ -64,7 +64,11 @@ Loomio decisions are generally preceded by a Loomio discussion. It is recommende
 
 Any participant can raise a proposal, which describes a clear course of action or resolution. Once a proposal has been created, participants are asked to state a position. 
 
-[table]
+| YES | You’re happy with the proposal. |
+| NO | You’re happy for the group to decide without you. |
+| ABSTAIN | You think there might be a better alternative, but you’re willing to go with the group’s decision. |
+| BLOCK | You’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead. |
+
  
 ###Blocking
 At Enspiral, a single block is sufficient to stop a proposal proceeding in most cases. This places a considerable responsibility on someone blocking to deeply consider their choice, and on everyone involved to respect the right to block and to work toward a resolution. 
