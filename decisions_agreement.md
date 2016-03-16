@@ -55,7 +55,7 @@ Additionally, we have other types of formal decisions for specific circumstances
 | Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
 | -- | -- | -- | -- | -- |
 | Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days (10 working days encouraged when possible) | This option should be used for more consequential decisions, such as changes to Enspiral Agreements. |
-| Quorum Decision  | Passes as long as there are no blocks | Requires at least 75% of all eligible voters to agree or abstain (meaning at least ¾ of all group members must participate) | 5 working days (10 working days encouraged when possible) | This option is used when a Special Resolution (as defined in the Constitution) is required |
+| Quorum Decision  | Passes as long as there are no blocks.| Requires at least 75% of all eligible voters to agree or abstain (meaning at least ¾ of all group members must participate) | 5 working days (10 working days encouraged when possible) | This option is used when a Special Resolution (as defined in the Constitution) is required |
 | Emergency Decision | Passes even if there are blocks, but requires 75% of those stating a position to agree | None | 10 working days. If faster action is required, the board can exercise its emergency powers. | This option is a safeguard when the normal decision making processes fails. This option is only used in specific circumstances where a minority block would be destructive, such as removing a member, contributor, catalyst or venture from the community or a role. |
 
 
