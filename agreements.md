@@ -1,8 +1,4 @@
 # Agreements
 
-Coming soon!
-
-Description of what Enspiral Agreements are
-
-How these documents are changed (Loomio decisions required)
+Agreements are documents which define important processes at Enspiral. They are the legislation which govern the rules of how we operate. The process for creating and changing Agreements is defined in our [Decisions Agreement](decisions_agreement).
 
