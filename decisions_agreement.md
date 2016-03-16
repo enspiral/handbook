@@ -69,10 +69,6 @@ Any participant can raise a proposal, which describes a clear course of action o
 | NO | You’re happy for the group to decide without you. |
 | ABSTAIN | You think there might be a better alternative, but you’re willing to go with the group’s decision. |
 | BLOCK | You’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead. |
-
-
-
-
  
 ###Blocking
 At Enspiral, a single block is sufficient to stop a proposal proceeding in most cases. This places a considerable responsibility on someone blocking to deeply consider their choice, and on everyone involved to respect the right to block and to work toward a resolution. 
