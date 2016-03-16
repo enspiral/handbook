@@ -78,12 +78,10 @@ A decision to block should not be taken lightly, but if you feel strongly about 
 
 **Blocking Policies**
 
-Place the good of the whole group above your own individual preferences.
-You are not required to propose an alternative solution to raise a block, but you must articulate the nature of your block clearly so the group can understand the concern and work toward a resolution.
-
-Simply vetoing a decision is not considered a responsible use of consensus blocking - you must be prepared to work collaboratively to try and reach a resolution, make time for conversations, and to help others understand the issue.
-
-Blocks should only be used in cases where the blocker genuinely believes there is a significant risk of harm to the network, or that the proposal contravenes the fundamental values of Enspiral.
+* Place the good of the whole group above your own individual preferences.
+* You are not required to propose an alternative solution to raise a block, but you must articulate the nature of your block clearly so the group can understand the concern and work toward a resolution.
+* Simply vetoing a decision is not considered a responsible use of consensus blocking - you must be prepared to work collaboratively to try and reach a resolution, make time for conversations, and to help others understand the issue.
+* Blocks should only be used in cases where the blocker genuinely believes there is a significant risk of harm to the network, or that the proposal contravenes the fundamental values of Enspiral.
 
 *Note: Blocks by Enspiral Members are binding. The question of whether blocks by contributors are or should be binding as well is ambiguous, with people in the community feeling strongly both ways. That ambiguity is intentionally left unresolved in this agreement.* 
 
