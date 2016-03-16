@@ -25,7 +25,7 @@ While making use of other channels (online and offline) to enrich input into a d
 Not every Loomio proposal constitutes a formal decision. Many Loomio proposals are created simply to gauge interest or share information. For the purposes of this Agreement, a “formal decision” is a clearly worded Loomio proposal seeking a specific mandate on behalf of the network.
 
 ###Making Formal Decisions
-Anyone can propose a formal decision at any time. Enspiral seeks open, transparent decision-making and strives to enable the people who are affected by a decision to participate as fully possible in making it. Enspiral tries to make decisions with the widest possible circle of participants, while recognising the necessity and wisdom of delegating responsibility for certain decisions.
+Anyone can propose a formal decision at any time. We seek open, transparent decision-making and strive to enable the people who are affected by a decision to participate as fully possible in making it. Enspiral tries to make decisions with the widest possible circle of participants, while recognising the necessity and wisdom of delegating responsibility for certain decisions.
 
 A formal decision is only required whenever there is a significant impact on the network. It is difficult to specify exact criteria for every case, so everyone is encouraged to use their best judgement to balance exercising autonomy with gaining shared understanding. 
 
@@ -45,11 +45,19 @@ This agreement sets out the types of consensus decision making protocols that ar
 
 The default for all formal decision making in Enspiral is the Standard Decision.
 
-[table]
+| Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
+| -- | -- | -- | -- | -- |
+| Standard Decision | Passes as long as there are no blocks | None | 3 working days (5 working days encouraged when possible)| This is the default option and is used for most decisions at Enspiral. Ensures that no one strongly opposes a course of action, while allowing progress to move forward. If there are a large number of “no”s, it’s strongly advised to work on another iteration to find a better solution, but the proposer may move ahead at their discretion. |
+
 
 Additionally, we have other types of formal decisions for specific circumstances. When using any of the decision types below, it must be clearly specified in the proposal.
 
-[table]
+| Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
+| -- | -- | -- | -- | -- |
+| 0:2 | 1:2 | 2:2 | 3:2 | 4:2 |
+| 0:3 | 1:3 | 2:3 | 3:3 | 4:3 |
+| 0:4 | 1:4 | 2:4 | 3:4 | 4:4 |
+
 
 ###Discussions & Proposals
 Loomio decisions are generally preceded by a Loomio discussion. It is recommended to allow space for open discussion before starting a proposal, to give people an opportunity to be actively involved in shaping the context of the decision, and to share relevant information and opinions. 
