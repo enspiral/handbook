@@ -7,7 +7,7 @@
 
 *team members and roles*
 
-* Specify contact person and their contact details (one key personnel)
+* Andre Bate andre@parksbase.com
 
 **Links to website or other resources**
 * website
@@ -38,7 +38,7 @@
 
 **Venture Stewards** 
 
-* one 
+* Andre Bate
 * two
 * three
 
