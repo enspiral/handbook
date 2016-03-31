@@ -9,7 +9,7 @@
 
 *team members and roles*
 
-* Specify contact person and their contact details (one key personnel)
+* Ben Knight ben@loomio.org
 
 **Links to website or other resources**
 * website
@@ -40,7 +40,7 @@
 
 **Venture Stewards** 
 
-* one 
+* Richard Bartlett
 * two
 * three
 
