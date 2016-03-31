@@ -8,7 +8,7 @@
 
 *team members and roles*
 
-* Specify contact person and their contact details (one key personnel)
+* Charmaine Meyers charmaine@enspiral.com
 
 **Links to website or other resources**
 * website
@@ -39,9 +39,9 @@
 
 **Venture Stewards** 
 
-* one 
-* two
-* three
+* Charmaine Meyers
+* Anthony Rohan
+* Sam Parkin
 
 **Enspiral Foundation Contribution**
 
