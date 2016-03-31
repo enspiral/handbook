@@ -8,7 +8,7 @@
 
 *team members and roles*
 
-* Specify contact person and their contact details (one key personnel)
+* Sam Rye sam.rye@enspiral.com
 
 **Links to website or other resources**
 * website
@@ -39,7 +39,7 @@
 
 **Venture Stewards** 
 
-* one 
+* Sam Rye
 * two
 * three
 
