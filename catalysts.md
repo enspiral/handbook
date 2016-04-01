@@ -16,13 +16,7 @@ You can read more in the [Catalyst Agreement](./catalyst-agreement).
 
 Started: April 1, 2016
 
-Stewards:
-
-1. Craig Amborse
-
-2. Jessy-Kate Schingler
-
-3. Alanna Krause
+Stewards: Craig Ambrose, Jessy-Kate Schingler, Alanna Krause
 
 I’m Susan, currently based in a polehouse in Titirangi. I will be serving as a Catalyst 2 days a week, sponsored by Enspiral Services and Enspiral Academy.
 
@@ -38,11 +32,7 @@ I’m really good at listening and providing a fresh perspective, and I’d like
 
 Started: April 1, 2016
 
-Stewards:
-
-1. Rose Lu
-2. Bart de Vries
-3. Ben Knight
+Stewards: Rose Lu, Bart de Vries, Ben Knight
 
 I'm very suspicious of leadership, authority, named roles, explicit power, implicit power and sorta made-up words like "catalyst". I'm into working in public, creating invitations, taking risks, being reflective, having hard conversations, being considerate, communicating clearly, and dancing with my butt.
 
@@ -63,12 +53,7 @@ Some metrics that I'll be reporting on:
 
 Started: April 1, 2016
 
-Stewards:
-
-1. Simon Tegg
-2. Chelsea Robinson
-3. Genevieve Parkes
-4. Andre Bate
+Stewards: Simon Tegg, Chelsea Robinson, Genevieve Parkes, Andre Bate
 
 I like about half the things on Rich’s just as much as he does and dislike half the things about half as much. I’ll let you guess which categories ‘dancing with my butt’ and ‘sorta made-up words like “catalyst”’ fall into.
 
