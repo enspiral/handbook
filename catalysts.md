@@ -10,9 +10,9 @@ You can read more in the [Catalyst Agreement](./catalyst-agreement).
 
 ---
 
-**Current Catalysts**
+##Current Catalysts
 
-Susan Basterfield
+###Susan Basterfield
 
 Started: April 1, 2016
 
@@ -34,9 +34,7 @@ I’ll be spending a lot of time in Wellington - at least 5 days per month. My p
 
 I’m really good at listening and providing a fresh perspective, and I’d like to invite you to take me up on that. I’m energized by any mode of engagement, in person or via video, phone, slack, email, postcards... Convene with me!
 
------
-
-Richard Bartlett
+###Richard Bartlett
 
 Started: April 1, 2016
 
@@ -61,7 +59,7 @@ Some metrics that I'll be reporting on:
 * number of visits, followers
 * number of stories other people tell about us
 
-Joshua Vial
+###Joshua Vial
 
 Started: April 1, 2016
 
