@@ -60,7 +60,3 @@ I like about half the things on Rich’s just as much as he does and dislike hal
 I’m not sure I know how to not catalyse things and I am deeply grateful to Enspiral Academy for sponsoring two days a week so that I actually have time to put into making things better.
 
 My biggest intention is to get my mind out of the way and listen deeply so I can serve as best I can. I hope I am at least twice as effective at the end of this year as I am at the start of it and I intend to give the start everything I have.
-
-I will be stewarded by Simon Tegg, Chelsea Robinson, Genevieve Parkes and Andre Bate.
-
-I love Simon’s skepticism of leadership and propensity for obsessional research, Chelsea’s commitment to people and relationships, Genevieve’s willingness to speak her truth and Andre’s ability for compassionate analysis. I also love that Chelsea and Genevieve are global citizens and I hope that all four of them will one day take a turn on the catalyst team.
