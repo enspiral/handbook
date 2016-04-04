@@ -1,5 +1,5 @@
 # New Contributor On-boarding info
-When a new person joins Enspiral as a Contributor they get sent a series of six messages over six weeks to help orient them to the network - how it functions and how they can participate. In the last email, we ask for feedback about their experience.
+When a new contributor joins Enspiral, they receive a series of six email messages over six weeks for orientation to the network - how it functions and how they can participate. In the last email, we ask for feedback about their experience.
 
 * **[Week 1 : Welcome and communications tools](http://us1.campaign-archive1.com/?u=62b0ebd5c3dbb30bced6e6cf9&id=e4578ef4b1&e=)**
 * **[Week 2 : Meet your Enspiral Buddy](http://us1.campaign-archive2.com/?u=62b0ebd5c3dbb30bced6e6cf9&id=2513993fea&e=)**
