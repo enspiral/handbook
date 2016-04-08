@@ -53,6 +53,6 @@
    * [Catalyst Agreement](catalyst_agreement.md)
 * [More Info](more_info.md)
    * [Major Projects](major_projects.md)
-   * [Links, Media, Reports](links_media.md)
+   * [Links & Media](links_media.md)
    * [Glossary](glossary.md)
 
