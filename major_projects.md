@@ -1,4 +1,4 @@
-# Major Projects
+# Projects & Reports
 
 Coming soon!
 
