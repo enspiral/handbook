@@ -52,7 +52,8 @@
    * [Decisions Agreement](decisions_agreement.md)
    * [Catalyst Agreement](catalyst_agreement.md)
 * [More Info](more_info.md)
-   * [Projects ](major_projects.md)
+   * [Projects](major_projects.md)
    * [Links & Media](links_media.md)
    * [Glossary](glossary.md)
+   * Projects & Reports
 
