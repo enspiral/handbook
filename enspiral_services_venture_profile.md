@@ -8,7 +8,7 @@
 
 *team members and roles*
 
-* Specify contact person and their contact details (one key personnel)
+Craig Ambrose
 
 **Links to website or other resources**
 * website
