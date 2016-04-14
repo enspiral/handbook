@@ -2,7 +2,8 @@
 
 **Venture Description (200 words)**
 
-*What the venture does*
+Impact reporting software for environmental conservation projects.
+
 
 **Key personnel**
 
