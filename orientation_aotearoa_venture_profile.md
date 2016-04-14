@@ -7,7 +7,6 @@ Orientation Aotearoa strives to support young people to gain knowledge, find dir
 
 **Key personnel**
 
-*team members and roles*
 
 Doris Zuur, Trustee of Orientation Aotearoa, doris.zuur@gmail.com, 027-2811570
 Coordinating team 2015:
