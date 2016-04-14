@@ -17,7 +17,7 @@ sam@volunteerimpact.co
 
 **Links to website or other resources**
 
-volunteerimpact.co
+www.volunteerimpact.co
 
 **Latest Quarterly Update**
 
