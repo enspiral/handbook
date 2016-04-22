@@ -1,6 +1,6 @@
 # Contributing to the handbook
 
-These guidelines follow the [OPEN Open Source Manifesto](http://openopensource.org) modified for use inside Enspiral.
+This is living document for people in Enspiral to improve and update. These guidelines follow the spirit of the  [OPEN Open Source Manifesto](http://openopensource.org).
 
 ## Edit Permissions 
 
