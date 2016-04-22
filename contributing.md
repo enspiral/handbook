@@ -4,7 +4,7 @@
 
  * If you have edit permissions follow the [Gitbooks based workflow](#gitbooks-based-workflow)
  
- * If you don't have edit permissions follow the [Github based workflow](#github-based-workflow)
+ * If you don't have edit permissions ask one of the [maintainers](https://github.com/orgs/enspiral/teams/handbook) to make you a fellow maintainer. f you want to get started and are familiar with github follow the [Github based workflow](#github-based-workflow)
 
  * Once a maintainer has merged in your contribution they will make you a handbook maintainer and you will have edit and merge permissions. 
 
