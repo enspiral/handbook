@@ -19,17 +19,16 @@ If you already have edit permissions you can use the [Gitbooks workflow](https:/
 1. Make sure you have a github account and are signed in.
 2. Fork the handbook repository to your own personal account  
  ![forking a repository](http://i.imgur.com/ujIbZgy.png)
-3. If you know how to clone a repository, do so and modify the files in your local repository and push up the changes to your github repository.
+3. If you know how to clone a repository, do so. Modify the files in your local repository and push up the changes to your github repository.
 
- If you don't, no worries. Just open up the repository in prose.io. The link will be http://prose.io/#[YOUR GITHUB USERNAME/handbook and make your changes there. 
-4. Once you're satisfied with your changes create a pull request from your repository to the `enspiral/handbook` repository. 
+ If you don't, no worries. Just open up the repository in prose.io. The link will be `http://prose.io/#[YOUR GITHUB USERNAME/handbook` and make your changes there. 
+ 
+4. Once you're satisfied create a pull request from your repository to the `enspiral/handbook` repository. 
  ![pull request](http://i.imgur.com/11HVaXC.png)
 
-
- 
 
 
 
 ## Handbook Maintainers
 
-Handbook maintainers will merge contributions within 1-2 days. As a general guideline a maintainer does not merge in their own branches or pull requests. 
+Handbook maintainers will merge contributions within 1-2 days. As a general guideline a maintainer does not merge in their own branches or pull requests. If they cannot get
