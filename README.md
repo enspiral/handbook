@@ -8,7 +8,7 @@ This Handbook's primary audience is Enspiral contributors, but it will be public
 
 The information in this handbook pertains to Enspiral Foundation Limited and the Enspiral network as a whole. Many Enspiral ventures and teams will have different processes.
 
-Most content in this Handbook is intended to be updated fairly infrequently (such as quarterly or annually). But this should be a living document that many people can contribute to improving and updating. Our processes for how this content is updates are under development.
+This should be a living document that many people can contribute to improving and updating.
 
 There are a few specific sections that have more formal processes for changing. For example, Enspiral Agreements are changed by a formal decision by the whole network.
 
