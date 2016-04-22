@@ -32,6 +32,6 @@ If you already have edit permissions you can use the [Gitbooks workflow](https:/
 
 Handbook maintainers will merge contributions within 1-2 days. As a general guideline a maintainer does not merge in their own branches or pull requests. If they cannot get hold of another maintainer they may merge their own branches. 
 
-## Disagreements
+## Improvements and Disagreements
 
-Sometimes 
+If you think the content in the handbook is inaccurate or could be improved follow the process above to submit your own changes. If the process reveals disferences of opinion start a Loomio discussion and try to understand each others perspective. 
