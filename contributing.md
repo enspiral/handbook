@@ -4,12 +4,15 @@
 
  * If you have edit permissions follow the [Gitbooks based workflow](#gitbooks-based-workflow)
  
- * If you don't have edit permissions ask one of the [maintainers](https://github.com/orgs/enspiral/teams/handbook) to make you a fellow maintainer. f you want to get started and are familiar with github follow the [Github based workflow](#github-based-workflow)
+ * If you don't have edit permissions ask one of the [maintainers](https://github.com/orgs/enspiral/teams/handbook) to make you a fellow maintainer. If you want to get started and are familiar with github follow the [Github based workflow](#github-based-workflow)
 
- * Once a maintainer has merged in your contribution they will make you a handbook maintainer and you will have edit and merge permissions. 
+ * People who contribute will become handbook maintainers 
 
  * If you want to modify an agreement document you will first need to follow the process outlined in the [decisions agreement](http://handbook.enspiral.com/decisions_agreement.html)
 
+## Gitbooks based workflow
+
+If you already have edit permissions you can use the [Gitbooks workflow](https://help.gitbook.com/editor/draft.html).
 
 ## Github based workflow
 
@@ -23,11 +26,9 @@
  ![pull request](http://i.imgur.com/11HVaXC.png)
 
 
-A maintainer will merge your contribution and make you a fellow maintainer. 
+ 
 
-## Gitbooks based workflow
 
-If you already have edit permissions you can use the [Gitbooks workflow](https://help.gitbook.com/editor/draft.html).
 
 ## Handbook Maintainers
 
