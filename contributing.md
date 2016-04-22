@@ -34,4 +34,4 @@ Handbook maintainers will merge contributions within 1-2 days. As a general guid
 
 ## Improvements and Disagreements
 
-If you think the content in the handbook is inaccurate or could be improved follow the process above to submit your own changes. If the process reveals disferences of opinion start a Loomio discussion and try to understand each others perspective. 
+If you think the content in the handbook is inaccurate or could be improved follow the process above to submit your own changes. The contribution process may reveal differences, In these cases start a Loomio discussion and try to understand 
