@@ -12,9 +12,11 @@ Most content in this Handbook is intended to be updated fairly infrequently (suc
 
 There are a few specific sections that have more formal processes for changing. For example, Enspiral Agreements are changed by a formal decision by the whole network.
 
+{% include "./contributing.md" %}
+
 **To be added here soon:**
 
-* How-to about updating or suggesing changes
+
 * Links to other open documentation from around Enspiral (such as Loomio, Lifehack, Services, Dev Academy) 
 * Contact info and further links
 
