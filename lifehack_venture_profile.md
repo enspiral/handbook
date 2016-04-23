@@ -33,8 +33,6 @@ Contract held by Enspiral Foundation, not a separate legal entity.
 
 MSD-funded to this point, select pieces of consulting work.
 
-*Revenue streams, types of clients/users, financial aspirations*
-
 **Social Impact Strategy / Theory of Change**
 
 Lifehack positively influences the mental health and wellbeing ecosystem by supporting and building the people who work with or for the wellbeing of young people in New Zealand.
