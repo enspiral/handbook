@@ -6,8 +6,6 @@ We codesign experimental programmes that increase individuals’ sense of agency
 
 **Key personnel**
 
-*team members and roles*
-
 * Gina Rembe - gina@lifehackhq.co
 * Toni Reid toni@lifehackhq.co
 * Dayna Carter dayna@lifehackhq.co
