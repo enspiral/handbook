@@ -41,8 +41,8 @@
 **Venture Stewards** 
 
 * Richard Bartlett
-* two
-* three
+* Ben Knight
+* Marianne Elliot
 
 **Enspiral Foundation Contribution**
 
