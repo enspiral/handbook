@@ -1,7 +1,7 @@
 # Loomio Venture Profile
 
 
-**Venture Description (200 words)**
+**Venture Description**
 
 Loomio exists to make inclusive decision-making easy, by providing an online space that empowers groups to come together, build shared understanding, and agree a clear course of action. Loomio enables more resilient communities, more adaptive organizations, and more participatory government.
 
