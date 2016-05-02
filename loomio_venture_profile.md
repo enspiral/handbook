@@ -7,19 +7,19 @@ Loomio exists to make inclusive decision-making easy, by providing an online spa
 
 **Key personnel**
 
-*Robert Guthrie
-*Hannah Salmon
-*Natalia Lombardo
-*James Kiesel
-*Michael Elwood Smith
-*MJ Kaplan
-*Alanna Krause 
-*Ben Knight
-*Matthew Bartlett
-*Mary O’Keeffe
-*Vivien Maidaborn
-*Babs Lake
-*Richard Bartlett
+* Robert Guthrie
+* Hannah Salmon
+* Natalia Lombardo
+* James Kiesel
+* Michael Elwood Smith
+* MJ Kaplan
+* Alanna Krause 
+* Ben Knight
+* Matthew Bartlett
+* Mary O’Keeffe
+* Vivien Maidaborn
+* Babs Lake
+* Richard Bartlett
 
 Contact person:
 Ben Knight - ben@loomio.org
@@ -30,8 +30,8 @@ www.loomio.org
 
 **Latest Quarterly Update**
 
-*1st May 2016
-*Q1 in Loomio had a strong focus on laying the groundwork for operationalising substantial growth in Q2 and Q3. 
+* 1st May 2016
+* Q1 in Loomio had a strong focus on laying the groundwork for operationalising substantial growth in Q2 and Q3. 
 
 **Founding Date & Brief History**
 
