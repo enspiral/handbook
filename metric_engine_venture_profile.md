@@ -1,5 +1,5 @@
 # Metric Engine Venture Profile
-**Venture Description (200 words)**
+**Venture Description**
 
 Facilitate Australian city and regional councils to share learning with each other.  Through our platform, they share operating metrics, practical hints and tips, challenges, and reports.
 
