@@ -25,6 +25,7 @@ Contact person:
 Ben Knight - ben@loomio.org
 
 **Links to website or other resources**
+
 www.loomio.org
 
 **Latest Quarterly Update**
