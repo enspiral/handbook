@@ -1,6 +1,6 @@
 # Orientation Aotearoa Venture Profile
 
-**Venture Description (200 words)**
+**Venture Description**
 
 Orientation Aotearoa strives to support young people to gain knowledge, find direction and make change. In 2015, we prototyped an 8 months residential programme in Shelly Bay and supported a pioneering cohort of ten students through a diverse, nourishing and hopefully inspiring programme, consisting of various workshops, a six week internship, a 12 days intensive permaculture course off-side in Otaki, a personal project and a community wide hui. 
 
