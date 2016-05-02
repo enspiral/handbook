@@ -1,6 +1,6 @@
 # Lifehack Venture Profile
 
-**Venture Description (200 words)**
+**Venture Description**
 
 We codesign experimental programmes that increase individuals’ sense of agency and capability for social change and wellbeing work, equipping them with tools to try new ways of approaching existing issues.
 
