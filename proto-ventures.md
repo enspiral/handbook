@@ -1,6 +1,6 @@
 # Proto-Ventures
 
-Proto-ventures are entities considering becoming Enspiral ventures in the future. As you can read in the [Venture agreement](venture_agreement.html), proto-ventures are entities considering becoming Enspiral Ventures in the future. They are likely to be:
+As you can read in the [Venture agreement](venture_agreement.html), proto-ventures are entities considering becoming Enspiral Ventures in the future. They are likely to be:
 
 * Early-stage initiatives connected to people in the network, but are not yet ready to define their team, structure, or model enough to become a full-fledged venture, or
 * Established external companies exploring the possibility of joining as Enspiral Ventures
