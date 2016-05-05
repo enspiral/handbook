@@ -1,23 +1,25 @@
 # Financial Transparency
 
-**Note: This is a *stub* - rough notes only**
+**Note: This page is still in progress**
 
-Coming soon!
-Description of our approach to financial transparency, link to financial agreement.
+How money works at Enspiral is determined by the [Financial Agreement](http://handbook.enspiral.com/financial_agreement.html). This page is to provide information and transparency about our financial situation.
 
 ### Revenue
 Income to Foundation - to be updated after next quarterly report
 
 ### Emergency Fund
-Amount set aside by the board (TBD soon)
+*Amount set aside by the Board of Directors*
 
-### Reserves
+$10,000
 
-How much we have, process for using it
+### Normal Reserves
+*Spending these funds is a decision of the Enspiral Members*
+
+$14,000
 
 ### Fixed Costs
 
-Current fixed costs for Enspiral Foundation Ltd, (link to financial agreement)
+*Expenses we have collectively agreed to fund on an ongoing basis.*
 
 |  Monthly Expenses |   |
 |---|---|
