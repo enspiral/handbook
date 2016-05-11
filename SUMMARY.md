@@ -11,7 +11,6 @@
        * [Venture Introduction Template](venture_introduction_template.md)
        * [Venture MOU](venture_mou.md)
    * [Venture Profiles](venture_profiles.md)
-      //the css has been hacked to hide any link in this section
      * [ActionStation](ventures/actionstation.md)
      * [Bucky Box](ventures/bucky_box.md)
      * [Chalkle](ventures/chalkle.md)
@@ -28,7 +27,6 @@
      * [Scoop](ventures/scoop.md)
      * [Volunteer Impact](ventures/volunteer_impact.md)
    * [Proto-Ventures](proto-ventures.md)
-      //the css has been hacked to hide any link in this section
 * [People](people.md)
 * [Culture & Tools](culture.md)
    * [Retreats](retreats.md)

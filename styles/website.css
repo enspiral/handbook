@@ -1,6 +1,0 @@
-/*hide venture profiles and proto ventures from nav */
-li[data-path="venture_profiles.html"] li,
-li[data-path="proto-ventures.html"] li
-{
-  display: none;
-}
