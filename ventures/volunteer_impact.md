@@ -1,6 +1,6 @@
 # Volunteer Impact Venture Profile
 
-**Venture Description (200 words)**
+**Venture Description**
 
 Impact reporting software for environmental conservation projects.
 

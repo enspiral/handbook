@@ -1,50 +1,66 @@
 # Loomio Venture Profile
 
 
-**Venture Description (200 words)**
+**Venture Description**
 
-*What the venture does*
+Loomio exists to make inclusive decision-making easy, by providing an online space that empowers groups to come together, build shared understanding, and agree a clear course of action. Loomio enables more resilient communities, more adaptive organizations, and more participatory government.
 
 **Key personnel**
 
-*team members and roles*
+* Robert Guthrie
+* Hannah Salmon
+* Natalia Lombardo
+* James Kiesel
+* Michael Elwood Smith
+* MJ Kaplan
+* Alanna Krause 
+* Ben Knight
+* Matthew Bartlett
+* Mary O’Keeffe
+* Vivien Maidaborn
+* Babs Lake
+* Richard Bartlett
 
-* Ben Knight ben@loomio.org
+Contact person:
+Ben Knight - ben@loomio.org
 
 **Links to website or other resources**
-* website
+
+www.loomio.org
 
 **Latest Quarterly Update**
 
-* *date updated*
-
-*'your quarter in one sentence'*
+* 1st May 2016
+* Q1 in Loomio had a strong focus on laying the groundwork for operationalising substantial growth in Q2 and Q3. 
 
 **Founding Date & Brief History**
 
-*Where did this venture come from?*
+Loomio Cooperative was founded in August 2012. Loomio emerged from a collective need for more effective tools for collaborative decision-making felt by people at Enspiral and activists involved with the Occupy movement in 2011. 
+
 
 **Legal structure**
 
-*Incorporation type, ownership info*
+Loomio Cooperative Ltd is a limited liability company, that is also a registered worker-owned cooperative. Loomio is owned by its ten worker-members, with 18 impact investors holding redeemable preference shares. 
 
 **Business Model**
 
-*Revenue streams, types of clients/users, financial aspirations*
+Loomio has a SaaS subscription model, where customers pay a monthly fee per group. We also have a gift plan for groups without the budget to pay for a subscription. 
 
 **Social Impact Strategy / Theory of Change**
 
-*What is the positive change the venture was conceived to make in the world? How will you bring this about?*
+We’re building Loomio because we believe that increasing the organising capacity of lots of small groups of committed people can create big change. 
 
----
+If we can help break the tradeoff between effectiveness and inclusion, then we’ll see more engaged communities, more effective activism, more human-centered workplaces, and more participatory government. 
 
 **Venture Stewards** 
 
 * Richard Bartlett
-* two
-* three
+* Ben Knight
+* Marianne Elliot
 
 **Enspiral Foundation Contribution**
 
-* financial
-* non-financial
+Financial: $200/mo flat contribution at present. Also funding an Enspiral Catalyst role (0.2FTE). 
+
+Non-financial: Loomio team members are active in Enspiral membership, and regularly engage in media and profile-raising for the network.  
+
