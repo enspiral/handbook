@@ -30,8 +30,8 @@ LLC
 
 **Business Model**
 
-$2pp via booking fees on chalkle.com
-hoping to expand products to include subscription white label in the next wave of work. 
+* $2pp via booking fees on chalkle.com
+* hoping to expand products to include subscription white label in the next wave of work. 
 
 **Social Impact Strategy / Theory of Change**
 
