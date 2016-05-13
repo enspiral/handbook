@@ -7,18 +7,18 @@ ActionStation is an independent, member-led not-for-profit organisation represen
 
 **Key personnel**
 
-*Core team:
-*Marianne Elliott 
-*Laura O’Connell-Rapira 
-*Ryan Mearns
-*Nina Atkinson
+* Core team:
+* Marianne Elliott 
+* Laura O’Connell-Rapira 
+* Ryan Mearns
+* Nina Atkinson
 
-*Volunteer board:
-*Megan Salole (Chair)
-*Lani Evans (Vice-Chair)
-*Phill Coxon (Treasurer)
-*Angela Meyers
-*Nick Young
+* Volunteer board:
+* Megan Salole (Chair)
+* Lani Evans (Vice-Chair)
+* Phill Coxon (Treasurer)
+* Angela Meyers
+* Nick Young
 
 *Contact person: marianne@actionstation.org.nz 0211106086)
 
@@ -34,11 +34,11 @@ http://www.actionstation.org.nz/
 
 **Founding Date & Brief History**
 
-*The idea for ActionStation came out of an Enspiral-hosted Collaboration Cafe, and was initially pursued by a small group of Enspiral contributors led by Joe Cederwall. 
+The idea for ActionStation came out of an Enspiral-hosted Collaboration Cafe, and was initially pursued by a small group of Enspiral contributors led by Joe Cederwall. 
 
-*In 2012 Enspiral Member Megan Salole took on the role of launching ActionStation and by early 2014 had build a brand, a core team of volunteer advisors and had secured a commitment to startup funding. 
+In 2012 Enspiral Member Megan Salole took on the role of launching ActionStation and by early 2014 had build a brand, a core team of volunteer advisors and had secured a commitment to startup funding. 
 
-*Enspiral member Marianne Elliott took over from Megan in April 2014, and ActionStation was officially launched in July 2014. ActionStation became an official Enspiral venture in 2015. 
+Enspiral member Marianne Elliott took over from Megan in April 2014, and ActionStation was officially launched in July 2014. ActionStation became an official Enspiral venture in 2015. 
 
 **Legal structure**
 
