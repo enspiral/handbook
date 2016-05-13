@@ -70,6 +70,6 @@ Specifically we do this by bringing the substantial weight of public opinion and
 
 **Enspiral Foundation Contribution**
 
-*Financial: 1% of recurring member donations
-*Non-financial: ActionStation team members are active in the Enspiral network
+* Financial: 1% of recurring member donations
+* Non-financial: ActionStation team members are active in the Enspiral network
 
