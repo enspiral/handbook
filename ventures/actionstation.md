@@ -20,7 +20,7 @@ ActionStation is an independent, member-led not-for-profit organisation represen
 * Angela Meyers
 * Nick Young
 
-*Contact person: marianne@actionstation.org.nz 0211106086)
+Contact person: marianne@actionstation.org.nz 0211106086)
 
 **Links to website or other resources**
 
