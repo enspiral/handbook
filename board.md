@@ -44,11 +44,13 @@ I've now spent the last five years within the Enspiral network. I grew my entrep
 
 In terms of governance, I love thinking about form to enable freedom. I like keeping a tidy house, ensuring that the lights will stay on so awesome humans can do awesome work. For me, It's all about the humans first. So when it comes to my role I do think a lot about the systems and processes, but at the end of the day it's about people.
 
-*He aha te mea nui o te ao
-He tangata, he tangata, he tangata*
+*He aha te mea nui o te ao*
 
-*What is the most important thing in the world?
-It is the people, it is the people, it is the people*
+*He tangata, he tangata, he tangata*
+
+*What is the most important thing in the world?*
+
+*It is the people, it is the people, it is the people*
 
 ### Alanna Krause
 I'm originally from California, and have lived in a range of countries (Japan, UK, Spain, India). But for me, New Zealand, and Wellington especially, is the best. After arriving here in 2011, I got involved with Enspiral and helped grow it from a single company of collaborative freelancers to a network of ventures. I'm a co-founder of Loomio and one of the originators of Cobudget. I been involved with a range of other endevours at Enspiral, such as bringing Lifehack into our network, helping to start OS//OS, and organising multiple retreats.
