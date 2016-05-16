@@ -8,6 +8,11 @@ This Handbook's primary audience is Enspiral contributors, but it will be public
 
 The information in this handbook pertains to Enspiral Foundation Limited and the Enspiral network as a whole. Many Enspiral ventures and teams will have different processes.
 
+
+---
+
+
+
 {% include "./contributing.md" %}
 
 
