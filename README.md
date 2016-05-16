@@ -10,10 +10,7 @@ The information in this handbook pertains to Enspiral Foundation Limited and the
 
 {% include "./contributing.md" %}
 
-**To be added here soon:**
 
-* Links to other open documentation from around Enspiral (such as Loomio, Lifehack, Services, Dev Academy) 
-* Contact info and further links
 
 
 
