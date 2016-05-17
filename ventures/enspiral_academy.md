@@ -1,6 +1,6 @@
 # Enspiral Academy Venture Profile
 
-**Venture Description **
+**Venture Description**
 
 Enspiral Academy focuses on education for emerging industries. Our main product is an intensive 18 week course to train web developers.
 
