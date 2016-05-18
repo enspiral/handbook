@@ -2,7 +2,7 @@
 
 **Venture Description**
 
-The Enspiral Foundation is a charitable company co-owned by the Enspiral Members. Its mission is to support the network as a whole, facilitate collaboration between the people and ventures, and further the overall social mission of Enspiral. It is a 'meta' venture that can be imagines as a hub, a platform, an umbrella, or a garden. The Foundation is governed by its [constitution](http://handbook.enspiral.com/constitution.html), stewarded by its [directors](http://handbook.enspiral.com/board.html), and is intended to be a lean platform upon which distributed leadership, experimentation, collaboration, and interdependence can thrive.
+The Enspiral Foundation is a charitable company co-owned by the [Enspiral Members](http://handbook.enspiral.com/people_agreement.html). Its mission is to support the network as a whole, facilitate collaboration between the people and ventures, and further the overall social mission of Enspiral. It is a 'meta' venture that can be imagined as a hub, a platform, an umbrella, or a garden. The Foundation is governed by its [constitution](http://handbook.enspiral.com/constitution.html), stewarded by its [directors](http://handbook.enspiral.com/board.html), and is intended to be a lean platform upon which distributed leadership, experimentation, collaboration, and interdependence can thrive, enhancing all the diverse expressions of Enspiral's values through the various purposes of the people and ventures within the network.
 
 **Key personnel**
 
@@ -12,9 +12,9 @@ The Enspiral Foundation is a charitable company co-owned by the Enspiral Members
 * Enspiral Members - Shareholders
 * Enspiral Ops - Administration
 
-Contact: Enspiral Ops foundation@enspiral.com
+Contact: Enspiral Ops, [foundation@enspiral.com](mailto:oundation@enspiral.com)
 
-**Links to website or other resources**
+**Links**
 
 * website: [www.enspiral.com](http://www.enspiral.com)
 * handbook: [handbook.enspiral.com](http://handbook.enspiral.com)
@@ -33,15 +33,17 @@ Limited liability company with a charitable constitution. The Foundation is owne
 
 **Business Model**
 
-The Foundation's income is made up of voluntary contributions from individuals and ventures in the Enspiral network. The Foundation also has occassionaly received grant funding. 
+The Foundation's income is made up of voluntary contributions from individuals and ventures in the Enspiral network. The Foundation also has occasionally received grant funding. 
 
-In the past, the Foundation has run initiatives that generated direct income, but these will be minimised in the future due to the approach of minimal governance and lean operations - instead institatives will live in other entities and agreements will me made for contributions from them to the Foundation on a case by case basis. 
+In the past, the Foundation has run initiatives that generated direct income, but these will be minimised in the future due to the approach of minimal governance and lean operations - instead initiatives will live in other entities and agreements will be made for contributions from them to the Foundation on a case by case basis. 
 
 More details about money and the Foundation can be found [here](http://handbook.enspiral.com/money.html).
 
 **Social Impact Strategy / Theory of Change**
 
-The Enspiral Foundation exists to support the people and ventures of the Enspiral network to each achieve their social impact missions. The reason the Foundation exists is rooted in the belief that we can achieve more through mutual support and cooperation than as isolated individuals and companies. Much of the Foundation's work operated on a 'meta' level of creating the conditions and systems upon which people and entities driving direct social impact can build. Everything the Foundation does is oriented toward the loosely defined mission of Enspiral: "More people working on stuff that matters."
+The Enspiral Foundation exists to support the people and ventures of the Enspiral network to each achieve their social impact missions. The reason the Foundation exists is rooted in the belief that we can achieve more through mutual support, interdependence, and cooperation than as isolated individuals and companies. Much of the Foundation's work operates on a 'meta' level, creating the conditions and systems with which people and entities driving direct social impact can be more effective. 
+
+Everything the Foundation does is oriented toward the loosely defined mission of Enspiral: *"More people working on stuff that matters."*
 
 ---
 
@@ -55,4 +57,4 @@ The Enspiral Foundation exists to support the people and ventures of the Enspira
 
 **Enspiral Foundation Contribution**
 
-100% of income to the Foundation in re-invested in the network.
+100% of income to the Foundation is re-invested in the network.
