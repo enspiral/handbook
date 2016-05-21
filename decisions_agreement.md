@@ -67,8 +67,8 @@ Any participant can raise a proposal, which describes a clear course of action o
 | position | meaning |
 | -- | -- |
 | YES | You’re happy with the proposal.|
-| NO | You’re happy for the group to decide without you. |
-| ABSTAIN | You think there might be a better alternative, but you’re willing to go with the group’s decision. |
+| ABSTAIN | You’re happy for the group to decide without you. |
+| NO | You think there might be a better alternative, but you’re willing to go with the group’s decision. |
 | BLOCK | You’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead. |
  
 ###Blocking
