@@ -24,7 +24,7 @@ My stewards are Craig Ambrose, Jessy-Kate Schingler and Alanna Krause. I am exci
 
 I am also super grateful for the trust Enspiral has placed in me as a new contributor; I hold this opportunity as a tremendous responsibility. I have so much to learn! Please hold me to account.
 
-I’ll be spending a lot of time in Wellington - at least 5 days per month. My personal intention for this work is to live co-leadership; to act in service of and focus on the important work of both understanding the opportunities and collectively addressing issues of scarcity - whether that’s time, resource, or mindset.
+I’ll be spending a lot of time in Wellington - at least 9 days per month. My personal intention for this work is to live co-leadership; to act in service of and focus on the important work of both understanding the opportunities and collectively addressing issues of scarcity - whether that’s time, resource, or mindset.
 
 I’m really good at listening and providing a fresh perspective, and I’d like to invite you to take me up on that. I’m energized by any mode of engagement, in person or via video, phone, slack, email, postcards... Convene with me!
 
