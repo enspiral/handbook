@@ -12,7 +12,7 @@ This is living document for people in Enspiral to improve and update. These guid
 
 ## Gitbooks based workflow
 
-If you already have edit permissions you can use the [Gitbooks workflow](https://help.gitbook.com/editor/draft.html).
+If you already have edit permissions you can use the [Gitbooks Editor](https://www.gitbook.com/editor).
 
 ## Github based workflow
 
