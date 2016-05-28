@@ -1,6 +1,6 @@
 # Enspiral Accounting Venture Profile
 
-**Venture Description (200 words)**
+**Venture Description**
 
 We are a Chartered Accounting firm, based in Auckland, Wellington and Christchurch. We are a 100% cloud based accounting firm and proud to be a Xero Gold Partner and a business partner for a range of Xero add-on solutions. We offer a selection of affordable monthly packages, while being agile enough to add tailored financial solutions to meet the needs of your organisation. Our monthly packages including; Annual Accounts, Tax Returns, GST returns, Company administration and Annual Business Reviews, as well as Financials Coaching packages - these are designed to help businesses who need that little bit of help throughout the year beyond basic compliance.  We have regular personalised meetings to set budgets, review financial performance, plan ahead and work on your business.
 
