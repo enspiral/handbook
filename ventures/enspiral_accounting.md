@@ -6,8 +6,6 @@ We are a Chartered Accounting firm, based in Auckland, Wellington and Christchur
 
 **Key personnel**
 
-*team members and roles*
-
 * Charmaine Meyers - Director/Accountant
 * Antz Rohan - Director/Accountant
 * Dale de Graaf - Accountant
