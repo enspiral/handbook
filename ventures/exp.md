@@ -1,6 +1,6 @@
 # EXP Venture Profile
 
-**Venture Description (200 words)**
+**Venture Description**
 
 EXP runs events, conferences and hosts retreats within the Enspiral network - also offers consulting services in facilitation, programme design & delivery and entrepreneurship coaching. 
 
@@ -56,3 +56,9 @@ When people connect, the world changes.
 * Running retreats for the network. 
 
 * % revenue from consulting. % financial from events is still TBC but there will be something. 
+
+**Asks to Enspiral**
+
+Help promote OS//OS. 
+
+
