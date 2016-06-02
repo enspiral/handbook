@@ -50,7 +50,7 @@ Businesses gifting funds to Enspiral Foundation are responsible for setting asid
 * Foundation receives $100. 
 * Business keeps $38.89 aside for tax. 
 
-**$350 gift example: **
+**$350 gift example:**
 
 * ($350/.72)-$350 = $136.11 tax. 
 * Foundation receives $350. 
