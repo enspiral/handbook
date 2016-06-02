@@ -8,7 +8,7 @@ It also allows existing Enspiral contributors to give more funds to Enspiral Fou
 The Variable Contribution process works like this: 
 
 1. People complete the [variable contributions form](https://docs.google.com/a/enspiral.com/forms/d/1u1k6yGOjMBBTFful453A2mlPXurud0Ar6_neDil_8Xs/viewform) specifying how much they would like to donate gift to Enspiral Foundation. 
-2. Enspiral Foundation sends an invoice to them for payment with two line items - one for any funds going to CoBudget and one for any funds going to core Foundation expenses.
+2. Enspiral Foundation sends an invoice to them for payment with two line items - one for any funds going to Cobudget and one for any funds going to core Foundation expenses.
 3. Once the invoice is paid, 50% of the amount is allocated to Enspiral Foundation's core costs and 50% to the user's [cobudget.co](http://cobudget.co) account for use in the collaborative funding process. 
 
 People making Variable Contributions can choose to have an automatic repeating invoice sent for a recurring Variable Contribution each month. 
@@ -22,7 +22,7 @@ From an IRD point of view the contributions are a gift and won’t be taxable or
 
 The gifts are not classed as income for the foundation - they go straight onto the balance sheet and we no tax is paid on them.
 
-Any invoices for gifts should have two line items - one for any funds going to cobudget and one for any funds going to core Foundation. 
+Any invoices for gifts should have two line items - one for any funds going to Cobudget and one for any funds going to core Foundation. 
 
 #### Gifts from Individuals
 
