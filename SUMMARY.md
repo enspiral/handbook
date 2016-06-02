@@ -35,6 +35,7 @@
    * [Cultural Technology](cultural_tech.md)
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
+   * [Variable Contributions](finances_variable_contributions.md)
    * [Financial Transparency](financial_transparency.md)
 * [Enspiral Foundation Ltd](foundation.md)
    * [Constitution](constitution.md)
