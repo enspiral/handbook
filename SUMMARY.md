@@ -33,6 +33,7 @@
    * [Comms Guidelines](comms_guidelines.md)
    * [Digital Technology](digital_tech.md)
    * [Cultural Technology](cultural_tech.md)
+* [Blogging](blogging.md)
 * [Money](money.md)
    * [Collaborative Funding](collabfunding.md)
    * [Variable Contributions](finances_variable_contributions.md)
