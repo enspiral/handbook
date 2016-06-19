@@ -1,23 +1,22 @@
 # Comms Guidelines
 
-
-In many ways, the sum total of all our communication is what defines the existence of Enspiral - it’s the connections between us all. There are a variety of different channels that are used in constantly evolving ways. 
-
-This guide is here to give an overview of the channels we've officially decided to adopt, the policies we've set, and to give you some tips for how best to communicat with the network.
+This guide is here to give an overview of the channels we've decided to adopt and to give you some tips for how best to communicate with the network.
 
 These comms channels are hosted by the Enspiral Foundation and are open to all contributors (or wider). If you are a contributor but lack access to something, contact foundation@enspiral.com
 
 # Channels and Tools
 
-**[Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) - Decisions**
+**[Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) - Group Decisions**
 
-Our tool for decision making. The assumption is everyone will see everything. A proposal passed on Loomio becomes network policy.
+Our tool for decision making. The assumption is everyone will see everything.
 
 Posting on Loomio in the main Enspiral group sends a notification out to everyone (nearly 300 people around the world), and so should be used judiciously. Tends to get noisy if we over-use it.
 
-Two categories of content appropriate for Loomio: a topic that could lead to a decision that affects the whole network, or important information everyone really needs to discuss.
-
 Feel free to start subgroups on Loomio if you'd like a more targeted collaboration space with a subset of Enspiral people.
+
+**[Github](https://github.com/enspiral/improvements/issues) or [Waffle](https://waffle.io/enspiral/improvements) -General Discussion**
+
+The issues list and the waffle board are different views to the same information. Posting and commenting on one will show up in the other. If you sense something could be improved or have a topic that you feel needs discussing but won't lead to a group decision in the short term start a discussion here.
 
 **[Slack](http://enspiral.slack.com) - Daily Realtime Comms**
 
@@ -59,7 +58,7 @@ Enspiral has a publication on Medium called Enspiral Tales that many people are 
 
 ## Comms Tips and Guidelines
 
-We operate in an attention economy, and as a participatory network it's like we all have a debit card attached to the collective attention bank account. Getting the attention people at Enspiral is expensive! Here's some advice about making it count.
+We operate in an attention economy. Getting the attention people at Enspiral is expensive! Here's some advice about making it count.
 
 **This is YOUR Space**
 
@@ -67,10 +66,10 @@ We are all greatly enriched by all of our engagement. Your voice is welcome. You
 
 **Pick your Channel Wisely**
 
-Know the various channels available and consciously decide where to post. Within a given tool, post to the right group or channel. 
+Know the various channels available and consciously decide where to post. Within a given tool, post to the right group or channel:
 
-Basically: 
-* Topics requiring a decision and affecting everyone go on Loomio
+* Topics requiring a group decision and affecting everyone go on Loomio
+* Issues, improvements and general discussion go on Github or Waffle
 * Events go on Chalkle
 * Broadcast announcements to all contributors go in News
 * Casual realtime communication goes on Slack. You will reach whoever opts in to read when you happen to post.
@@ -80,7 +79,7 @@ Basically:
 
 Messages relevant only to a limited group of people should be emailed directly, or posted in a specific Slack channel or Loomio subgroup.
 
-**Subject Lines are a Channel**
+**Subject Lines**
 
 Put all the relevant info you can very concisely in the subject line (or discussion title on Loomio). Messages on Loomio trigger an email hundreds of people, many of whom will look no further than the subject line. Who, what, where, why, when.
 
