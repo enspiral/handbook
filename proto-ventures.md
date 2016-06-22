@@ -23,22 +23,11 @@ As your proto-venture matures, at some stage you’ll either want to go all-in a
 Enspiral contributors are welcome to use [this Loomio thread](https://www.loomio.org/d/KJgmNYBa/) to discuss proto-ventures and propose changes to this guide.
 
 ---
-
-TODO: update this page quarterly with all the proto-ventures:
-
----
-### [Proto-Venture name]
-* Short venture description
-* Most recent 'your quarter in one sentence' update from reporting
-* Key personnel / contact person
-* Proto-venture stewards
+### Gamelab
+* Education business that helps students learn STEM topics by building games
+* Finishing up a big push on [gamefroot.com](http://gamefroot.com) development and launching paid product
+* Dan Milward
+* Joshua Vial, Kate Beecroft, Rohan Wakefield
 
 ---
 
-### [Proto-Venture name]
-* Short venture description
-* Most recent 'your quarter in one sentence' update from reporting
-* Key personnel / contact person
-* Proto-venture stewards
-
----
