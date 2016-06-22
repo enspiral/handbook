@@ -57,7 +57,6 @@ Revenue Streams
 * Sponsorship
   * Currently investigating whether to create a charity or Not for Profit organisation or whether or not we could use an existing Enspiral entity for sponsorship engine. 
 
-
 **Impact Strategy / Theory of Change**
 
 To help make education engaging and empowering. 
