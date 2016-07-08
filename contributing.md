@@ -4,14 +4,13 @@
 
 Github is a platform that is mostly used by developers to manage software projects: it allows many contributors to all work on a single project without stepping on each other's toes. It has a system for storing files and proposing changes to them in a managed way. (This is based on an amazing free technology called git.)
 
-All the files that make up this handbook live on Github: [https://github.com/enspiral/handbook](https://github.com/enspiral/handbook)
+All the files that make up this handbook live in Github "repository" (often called a "repo") : [https://github.com/enspiral/handbook](https://github.com/enspiral/handbook)
 
-If you have a Github account, you can propose changes to the handbook in a way that allows other people to comment on the changes before they are accepted. While these changes are pending, they're called a "pull request". A repo maintainer can accpet the changes by "merging" them in.
+If you have a Github account, you can draft another version of the handbook and let people comment on your draft. You make a "pull request" to request that repo maintainers merge your changes into the canonical version of the handbook, the "master" version.
 
 To change an agreement you need to follow the process outlined in the [decisions agreement](http://handbook.enspiral.com/decisions_agreement.html). These agreements govern our community so they can only be changed with community input.
 
-If you're making a small edit like fixing a typo, or adding a guide, the pull request is a good place to get a few extra people to review the change before it is published.
-
+If you're making a small edit like fixing a typo, or adding a guide, the pull request is a good place to start.
 
 ### Here's how to propose a change:
 
@@ -21,7 +20,7 @@ Watch the quick demo video, or read on:
 
 #### Step 1
 
-First, go to the [enspiral/handbook](https://github.com/enspiral/handbook) "repo" (short for repository) on Github (you'll need to be a logged Github user). Click "Fork" to make your own copy of the repo. It'll ask for a destination: just select your personal account.
+First, go to the [enspiral/handbook](https://github.com/enspiral/handbook) Github repo (you'll need to be a logged Github user). Click "Fork" to make your own copy of the repo. It'll ask for a destination: just select your personal account.
 
 ![](images/contributing-1.png)
 
@@ -52,8 +51,11 @@ This will take you to the `enspiral/handbook` repo, and give you a preview of th
 
 ## Handbook Maintainers
 
-Handbook maintainers will merge contributions within 1-2 days. As a general guideline a maintainer does not merge in their own branches or pull requests. If they cannot get hold of another maintainer they may merge their own branches. Maintainers will not modify an agreement unless the process in the [decisions agreement](http://handbook.enspiral.com/decisions_agreement.html) has been followed.
+Handbook maintainers aim to merge pull requests within 1-2 days. As a general guideline a maintainer does not merge in their own branches or pull requests. If they cannot get hold of another maintainer they may merge their own branches.
 
+To improve communications and understanding, its useful for your proposed changes to reference an [underlying issue](https://github.com/enspiral/improvements/issues) that your changes aim to solve.
+
+If you want to become a maintainer ask @joshuavial to give to maintainer rights.
 
 ## Improvements and Disagreements
 
