@@ -1,5 +1,9 @@
 # Contributing to the handbook
 
+Anything marked with a `*` in the menu is an article that needs some work. If you're looking for a way to help out, filling in those stubs would be a good place to start :)
+
+You can update the menu by editng the `SUMMARY.md` file.
+
 ## The Github Method
 
 Github is a platform that is mostly used by developers to manage software projects: it allows many contributors to all work on a single project without stepping on each other's toes. It has a system for storing files and proposing changes to them in a managed way. (This is based on an amazing free technology called git.)
