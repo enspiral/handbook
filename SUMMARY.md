@@ -28,6 +28,7 @@
    * [Ops Scope](ops-scope.md)
    * [Comms Role Scope](comms-role.md)
    * [Catalysts](catalysts.md)
+* [Improvements](improvements.md)
 * [Money*](money.md)
    * [Collaborative Funding*](collabfunding.md)
    * [Variable Contributions](finances_variable_contributions.md)
