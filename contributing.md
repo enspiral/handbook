@@ -2,7 +2,7 @@
 
 Anything marked with a `*` in the menu is an article that needs some work. If you're looking for a way to help out, filling in those stubs would be a good place to start :)
 
-You can update the menu by editng the `SUMMARY.md` file.
+You can update the menu by editing the `SUMMARY.md` file.
 
 ## The Github Method
 
