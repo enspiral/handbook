@@ -10,6 +10,8 @@ Github is a platform that is mostly used by developers to manage software projec
 
 All the files that make up this handbook live in a Github "repository" (often called a "repo") : [https://github.com/enspiral/handbook](https://github.com/enspiral/handbook)
 
+**Check the [Github for Beginners](github_for_beginners.md) guide if you want to learn more.**
+
 If you have a Github account, you can draft another version of the handbook and let people comment on your draft. You make a "pull request" to request that repo maintainers merge your changes into the canonical version of the handbook, the "master" version.
 
 To change an agreement you need to follow the process outlined in the [decisions agreement](http://handbook.enspiral.com/decisions_agreement.html). These agreements govern our community so they can only be changed with community input.
