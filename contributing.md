@@ -8,7 +8,7 @@ You can update the menu by editing the `SUMMARY.md` file.
 
 Github is a platform that is mostly used by developers to manage software projects: it allows many contributors to all work on a single project without stepping on each other's toes. It has a system for storing files and proposing changes to them in a managed way. (This is based on an amazing free technology called git.)
 
-All the files that make up this handbook live in Github "repository" (often called a "repo") : [https://github.com/enspiral/handbook](https://github.com/enspiral/handbook)
+All the files that make up this handbook live in a Github "repository" (often called a "repo") : [https://github.com/enspiral/handbook](https://github.com/enspiral/handbook)
 
 If you have a Github account, you can draft another version of the handbook and let people comment on your draft. You make a "pull request" to request that repo maintainers merge your changes into the canonical version of the handbook, the "master" version.
 
@@ -20,7 +20,7 @@ If you're making a small edit like fixing a typo, or adding a guide, the pull re
 
 Watch the quick demo video, or read on:
 
-{% youtube %}https://www.youtube.com/watch?v=zVvda3ci4w4{% endyoutube %}
+{% video %}https://www.youtube.com/watch?v=zVvda3ci4w4{% endvideo %}
 
 #### Step 1
 

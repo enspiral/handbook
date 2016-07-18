@@ -2,5 +2,5 @@
   "styles": {
     "website": "styles/website.css"
   },
-  "plugins": [ "collapsible-menu", "youtube" ]
+  "plugins": [ "collapsible-menu", "video" ]
 }

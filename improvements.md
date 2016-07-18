@@ -32,7 +32,7 @@ You will need [a github username](https://help.github.com/articles/signing-up-fo
 
 Here's a video introducing the improvements system to anyone who is unfamiliar with github:
 
-{% youtube %}https://www.youtube.com/watch?v=SNEysZCTRXA{% endyoutube %}
+{% video %}https://www.youtube.com/watch?v=SNEysZCTRXA{% video %}
 
 
 
