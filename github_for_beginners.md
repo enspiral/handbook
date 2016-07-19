@@ -14,7 +14,7 @@ The first one we use is **Github**: it's a hosting service for Git repositories.
 
 Another Git-based service we use is Waffle, which is like a [kanban board](https://en.wikipedia.org/wiki/Kanban_board) for Github issues.
 
-Everything we're doing to improve Enspiral is tracked in public through the [Improvements system](http://handbook.enspiral.com/improvements.html) which you can see at [improvements.enspiral.com](http://improvements.enspiral.com). That's a Waffle board, automagically built from the issues list on [github.com/enspiral/improvements/issues](http://github.com/enspiral/improvements/issues)
+Everything we're doing to improve Enspiral is tracked in public through the [Improvements system](improvements.html) which you can see at [improvements.enspiral.com](http://improvements.enspiral.com). That's a Waffle board, automagically built from the issues list on [github.com/enspiral/improvements/issues](http://github.com/enspiral/improvements/issues)
 
 ## Git lingo: issues, repos, pull requests, and merging
 
@@ -25,6 +25,10 @@ A **Github issue** is a public discussion for work-in-progress.
 So for instance, when I see something wrong with Loomio, I go to [the Loomio repo on Github](http://github.com/loomio/loomio/issues) and say "I found a bug, this thing is broken!" Then we have a discussion about how to fix it. Sometime later someone can propose a fix, and reference the issue, so when the proposal is accepted, the issue gets closed.
 
 In git lingo, the proposal is a **pull request** and it is accepted by **merging** in the changes.
+
+## Put your new Git skills to good use
+
+Now that you have some Git skills, why don't you try [proposing a change to this handbook](/#contributing-to-the-handbook), or [suggesting a new issue on the Improvements board](improvements.html)
 
 ## The amazing Github intro video series
 
