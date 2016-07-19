@@ -13,7 +13,7 @@ Loomio exists to make inclusive decision-making easy, by providing an online spa
 * James Kiesel
 * Michael Elwood Smith
 * MJ Kaplan
-* Alanna Krause 
+* Alanna Krause
 * Ben Knight
 * Matthew Bartlett
 * Mary O’Keeffe
@@ -22,7 +22,7 @@ Loomio exists to make inclusive decision-making easy, by providing an online spa
 * Richard Bartlett
 
 Contact person:
-Ben Knight - ben@loomio.org
+Richard Bartlett - rich@loomio.org
 
 **Links to website or other resources**
 
@@ -30,17 +30,17 @@ www.loomio.org
 
 **Latest Quarterly Update**
 
-* 1st May 2016
-* Q1 in Loomio had a strong focus on laying the groundwork for operationalising substantial growth in Q2 and Q3. 
+* 15th July 2016
+* We're moving into "just ship it" mode as we test if there is a viable SaaS business model that can sustain Loomio.
 
 **Founding Date & Brief History**
 
-Loomio Cooperative was founded in August 2012. Loomio emerged from a collective need for more effective tools for collaborative decision-making felt by people at Enspiral and activists involved with the Occupy movement in 2011. 
+Loomio Cooperative was founded in August 2012. Loomio emerged from a collective need for more effective tools for collaborative decision-making felt by people at Enspiral and activists involved with the Occupy movement in 2011.
 
 
 **Legal structure**
 
-Loomio Cooperative Ltd is a limited liability company, that is also a registered worker-owned cooperative. Loomio is owned by its ten worker-members, with 18 impact investors holding redeemable preference shares. 
+Loomio Cooperative Ltd is a limited liability company, that is also a registered worker-owned cooperative. Loomio is owned by its ten worker-members, with 18 impact investors holding redeemable preference shares.
 
 **Business Model**
 
@@ -48,19 +48,19 @@ Loomio has a SaaS subscription model, where customers pay a monthly fee per grou
 
 **Social Impact Strategy / Theory of Change**
 
-We’re building Loomio because we believe that increasing the organising capacity of lots of small groups of committed people can create big change. 
+We’re building Loomio because we believe that increasing the organising capacity of lots of small groups of committed people can create big change.
 
-If we can help break the tradeoff between effectiveness and inclusion, then we’ll see more engaged communities, more effective activism, more human-centered workplaces, and more participatory government. 
+If we can help break the tradeoff between effectiveness and inclusion, then we’ll see more engaged communities, more effective activism, more human-centered workplaces, and more participatory government.
 
-**Venture Stewards** 
+**Venture Stewards**
 
 * Richard Bartlett
-* Ben Knight
+* Ben Knight (on leave)
 * Marianne Elliot
 
 **Enspiral Foundation Contribution**
 
-Financial: $200/mo flat contribution at present. Also funding an Enspiral Catalyst role (0.2FTE). 
+Financial: $200/mo flat contribution at present. Also funding an Enspiral Catalyst role (0.2FTE).
 
 Non-financial: Loomio team members are active in Enspiral membership, and regularly engage in media and profile-raising for the network.  
 
