@@ -18,7 +18,12 @@ We codesign experimental programmes that increase individuals’ sense of agency
 
 **Latest Quarterly Update**
 
-* April 2016 
+July 2016 
+
+* We've been honing in on our strategic direction: Working with those who work alongside young people as a way to scale. We encourage participation at every level through a codesign-centric approach, from programmes we run to the projects that the participants might run in their communities.
+
+April 2016 
+
 * In the last quarter we’ve hosted our first community retreat and did a big piece of work with Sovereign Insurance and Youthline Manukau. 
 
 **Founding Date & Brief History**
