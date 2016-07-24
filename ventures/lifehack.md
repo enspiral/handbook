@@ -16,7 +16,7 @@ We codesign experimental programmes that increase individuals’ sense of agency
 * www.lifehackhq.co
 * https://medium.com/the-labs-wananga
 
-**Latest Quarterly Update**
+**Quarterly Update**
 
 July 2016 
 
