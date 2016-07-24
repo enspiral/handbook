@@ -28,9 +28,10 @@ Richard Bartlett - rich@loomio.org
 
 www.loomio.org
 
-**Latest Quarterly Update**
+**Quarterly Update**
 
-* 15th July 2016
+July 2016
+
 * We're moving into "just ship it" mode as we test if there is a viable SaaS business model that can sustain Loomio.
 
 **Founding Date & Brief History**
