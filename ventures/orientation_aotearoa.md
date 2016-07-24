@@ -25,9 +25,13 @@ Thomas Burton
 
 Website: www.oa.org.nz
 
-**Latest Quarterly Update**
+**Quarterly Update**
 
-14 April 2016
+July 2016 
+
+Orientation Aotearoa is currently in dormancy. A public statement about next steps will be made by end of this month. 
+
+April 2016
 
 OA 2016 programme did not go ahead, as this residential format was not sustainable, financially, socially and energetically. Orientation Aotearoa is currently in a ‘dormant pause button’ phase, with key members Lucy Carver Skye Chadwick and Babs Lake being overseas, attending a conference at YIP (www.yip.se), a residential education programme for young people in Sweden which provided much of the inspiration for OA. The team will reconvene for a retreat the first weekend of June, to consider how and who will steward OA into the future. 
 
