@@ -18,11 +18,11 @@ We are a Chartered Accounting firm, based in Auckland, Wellington and Christchur
 * Facebook 
 
 
-**Latest Quarterly Update**
+**Quarterly Update**
 
-* *date updated*
+July 2016
 
-*'your quarter in one sentence'*
+* End of tax year! Working on Tax Returns and also doing work on our Strategy and Mission. 
 
 **Founding Date & Brief History**
 
