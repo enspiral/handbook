@@ -16,7 +16,7 @@ Ants Cabraal
 
 **Links to website or other resources**
 
-exp.agency
+www.exp.agency
 
 **Quarterly Update**
 
