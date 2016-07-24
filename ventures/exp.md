@@ -18,11 +18,11 @@ Ants Cabraal
 
 exp.agency
 
-**Latest Quarterly Update**
+**Quarterly Update**
 
-* *date updated*
+July 2016
 
-*'your quarter in one sentence'*
+* Our first three months of business at EXP - whoop! So far so good. 
 
 **Founding Date & Brief History**
 
