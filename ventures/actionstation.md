@@ -26,11 +26,15 @@ Contact person: marianne@actionstation.org.nz 0211106086)
 
 http://www.actionstation.org.nz/
 
-**Latest Quarterly Update**
+**Quarterly Update**
+
+* July 2016 
+
+* We launched our distributed campaigning platform (OurActionStation) to put digital campaign tools into the hands of our members, and ran our first full member voting session on Loomio, allowing members all over New Zealand and around the world to have their say in the direction and governance of ActionStation. 
 
 * May 2016
 
-*'Transitioning from ‘yes, yes, yes’ and ‘grow, grow, grow’ to strategic ‘no’s’ in order to go deeper where it really matters, and restructuring our platform and our team to better reflect our commitment to distributing power'
+* 'Transitioning from ‘yes, yes, yes’ and ‘grow, grow, grow’ to strategic ‘no’s’ in order to go deeper where it really matters, and restructuring our platform and our team to better reflect our commitment to distributing power'
 
 **Founding Date & Brief History**
 
