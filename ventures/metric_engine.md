@@ -15,9 +15,15 @@ Facilitate Australian city and regional councils to share learning with each oth
 * www.metricengine.com
 * www.parksbase.com 
 
-**Latest Quarterly Update**
+**Quarterly Update**
 
-Getting back on the horse
+July 2016 
+
+* We published our work on urban forests.
+
+May 2016 
+
+* Getting back on the horse
 
 **Founding Date & Brief History**
 
