@@ -30,6 +30,8 @@ In git lingo, the proposal is a **pull request** and it is accepted by **merging
 
 Now that you have some Git skills, why don't you try [proposing a change to this handbook](/#contributing-to-the-handbook), or [suggesting a new issue on the Improvements board](improvements.html)
 
+If you have any questions that aren't answered by this guide, you can ask them by [creating a new issue](https://github.com/enspiral/handbook/issues/new).
+
 ## The amazing Github intro video series
 
 Gabby made these excellent videos introducing Github for beginners. Some of the details are out of date but the bulk of the content is right on. And there are onesies!
