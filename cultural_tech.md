@@ -15,9 +15,9 @@ Brief descriptions of and links to more info on....
 * Email management
 * Collaboration Cafe
 * Group Games Zine
-* [Project Kitchens](./project-kitchen.md)
+* [Project Kitchens](project-kitchen.md)
 * Check-in Loomio's
 * 90-day planning
-* Agile 
+* Agile
 
 So many more...
