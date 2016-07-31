@@ -7,19 +7,31 @@
   * [Network Structure*](network_structure.md)
   * [Story & Timeline*](timeline.md)
 * [Agreements](agreements.md)
-  * [Diversity Agreement](diversity_agreement.md)
-  * [Venture Agreement](venture_agreement.md)
-  * [People Agreement](people_agreement.md)
   * [Board Agreement](board_agreement.md)
-  * [Brand Agreement](brand_agreement.md)
-  * [Financial Agreement](financial_agreement.md)
-  * [Decisions Agreement](decisions_agreement.md)
+  * [Brand Agreement*](brand_agreement.md)
   * [Catalyst Agreement](catalyst_agreement.md)
+  * [Decisions Agreement](decisions_agreement.md)
+  * [Diversity Agreement](diversity_agreement.md)
+  * [Financial Agreement](financial_agreement.md)
+  * [People Agreement](people_agreement.md)
+  * [Stewardship Agreement](stewardship_agreement.md)
+  * [Venture Agreement](venture_agreement.md)
 * [Ambassadors*](ambassadors.md)
 * [Blogging](blogging.md)
 * [Culture & Tools*](culture.md)
   * [Comms Guidelines](comms_guidelines.md)
-  * [Cultural Technology*](cultural_tech.md)
+  * [Cultural Technology*](cultural_tech.md)* Check-ins
+    * Afternoon teas*
+    * Bringing your whole self to work*
+    * Distributed leadership*
+    * Retrospectives*
+    * Email management*
+    * Collaboration Cafe*
+    * Group Games Zine*
+    * [Project Kitchens](project_kitchen.md)
+    * Check-in Loomio's*
+    * 90-day planning*
+    * Agile*
   * [Digital Technology*](digital_tech.md)
   * [Github for Beginners](github_for_beginners.md)
   * [Retreats*](retreats.md)
