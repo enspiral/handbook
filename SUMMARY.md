@@ -35,6 +35,7 @@
   * [Digital Technology*](digital_tech.md)
   * [Github for Beginners](github_for_beginners.md)
   * [Retreats*](retreats.md)
+  * [Stewarding*](stewarding.md)
 * [Enspiral Foundation Ltd*](foundation.md)
   * [Constitution](constitution.md)
   * [Board of Directors](board.md)
