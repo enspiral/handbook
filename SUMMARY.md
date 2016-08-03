@@ -14,6 +14,7 @@
   * [Diversity Agreement](diversity_agreement.md)
   * [Financial Agreement](financial_agreement.md)
   * [People Agreement](people_agreement.md)
+  * [Stewardship Agreement](stewardship_agreement.md)
   * [Venture Agreement](venture_agreement.md)
 * [Ambassadors*](ambassadors.md)
 * [Blogging](blogging.md)
