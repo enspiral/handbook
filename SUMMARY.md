@@ -68,6 +68,7 @@
     * [Volunteer Impact](ventures/volunteer_impact.md)
   * [Proto-Ventures](proto-ventures.md)
     * [Gamelab](proto-ventures/gamelab.md)
+    * [Enspiral Labs](proto-ventures/enspiral-labs.md)
 * [More Info*](more_info.md)
    * [Links & Media](links_media.md)
    * [Glossary](glossary.md)
