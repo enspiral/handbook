@@ -6,17 +6,25 @@ Enspiral Academy focuses on education for emerging industries. Our main product 
 
 **Key personnel**
 
-* Joshua Vial 
+* Joshua Vial
 * Rohan Wakefield
+* Billy Matheson
+* Silvia Zuur
 * Jaime Campbell
+* Rupert Snook
+* Esther Van de Poll
+* Ming Janssen
 * Anthony Cabraal
+* Rebeka Whale
+* Michael Coffey
+* Molly Parker
+* Charlotte Graham
 * Simon Tegg
 * Piet Guerson
 * Sarrah Jayne
 * Mix Irving
-* Rebeka Whale
-* Billy Matheson
 * Don Smith
+* Joseph Quested
 * Rich Churcher
 * Daniel Lewis
 * Michael Williams
