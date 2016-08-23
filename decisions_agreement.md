@@ -5,7 +5,7 @@ This agreement defines how formal decisions are made at Enspiral. It identifies 
 ###Context
 Enspiral is a network of highly autonomous individuals, teams, and ventures. As much as possible, we encourage people to make decisions for themselves.
 
-Enspiral is also a network building shared commons, and pursuing shared aspirations, that call for collective agreements and commitments. There are a variety of situations where it is useful or necessary to make a formal decisions as a group. 
+Enspiral is also a network building shared commons, and pursuing shared aspirations, that call for collective agreements and commitments. There are a variety of situations where it is useful or necessary to make a formal decision as a group. 
 
 ###Decision Protocol: Consensus 
 
@@ -15,7 +15,7 @@ For formal decisions, Enspiral uses [consensus decision-making](https://en.wikip
 
 Formal decisions with everyone are only intended to be used when they will have significant impact on the wider network. This Decision Agreement is the core agreement from which all others derive their mandate.
 
-In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](https://enspiral.gitbooks.io/enspiral-handbook/content/agreements.html). Decisions to change existing Agree    ments or create new ones are made by everyone in the network together.
+In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](https://enspiral.gitbooks.io/enspiral-handbook/content/agreements.html). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
 
 ###Decision Tool: Loomio
 At Enspiral, formal decisions are made using a software tool called [Loomio](http://www.loomio.org), which helps groups make collective decisions using constructive deliberation. This process is based on the principle that diverse perspectives can be synthesised to achieve better solutions that work for more people. 
@@ -25,11 +25,11 @@ While making use of other channels (online and offline) to enrich input into a d
 Not every Loomio proposal constitutes a formal decision. Many Loomio proposals are created simply to gauge interest or share information. For the purposes of this Agreement, a “formal decision” is a clearly worded Loomio proposal seeking a specific mandate on behalf of the network.
 
 ###Making Formal Decisions
-Anyone can propose a formal decision at any time. We seek open, transparent decision-making and strive to enable the people who are affected by a decision to participate as fully possible in making it. Enspiral tries to make decisions with the widest possible circle of participants, while recognising the necessity and wisdom of delegating responsibility for certain decisions.
+Anyone can propose a formal decision at any time. We seek open, transparent decision-making and strive to enable the people who are affected by a decision to participate as fully as possible in making it. Enspiral tries to make decisions with the widest possible circle of participants, while recognising the necessity and wisdom of delegating responsibility for certain decisions.
 
 A formal decision is only required whenever there is a significant impact on the network. It is difficult to specify exact criteria for every case, so everyone is encouraged to use their best judgement to balance exercising autonomy with gaining shared understanding. 
 
-Formal decisions are needed for the following areas (some with the whole network, some with a subset of people or by a process which has been delegated to by an Agreement).
+Formal decisions are needed for the following areas (some with the whole network, some with a subset of people or by a process which has been delegated by an Agreement).
 
 
 * Agreements - creating new rules about how Enspiral works
