@@ -9,10 +9,10 @@ The Enspiral network is based on high trust, reciprocity, and mutual support. Ve
 Ventures join the Enspiral network because they believe their own success is enhanced and their mission better achieved through collaborative network participation, mutual support, and interdependence. Ventures that join fundamentally value Enspiral and want to see it thrive. Many of our ventures wouldn’t exist without the support they have received from the wider network, and others choose to engage because of deep alignment of purpose and culture.
 
 **Associated Documents**
-* [Venture MOU template](https://enspiral.gitbooks.io/enspiral-handbook/content/venture_mou.html)
+* [Venture MOU template](venture_mou.html)
 * [Quarterly update form](https://docs.google.com/forms/d/11Oz-HM1Wt8CbzxZpzGmjjFcd-sp9vahoqcLuL3UysT4/viewform)
-* [Venture profile template](https://enspiral.gitbooks.io/enspiral-handbook/content/venture_profiles.html)
-* [Venture introduction template](https://enspiral.gitbooks.io/enspiral-handbook/content/venture_introduction_template.html)
+* [Venture profile template](venture_profiles.html)
+* [Venture introduction template](venture_introduction_template.html)
 
 ###Roles
 **Key Personnel**
@@ -80,7 +80,7 @@ Financial contributions by Ventures fuel the maintenance and development of Ensp
 
 Each venture defines how they wish to contribute to the network, financially and otherwise. This could be a flat monthly fee, a percentage of revenue, discounts on services, or any other contribution they wish to make. The basis of the Enspiral model is reciprocity and generosity - the expectation is to contribute at a level reasonable to the resources and stage of the venture.
 
-Financial contributions are made to the Enspiral Foundation, ideally on a monthly basis. Ventures are invited to participate in our collaborative funding process to decide how the discretionary portion of their contribution will be spent (as defined in the [Financial Agreement](https://enspiral.gitbooks.io/enspiral-handbook/content/financial_agreement.html)).
+Financial contributions are made to the Enspiral Foundation, ideally on a monthly basis. Ventures are invited to participate in our collaborative funding process to decide how the discretionary portion of their contribution will be spent (as defined in the [Financial Agreement](financial_agreement.html)).
 
 **Adjusting Contribution**
 

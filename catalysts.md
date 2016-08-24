@@ -4,7 +4,7 @@ In chemistry, a Catalyst is an agent of change, used in small amounts relative t
 
 With Catalysts at Enspiral, we are attempting to take the function of executive leadership, share it across multiple agents, and cycle many people through the role under a set time limit. The goal is to increase the rate of evolution at Enspiral by reducing friction people encounter trying to make changes and improvements.
 
-You can read more in the [Catalyst Agreement](https://enspiral.gitbooks.io/enspiral-handbook/content/catalyst_agreement.html).
+You can read more in the [Catalyst Agreement](catalyst_agreement.html).
 
 [Loomio reporting thread](https://www.loomio.org/d/kQHzncsJ/catalyst-2-0-playground)
 

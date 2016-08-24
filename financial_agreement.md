@@ -10,7 +10,7 @@ The Foundation’s funds come from the following sources.
 
 **Venture Contributions**
 
-[Enspiral ventures](https://enspiral.gitbooks.io/enspiral-handbook/content/ventures.html) make voluntary financial contributions, usually on a monthly basis. Half a Venture’s contribution goes toward fixed costs and reserves, and half is allocated to Discretionary Funds through Cobudget. Ventures can opt for their funds to be added to their Venture’s Cobudget account, to be split equally among nominated individuals, or the venture may specify exact allocation amounts, to fund projects of their choice.
+[Enspiral ventures](ventures.html) make voluntary financial contributions, usually on a monthly basis. Half a Venture’s contribution goes toward fixed costs and reserves, and half is allocated to Discretionary Funds through Cobudget. Ventures can opt for their funds to be added to their Venture’s Cobudget account, to be split equally among nominated individuals, or the venture may specify exact allocation amounts, to fund projects of their choice.
 
 **Contributor Contributions**
 
@@ -18,7 +18,7 @@ Individuals in the network make a financial contribution to the Foundation at le
 
 **Other Income**
 
-The Foundation is a [charitable entity](https://enspiral.gitbooks.io/enspiral-handbook/content/constitution.html) not intended to bear commercial risk. However, from time to time other activities (such as serving as a fundholder for grants and projects) can result in income directly to the Foundation. Approval for such transactions is at the discretion of the Board. The Board and the people involved in bringing in the income agree how to distribute any resulting income between Normal Reserves and Discretionary Funds (via nominated users in Cobudget). These decisions and transactions are reported on the Financial Transparency page of the Handbook (as described below). 
+The Foundation is a [charitable entity](constitution.html) not intended to bear commercial risk. However, from time to time other activities (such as serving as a fundholder for grants and projects) can result in income directly to the Foundation. Approval for such transactions is at the discretion of the Board. The Board and the people involved in bringing in the income agree how to distribute any resulting income between Normal Reserves and Discretionary Funds (via nominated users in Cobudget). These decisions and transactions are reported on the Financial Transparency page of the Handbook (as described below). 
 
 ## Expenditure
 
@@ -26,13 +26,13 @@ Money flowing through or held by the Foundation falls under the following catego
 
 **Fixed Costs**
 
-Regular monthly financial commitments for expenses such as essential professional services and tools used by the network. Anyone is welcome to propose changes to fixed costs (which are reported in the Enspiral Handbook, see below). Formal approval of such requests requires a [standard decision](https://enspiral.gitbooks.io/enspiral-handbook/content/decisions_agreement.html) from Enspiral Members. 
+Regular monthly financial commitments for expenses such as essential professional services and tools used by the network. Anyone is welcome to propose changes to fixed costs (which are reported in the Enspiral Handbook, see below). Formal approval of such requests requires a [standard decision](decisions_agreement.html) from Enspiral Members. 
 
 The Board is required to regularly review fixed costs and the aim is to keep these expenses as lean as possible. The Board is permitted to adjust fixed costs by up to 10% within a 12-month period without seeking approval from the network. 
 
 **Discretionary Funds**
 
-We use a [collaborative funding](https://enspiral.gitbooks.io/enspiral-handbook/content/collabfunding.html) process through Cobudget to manage our discretionary funds. People get money to spend in the collaborative funding process through making Contributor and Venture contributions, half of which is allocated to them in Cobudget to fund projects they would like to support (the other half goes to fund Fixed Costs and Reserves). As a collective, we all share the responsibility to decide where to spend our resources, what to focus on, and what financial risks to take in pursuit of achieving our mission.
+We use a [collaborative funding](collabfunding.html) process through Cobudget to manage our discretionary funds. People get money to spend in the collaborative funding process through making Contributor and Venture contributions, half of which is allocated to them in Cobudget to fund projects they would like to support (the other half goes to fund Fixed Costs and Reserves). As a collective, we all share the responsibility to decide where to spend our resources, what to focus on, and what financial risks to take in pursuit of achieving our mission.
 
 **Emergency Fund**
 
@@ -45,7 +45,7 @@ Any funds not explicitly in Discretionary Funds, the Emergency Fund, or committe
 Anyone is welcome to propose to spend Normal Reserves for a specific purpose. Approval of such requests requires a standard decision from Enspiral Members. Normal Reserves offer an additional cushion for unexpected expenses, and enable different possibilities that come from a large number of people making collective decisions about larger amounts of money (as distinct from individuals making a series of decisions about smaller amounts of money, which is our approach for Discretionary Funds). 
 
 ## Collaborative Funding
-We make collective decisions about spending discretionary funds with a transparent and democratic processes called [collaborative funding](https://enspiral.gitbooks.io/enspiral-handbook/content/collabfunding.html) using software called Cobudget . 
+We make collective decisions about spending discretionary funds with a transparent and democratic processes called [collaborative funding](collabfunding.html) using software called Cobudget . 
 
 * All Enspiral contributors are invited to use Cobudget, and are welcome to raise bucket ideas.
 Those holding money in Cobudget decide what buckets they want to contribute funds to at their discretion.
@@ -57,7 +57,7 @@ Those holding money in Cobudget decide what buckets they want to contribute fund
 * Bucket funders are expected to use their funds responsibly, stepping beyond self-interest to make decisions on the basis of what’s best for the network as a whole.
 
 ## Reporting
-The Board is responsible for keeping up to date a [Financial Transparency](https://enspiral.gitbooks.io/enspiral-handbook/content/financial_transparency.html) section of the Enspiral Handbook, which covers:
+The Board is responsible for keeping up to date a [Financial Transparency](financial_transparency.html) section of the Enspiral Handbook, which covers:
 
 * Overview of revenue (Contributions and Income)
 * Emergency Fund (current level and any expenditures)
