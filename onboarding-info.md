@@ -4,7 +4,7 @@ When a new contributor joins Enspiral, they receive a series of six email messag
 The message series is part of a project by the Ops Team at Enspiral to improve the experience of new Contributors coming into Enspiral. If you have feedback or would like to contribute to this project email [foundation@enspiral.com](mailto://foundation@enspiral.com)
 
 
-## Week 1 email : Welcome and communications tools
+## Week 1: Welcome and communications tools
 Welcome to Enspiral! We're stoked to have you here.
 
 This is the start of your journey into the Enspiral Network. As a new contributor, you’ll get 3 months to explore what we’re about and see if this community is right for you. Over the next six weeks you’ll be sent a message from us each week to help you along your journey.
@@ -54,8 +54,17 @@ Happy Enspiraling!
  
 Enspiral Foundation
 
-## Week 2 email: Meet your Enspiral Buddy
-conent forthcoming
+## Week 2: Meet your Enspiral Buddy
+
+Kia ora 
+Soon it will be time to meet your Enspiral Buddy!
+
+As well as the Member who invited you into Enspiral, we make sure every new Contributor has a welcome Buddy to help them on their social journey into the network. Above all else, Enspiral is a community and it’s our relationships with one-another that makes everything work. As a new Contributor, your job is to find the people within our network that most resonate with what you want to create in the world. Your Buddy is here to help.
+
+You will soon receive another email with an introduction to your buddy. After receiving this, contact them to arrange either a meet-up or video call. This will help you both to get to know each other. Your Buddy will ask you questions to understand your intentions and aspirations coming into Enspiral and introduce you to other people in the network who might share similar dreams. Here’s a suggested process the two of you can follow. Your Buddy will also be your first port of call for all your questions about Enspiral.
+
+Happy connecting!
+
 
 ## Week 3 email: So what does it mean to be an Enspiral Contributor?
 Kia ora,
@@ -107,14 +116,62 @@ Happy contributing!
 
 Enspiral Foundation
 
-## Week 4 email: Getting informed about Enspiral**
-content forthcoming
+## Week 4: Getting informed about Enspiral**
+Kia ora 
+Hungry to get more informed about Enspiral?
+We have a multitude of places you can delve into to understand more about the network. Here’s some we can recommend ＼(^o^)／
 
-## Week 5 email: Getting active in Enspiral**
-content forthcoming
+# Read :
 
-## Week 6 email: Tell us how you’re going**
-content forthcoming
+[Enspiral Handbook](handbook.enspiral.com) - a work in progress guide to being part of Enspiral
+
+[Enspiral Tales](https://medium.com/enspiral-tales) on Medium - our blog with many diverse authors
+
+[Namaste Foundation blog](http://www.namaste.org/) - posts about / by Enspiral
+
+Enspiral FAQ - our answers to your questions. Submit more here.
+
+# Watch :
+[Enspiral YouTube channel](https://www.youtube.com/user/enspiral)
+
+# Ask :
+Ask Enspiral group on Loomio
+
+#enspiral_help channel on Slack
+We really encourage question-asking at Enspiral. It helps us understand what is clear and what isn’t. So please never hesitate to jump on to Loomio or Slack and ask away!
+
+Happy exploring!
+
+## Week 5: Getting active in Enspiral**
+Kia ora 
+Time to get active!
+Hopefully by now you’re getting an understanding of the Enspiral beast and are ready to start being an active citizen in our community! Here’s some actions we encourage new Contributors to take.
+ 
+Add your voice to a Loomio discussion happening in the Enspiral Group. Vote in as many decisions as you can - even if you are Abstaining because you don’t have enough context, it’s still valuable participation.
+ 
+Propose or help shape an idea by commenting on Cobudget. Maybe you’ve got fresh insights as to how we can make coming into the network better for other people or some other brainwave of how to contribute to the network. Putting up a bucket on Cobudget is the best way to gather people and funds behind your idea.
+ 
+Post in Slack, Facebook or Hylo - choose your favourite casual discussion channel and share some inspiration, a question, an idea. Make sure you’ve completed your profile on these platforms so others will know what your passions and focus areas are!
+ 
+Come to an Enspiral Retreat (held every 6 months) or an event posted on our Chalkle channel.
+ 
+Take part in a Project Kitchen - a fast and fun way to collaboratively problem-solve on some of the multitude of projects happening in the network. Check the #project_kitchen channel on Slack for upcoming kitchens or put in a request for one to happen!
+Happy engaging!
+
+
+## Week 6: Tell us how you’re going**
+Kia ora 
+Tell us how it's been! A piece of cake? Or something else?
+
+At Enspiral we’re constantly working to improve the experience of people in the network in being able to meaningfully participate in our mission of ‘more people working on stuff that matters’ and gain impactful livelihood through involvement in our community.
+
+You’re now halfway through your 3 month trial and we’d love to understand how your experience has been - what’s been valuable and what hasn’t, what’s clear and what’s confusing, and your ideas for improving this on-ramp into Enspiral.
+ 
+
+Please fill in this [Google Form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdxjSG-2E_YFUIEwOzO3A7dt1OuY5dOxArVgpdcy5nPDvAkgw/viewform?c=0&w=1) to help us out
+You can choose to leave your name or submit anonymously if you prefer.
+
+Big thanks!
 
 
 
