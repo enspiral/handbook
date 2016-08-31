@@ -34,6 +34,7 @@
    * [Variable Contributions](finances_variable_contributions.md)
    * [Financial Transparency](financial_transparency.md)
 * [People*](people.md)
+  * [Onboarding Emails](onboarding-info.md)
 * [Ventures*](ventures.md)
   * [Venture Processes*](venture_processes.md)
     * [Venture Introduction Template](venture_introduction_template.md)
