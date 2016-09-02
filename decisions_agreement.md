@@ -15,7 +15,7 @@ For formal decisions, Enspiral uses [consensus decision-making](https://en.wikip
 
 Formal decisions with everyone are only intended to be used when they will have significant impact on the wider network. This Decision Agreement is the core agreement from which all others derive their mandate.
 
-In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](https://enspiral.gitbooks.io/enspiral-handbook/content/agreements.html). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
+In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](agreements.html). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
 
 ###Decision Tool: Loomio
 At Enspiral, formal decisions are made using a software tool called [Loomio](http://www.loomio.org), which helps groups make collective decisions using constructive deliberation. This process is based on the principle that diverse perspectives can be synthesised to achieve better solutions that work for more people. 
@@ -54,8 +54,8 @@ Additionally, we have other types of formal decisions for specific circumstances
 
 | Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
 | -- | -- | -- | -- | -- |
-| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days (10 working days encouraged when possible) | This option should be used for more consequential decisions, such as changes to [Enspiral Agreements](https://enspiral.gitbooks.io/enspiral-handbook/content/agreements.html). |
-| Quorum Decision  | Passes as long as there are no blocks.| Requires at least 75% of all eligible voters to agree or abstain (meaning at least ¾ of all group members must participate) | 5 working days (10 working days encouraged when possible) | This option is used when a Special Resolution (as defined in the [Constitution](https://enspiral.gitbooks.io/enspiral-handbook/content/constitution.html)) is required |
+| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days (10 working days encouraged when possible) | This option should be used for more consequential decisions, such as changes to [Enspiral Agreements](agreements.html). |
+| Quorum Decision  | Passes as long as there are no blocks.| Requires at least 75% of all eligible voters to agree or abstain (meaning at least ¾ of all group members must participate) | 5 working days (10 working days encouraged when possible) | This option is used when a Special Resolution (as defined in the [Constitution](constitution.html)) is required |
 | Emergency Decision | Passes even if there are blocks, but requires 75% of those stating a position to agree | None | 10 working days. If faster action is required, the board can exercise its emergency powers. | This option is a safeguard when the normal decision making processes fails. This option is only used in specific circumstances where a minority block would be destructive, such as removing a member, contributor, catalyst or venture from the community or a role. |
 
 
