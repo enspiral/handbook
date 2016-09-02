@@ -23,11 +23,21 @@ As your proto-venture matures, at some stage you’ll either want to go all-in a
 Enspiral contributors are welcome to use [this Loomio thread](https://www.loomio.org/d/KJgmNYBa/) to discuss proto-ventures and propose changes to this guide.
 
 ---
-### Gamelab
+### [Gamelab](proto-ventures/gamelab.md)
 * Education business that helps students learn STEM topics by building games
 * Finishing up a big push on [gamefroot.com](http://gamefroot.com) development and launching paid product
-* Dan Milward
-* Joshua Vial, Kate Beecroft, Rohan Wakefield
+* Contact Person: Dan Milward
+* Stewards: Joshua Vial, Kate Beecroft, Rohan Wakefield
 
 ---
+### [Enspiral Labs](proto-ventures/enspiral-labs.md)
+* Enspiral Labs helps networks, organisations and individuals work in open, participatory and collaborative ways. 
+* Contact Person: Joshua Vial
+* Stewards: Ants Cabraal, Susan Basterfield, Kate Beecroft, Joshua Vial
 
+---
+### [Ability Mate](proto-ventures/ability-mate.md)
+* AbilityMate is an open-source community inventing products for an inclusive society.
+* We are focusing on creating 3D Printed Orthotics for children with physical disabilities
+* Contact person: Melanie “The Overachiever” Tran - [melt@abilitymate.com](melt@abilitymate.com)
+* Stewards: Rose Lu, Sam Rye, Joshua Vial

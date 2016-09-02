@@ -72,6 +72,7 @@
   * [Proto-Ventures](proto-ventures.md)
     * [Gamelab](proto-ventures/gamelab.md)
     * [Enspiral Labs](proto-ventures/enspiral-labs.md)
+    * [Ability Mate](proto-ventures/ability-mate.md)
 * [More Info*](more_info.md)
    * [Links & Media](links_media.md)
    * [Glossary](glossary.md)
