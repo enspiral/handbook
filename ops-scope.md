@@ -38,7 +38,7 @@ Enspiral Foundation Limited has contracted Enspiral Ops to provide a range of ba
 
 * Run 6-monthly member re-opt in process
 * Schedule 2-monthly members meetings
-* Add add a remove members from the Members Loomio group as needed
+* Add and remove members from the Members Loomio group as needed
 * Manage issue and forfeiture of member shares in the Foundation 
 
 **Company Support**
