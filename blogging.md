@@ -14,7 +14,7 @@ The content is diverse. We don’t need to have a strong editorial opinion about
 
 **Decentralised Leadership**
 
-Between us we’re learning a lot about decentralised leadership. Alanna Krause [writes about it](https://medium.com/enspiral-tales/no-boss-does-not-mean-no-leadership-c4c97c66025), Jessy Kate Schingler [writes about it](https://medium.com/enspiral-tales/transitioning-your-team-to-collaborative-governance-9c77e26f6bbf#.a0iri8vfv), Richard D. Bartlett [writes about it](https://medium.com/enspiral-tales/bootstrapping-a-bossless-organisation-in-3-easy-steps-afc653e8f5e6#.45fai8coj), and [so does Susan Basterfield](https://medium.com/enspiral-tales/emerging-into-teal-through-working-out-loud-adc28e5867d6#.2gwq1w6yj). These pieces are really valuable to people trying to follow in Enspiral’s footsteps.
+Between us we’re learning a lot about decentralised leadership. Alanna Krause [writes about it](https://medium.com/enspiral-tales/no-boss-does-not-mean-no-leadership-c4c97c660252#.7cy8qy6hl), Jessy Kate Schingler [writes about it](https://medium.com/enspiral-tales/transitioning-your-team-to-collaborative-governance-9c77e26f6bbf#.a0iri8vfv), Richard D. Bartlett [writes about it](https://medium.com/enspiral-tales/bootstrapping-a-bossless-organisation-in-3-easy-steps-afc653e8f5e6#.45fai8coj), and [so does Susan Basterfield](https://medium.com/enspiral-tales/emerging-into-teal-through-working-out-loud-adc28e5867d6#.2gwq1w6yj). These pieces are really valuable to people trying to follow in Enspiral’s footsteps.
 
 **Vision conjuring**
 
