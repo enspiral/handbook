@@ -13,7 +13,7 @@ If your work was for an Enspiral Services bucket, email services@enspiral.com wi
 * whether you are invoicing for you personally or on behalf of an Enspiral venture
 * the web address and name of the Cobudget bucket.
 
-Here's a link to the [Financial Agreement](Link to the Financial Agreement)
+Here's a link to the [Financial Agreement](http://handbook.enspiral.com/financial_agreement.html)
 
 ## Coming soon!
 
