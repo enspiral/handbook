@@ -1,11 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Context*](context.md)
-  * [Enspiral Vision*](enspiral_vision.md)
-  * [Enspiral Values](values.md)
-  * [Network Structure*](network_structure.md)
-  * [Story & Timeline*](timeline.md)
 * [Agreements](agreements.md)
   * [Board Agreement](board_agreement.md)
   * [Brand Agreement*](brand_agreement.md)
@@ -16,43 +11,34 @@
   * [People Agreement](people_agreement.md)
   * [Stewardship Agreement](stewardship_agreement.md)
   * [Venture Agreement](venture_agreement.md)
-* [Ambassadors*](ambassadors.md)
-* [Blogging](blogging.md)
-* [Culture & Tools*](culture.md)
+* [Guides](guides.md)
+  * [Ambassadors*](ambassadors.md)
+  * [Blogging](blogging.md)
   * [Comms Guidelines](comms_guidelines.md)
-  * [Cultural Technology*](cultural_tech.md)* Check-ins
-    * 90-day planning*
-    * Afternoon teas*
-    * Agile*
-    * Bringing your whole self to work*
-    * Collaboration Cafe*
-    * Check-in Loomio's*
-    * Distributed leadership*
-    * Email management*
-    * Group Games Zine*
-    * [Project Kitchens](project_kitchen.md)
-    * Retrospectives*
-  * [Digital Technology*](digital_tech.md)
+  * [Contributing to the Handbook](contributing.md)
+  * [Enspiral Values](values.md)
   * [Github for Beginners](github_for_beginners.md)
+  * [Improvements](improvements.md)
+  * [Onboarding Emails](onboarding-info.md)
+  * [People*](people.md)
+  * [Project Kitchens](project_kitchen.md)
+  * [Projects & Reports](projects_reports.md)
   * [Retreats*](retreats.md)
-  * [Stewarding*](stewarding.md)
-* [Enspiral Foundation Ltd*](foundation.md)
+  * [Stewarding](stewarding.md)
+* [Enspiral Foundation Ltd](foundation.md)
   * [Constitution](constitution.md)
   * [Board of Directors](board.md)
   * [Ops Scope](ops-scope.md)
   * [Comms Role Scope](comms-role.md)
   * [Catalysts](catalysts.md)
-* [Improvements](improvements.md)
-* [Money*](money.md)
-  * [Collaborative Funding*](collabfunding.md)
+* [Money](money.md)
+  * [Collaborative Funding](collabfunding.md)
   * [Variable Contributions](finances_variable_contributions.md)
   * [Financial Transparency](financial_transparency.md)
-* [People*](people.md)
-  * [Onboarding Emails](onboarding-info.md)
-* [Ventures*](ventures.md)
-  * [Venture Processes*](venture_processes.md)
-    * [Venture Introduction Template](venture_introduction_template.md)
-    * [Venture MOU](venture_mou.md)
+* [Ventures](ventures.md)
+  * [Venture Agreement](venture_agreement.md)
+  * [Venture Introduction Template](venture_introduction_template.md)
+  * [Venture MOU](venture_mou.md)
   * [Venture Profiles](venture_profiles.md)
     * [ActionStation](ventures/actionstation.md)
     * [Bucky Box](ventures/bucky_box.md)
@@ -73,8 +59,4 @@
     * [Gamelab](proto-ventures/gamelab.md)
     * [Enspiral Labs](proto-ventures/enspiral-labs.md)
     * [Ability Mate](proto-ventures/ability-mate.md)
-* [More Info*](more_info.md)
-   * [Links & Media](links_media.md)
-   * [Glossary](glossary.md)
-   * [Projects & Reports](projects_reports.md)
 
