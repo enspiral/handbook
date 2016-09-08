@@ -21,17 +21,17 @@
 * [Culture & Tools*](culture.md)
   * [Comms Guidelines](comms_guidelines.md)
   * [Cultural Technology*](cultural_tech.md)* Check-ins
+    * 90-day planning*
     * Afternoon teas*
+    * Agile*
     * Bringing your whole self to work*
-    * Distributed leadership*
-    * Retrospectives*
-    * Email management*
     * Collaboration Cafe*
+    * Check-in Loomio's*
+    * Distributed leadership*
+    * Email management*
     * Group Games Zine*
     * [Project Kitchens](project_kitchen.md)
-    * Check-in Loomio's*
-    * 90-day planning*
-    * Agile*
+    * Retrospectives*
   * [Digital Technology*](digital_tech.md)
   * [Github for Beginners](github_for_beginners.md)
   * [Retreats*](retreats.md)

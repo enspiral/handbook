@@ -2,22 +2,24 @@
 
 This agreement defines how formal decisions are made at Enspiral. It identifies a number of different types of decision-making protocols, and describes processes for participating in formal decision making.
 
-###Context
+### Context
+
 Enspiral is a network of highly autonomous individuals, teams, and ventures. As much as possible, we encourage people to make decisions for themselves.
 
 Enspiral is also a network building shared commons, and pursuing shared aspirations, that call for collective agreements and commitments. There are a variety of situations where it is useful or necessary to make a formal decision as a group. 
 
-###Decision Protocol: Consensus 
+### Decision Protocol: Consensus 
 
 For formal decisions, Enspiral uses [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), a methodology with a specific meaning and practice. Consensus does not mean unanimous agreement or engagement from everyone on all decisions. The key concept is consent (you can live with it), which is distinct from agreement (it’s your preference or first choice). 
 
-###Agreements
+### Agreements
 
 Formal decisions with everyone are only intended to be used when they will have significant impact on the wider network. This Decision Agreement is the core agreement from which all others derive their mandate.
 
 In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](agreements.html). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
 
-###Decision Tool: Loomio
+### Decision Tool: Loomio
+
 At Enspiral, formal decisions are made using a software tool called [Loomio](http://www.loomio.org), which helps groups make collective decisions using constructive deliberation. This process is based on the principle that diverse perspectives can be synthesised to achieve better solutions that work for more people. 
 
 While making use of other channels (online and offline) to enrich input into a decision is strongly encouraged, the results on Loomio are considered the official outcome. This is so that we can keep a clear record and archive, and to ensure that everyone who desires to participate in a given decision-making process has the opportunity to make their voice heard.
