@@ -1,9 +1,7 @@
 # Enspiral Handbook
 
 
-If you're looking for introductory information about Enspiral, check our website [enspiral.com](http://enspiral.com/), [this quick slideshow](http://whatis.enspiral.com), or this 90 second video:
-
-{% video %}https://vimeo.com/125088390{% endvideo %}
+If you're looking for introductory information about Enspiral, check our website [enspiral.com](http://enspiral.com/), [this quick slideshow](http://whatis.enspiral.com), or [this 90 second video](https://vimeo.com/125088390).
 
 
 ## About This Handbook
@@ -36,4 +34,4 @@ There's an increasing number of companies outside of Enspiral that are also docu
 * [Thoughtbot Playbook](https://thoughtbot.com/playbook)
 * [Valve Company Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
-* *if you have a handbook of your own, add it here*
+* *if you have a handbook of your own, add it here or ping [@richdecibels](http://twitter.com/richdecibels) on Twitter*

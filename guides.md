@@ -1,6 +1,6 @@
 # Guides
 
-Guides explain in practical terms how we do stuff, like [what communications tools to use](comms_guidelines.md), or [how to improve things at Enspiral](improvements.md). Any Enspiral Contributor can change these.
+Guides explain in practical terms how we do stuff. Any Enspiral Contributor can change these.
 
 * [Blogging](blogging.md) - how to add a story to the [Enspiral Tales blog](http://medium.com/enspiral-tales)
 * [Comms Guidelines](comms_guidelines.md) - how to know which tool to use for which kind of communication
