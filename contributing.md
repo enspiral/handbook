@@ -22,7 +22,7 @@ If you're making a small edit like fixing a typo, or adding a guide, the pull re
 
 Watch the quick demo video, or read on:
 
-{% video %}https://www.youtube.com/watch?v=zVvda3ci4w4{% endvideo %}
+{% video %}https://www.youtube.com/watch?v=zVvda3ci4w4 {% endvideo %}
 
 #### Step 1
 
