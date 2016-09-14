@@ -14,6 +14,7 @@
 * [Guides](guides.md)
   * [Ambassadors*](ambassadors.md)
   * [Blogging](blogging.md)
+  * [Conflict](conflict.md)
   * [Comms Guidelines](comms_guidelines.md)
   * [Contributing to the Handbook](contributing.md)
   * [Enspiral Values](values.md)
