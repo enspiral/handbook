@@ -24,6 +24,7 @@
   * [People*](people.md)
   * [Project Kitchens](project_kitchen.md)
   * [Projects & Reports](projects_reports.md)
+  * [PR tips for humans](press.md)
   * [Retreats*](retreats.md)
   * [Stewarding](stewarding.md)
 * [Enspiral Foundation Ltd](foundation.md)
