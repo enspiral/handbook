@@ -63,6 +63,10 @@ Are you the next contributor?
 
 ---
 
+## Resources
+
+- [Unsplash](https://unsplash.com/): free high resolution photos
+
 ---
 
 
