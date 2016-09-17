@@ -53,7 +53,7 @@ Some metrics that I'll be reporting on:
 
 Started: April 1, 2016
 
-Stewards: Simon Tegg, Chelsea Robinson, Genevieve Parkes, Andre Bate
+Stewards: Chelsea Robinson, Genevieve Parkes, Andre Bate
 
 I like about half the things on Rich’s just as much as he does and dislike half the things about half as much. I’ll let you guess which categories ‘dancing with my butt’ and ‘sorta made-up words like “catalyst”’ fall into.
 
