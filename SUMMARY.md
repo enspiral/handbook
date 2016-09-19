@@ -18,6 +18,7 @@
   * [Comms Guidelines](comms_guidelines.md)
   * [Contributing to the Handbook](contributing.md)
   * [Enspiral Values](values.md)
+  * [Forms](forms.md)
   * [Github for Beginners](github_for_beginners.md)
   * [Improvements](improvements.md)
   * [Onboarding Emails](onboarding-info.md)
