@@ -41,10 +41,9 @@ upload-image:
   services:
     - docker:dind
   script:
-    - echo $CI_BUILD_REF_NAME
     - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN docker.ii.org.nz
-    - docker build -t docker.ii.org.nz/$CI_PROJECT_NAMESPACE/handbook:$CI_BUILD_REF_NAME .
-    - docker push docker.ii.org.nz/$CI_PROJECT_NAMESPACE/handbook:$CI_BUILD_REF_NAME
+    - docker build -t docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME .
+    - docker push docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME
     
 # run nginx container
 publish-to-web:
@@ -54,5 +53,5 @@ publish-to-web:
   script:
     - docker pull docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME
     - docker rm -f $CI_BUILD_REF_NAME.$CI_PROJECT_NAME.$CI_PROJECT_NAMESPACE || /bin/true
-    - docker run --name $CI_BUILD_REF_NAME.$CI_PROJECT_NAME.$CI_PROJECT_NAMESPACE --env "VIRTUAL_HOST=$CI_BUILD_REF_NAME.$CI_PROJECT_NAMESPACE.$CI_PROJECT_NAME.ii.org.nz" --network handbook_default -d docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME
+    - docker run --name $CI_BUILD_REF_NAME.$CI_PROJECT_NAME.$CI_PROJECT_NAMESPACE --env "VIRTUAL_HOST=$CI_BUILD_REF_NAME.$CI_PROJECT_NAMESPACE.$CI_PROJECT_NAME.ii.org.nz" --network $DOCKER_PROJECT_NETWORK -d docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME
     - echo Website available at http\://$CI_BUILD_REF_NAME.$CI_PROJECT_NAMESPACE.$CI_PROJECT_NAME.ii.org.nz
