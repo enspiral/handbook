@@ -54,3 +54,4 @@ You can find us at \#ambassadors on slack and in our [Loomio Group](https://www.
 ### Meh, I'm not up for all this process, but I do represent Enspiral and meet interesting folks from time to time.
 
 No problems, it would help us if you dropped a message in the \#ambassadors slack channel but fly free you free spirit you.
+
