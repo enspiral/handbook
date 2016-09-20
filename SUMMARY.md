@@ -12,7 +12,7 @@
   * [Stewardship Agreement](stewardship_agreement.md)
   * [Venture Agreement](venture_agreement.md)
 * [Guides](guides.md)
-  * [Ambassadors*](ambassadors.md)
+  * [Ambassadors](ambassadors.md)
   * [Blogging](blogging.md)
   * [Conflict](conflict.md)
   * [Comms Guidelines](comms_guidelines.md)
