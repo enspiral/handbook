@@ -4,7 +4,7 @@ The Ambassadors are a working group in Enspiral who focus on outreach and connec
 
 ##Working with Ambassadors
 ### Why do the Ambassadors exist?
-Enspiral can be challenging for external people and organisations to have a relationship with. Ambassadors are people who are confident and supported to represent Enspiral and maintain long term relationships with other groups.
+It can be challenging for external people and organisations to have a relationship with Enspiral. Ambassadors are people who are confident and supported to represent Enspiral and maintain long term relationships with external groups and individuals.
 
 ### What do Ambassadors do?
 They spend time with people and help them find opportunities to collaborate with Enspiral people and Ventures. This involves lots of calls and face to face meetings, spending the time to understand other organisations and hunting for meaningful value exchanges. 
