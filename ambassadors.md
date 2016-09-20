@@ -1,6 +1,6 @@
 # Ambassadors
 
-The Ambassadors are a working group in Enspiral who focus on outreach and connecting with other organisations.
+The Ambassadors are a working group in Enspiral focused on outreach and connecting with other organisations.
 
 ##Working with Ambassadors
 ### Why do the Ambassadors exist?
