@@ -21,7 +21,7 @@ The team:
 * Process invoices and bills and keep bank accounts reconciled to Xero
 * Update accounts on the my.enspiral backend system, and regularly reconcile
 * Make payments for monthly fixed costs
-* Pay out Cobudget buckets
+* Pay out Cobudget buckets after the [Bucket Payout form](collabfunding.md) is filled in.
 * Chase any overdue invoices
 * Work with the accountants and make sure the monthly financial report is published to members
 * Keep an accurate record of how much we have in all Foundation accounts
@@ -34,11 +34,10 @@ The team:
 
 **Manage Contributors**
 
-* Manage contributor enquiries about operations via email & slack
+* Manage contributor enquiries about operations via email, slack and Google forms.
 * Process requests from members to add new contributors
  * Send new contributor welcome email
  * Add new person to online systems
- * Assign contributor buddy
  * Keep list of contributors up to date
 * Manage contributor re-opt-in and financial contribution process (at three months, and annually thereafter), including removing contributors who opt out
 
