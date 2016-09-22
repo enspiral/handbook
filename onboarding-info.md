@@ -11,7 +11,7 @@ This is the start of your journey into the Enspiral Network. As a new contributo
 
 Week 1 : Welcome and communications tools
 
-Week 2 : Meet your Enspiral Buddy
+Week 2 : Meet your steward
 
 Week 3 : What it means to be an Enspiral Contributor
 
@@ -54,17 +54,21 @@ Happy Enspiraling!
  
 Enspiral Foundation
 
-## Week 2: Meet your Enspiral Buddy
+## Week 2: Meet your Enspiral Steward
 
-Kia ora 
-Soon it will be time to meet your Enspiral Buddy!
+Kia ora,
 
-As well as the Member who invited you into Enspiral, we make sure every new Contributor has a welcome Buddy to help them on their social journey into the network. Above all else, Enspiral is a community and it’s our relationships with one-another that makes everything work. As a new Contributor, your job is to find the people within our network that most resonate with what you want to create in the world. Your Buddy is here to help.
+Above all else, Enspiral is a community and it’s our relationships with each other that make everything work. To help welcome you on your social journey into the network, you have been assigned a Steward. Your Steward looks after your relationship with the Enspiral network as a whole, and is your one guaranteed point of contact. 
 
-You will soon receive another email with an introduction to your buddy. After receiving this, contact them to arrange either a meet-up or video call. This will help you both to get to know each other. Your Buddy will ask you questions to understand your intentions and aspirations coming into Enspiral and introduce you to other people in the network who might share similar dreams. Here’s a suggested process the two of you can follow. Your Buddy will also be your first port of call for all your questions about Enspiral.
+In most cases, your Steward will be the Enspiral member who invited you to the network, but not always. 
+
+Next steps: 
+
+The Enspiral Operations team will send you an email in the next few days confirming the name of your steward, and prompting you to connect with them. After receiving this, contact your steward to arrange either a meet-up or video call. This will help you both to get to know each other. Your Steward will ask you questions to understand your intentions and aspirations coming into Enspiral, and introduce you to other people in the network who might share similar dreams. 
+
+As a new Contributor, your job is to find the people within our network that most resonate with what you want to create in the world. Your Steward is here to help.
 
 Happy connecting!
-
 
 ## Week 3 email: So what does it mean to be an Enspiral Contributor?
 Kia ora,
@@ -121,7 +125,7 @@ Kia ora
 Hungry to get more informed about Enspiral?
 We have a multitude of places you can delve into to understand more about the network. Here’s some we can recommend ＼(^o^)／
 
-# Read :
+### Read :
 
 [Enspiral Handbook](handbook.enspiral.com) - a work in progress guide to being part of Enspiral
 
@@ -131,13 +135,13 @@ We have a multitude of places you can delve into to understand more about the ne
 
 Enspiral FAQ - our answers to your questions. Submit more here.
 
-# Watch :
+### Watch :
 [Enspiral YouTube channel](https://www.youtube.com/user/enspiral)
 
-# Ask :
+### Ask :
 Ask Enspiral group on Loomio
 
-#enspiral_help channel on Slack
+### Enspiral_help channel on Slack
 We really encourage question-asking at Enspiral. It helps us understand what is clear and what isn’t. So please never hesitate to jump on to Loomio or Slack and ask away!
 
 Happy exploring!
