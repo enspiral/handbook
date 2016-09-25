@@ -8,6 +8,7 @@ something doesn't seem quite right, try contacting us at: foundation@enspiral.co
 
 * Get your Cobudget bucket paid out [bucket payout form](https://handbook.enspiral.com/collabfunding.html)
 * [Annual contributor opt-in form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSfbcTxIiZR4zvZlVOugVkXb34bcg4iUeB5uwDXveVODOGr5jg/viewform?entry.190767353&entry.977126547=100&entry.1019976978&entry.2103714586&entry.39252034)
+* Add or remove your [Google Apps email account](google_apps.md)
 
 ###Members only
 
