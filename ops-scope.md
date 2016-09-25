@@ -1,14 +1,27 @@
 # Enspiral Ops Scope of Work
 
-Enspiral Foundation Limited has contracted Enspiral Ops to provide a range of back office and administrative services. This is a summarised version of the agreed scope of work.
+##Context
 
+###The contract
+Enspiral Foundation Limited via the Board has contracted the Ops team to provide a range of back office and administrative services. This is a summarised version of the agreed scope of work.
 
+###Ops team
+The Ops team are a pod within Enspiral Services Ltd. They were founded by Malcolm and Phill in July 2015 to take on the admin work of Tracey in Enspiral Services Ltd and Phill in Enspiral Foundation Ltd. Their plan is to become a proto-venture of Enspiral by November 2016.
+The team:
+
+* Malcolm Shearer (Wellington)
+* Phill Coxon (Christchurch)
+* Charley Davenport (Wellington)
+* Babs Lake (Wellington)
+* Haley Littlewood (Nelson)
+
+##Contracted work
 **Banking and Xero - Financial Admin**
 
 * Process invoices and bills and keep bank accounts reconciled to Xero
 * Update accounts on the my.enspiral backend system, and regularly reconcile
 * Make payments for monthly fixed costs
-* Pay out Cobudget buckets
+* Pay out Cobudget buckets after the [Bucket Payout form](collabfunding.md) is filled in.
 * Chase any overdue invoices
 * Work with the accountants and make sure the monthly financial report is published to members
 * Keep an accurate record of how much we have in all Foundation accounts
@@ -21,11 +34,10 @@ Enspiral Foundation Limited has contracted Enspiral Ops to provide a range of ba
 
 **Manage Contributors**
 
-* Manage contributor enquiries about operations via email & slack
+* Manage contributor enquiries about operations via email, slack and Google forms.
 * Process requests from members to add new contributors
  * Send new contributor welcome email
  * Add new person to online systems
- * Assign contributor buddy
  * Keep list of contributors up to date
 * Manage contributor re-opt-in and financial contribution process (at three months, and annually thereafter), including removing contributors who opt out
 

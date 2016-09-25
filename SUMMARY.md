@@ -20,6 +20,7 @@
   * [Enspiral Values](values.md)
   * [Forms](forms.md)
   * [Github for Beginners](github_for_beginners.md)
+  * [Google apps](google_apps.md)
   * [Improvements](improvements.md)
   * [Onboarding Emails](onboarding-info.md)
   * [People*](people.md)

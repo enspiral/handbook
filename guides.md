@@ -6,6 +6,7 @@ Guides explain in practical terms how we do stuff. Any Enspiral Contributor can 
 * [Comms Guidelines](comms_guidelines.md) - how to know which tool to use for which kind of communication
 * [Contributing to the Handbook](contributing.md) - how to edit this book
 * [Github for Beginners](github_for_beginners.md) - more background on editing this book
+* [Google Apps](google_apps.md) - how to get an Enspiral email account
 * [Improvements](improvements.md) - how to make changes to the network
 * [Project Kitchens](project_kitchen.md) - a how to run a facilitated group collaboration process
 * [Retreats*](retreats.md)
