@@ -5,3 +5,5 @@
 * [Venture MOU](venture_mou.md)
 * [Venture Profiles](venture_profiles.md)
 * [Proto-Ventures](proto-ventures.md)
+
+{% include 'contributing_hint.md' %}

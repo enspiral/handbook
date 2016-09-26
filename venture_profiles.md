@@ -15,3 +15,5 @@
  * [Rabid](ventures/rabid.md)
  * [Scoop](ventures/scoop.md)
  * [Volunteer Impact](ventures/volunteer_impact.md)
+
+{% include 'contributing_hint.md' %}

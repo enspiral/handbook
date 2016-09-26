@@ -84,3 +84,4 @@ Enspiral ventures and proto ventures are encouraged to share strategic projects 
 Feel free to use the proto-venture tag for tickets relating to launching a new proto-venture but you don't get a named tag until you officially become one.
 
 
+{% include 'contributing_hint.md' %}

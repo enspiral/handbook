@@ -51,3 +51,6 @@ Gabby made these excellent videos introducing Github for beginners. Some of the 
 And a place to practice your new Github skills:
 
 https://github.com/fractalcactus/anEnspiralStory
+
+{% include 'contributing_hint.md' %}
+

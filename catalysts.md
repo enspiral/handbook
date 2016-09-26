@@ -60,3 +60,6 @@ I like about half the things on Rich’s just as much as he does and dislike hal
 I’m not sure I know how to not catalyse things and I am deeply grateful to Enspiral Academy for sponsoring two days a week so that I actually have time to put into making things better.
 
 My biggest intention is to get my mind out of the way and listen deeply so I can serve as best I can. I hope I am at least twice as effective at the end of this year as I am at the start of it and I intend to give the start everything I have.
+
+
+{% include 'contributing_hint.md' %}

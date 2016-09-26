@@ -77,3 +77,4 @@ The team:
 
 
 
+{% include 'contributing_hint.md' %}

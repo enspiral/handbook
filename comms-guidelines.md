@@ -137,3 +137,5 @@ We have a free account, which means we can only view our last 10,000 messages (a
 Contact news@enspiral.com to reach Jess, our comms maven. 
 
 Drop into the #enspiral_help channel on Slack
+
+{% include 'contributing_hint.md' %}

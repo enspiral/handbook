@@ -16,3 +16,4 @@ something doesn't seem quite right, try contacting us at: foundation@enspiral.co
 * To add a new member, leave membership or change your hiatus status, go to the [Member status change form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSe3pO-XEzduRM3UgrnW1GqAFm9F8NQaHHanjizgpn9EoWyBQA/viewform)
 
 
+{% include 'contributing_hint.md' %}

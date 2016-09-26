@@ -55,3 +55,4 @@ You can find us at \#ambassadors on slack and in our [Loomio Group](https://www.
 
 No problems, it would help us if you dropped a message in the \#ambassadors slack channel but fly free you free spirit you.
 
+{% include 'contributing_hint.md' %}

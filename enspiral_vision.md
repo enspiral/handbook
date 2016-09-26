@@ -1,3 +1,0 @@
-# Enspiral Vision
-
-Coming Soon.

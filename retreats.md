@@ -4,3 +4,5 @@ Multimedia: [Retreats Timeline](https://docs.google.com/presentation/d/1UIO8q1G8
 
 Coming soon: more about retreats at Enspiral, what they mean in our culture, and how they work
 
+
+{% include 'contributing_hint.md' %}

@@ -59,6 +59,7 @@ Businesses gifting funds to Enspiral Foundation are responsible for setting asid
 
 
 
+{% include 'contributing_hint.md' %}
 
 
 
