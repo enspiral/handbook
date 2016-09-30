@@ -179,3 +179,4 @@ Big thanks!
 
 
 
+{% include 'contributing_hint.md' %}

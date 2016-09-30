@@ -87,3 +87,5 @@ I've found it to be orders of magnitude easier to recruit people to write on Med
 * [Use the licenses](https://medium.com/@Medium/licensing-your-work-on-medium-517fa7096e62#.5jtprii94) to make sure you understand who owns the stories and who can reproduce them on what conditions.
 * Put your stories elsewhere and just use Medium as a signal-booster. I've started publishing on Gist with public-domain licensing, so it is easy for anyone to repost my work onto Medium, Wordpress, or anywhere else.
 * If you know of a free software alternative to Medium that is comparable in terms of accessibility and impact, and you want to host Enspiral's blogging platform there, I will be happy to do what I can to support a migration plan.
+
+{% include 'contributing_hint.md' %}

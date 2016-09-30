@@ -11,3 +11,4 @@ This chapter will eventually be a whole section with different pages.
 * Link to People Agreement
 * Link to list of Members
 
+{% include 'contributing_hint.md' %}

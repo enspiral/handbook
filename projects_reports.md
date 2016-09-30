@@ -31,3 +31,4 @@ Mastermind 2014, 2015
 
 Namaste Retrospective
 
+{% include 'contributing_hint.md' %}

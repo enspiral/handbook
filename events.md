@@ -60,3 +60,5 @@ First: create your account by signing up here: http://chalkle.com/enspiral. Then
 We will shortly be shutting down Enspiral’s Google+ community, which many people were using to announce events. Please do not post notices about events on Loomio (unless there is a real decision-making aspect relevant to the whole network). You’re welcome to post links to Chalkle events on Slack, social media, etc.
 
 If you have any questions or issues reach out to support@chalkle.com. 
+
+{% include 'contributing_hint.md' %}

@@ -81,3 +81,5 @@ We try to spend minimal time in transport, i.e. spending almost all the time at 
 
 *Please feel free to update this section of the handbook. [Find out how.](contributing.md)*
 
+
+{% include 'contributing_hint.md' %}

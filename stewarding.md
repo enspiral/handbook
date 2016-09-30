@@ -27,3 +27,5 @@ _more links to resources here_
 ## Matchmaker
 
 _matchmaker role definition here_
+
+{% include 'contributing_hint.md' %}

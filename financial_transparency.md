@@ -33,3 +33,5 @@ $14,000
 ### Discretionary Funds
 
 Overview of collaborative funding buckets - to be updated soon
+
+{% include 'contributing_hint.md' %}

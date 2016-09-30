@@ -11,3 +11,5 @@ Guides explain in practical terms how we do stuff. Any Enspiral Contributor can 
 * [Project Kitchens](project_kitchen.md) - a how to run a facilitated group collaboration process
 * [Retreats*](retreats.md)
 * [Stewarding](stewarding.md) - how we look after people in the network
+
+{% include 'contributing_hint.md' %}

@@ -36,3 +36,6 @@ There's an increasing number of companies outside of Enspiral that are also docu
 * [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
 * [Crisp DNA](http://dna.crisp.se/docs/index.html)
 * *if you have a handbook of your own, add it here or ping [@richdecibels](http://twitter.com/richdecibels) on Twitter*
+
+
+{% include 'contributing_hint.md' %}
