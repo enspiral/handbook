@@ -1,7 +1,5 @@
 # Contributing to the handbook
 
-You can update the menu by editing the `SUMMARY.md` file.
-
 ## The Github Method
 
 Github is a platform that is mostly used by developers to manage software projects: it allows many contributors to all work on a single project without stepping on each other's toes. It has a system for storing files and proposing changes to them in a managed way. (This is based on an amazing free technology called git.)
@@ -69,3 +67,23 @@ If you think the content in the handbook is inaccurate or could be improved foll
 ## The Gitbooks Method
 
 You can also edit the handbook using the [Gitbooks Editor](https://www.gitbook.com/editor). If you know how to do that, why don't you go ahead and update this page to explain it to someone else :)
+
+
+---
+
+## Updating the Table of Contents/Menu
+
+You can update the menu by editing the `SUMMARY.md` file.
+
+
+---
+
+## Previewing changes before merging a pull request
+
+Gitbook automatically renders all branches on Github, so you can preview what a pull request will look like before merging it.
+
+To do this, go to the [Activity tab](https://www.gitbook.com/book/enspiral/enspiral-handbook/activity) -> switch branch -> view latest build -> read online.
+
+![](http://g.recordit.co/VKyB3IqBgc.gif)
+
+
