@@ -1,12 +1,11 @@
 # Financial Transparency
 
-**Note: This page is still in progress**
+**Note: This page is accurate as of October 2016 **
 
 How money works at Enspiral is determined by the [Financial Agreement](http://handbook.enspiral.com/financial_agreement.html). This page is to provide information and transparency about our financial situation.
+## Income and Expenses
 
 ### Income
-The following information is reasonably accurate as of October 2016. [source](https://www.loomio.org/d/9kpIaK6W/cooking-the-books-paying-for-google-accounts-)
-
 Enspiral Foundation income comes from both Ventures and Contributors
 
 __Venture__ contributions:
@@ -31,18 +30,7 @@ So Foundation __monthly income__ is:
 | 1833 | contributors |
 | 3923 | __total__ |
 
-
-### Emergency Fund
-*Amount set aside by the Board of Directors*
-
-$10,000
-
-### Normal Reserves
-*Spending these funds is a decision of the Enspiral Members*
-
-$14,000
-
-### Fixed Costs
+### Expenses
 
 *Expenses we have collectively agreed to fund on an ongoing basis.*
 
@@ -55,9 +43,21 @@ $14,000
 | 350 | ACC |
 | 5846 | __total__ |
 
+## Money we have
 
-### Discretionary Funds
+### Emergency Fund
+*Amount set aside by the Board of Directors*
 
-Overview of collaborative funding buckets - to be updated soon
+$10,000
+
+### Normal Reserves
+*Spending these funds is a decision of the Enspiral Members*
+
+$28,537.18 in reserves
+
+### Foundation Cobudget
+This is money that has been allocated in the foundation cobudget system but has not been spent. We're considering what we want to do about all this money as it is continuing to increase.
+
+$34,000 in Foundation Cobudget
 
 {% include 'contributing_hint.md' %}
