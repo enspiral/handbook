@@ -12,7 +12,8 @@ __Venture__ contributions:
 
 | $ | From |
 |---|---|
-|700 | Lifehack |
+| 1.5k - 2.5k | Services |
+| 700 | Lifehack |
 | 500 | EDA |
 | 400 | Accounting |
 | 200 | Loomio |
