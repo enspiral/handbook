@@ -139,7 +139,7 @@ Enspiral FAQ - our answers to your questions. Submit more here.
 [Enspiral YouTube channel](https://www.youtube.com/user/enspiral)
 
 ### Ask :
-Ask Enspiral group on Loomio
+[Ask Enspiral](https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral) group on Loomio
 
 ### Enspiral_help channel on Slack
 We really encourage question-asking at Enspiral. It helps us understand what is clear and what isn’t. So please never hesitate to jump on to Loomio or Slack and ask away!
