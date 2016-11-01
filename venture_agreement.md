@@ -50,7 +50,7 @@ Becoming an Enspiral Venture requires approval through a Quorum decision by the 
 2. Venture Stewards posts the Venture Introduction to the Enspiral Members Loomio, and commence a “getting to know you” period. The recommended duration for this period is one month. 
 3. Loomio proposal in the Members Loomio, following the requirements for a Quorum Decision, and if passed an invitation to join is extended to the venture.
 4. Venture accepts official invitation to join.
-5. Operations team facilitates signing of Venture MOU between Foundation Board and Venture representatives, and set up any financial contribution processing required.
+5. Operations team (via foundation@enspiral.com) facilitates signing of Venture MOU between Foundation Board and Venture representatives, and set up any financial contribution processing required.
 6. Venture Stewards ensure profile published in Enspiral Handbook.
 7. Venture Stewards ensure Logo and link added to Enspiral Website.
 8. Venture Stewards request an announcement in Enspiral News of the new venture joining, with a link to their Venture profile page.
@@ -86,7 +86,7 @@ Financial contributions are made to the Enspiral Foundation, ideally on a monthl
 
 Ventures are free to adjust the contribution level specified in their Venture MOU at any time. It is expected that as a venture evolves, so too will its contribution. Ventures are required to communicate clearly about any such adjustments.
 
-1. Venture contact person lets the operations team and their stewards know the new contribution they wish to commit to.
+1. Venture contact person lets the Operations team (via foundation@enspiral.com) and their stewards know the new contribution they wish to commit to.
 2. Operations team prepare a new Venture MOU, which is signed by the Foundation board without negotiation.
 3. Operations team notify Enspiral News to include an announcement in the next newsletter. 
 4. Venture Stewards ensure the Venture profile is updated with the new contribution information.
