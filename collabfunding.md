@@ -22,3 +22,5 @@ History of Collborative Funding at Enspiral
 How Enspiral uses Cobudget
 
 Link to previous collab funding annual reports
+
+{% include 'contributing_hint.md' %}

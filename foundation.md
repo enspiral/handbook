@@ -33,3 +33,4 @@ Registered company:
 https://www.business.govt.nz/companies/app/ui/pages/companies/3415611
 
 
+{% include 'contributing_hint.md' %}

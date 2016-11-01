@@ -10,3 +10,4 @@ A lot of what makes Enspiral special is how we deal with money. Read more about 
 
 Money at Enspiral is governed by the [Financial Agreement](http://handbook.enspiral.com/financial_agreement.html).
 
+{% include 'contributing_hint.md' %}

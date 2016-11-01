@@ -7,7 +7,7 @@ The Enspiral Foundation is a charitable company co-owned by the [Enspiral Member
 **Key personnel**
 
 * Silvia Zuur - Director
-* Alanna Krause - Director
+* Robert Guthrie - Director
 * Billy Matheson - Director
 * Enspiral Members - Shareholders
 * Enspiral Ops - Administration
@@ -49,7 +49,7 @@ Everything the Foundation does is oriented toward the loosely defined mission of
 
 **Venture Stewards** 
 
-* Alanna Krause 
+* Robert Guthrie 
 * Silvia Zuur
 * Billy Matheson
 

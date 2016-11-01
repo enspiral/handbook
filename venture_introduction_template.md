@@ -57,6 +57,7 @@ To apply as a new venture, the following information is submitted by the venture
 
 *How can the network support the venture?*
 
+{% include 'contributing_hint.md' %}
 
 
 

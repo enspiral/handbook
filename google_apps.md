@@ -16,3 +16,5 @@ Operations HIGHLY recommends you secure your account. A few small tweaks will re
 * Setup 2-step authentication. Seriously, it's not worth the risks of not doing it. Do Google's security check up [here](https://myaccount.google.com/). Ideally do everything on that page but at the very least setup 2-step and some backup codes in case you get locked out. It'll only ask you for a code every 30 days either via text or the google authenticator app. Use the app if you'll be travelling overseas.
 * Make sure your software is up-to-date
 * School up on what phishing is and how to avoid it. There are some really great looking fake gmail login pages out there that will suck up your login details and you won't have a clue you've been hacked, until it's too late. [Read this](https://www.tracesecurity.com/blog/social-engineering-red-flags)
+
+{% include 'contributing_hint.md' %}

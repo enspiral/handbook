@@ -18,4 +18,8 @@ something doesn't seem quite right, try contacting us at: foundation@enspiral.co
 
 ###Ventures
 
+
 * To add a new venture or proto-venture to the network, go to the [New Enspiral venture form](https://docs.google.com/a/enspiral.com/forms/d/1KpnihByGGSiio0_-ipwG8NML_kXHDe5-Tiq8GrqWq1I/edit?usp=drive_web)
+
+{% include 'contributing_hint.md' %}
+

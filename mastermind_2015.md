@@ -1,2 +1,0 @@
-# Mastermind 2015
-

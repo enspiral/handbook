@@ -37,3 +37,6 @@ The Project Kitchen method gives participants concrete ideas and encouragement f
 
 
 6. **Check-out** - Each person in the group is invited to talk briefly about their experience of the Project Kitchen process and what value they got out of it.
+
+
+{% include 'contributing_hint.md' %}

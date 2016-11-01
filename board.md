@@ -54,3 +54,5 @@ In terms of governance, I love thinking about form to enable freedom. I like kee
 
 ### Rob Guthrie
 Profile coming soon
+
+{% include 'contributing_hint.md' %}

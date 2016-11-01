@@ -3,6 +3,8 @@
 
 If you're looking for introductory information about Enspiral, check our website [enspiral.com](http://enspiral.com/), [this quick slideshow](http://whatis.enspiral.com), or [this 90 second video](https://vimeo.com/125088390).
 
+If you're looking for stories, check out [Enspiral Tales](https://medium.com/enspiral-tales) our collective blog.
+
 
 ## About This Handbook
 
@@ -36,3 +38,6 @@ There's an increasing number of companies outside of Enspiral that are also docu
 * [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
 * [Crisp DNA](http://dna.crisp.se/docs/index.html)
 * *if you have a handbook of your own, add it here or ping [@richdecibels](http://twitter.com/richdecibels) on Twitter*
+
+
+{% include 'contributing_hint.md' %}

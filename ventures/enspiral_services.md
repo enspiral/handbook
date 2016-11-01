@@ -2,48 +2,36 @@
 
 **Venture Description (200 words)**
 
-*What the venture does*
+Professional services
 
 **Key personnel**
 
-*team members and roles*
-
-Craig Ambrose
-
-**Links to website or other resources**
-* website
+Joshua Vial
 
 **Latest Quarterly Update**
 
-* *date updated*
-
-*'your quarter in one sentence'*
+* June - September, 2016: starting to clean the slate for new beginnings
 
 **Founding Date & Brief History**
 
-*Where did this venture come from?*
+This was the original Enspiral company we used to explore a freelancer collective
 
 **Legal structure**
 
-*Incorporation type, ownership info*
+Limited Liability company. One share held in trust by JV, the intention was to issue more shares to other folks which was put on hold due to unresolved tax issues.
 
 **Business Model**
 
-*Revenue streams, types of clients/users, financial aspirations*
+Consultants invoice clients for their time
 
 **Social Impact Strategy / Theory of Change**
 
-*What is the positive change the venture was conceived to make in the world? How will you bring this about?*
-
----
+Help people earn a good livelihood so they can self fund on mission driven projects.
 
 **Venture Stewards** 
 
-* one 
-* two
-* three
+TBC
 
 **Enspiral Foundation Contribution**
 
-* financial
-* non-financial
+* Each contractor gives a portion of their revenue to Enspiral Services (between 0% and 20%). We contribute 1/4 of all contributions to Enspiral Foundation. Typically 2-4k per month.

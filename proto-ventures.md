@@ -41,3 +41,6 @@ Enspiral contributors are welcome to use [this Loomio thread](https://www.loomio
 * We are focusing on creating 3D Printed Orthotics for children with physical disabilities
 * Contact person: Melanie “The Overachiever” Tran - [melt@abilitymate.com](melt@abilitymate.com)
 * Stewards: Rose Lu, Sam Rye, Joshua Vial
+
+
+{% include 'contributing_hint.md' %}

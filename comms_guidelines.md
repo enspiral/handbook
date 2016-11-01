@@ -53,12 +53,12 @@ To get something published in News, email news@enspiral.com or post in the #ensp
 
 **[Blog - Enspiral Tales](http://blog.enspiral.com)**
 
-Enspiral has a publication on Medium called Enspiral Tales that many people are actively contributing to. Generally, we welcome content from anyone in the network. The Fairy Blogmother is currently Rich Bartlett - talk to him if you’re interested in blogging. 
+Enspiral has a publication on Medium called Enspiral Tales that many people are actively contributing to. We welcome content from anyone in the network. [Find out more](blogging.md).
 
 
 ## Comms Tips and Guidelines
 
-We operate in an attention economy. Getting the attention people at Enspiral is expensive! Here's some advice about making it count.
+We operate in an attention economy. Getting the attention of people at Enspiral is expensive! Here's some advice about making it count.
 
 **This is YOUR Space**
 
@@ -125,3 +125,5 @@ Realize that any time you’re communicating to large groups of people, you are 
 Contact news@enspiral.com to reach Jess, our comms maven. 
 
 Drop into the #enspiral_help channel on Slack
+
+{% include 'contributing_hint.md' %}
