@@ -20,7 +20,7 @@ The issues list and the waffle board are different views to the same information
 
 **[Slack](http://enspiral.slack.com) - Daily Realtime Comms**
 
-Daily chatting, realtime comms, quick questions, intersting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
+Daily chatting, realtime comms, quick questions, interesting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
 
 **[Chalkle](http://www.chalkle.com/enspiral) - Events/Classes**
 
@@ -38,9 +38,9 @@ To get something published in News, email news@enspiral.com or post in the #ensp
 
 **Google Apps**
 
-* Email - Everyone at Enspiral is entitled to an Enspiral email address if they need one to represent Enspiral to clients or the public. Email is great for one-on-one or small group correspondence, or one-way announcements.
+* Email - Everyone at Enspiral is entitled to an Enspiral email address if they need one to represent Enspiral to clients or the public. Email is great for one-on-one or small group correspondence, or one-way announcements. There are more details on the [Google Apps page](google_apps.md).
 
-* Calendar - Great for your own planning and for private events and meetings where you have a specific guest list in mind. If you want to put out an open invitation, use [Chalkle](http://www.chalkle.com/enspiral] instead.
+* Calendar - Great for your own planning and for private events and meetings where you have a specific guest list in mind. If you want to put out an open invitation, use [Chalkle](http://www.chalkle.com/enspiral) instead.
 
 * Drive - We use Drive (Docs, Sheets, Forms) extensively, but we're moving all 'official' documentation off it and onto GitHub. If a team you're working with uses Drive, you'll be invited to the relevant folders/docs.
 
@@ -48,7 +48,7 @@ To get something published in News, email news@enspiral.com or post in the #ensp
 
 * Public [Facebook page](https://www.facebook.com/Enspiral) - Updates, news, and links relavent to Enspiral followers. This is a one-to-many channel. To get something posted here, contact news@enspiral.com.
 
-* Private [Facebook group](https://www.facebook.com/groups/enspiral) - A space to share links, updates, ideas, and discussion. This is a many-to-many channel, where everyone can post and reply.
+* Private [Facebook group](https://www.facebook.com/groups/enspiral) - A space for Enspiral contributors to share links, updates, ideas, and discussion. This is a many-to-many channel, where everyone can post and reply.
 
 
 **[Blog - Enspiral Tales](http://blog.enspiral.com)**
