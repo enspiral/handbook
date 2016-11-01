@@ -16,6 +16,10 @@ The Foundation’s funds come from the following sources.
 
 Individuals in the network make a financial contribution to the Foundation at least annually, representing their choice to remain an Enspiral Contributor. The amount is variable, set by the contributor at their discretion (suggested amount is $100/year). Half of all contributor’s contribution goes toward fixed costs and reserves, and half is allocated to Discretionary Funds, where the contributor can use Cobudget to fund projects of their choice.
 
+**Variable Contributions**
+The real time Variable Contribution process allows people to contribute to Enspiral Foundation and participate in Enspiral's Collaborative Funding process.
+It also allows existing Enspiral contributors to give more funds to Enspiral Foundation above and beyond the (suggested) $100 / year annual contribution. See more description on the [Variable Contributions page](finances_variable_contributions.md)
+
 **Other Income**
 
 The Foundation is a [charitable entity](constitution.html) not intended to bear commercial risk. However, from time to time other activities (such as serving as a fundholder for grants and projects) can result in income directly to the Foundation. Approval for such transactions is at the discretion of the Board. The Board and the people involved in bringing in the income agree how to distribute any resulting income between Normal Reserves and Discretionary Funds (via nominated users in Cobudget). These decisions and transactions are reported on the Financial Transparency page of the Handbook (as described below). 

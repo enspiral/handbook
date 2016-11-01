@@ -10,9 +10,7 @@ The Ops team are a pod within Enspiral Services Ltd. They were founded by Malcol
 The team:
 
 * Malcolm Shearer (Wellington)
-* Phill Coxon (Christchurch)
 * Charley Davenport (Wellington)
-* Babs Lake (Wellington)
 * Haley Littlewood (Nelson)
 
 ##Contracted work

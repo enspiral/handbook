@@ -52,9 +52,7 @@ In terms of governance, I love thinking about form to enable freedom. I like kee
 
 *It is the people, it is the people, it is the people*
 
-### Alanna Krause
-I'm originally from California, and have lived in a range of countries (Japan, UK, Spain, India). But for me, New Zealand, and Wellington especially, is the best. After arriving here in 2011, I got involved with Enspiral and helped grow it from a single company of collaborative freelancers to a network of ventures. I'm a co-founder of Loomio and one of the originators of Cobudget. I been involved with a range of other endevours at Enspiral, such as bringing Lifehack into our network, helping to start OS//OS, and organising multiple retreats.
-
-I am very interested in creating the conditions for distributed leadership, and I believe that getting governance right is critical for that. I see the MVB role as being about making a solid foundation that everyone in the network can build on. A strong legal and financial bedrock enables Enspiral's beautiful experimentation and emergence - but without that, it's like building on quicksand. My natural focus is around process and policy development, communications, good boundaries, and clear stakeholding. My vision of Enspiral is a place where diverse leadership of all kinds can flourish and create possibilities beyond my imagination.
+### Rob Guthrie
+Profile coming soon
 
 {% include 'contributing_hint.md' %}
