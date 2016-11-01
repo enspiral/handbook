@@ -3,7 +3,7 @@
 Here's a few things to know about Google apps at Enspiral.
 
 * An account allows you to have all the normal google services hosted within Enspiral's Google apps domain. eg. an Enspiral email address and aliasaes, google drive, google calendar and google groups. But an account isn't neccesary to interact with Enspiral people or to use the various services and tools.
-* An account costs $5USD per month, per user. That's about 84 NZD per year. We've just recently agreed that users should pay for their own accounts in [this Loomio](https://www.loomio.org/d/9kpIaK6W/comment/1132628/). This bill is separate to the annual opt-in contribution.
+* An account costs 90 NZD per year. [This Loomio](https://www.loomio.org/d/9kpIaK6W/comment/1132628/) is where it was agreed on. This bill is separate to the annual opt-in contribution.
 * Any contributor can request a Google Apps account, if they need it to represent Enspiral.
 * If you need an account to work for an Enspiral venture, that venture may pay for that account for you.
 
