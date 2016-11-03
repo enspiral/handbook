@@ -29,6 +29,7 @@
   * [PR tips for humans](press.md)
   * [Retreats*](retreats.md)
   * [Stewarding](stewarding.md)
+  * [Working Groups](working_groups.md)
 * [Enspiral Foundation Ltd](foundation.md)
   * [Constitution](constitution.md)
   * [Board of Directors](board.md)
