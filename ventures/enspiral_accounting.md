@@ -10,6 +10,7 @@ We are a Chartered Accounting firm, based in Auckland, Wellington and Christchur
 * Antz Rohan - Director/Accountant
 * Dale de Graaf - Accountant
 * Kit Nelson - Accountant
+* David Bellinger - Accountant
 
 
 **Links to website or other resources**
