@@ -9,7 +9,7 @@ We codesign experimental programmes that increase individuals’ sense of agency
 * Gina Rembe - gina@lifehackhq.co
 * Toni Reid toni@lifehackhq.co
 * Dayna Carter dayna@lifehackhq.co
-* Simon Jarvis simon@lifehackhq.co
+* Penny Hagen penny@lifehackhq.co
 
 **Links to website or other resources**
 
@@ -32,7 +32,7 @@ Lifehack is part of the Social Media Innovation Fund, a publicly funded initiati
 
 **Legal structure**
 
-Contract held by Enspiral Foundation, not a separate legal entity.
+Lifehack Ltd is an independent company wholly owned by Enspiral Foundation. The Lifehack contract with MSD is still held by the Enspiral FOundation and is sub-contracted onto Lifehack Ltd.
 
 **Business Model**
 
@@ -58,5 +58,5 @@ We support individuals, communities, organisations and government who work with 
 
 **Enspiral Foundation Contribution**
 
-* $45,000 per year + non-financial
+* $500/month
 
