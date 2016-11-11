@@ -53,6 +53,6 @@ In terms of governance, I love thinking about form to enable freedom. I like kee
 *It is the people, it is the people, it is the people*
 
 ### Rob Guthrie
-Profile coming soon
+Lifelong programmer with a passion for the power of the internet to transform society and improve lives. Serial entrepreneur, business and product strategist, and relentless problem solver. Loves building useful tools that real people use. Supports others to learn and grow.
 
 {% include 'contributing_hint.md' %}
