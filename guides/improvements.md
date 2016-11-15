@@ -7,7 +7,7 @@ We use the Improvements system to help coordinate the work people are doing to i
 
 If you visit [improvements.enspiral.com](http://improvements.enspiral.com), you'll see the "Waffle" version of the Improvements issues list. Issues are sorted into columns, and move from left to right: from "backlog" through to "in progress" and finally "done".
 
-[![](images/waffle.png)](http://improvements.enspiral.com)
+[![](../images/waffle.png)](http://improvements.enspiral.com)
 
 #### 2. [The advanced view on Github](https://github.com/enspiral/improvements/issues)
 
@@ -30,9 +30,9 @@ All issues are public, so be aware of privacy when you add issues or comments. I
 
 You will need [a github username](https://help.github.com/articles/signing-up-for-a-new-github-account/) to participate. Set up your account and leave a comment in the \#improvements Slack channel or the [Improvements Loomio thread](https://www.loomio.org/d/azsFNAEv/enspiral-improvements) and an admin will add you to the system.
 
-Here's a video introducing the improvements system to anyone who is unfamiliar with github:
+[Here's a video](https://www.youtube.com/watch?v=SNEysZCTRXA) introducing the improvements system to anyone who is unfamiliar with github:
 
-{% video %}https://www.youtube.com/watch?v=SNEysZCTRXA {% endvideo %}
+{% video %}http://www.youtube.com/watch?v=SNEysZCTRXA {% endvideo %}
 
 
 
