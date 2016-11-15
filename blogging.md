@@ -1,6 +1,6 @@
 # Blogging at Enspiral
 
-![](http://i.imgur.com/ZZO5vsM.png)
+![](https://i.imgur.com/ZZO5vsM.png)
 
 During the original Catalyst experiment, Gina started [Enspiral Tales](https://medium.com/enspiral-tales) - a Medium collection for blog stories written by Enspiral people. 
 
@@ -57,7 +57,7 @@ If you want to make it easier on the editors of those publications, it’s helpf
 ## Impact
 The results have been great: about 30 people have written stories, growing the publication to 600 followers, getting about 10k hits in a month.
 
-![](http://i.imgur.com/GBgBEYK.png)
+![](https://i.imgur.com/GBgBEYK.png)
 
 Are you the next contributor?
 
