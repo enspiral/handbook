@@ -89,4 +89,4 @@ To do this, go to the [Activity tab](https://www.gitbook.com/book/enspiral/enspi
 
 ![](http://g.recordit.co/VKyB3IqBgc.gif)
 
-
+{% include 'contributing_hint.md' %}
