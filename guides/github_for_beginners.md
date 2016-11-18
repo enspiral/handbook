@@ -37,16 +37,29 @@ If you have any questions that aren't answered by this guide, you can ask them b
 Gabby made these excellent videos introducing Github for beginners. Some of the details are out of date but the bulk of the content is right on. And there are onesies!
 
 ### What is Github and Why use it for org documentation?
-{% video %}https://vimeo.com/148974050 {% endvideo %}
+
+<div class="video-wrapper">
+  <iframe src="https://player.vimeo.com/video/148974050?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ### Visiting the repo
-{% video %}https://vimeo.com/148974051 {% endvideo %}
+
+<div class="video-wrapper">
+  <iframe src="https://player.vimeo.com/video/148974051?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ### Posting issues
-{% video %}https://vimeo.com/148974049 {% endvideo %}
+
+<div class="video-wrapper">
+  <iframe src="https://player.vimeo.com/video/148974049?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ### Practice now:
-{% video %}https://vimeo.com/148974048 {% endvideo %}
+
+<div class="video-wrapper">
+  <iframe src="https://player.vimeo.com/video/148974048?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 
 And a place to practice your new Github skills:
 

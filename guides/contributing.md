@@ -17,9 +17,11 @@ If you're making a small edit like fixing a typo, or adding a guide, the pull re
 
 ### Here's how to propose a change:
 
-Watch the quick demo video, or read on:
+Watch [the quick demo video](https://www.youtube.com/watch?v=zVvda3ci4w4), or read on:
 
-{% video %}https://www.youtube.com/watch?v=zVvda3ci4w4 {% endvideo %}
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/zVvda3ci4w4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 #### Step 1
 
