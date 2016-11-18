@@ -7,7 +7,7 @@ We use the Improvements system to help coordinate the work people are doing to i
 
 If you visit [improvements.enspiral.com](http://improvements.enspiral.com), you'll see the "Waffle" version of the Improvements issues list. Issues are sorted into columns, and move from left to right: from "backlog" through to "in progress" and finally "done".
 
-[![](../images/waffle.png)](http://improvements.enspiral.com)
+[![](/images/waffle.png)](http://improvements.enspiral.com)
 
 #### 2. [The advanced view on Github](https://github.com/enspiral/improvements/issues)
 

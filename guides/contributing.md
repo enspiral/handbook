@@ -25,31 +25,31 @@ Watch the quick demo video, or read on:
 
 First, go to the [enspiral/handbook](https://github.com/enspiral/handbook) Github repo (you'll need to be a logged Github user). Click "Fork" to make your own copy of the repo. It'll ask for a destination: just select your personal account.
 
-![](images/contributing-1.png)
+![](/images/contributing-1.png)
 
 #### Step 2
 
 Now you're on your own version of the handbook. You can add files with "Create new file" or "Upload files". To edit an existing file, select it from the list, then click the little pencil icon near the top right.
 
-![](images/contributing-2.png)
+![](/images/contributing-2.png)
 
 #### Step 3
 
 Now you're in a file editor, so you can make any changes you want. We're using [markdown](http://loomio.org/markdown) to add formatting, links, images, etc. You can see how this markdown formatting will render by clicking "Preview changes". Text outlined in red is the stuff you're proposing to remove, and green means you're proposing an addition. Hit "Commit changes" to finish editing.
 
-![](images/contributing-3.png)
+![](/images/contributing-3.png)
 
 #### Step 4
 
 Once you've added and edited all the files required to make a useful change to the handbook, go back to your repo (click `yourGithubUsername/handbook` at the top of the page) and click "New pull request".
 
-![](images/contributing-4.png)
+![](/images/contributing-4.png)
 
 #### Step 5
 
 This will take you to the `enspiral/handbook` repo, and give you a preview of the whole set of changes you are proposing. If it looks right, then click "Create pull request" and fill in a title and details for the pull request, so people know at a glance what is included. Finally, you need to click "Create pull request" once more, which will make your proposal final and notify the repo maintainers that you want to make a change.
 
-![](images/contributing-5.png)
+![](/images/contributing-5.png)
 
 
 ## Handbook Maintainers
