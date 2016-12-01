@@ -13,6 +13,7 @@
 * [Guides](guides.md)
   * [Ambassadors](guides/ambassadors.md)
   * [Blogging](guides/blogging.md)
+  * [Catalysts](guides/catalysts.md)
   * [Conflict](guides/conflict.md)
   * [Comms Guidelines](guides/comms_guidelines.md)
   * [Contributing to the Handbook](guides/contributing.md)
