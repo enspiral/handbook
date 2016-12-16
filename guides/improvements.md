@@ -48,11 +48,11 @@ Occasionally a heroic individual will emerge from the fog and take responsibilit
 They do not commit to doing the work but they do clarify and scope the improvement so that others can. Once everything is clear the scoper can gaze boldly towards the horizon, utter a meaningful "my work here is done", and stride off into the sunset. The ticket moves to Ready.
 
 ### Ready
-Like a puppy locked up inside the improvement languishes in the ready column just waiting for someone to come home and play with them. All they really want is to be outside running and jumping and rolling in the grass. Or some food, any food, but especially those sweet cobudget dollars. 
+As an adorable puppy awaits adoption, an improvement languishes in the ready column just waiting for someone to come home and play with it. All it really wants is to be outside running and jumping and rolling in the grass. Or some food, any food, but especially those sweet cobudget dollars. 
 
-But instead they are sitting here in a cold and dark concrete bunker. Alone and waiting for someone to love them, their big saucer eyes gazing falornely at all the strangers on the internet who give them the once over and think "not today". 
+But instead it's sitting here in a cold, dark, concrete bunker. Alone and waiting for someone to love it, its big saucer eyes gazing falornely at all the strangers on the internet who gives it the once over and think "not today". 
 
-Until that someone special arrives.
+Until that special someone arrives.
 
 ### In Progress
 So much wow! Fireworks, magic, "oh my god this is really happening". Idea meets team. Documents are written, money moves, Loomio decisions fly and circles of hands raise towards the heavens with fingers sparkling. Ones turn to zeroes and zeroes turn to ones in their billions. People even talk to each other.
