@@ -3,7 +3,7 @@
 
 * [Constitution](constitution.md) - the legal doc that governs the Enspiral Foundation Ltd.
 * [Board of Directors](board.md) - also known as MVB, the Minimum Viable Board
-* [Catalysts](catalysts.md) - a group of people who help to coordinate and stimulate activity in the network
+* [Catalysts](working-groups/catalysts.md) - a group of people who help to coordinate and stimulate activity in the network
 * [Comms Role Scope](comms-role.md) - we pay someone to do communications work
 * [Ops Scope](ops-scope.md) - the most incredible bunch of humans run the backroom operations at Enspiral
 
