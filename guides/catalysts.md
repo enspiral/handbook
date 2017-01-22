@@ -12,6 +12,8 @@ We track all our work on [the Improvements board](https://waffle.io/enspiral/imp
 
 We try to take notes in all our meetings, and share them in the Slack channel [#wg-catalysts](https://enspiral.slack.com/messages/wg-catalysts/).
 
+If you're interested in how we work or you want to join in, our meetings are open to all Enspiral Contributors. Contact us on Slack or catalysts@enspiral.com to join in.
+
 ## What are we doing
 
 Sensing community needs, initiating responses, handing them off wherever possible.
