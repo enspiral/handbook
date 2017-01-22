@@ -31,6 +31,7 @@
 * [Working Groups](working-groups/index.md)
   * [Ambassadors](working-groups/ambassadors.md)
   * [Catalysts](working-groups/catalysts.md)
+  * [Well Working Group](working-groups/well_working_group.md)
 
 * [Enspiral Foundation Ltd](foundation.md)
   * [Constitution](constitution.md)
