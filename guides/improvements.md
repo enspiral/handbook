@@ -1,5 +1,8 @@
 # Improving things at Enspiral
 
+## Who is this Guide for
+This guide is all about our formal improvement system.  This is great for challenges that are concrete and quantifiable.  Often times before a problem can be clearly defined to put on the improvements board there is a general sense of it with one person or several people.  Most of the time there are lots of human interactions that feel more like strategic conversations, and out of those conversations concrete actions come out. So in one sense the improvement board is 3 or 4 steps into the process of some of the bigger changes that happen at Enspiral. If you're interested in getting involved in those getting involved in longer discussions can be great, like at [Enspiral Retreats](https://festival.enspiral.com/)
+
 We use the Improvements system to help coordinate the work people are doing to improve things at Enspiral. There are two ways of interacting with the data:
 
 
