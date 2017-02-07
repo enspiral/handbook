@@ -1,6 +1,11 @@
 # Improving things at Enspiral
 
-We use the Improvements system to help coordinate the work people are doing to improve things at Enspiral. There are two ways of interacting with the data:
+## Who is this Guide for
+This guide is all about our formal improvement system, the improvements board.  This is great for problems that we understand well. Often times before a problem/opportunity can be clearly defined to put on the improvements board there is a vague, general sense of that opportunity with one person or several people.  For these opportunities there are lots of human interactions that feel more like strategic conversations that happen. Out of those conversations concrete actions come out. So in one sense the improvement board is several steps into the process of making improvements at Enspiral, at least for the bigger changes. If you're interested in getting involved in those getting involved in longer discussions can be great, like at [Enspiral Retreats](https://festival.enspiral.com/).
+
+If you have enough information to write down the problem or opportunity, then by all means, we encourage you to put it up on the improvements board. We were just sharing about the other processes to make some of the hidden pieces a little bit more visible.
+
+We use the Improvements system to help coordinate the work people are doing to improve things at Enspiral once they become concrete enough to write down. There are two ways of interacting with the data:
 
 
 #### 1. [The simple view on Waffle](https://waffle.io/enspiral/improvements)
