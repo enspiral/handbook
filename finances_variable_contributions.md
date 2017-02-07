@@ -7,7 +7,7 @@ It also allows existing Enspiral contributors to give more funds to Enspiral Fou
 
 The Variable Contribution process works like this: 
 
-1. People complete the [Variable Contributions Form](guides/forms.md) specifying how much they would like to gift to Enspiral Foundation.
+1. People complete the [Variable Contributions Form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdSilcJMsP5UCNUwr4e-sElSf0QYt6bLr0zr1g9Sc2-86WHOQ/viewform) specifying how much they would like to gift to Enspiral Foundation.
 2. Enspiral Foundation sends an invoice to them for payment with two line items - one for any funds going to Cobudget and one for any funds going to core Foundation expenses.
 3. Once the invoice is paid, 50% of the amount is allocated to Enspiral Foundation's core costs and 50% to the user's [cobudget.co](http://cobudget.co) account for use in the collaborative funding process. 
 
