@@ -5,7 +5,7 @@
 * *Slack*, at [#wg-well-working](https://enspiral.slack.com/messages/wg-well-working/)
 * *Loomio*, at [Code of Conduct, Conflict Resolution and Mediation](https://www.loomio.org/d/YWb07Fta/code-of-conduct-conflict-resolution-and-mediation-next-steps)
 * *Enspiral Improvements task-tracking*, at [wg-well-working](https://waffle.io/enspiral/improvements?label=wg-well-working)
-* *Google Docs*, at [Overview Outline](https://docs.google.com/document/d/1b5_YuboJL2AXSDKSBoVd6FDPkU3uzBlPLOMsOMMpf6s/edit)
+* *Google Docs*, at [Personal Conduct Agreement_official draft](https://docs.google.com/document/d/178s6VYw_MD2Dj6vJLOYiAVJ8TVGBXUDWVdYWrPGX4mk/edit?usp=sharing)
 
 ## Scope
 
@@ -25,7 +25,7 @@ The Well Working Group will also help to develop and maintain accessible network
 
 ## Current Members
 
-Toni Reid, john gieryn, Greg Cassel, Camia Young, Rich Bartlett
+Toni Reid, john gieryn, Greg Cassel, Camia Young, Rich Bartlett, Patricia Morgan
 
 **About Membership**
 
