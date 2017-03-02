@@ -4,7 +4,7 @@
 ## Scope
 The Financial Working Group (FWG) was [proposed by the Board](https://www.loomio.org/d/oFN6x8t5/comment/1173545) in Nov 2016 to help distribute responsibility for finances to the wider network, provide greater transparency and more ways to get involved, and to keep [the board](https://handbook.enspiral.com/board.html) minimal. The FWG takes recommendations from the board and helps to operationalize them, liases with the board (which oversees financial solvency and compliance) and [Enspiral Ops](https://handbook.enspiral.com/ops-scope.html) regarding recommendations and ideas from the wider Enspiral network, and works on general improvements to Enspiral's financial operations and transparency.
 
-Discretion: the FWG is not a decision-making group, but rather helps to operationalize decisions made according to Enspiral's [core agreements and normal decision-making processes](https://handbook.enspiral.com/agreements.html). In particular, it does not make decisions about spending, uness a particular scope has been given according to the above-mentioned processes. But it can be given mandate to _implement_ decisions made by the board or network, as appropriate.
+Discretion: the FWG is not a decision-making group, but rather helps to operationalize decisions made according to Enspiral's [core agreements and normal decision-making processes](https://handbook.enspiral.com/agreements.html). In particular, it does not make decisions about spending, unless a particular scope has been given according to the above-mentioned processes. But it can be given mandate to _implement_ decisions made by the board or network, as appropriate.
 
 Examples include
 
