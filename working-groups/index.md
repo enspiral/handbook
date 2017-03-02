@@ -8,7 +8,7 @@ Active working groups:
 * [Ambassadors](ambassadors.md)
 * [Well Working Group](well_working_group.md)
 * Brand Working Group
-* Financial Working Group
+* [Financial Working Group](financial.md)
 
 Anyone can start a working group. Working groups are where we do work on the network. Often a working group will be initiated by someone with high context but low capacity for action (e.g. directors or catalysts), and then they'll recruit contributors with more capacity. Working groups will often be temporary, though some will be permanent.
 
