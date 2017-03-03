@@ -1,8 +1,7 @@
 #Forms at Enspiral
 
 
-These are some of the forms that help make Enspiral tick. They're all connected to the Ops team, so if 
-something doesn't seem quite right, try contacting us at: foundation@enspiral.com
+These are some of the forms that help make Enspiral tick. They're all connected to the Ops team, so if something doesn't seem quite right, try contacting us at: foundation@enspiral.com
 
 ###All contributors
 
@@ -10,6 +9,7 @@ something doesn't seem quite right, try contacting us at: foundation@enspiral.co
 * [Annual contributor opt-in form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSfbcTxIiZR4zvZlVOugVkXb34bcg4iUeB5uwDXveVODOGr5jg/viewform?entry.190767353&entry.977126547=100&entry.1019976978&entry.2103714586&entry.39252034)
 * Add or remove your [Google Apps email account](google_apps.md)
 * Go to the [Variable contributions form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdSilcJMsP5UCNUwr4e-sElSf0QYt6bLr0zr1g9Sc2-86WHOQ/viewform) to request a  one off contribution.
+* Get permission to [use the Enspiral brand](https://goo.gl/forms/imQs3ZenqFz9x4ls1)
 
 ###Members
 
