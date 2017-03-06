@@ -33,6 +33,7 @@
   * [Ambassadors](working-groups/ambassadors.md)
   * [Brand Working Group](working-groups/brand_working_group.md)
   * [Catalysts](working-groups/catalysts.md)
+  * [Enspiral Circles](working-groups/enspiral-circles.md)
   * [Financial Working Group](working-groups/financial.md)
   * [Well Working Group](working-groups/well_working_group.md)
 
