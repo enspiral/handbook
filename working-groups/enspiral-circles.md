@@ -12,6 +12,6 @@ We are active in #wg-enspiral-circles slack channel, feel free to come and engag
 
 * Joshua Vial
 * Francesca Pick
-* Jessy-Kate Schlinger
+* Jessy-Kate Schingler
 * Alastair Thompson
 * more coming
