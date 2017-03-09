@@ -6,5 +6,7 @@ At gatherings and events like [Retreats](/guides/retreats.md) social activities 
 
 ### Songlist
 
-[Purea Nei](http://www.folksong.org.nz/purea_nei/index.html)
-[E tu kahikatea](http://aanzpa.org/ohomairaki/waiata/e-tu-kahikatea)
+* [Purea Nei](http://www.folksong.org.nz/purea_nei/index.html)
+* [E tu kahikatea](http://aanzpa.org/ohomairaki/waiata/e-tu-kahikatea)
+
+{% include '../contributing_hint.md' %}
