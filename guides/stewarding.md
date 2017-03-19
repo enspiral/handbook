@@ -20,7 +20,7 @@ In addition, EXP Ltd is organising another Stewardship Retreat which runs from 1
 
 ## Resources
 
-The [stewarding system within Loomio](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/stewarding.html) is a good starting place if you want to learn about stewaring in practice.
+The [stewarding system within Loomio](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/stewarding.html) is a good starting place if you want to learn about stewarding in practice.
 
 _more links to resources here_
 
