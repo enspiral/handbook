@@ -18,7 +18,6 @@ Ventures join the Enspiral network because they believe their own success is enh
 **Key Personnel**
 
 Defined as long term, committed staff or team members of the venture. These people are determined by the venture.
-Venture 
 
 **Contact Person**
 
