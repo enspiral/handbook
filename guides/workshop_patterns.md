@@ -60,6 +60,14 @@ At the end of the event, everyone decides one thing they are going to do. Share 
 
 If you have time it can be great to break people up into smaller groups to discuss the differences between the different signals. Especially get them to talk about the difference between a "disagree" and "block".
 
+## Fishbowl discussion
+
+**Process**
+A fishbowl discussion is suited to large groups. To set up the conversation, place 5 chairs in an inner circle. This is the fishbowl. Select four people to occupy chairs in the fishbowl, and leave one seat unoccupied. Only people occupying chairs in the fishbowl are allowed to speak. The audience members sit or stand around the fishbowl and listen to the discussion. At any time, a member of the audience can join the discussion by occupying the empty chair in the fishbowl. When this happens, an existing member of the fishbowl must voluntarily leave the fishbowl and free up another chair. The discussion progresses with people freely entering and leaving the fishbowl.
+
+**Rationale**
+This format emphasises Enspiral’s ethic of self-responsibility within a large group. If someone has certain needs/wants for how the discussion unfolds, then they have the opportunity to voice that need and/or steer the discussion accordingly.
+
 ## Stewardship exercise
 
 **Process**
