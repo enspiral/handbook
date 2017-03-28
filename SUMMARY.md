@@ -30,6 +30,7 @@
   * [Retreats\*](guides/retreats.md)
   * [Songs](guides/songs.md)
   * [Stewarding](guides/stewarding.md)
+  * [Workshop Patterns](guides/workshop_patterns.md)
 * [Working Groups](working-groups/index.md)
   * [Ambassadors](working-groups/ambassadors.md)
   * [Brand Working Group](working-groups/brand_working_group.md)
