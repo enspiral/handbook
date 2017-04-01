@@ -1,4 +1,4 @@
-# Conflict
+# Conflict Resolution
 
 There's currently a project underway to develop a conflict resolution policy from the network. Expect updates here soon.
 
@@ -18,5 +18,6 @@ In the meantime, here are some useful resources:
 * [Buffer's 10 values](https://open.buffer.com/buffer-values/)
 * [The FOSDEM Conundrum](http://www.sarahmei.com/blog/2015/02/01/the-fosdem-conundrum/)
 * [Improvement ticket on Github](https://github.com/enspiral/improvements/issues/103)
+* [Facilitation Guide for Effective Conflict Resolution](http://peacefulschoolsinternational.org/wp-content/uploads/cooperative-guide-to-conflict-resolution.pdf)
 
 {% include 'contributing_hint.md' %}
