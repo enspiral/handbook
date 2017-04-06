@@ -68,6 +68,16 @@ A fishbowl discussion is suited to large groups. To set up the conversation, pla
 **Rationale**
 This format emphasises Enspiral’s ethic of self-responsibility within a large group. If someone has certain needs/wants for how the discussion unfolds, then they have the opportunity to voice that need and/or steer the discussion accordingly.
 
+## Human Spectogram
+
+**Process**
+
+People show where they stand on a spectrum— sometimes an issue with two extremes— by moving to the point between the two spatially-designated points that reflects their views (this side of the room is "strongly agree"... opposite side is "strongly disagree"); facilitator asks people from each extreme and from the middle to share with the group why they are standing where they are. There are [tweaks and additional resources here](http://www.conferencesthatwork.com/wp-content/uploads/2015/06/Chapter-33-Human-spectrograms_s.pdf).
+
+**Rationale**
+
+This supports those who are better kinesthetic and/or visual-spatial learners. It is a way for the group to get a better sense of the diverse opinions and experiences within itself. Getting up and moving around can be a good way to add some energy to a workshop and can be a useful transition.
+
 ## Stewardship exercise
 
 **Process**
