@@ -16,7 +16,6 @@
   * [Conflict](guides/conflict.md)
   * [Comms Guidelines](guides/comms_guidelines.md)
   * [Contributing to the Handbook](guides/contributing.md)
-  * [Events](guides/events.md)
   * [Enspiral Values](guides/values.md)
   * [Forms](guides/forms.md)
   * [Github for Beginners](guides/github_for_beginners.md)
