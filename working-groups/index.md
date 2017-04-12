@@ -25,7 +25,7 @@ Standard operating procedure for working groups:
 * **reporting**: post updates in the public Slack channel and in the newsletter
 * involve people in **decisions** on Loomio. (Tagging Loomio threads with the `wg-` label will make them easier to find.)
 * **task tracking**: we use the Improvements board for task tracking. Read the [Improvements Guide](../guides/improvements.md) and talk to Rich if you'd like hands-on support. E.g. [here are the tickets](https://waffle.io/enspiral/improvements?label=wg-financial) for the Financial Working Group (labeled wg-financial).
-* **rhythm**: align to the two-weekly sprint rhythm set by the Catalysts (e.g, sprint 15 starts on Monday Oct 31.) The sprint rhythm corresponds to the "milestones" on the Improvements board. All active tasks on the Improvements board have a Milestone, i.e. which sprint to we expect to finish the work. Here's the tickets for [Sprint 15](https://waffle.io/enspiral/improvements?milestone=sprint-15)
+* **rhythm**: align to the two-weekly sprint rhythm set by the Catalysts (e.g, sprint 15 starts on Monday Oct 31.) The sprint rhythm corresponds to the "milestones" on the Improvements board. All active tasks on the Improvements board have a Milestone, i.e. which sprint to we expect to finish the work. 
 
 You can take as much of this structure as is useful!
 
