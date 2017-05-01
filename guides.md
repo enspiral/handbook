@@ -3,7 +3,7 @@
 Guides explain in practical terms how we do stuff. Any Enspiral Contributor can change these.
 
 * [Blogging](guides/blogging.md) - how to add a story to the [Enspiral Tales blog](http://medium.com/enspiral-tales)
-* [Conflict](guides/conflict.md) - resources for conflict resolution
+* [Conflict Resolution](guides/conflict-resolution.md) - resources for conflict resolution
 * [Comms Guidelines](guides/comms_guidelines.md) - how to know which tool to use for which kind of communication
 * [Contributing to the Handbook](guides/contributing.md) - how to edit this book
 * [Enspiral Values](guides/values.md) - some of the values that people in the network hold
