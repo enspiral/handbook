@@ -13,7 +13,7 @@
   * [Venture Agreement](venture_agreement.md)
 * [Guides](guides.md)
   * [Blogging](guides/blogging.md)
-  * [Conflict](guides/conflict.md)
+  * [Conflict Resolution](guides/conflict-resolution.md)
   * [Comms Guidelines](guides/comms_guidelines.md)
   * [Contributing to the Handbook](guides/contributing.md)
   * [Enspiral Values](guides/values.md)
