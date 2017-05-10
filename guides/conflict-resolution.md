@@ -19,5 +19,6 @@ In the meantime, here are some useful resources:
 * [The FOSDEM Conundrum](http://www.sarahmei.com/blog/2015/02/01/the-fosdem-conundrum/)
 * [Improvement ticket on Github](https://github.com/enspiral/improvements/issues/103)
 * [Facilitation Guide for Effective Conflict Resolution](http://peacefulschoolsinternational.org/wp-content/uploads/cooperative-guide-to-conflict-resolution.pdf)
+* ["Manifesto of Being and Working Together" from #OurField and Future Farm Lab](http://www.phoebetickell.com/s/Manifesto_of_Being_and_Working_Together-c3kd.pdf)
 
 {% include 'contributing_hint.md' %}
