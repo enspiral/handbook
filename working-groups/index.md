@@ -8,6 +8,7 @@ Active working groups:
 * [Brand Working Group](brand_working_group.md)
 * [Catalysts](catalysts.md)
 * [Enspiral Circles](enspiral-circles.md)
+* [Enspiral Week](enspiral-week.md)
 * [Financial Working Group](financial.md)
 * [Well Working Group](well_working_group.md)
 
