@@ -2,8 +2,5 @@
   "styles": {
     "website": "styles/website.css"
   },
-  "plugins": [ "collapsible-menu", "video" ],
-  "variables": {
-    "org": "Enspiral"
-  }
+  "plugins": [ "collapsible-menu", "video" ]
 }
