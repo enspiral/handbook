@@ -12,6 +12,7 @@
   * [Stewardship Agreement](stewardship_agreement.md)
   * [Venture Agreement](venture_agreement.md)
 * [Guides](guides.md)
+  * [Activation Programme](guides/activation-programme.md)
   * [Blogging](guides/blogging.md)
   * [Conflict Resolution](guides/conflict-resolution.md)
   * [Comms Guidelines](guides/comms_guidelines.md)
