@@ -11,8 +11,6 @@ What are the challenges?
 ### Easy challenges
 
 - Enspiral processes
-  - update the handbook
-  - create an improvement ticket
   - join a working group
   - give feedback on the activation programme
 - Enspiral people
@@ -24,6 +22,8 @@ What are the challenges?
   - share something that excites you on Facebook group / watercooler channel
 
 ### Intermediate challenges
+- update the handbook
+- create an improvement ticket
 - create a bucket in cobudget
 - get paid from a bucket
 - complete an improvement ticket (alone or with someone else)
