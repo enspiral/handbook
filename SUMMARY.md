@@ -17,6 +17,7 @@
   * [Conflict Resolution](guides/conflict-resolution.md)
   * [Comms Guidelines](guides/comms_guidelines.md)
   * [Contributing to the Handbook](guides/contributing.md)
+  * [Dusting fairies](guides/dusting-fairies.md)
   * [Enspiral Values](guides/values.md)
   * [Forms](guides/forms.md)
   * [Github for Beginners](guides/github_for_beginners.md)
