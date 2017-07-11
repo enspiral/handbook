@@ -18,7 +18,7 @@ The book is broken up into chapters and sub-chapters. The chapters are:
 
 * [**Agreements**](agreements.md) are the official legislation that governs the Enspiral network. Changing these requires a formal process.
 * [**Guides**](guides.md) explain in practical terms how we do stuff, like [what communications tools to use](/guides/comms_guidelines.md), or [how to improve things at Enspiral](/guides/improvements.md). Any Enspiral Contributor can change these.
-* [**Enspiral Foundation**](foundation.md) - the central node in the network. The [Board](board.md), [Ops Team](ops-scope.md), [Catalysts](working-groups/catalysts.md), [Comms person](comms-role.md), and [Ventures](ventures.md) all have some formal arrangement with the Foundation, which is owned by all the Enspiral Members.
+* [**Enspiral Foundation**](foundation.md) - the central node in the network. The [Board](board.md), [Ops Team](ops-scope.md), [Comms person](comms-role.md), and [Ventures](ventures.md) all have some formal arrangement with the Foundation, which is owned by all the Enspiral Members.
 * [**Money**](money.md) - a lot of what makes Enspiral special is how we deal with money. Read more about those processes in this chapter.
 * [**Ventures**](ventures.md) - the companies that make up the network.
 
