@@ -32,7 +32,7 @@ ere is what they have to share*:
 ```
 You can use the `-  [ ] item` notation to create a checklist. This will allow you to list tasks that authors will be able give you mandate for by ticking the box (TODO - consider whether the fairy will get a notification when the tick happens?). For trivial amendments that you think are not worth disturbing the author, go straigth to committing changes.
 
-- **Step 4 - Commit changes** - Acting upon your words, and any clarification the authors gave, amend the content and commit your work. Depending on the repository, this probably means using the `git` tool to clone, create a new branch, commit, and then making a pull-request on Github. Reach out to the [`#wg-dusting-fairies` Slack channel](#wg-dusting-fairies) for any assistance with this workflow.
+- **Step 4 - Commit changes** - Acting upon your words, and any clarification the authors gave, amend the content and commit your work. Depending on the repository, this probably means using the `git` tool to clone, create a new branch, commit, and then making a pull-request on Github. Reach out to the [`#dusting-fairies` Slack channel](#dusting-fairies) for any assistance with this workflow.
 
 - **Step 5 - Follow through (but don't burn your wings)** - Understand that the author may now be busy with other work, and may need to be reminded several times of the issue. However do not insist if they state that the amendment should not be made. You are a helper, and should limit the scope of your work to what is actually needed and received as help. Be extra cautious of complex tasks that would distract you from your mission. On these, limit *step 3* to a simple notification, not the actual implementation of a solution.
 
