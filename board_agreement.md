@@ -13,7 +13,7 @@ Enspiral’s goal is to distribute vision, strategy, and leadership as widely as
 * Ensure Enspiral Foundation Ltd is fully compliant with New Zealand laws and regulations, and its company constitution. 
 * Maintain an overview of current finances, long term financial view, and adequate reserves (as defined in the [Financial Agreement](financial_agreement.html)). 
 * Decide what kind of financial activity can go through the Foundation, and oversee activity in the Foundation’s accounts.
-* Oversee all agreements between Enspiral Foundation Ltd and other entities (including Enspiral Ventures and external organisations), such as MOUs, service contracts, fundholding arrangements, etc.
+* Oversee all agreements between Enspiral Foundation Ltd and other entities (including Enspiral Ventures and external organisations), such as memorandums of understanding (MOUs - [see definition](http://whatis.techtarget.com/definition/memorandum-of-understanding-MOU-or-MoU)), service contracts, fundholding arrangements, etc.
 * Make recommendations about substantive decisions involving Enspiral Foundation Ltd and its assets, consulting with the shareholders and wider network.
 * Report quarterly on its activities to the shareholders and wider network.
 
