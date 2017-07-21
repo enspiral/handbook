@@ -7,7 +7,7 @@ Guides explain in practical terms how we do stuff. Any Enspiral Contributor can 
 * [Conflict Resolution](guides/conflict-resolution.md) - resources for conflict resolution
 * [Comms Guidelines](guides/comms_guidelines.md) - how to know which tool to use for which kind of communication
 * [Contributing to the Handbook](guides/contributing.md) - how to edit this book
-* [Dusting fairies](guides/dusting-fairies.md) - how you can engage as a contributor and help content creators keep their work up-to-date
+* [Content dusting](guides/content-dusting.md) - how you can engage as a contributor and help content creators keep their work up-to-date
 * [Enspiral Values](guides/values.md) - some of the values that people in the network hold
 * [Forms](guides/forms.md) - some of the forms that make the network tick
 * [Github for Beginners](guides/github_for_beginners.md) - more background on editing this book
