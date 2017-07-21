@@ -16,14 +16,16 @@ Amending content and discussing with content authors are also means to directly 
 
  - **Step 1 - Find something stale** - Find something in any of the Github repositories or Google Drive document that was authored a while ago and you think would be relevant to update. Github content dusting is mostly targeted towards the Handbook, but also other public facing content and software repositories. Google Drive has a lot of spreadsheets, legal paperwork, visuals and much more.
 Let your skills and own perception of « stuff that matters » guide you towards the piece of stale content that you want to update.
+
 - **Step 2 - Put yourself in the author's shoes** - Before you even notify them that some of their previous work needs a rework, think of what you would do in their place to get things sorted. Make sure you understand what needs doing to an extent that will allow effective communication with the author.
+
 - **Step 3 - Notify the author and take steps towards resolution** - It's now time to notify the author of the issue you've found. If the content is in a Github file, find the original commit where this content was authored [using these insructions](https://help.github.com/articles/tracing-changes-in-a-file/), and place a Github comment on the relevant line. If it's on the Drive, just include a comment and mention the author and any other person you think should be notified. Your comment should ideally offer a simple solution to the issue and potentially request mandate to amend the author's work.
 
-Github tip: You can use the `-  [ ] item` notation to create a checklist. This will allow you to list tasks that authors will be able give you mandate for by ticking the box. For trivial amendments that you think are not worth disturbing the author, go straigth to committing changes.
+    > Github tip: You can use the `-  [ ] item` notation to create a checklist. This will allow you to list tasks that authors will be able give you mandate for by ticking the box. For trivial amendments that you think are not worth disturbing the author, go straigth to committing changes.
 
 - **Step 4 - Publish the changes** - Acting upon your words and any clarification the authors gave, amend the content (e.g. by editing the actual files instead of comments on a Google docs, and by and commit your work on Github).
 
-Github tip: Depending on the repository, it may be useful to use the `git` tool to clone, create a new branch, commit, and then making a pull-request on Github. Reach out to the [`#content-dusting` Slack channel](#content-dusting) for any assistance with this workflow.
+    > Github tip: Depending on the repository, it may be useful to use the `git` tool to clone, create a new branch, commit, and then making a pull-request on Github. Reach out to the [`#content-dusting` Slack channel](#content-dusting) for any assistance with this workflow.
 
 - **Step 5 - Follow through (but don't burn your wings)** - Understand that the author may now be busy with other work, and may need to be reminded several times of the issue. We advice against insisting if authors state that the amendment should not be made. In that case limit the scope of your work to what is actually needed and received as help. Also be extra cautious of complex tasks that would get you stuck for too long. On these, limit *step 3* to simple notifications/discussions and reminders, not the actual implementation of a solution.
 
