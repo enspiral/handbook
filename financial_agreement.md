@@ -3,8 +3,6 @@
 ## Context
 This agreement defines how Enspiral handles money as a collective, specifically the funds in the accounts of Enspiral Foundation Ltd (“the Foundation”). Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through democratic participatory processes.
 
-For the time being, we are operating on a simple formula of directing half our income into discretionary funds, and half into fixed costs (operational overheads) and reserves. Our intention is to keep overheads low and increase the proportion directed to discretionary funds in the future.
-
 ## Income
 The Foundation’s funds come from the following sources.
 
@@ -14,7 +12,7 @@ The Foundation’s funds come from the following sources.
 
 **Contributor Contributions**
 
-Individuals in the network make a financial contribution to the Foundation at least annually, representing their choice to remain an Enspiral Contributor. The amount is variable, set by the contributor at their discretion (suggested amount is $100/year). Half of all contributor’s contribution goes toward fixed costs and reserves, and half is allocated to Discretionary Funds, where the contributor can use Cobudget to fund projects of their choice.
+Individuals in the network make a financial contribution to the Foundation at least annually, representing their choice to remain an Enspiral Contributor. The baseline amount is $100 to Enspiral Foundation for management and overhead around contributors, including ops contract (optional $90 for a google apps account). Contributions to cobudget are optional and at the contributor's discretion.
 
 **Variable Contributions**
 The real time Variable Contribution process allows people to contribute to Enspiral Foundation and participate in Enspiral's Collaborative Funding process.
