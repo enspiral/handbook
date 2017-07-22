@@ -28,8 +28,6 @@ The book is broken up into chapters and sub-chapters. The chapters are:
 The information in this handbook pertains to Enspiral Foundation Limited and the Enspiral network as a whole. Many Enspiral ventures and teams will have different processes, which live in their own handbooks e.g.:
 
 * [The Loomio Cooperative Handbook](http://loomio.coop)
-* [The Enspiral Labs Handbook](http://labs-handbook.enspiral.com)
-* [The Enspiral Dev Academy Handbook](http://handbook.devacademy.co.nz/)
 
 There's an increasing number of companies outside of Enspiral that are also documented with public handbooks:
 
