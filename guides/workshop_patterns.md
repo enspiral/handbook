@@ -82,7 +82,7 @@ This supports those who are better kinesthetic and/or visual-spatial learners. I
 
 **Process**
 
-Introduce the concept of the [Stewardship](https://handbook.enspiral.com/stewardship_agreement.html) process adopted in Enspiral and the importance of having a specific time and regular rhythm to share with another colleague your needs and aspirations. Divide the group into pairs and give them 6 minutes to share what they need to do their best work. Facilitator signs after 3 minutes so that the other person can talk. [Here](https://drive.google.com/open?id=0ByI0xI66ttpMYnlVTXpMN1VtTmc) is an example of a Stewardship exercise with a network of consultants.
+Introduce the concept of the [Stewardship](/agreements/stewardship.html) process adopted in Enspiral and the importance of having a specific time and regular rhythm to share with another colleague your needs and aspirations. Divide the group into pairs and give them 6 minutes to share what they need to do their best work. Facilitator signs after 3 minutes so that the other person can talk. [Here](https://drive.google.com/open?id=0ByI0xI66ttpMYnlVTXpMN1VtTmc) is an example of a Stewardship exercise with a network of consultants.
 
 **Rationale**
 

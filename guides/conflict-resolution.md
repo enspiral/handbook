@@ -8,7 +8,7 @@ In the meantime, here are some useful resources:
 * [Draft Code of Conduct](https://docs.google.com/document/d/1sUUBnAako83gGkRdh7I3xpDil45IxvTQJdQli5BFArU/edit#)
 * [Draft Conflict Resolution Process](https://docs.google.com/document/d/1mDuZRuF9Yvf3YsN7_4izs6VcN1EWNIbM3ZFneABLCTI/edit)
 * [The Embassy Draft Consent Policy](https://docs.google.com/document/d/1gvWpQb4eOWhT8KMAv6Sl2eVcdWS0Z3_L-sTknh8kYRc/edit#)
-* [Enspiral Diversity Agreement](../diversity_agreement.md)
+* [Enspiral Diversity Agreement](/agreements/diversity.md)
 * [Loomio's Conflict Resolution Process](http://loomio.coop/conflict_resolution.html) and [resources](http://loomio.coop/conflict_resolution_resources.html)
 * [Conflict mediation in action](https://github.com/valueflows/valueflows/files/371989/Conflict.Mediation.in.Action.March.2015.pdf)
 * [AORTA Conflict Resolution Worksheet](https://github.com/valueflows/valueflows/files/371994/AORTA.Conflict.Resolution.Worksheet.pdf)
