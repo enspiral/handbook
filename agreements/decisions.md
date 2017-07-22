@@ -16,7 +16,7 @@ For formal decisions, {{book.org}} uses [consensus decision-making](https://en.w
 
 Formal decisions with everyone are only intended to be used when they will have significant impact on the wider network. This Decision Agreement is the core agreement from which all others derive their mandate.
 
-In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](agreements.html). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
+In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](/agreements.html). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
 
 ### Decision Tool: Loomio
 

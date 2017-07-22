@@ -8,7 +8,7 @@ We are a small group of members and contributors that hold the processes and agr
 * Our work is to hold understanding and opinion around the context, the potential and risk associated with formally using the Enspiral brand.
 * Our work is to help the network build shared understanding and agreements about how we use (and don't use) the Enspiral brand.
 
-We hold the [Brand Agreement](./brand_agreement.md), which allows anyone to use the Enspiral brand alongside their project.
+We hold the [Brand Agreement](/agreements/brand.md), which allows anyone to use the Enspiral brand alongside their project.
 
 **When the BWG is successful....**
 

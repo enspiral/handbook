@@ -1,6 +1,6 @@
 # How Catalysts Work
 
-We're governed by the [Catalyst Agreement](https://handbook.enspiral.com/catalyst_agreement.html)
+We're governed by the [Catalyst Agreement](/agreements/catalyst.html)
 
 Current catalysts are: Susan Basterfield, Richard Bartlett, Andre Bate, and Joshua Vial.
 
