@@ -1,27 +1,36 @@
-# How Catalysts Work
+# Catalysts working group
 
-We're governed by the [Catalyst Agreement](https://handbook.enspiral.com/catalyst_agreement.html)
+We are a working group focused on supporting and coordinating people working to improve Enspiral.
 
-Current catalysts are: Susan Basterfield, Richard Bartlett, Andre Bate, and Joshua Vial.
+If you have ideas for improving Enspiral, or you want to know what people are doing then feel free to check in with us, we're here to help.
 
-We run 2 week sprints. We take turns hosting our ceremonies: planning, sync (catch up time), retro.
+Current catalysts are: Susan Basterfield, Richard Bartlett, and Joshua Vial.
 
-For demo, we make short videos to share our progress with the network. These are reported in the fortnightly network newsletter and published on [our Youtube channel](https://www.youtube.com/user/enspiral/videos).
 
-We track all our work on [the Improvements board](https://waffle.io/enspiral/improvements?search=catalyst).
+## Our commitments to the network
+
+* maintain the [the Improvements board](https://waffle.io/enspiral/improvements).
+* notice and suggest things that need improving
+* hold a fortnightly sprint rhythm and invite participation from the network
+* provide assistance and support to working groups and individuals working to improve Enspiral
 
 We try to take notes in all our meetings, and share them in the Slack channel [#wg-catalysts](https://enspiral.slack.com/messages/wg-catalysts/).
+
+
+## Our strategy
+
+In chemistry, a Catalyst is an agent of change, used in small amounts relative to the reactants, which reduces the amount of energy required to create a reaction, and activates the rest of the system without itself getting consumed.
+
+Our goal is to maintain a rhythm of evolution at Enspiral by inviting contribution, participation, and action, whilst reducing the friction people encounter trying to make changes and improvements.
+
 
 ## What are we doing
 
 Sensing community needs, initiating responses, handing them off wherever possible.
 
-* Sense-making (maintaining context).
+* Sense-making and maintaining context.
 * We help [working groups](index.md) to form.
-* We remind people of the things they said they would do (e.g. fill in your quarterly venture update).
 * We encourage people to contribute, e.g. by matching people to opportunities, or inviting individuals to contribute on specific tasks.
-* We maintain our own internal rhythm, which everyone else can sync up with if its useful.
-* We do things until we can delegate or automate them.
-* We maintain an overview of all the working groups in the network so we can help direct people's attention.
+* We maintain an overview of all the working groups in the network so we can help direct people's energy and attention.
 
 *TODO: share example of working group formation, e.g. the stewardship project*

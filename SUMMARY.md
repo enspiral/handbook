@@ -4,7 +4,6 @@
 * [Agreements](agreements.md)
   * [Board Agreement](board_agreement.md)
   * [Brand Agreement](brand_agreement.md)
-  * [Catalyst Agreement](catalyst_agreement.md)
   * [Decisions Agreement](decisions_agreement.md)
   * [Diversity Agreement](diversity_agreement.md)
   * [Financial Agreement](financial_agreement.md)
@@ -74,4 +73,3 @@
     * [Gamelab](proto-ventures/gamelab.md)
     * [Enspiral Labs](proto-ventures/enspiral-labs.md)
     * [Ability Mate](proto-ventures/ability-mate.md)
-
