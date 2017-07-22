@@ -37,7 +37,7 @@ The Foundation's income is made up of voluntary contributions from individuals a
 
 In the past, the Foundation has run initiatives that generated direct income, but these will be minimised in the future due to the approach of minimal governance and lean operations - instead initiatives will live in other entities and agreements will be made for contributions from them to the Foundation on a case by case basis.
 
-More details about money and the Foundation can be found [here](http://handbook.enspiral.com/money.html).
+More details about money and the Foundation can be found [here](/money.html).
 
 **Social Impact Strategy / Theory of Change**
 

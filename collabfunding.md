@@ -2,7 +2,7 @@
 
 ## How to get paid for a Cobudget Bucket
 
-First, you need to figure out whether you're invoicing Enspiral Services or Enspiral Foundation. See the [Venture Profiles](http://handbook.enspiral.com/venture_profiles.html) if you're not sure.
+First, you need to figure out whether you're invoicing Enspiral Services or Enspiral Foundation. See the [Venture Profiles](/venture_profiles.html) if you're not sure.
 
 Then, if your work was for Foundation, fill out [this form first](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdr9pugQocyDm28R0he71za00bfLQ80Azgff9flSzKjpjFwog/viewform)
 

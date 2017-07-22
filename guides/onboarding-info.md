@@ -46,7 +46,7 @@ Feel free to pick and choose from these different places Enspiralites hang out o
 
 [GitHub](https://github.com/enspiral) - documentation and code development.
 
-We know this is quite a lot to take in. We suggest you start with Loomio and your choice of optional channels and go from there. You can also check out our [Comms Guide](http://handbook.enspiral.com/comms_guidelines.html) for more information.
+We know this is quite a lot to take in. We suggest you start with Loomio and your choice of optional channels and go from there. You can also check out our [Comms Guide](/comms_guidelines.html) for more information.
 
 
 Happy Enspiraling!
