@@ -21,17 +21,16 @@ We try to take notes in all our meetings, and share them in the Slack channel [#
 
 In chemistry, a Catalyst is an agent of change, used in small amounts relative to the reactants, which reduces the amount of energy required to create a reaction, and activates the rest of the system without itself getting consumed.
 
-Our goal is to increase the rate of evolution at Enspiral by reducing friction people encounter trying to make changes and improvements.
+Our goal is to maintain a rhythm of evolution at Enspiral by inviting contribution, participation, and action, whilst reducing the friction people encounter trying to make changes and improvements.
 
 
 ## What are we doing
 
 Sensing community needs, initiating responses, handing them off wherever possible.
 
-* Sense-making (maintaining context).
+* Sense-making and maintaining context.
 * We help [working groups](index.md) to form.
 * We encourage people to contribute, e.g. by matching people to opportunities, or inviting individuals to contribute on specific tasks.
-* We do things until we can delegate or automate them.
-* We maintain an overview of all the working groups in the network so we can help direct people's attention.
+* We maintain an overview of all the working groups in the network so we can help direct people's energy and attention.
 
 *TODO: share example of working group formation, e.g. the stewardship project*
