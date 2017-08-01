@@ -10,15 +10,15 @@ If you're looking for stories, check out [Enspiral Tales](https://medium.com/ens
 
 This Handbook's primary audience is Enspiral contributors, but it will be publicly available for others who might find it useful. The goal is to give everyone in the network as much clarity and context as possible, while sharing our structures and practices with the outside world as well.
 
-This book is in a very early stage of development. Much of it hasn't been written yet. If you see something that could be improved: that's your invitation to improve it! [Find out more about editing the handbook](contributing.md).
+This book is in a very early stage of development. Much of it hasn't been written yet. If you see something that could be improved: that's your invitation to improve it! [Find out more about editing the handbook](guides/contributing.md).
 
 ## Structure
 
 The book is broken up into chapters and sub-chapters. The chapters are:
 
 * [**Agreements**](agreements.md) are the official legislation that governs the Enspiral network. Changing these requires a formal process.
-* [**Guides**](guides.md) explain in practical terms how we do stuff, like [what communications tools to use](comms_guidelines.md), or [how to improve things at Enspiral](improvements.md). Any Enspiral Contributor can change these.
-* [**Enspiral Foundation**](foundation.md) - the central node in the network. The [Board](board.md), [Ops Team](ops-scope.md), [Catalysts](catalysts.md), [Comms person](comms-role.md), and [Ventures](ventures.md) all have some formal arrangement with the Foundation, which is owned by all the Enspiral Members.
+* [**Guides**](guides.md) explain in practical terms how we do stuff, like [what communications tools to use](/guides/comms_guidelines.md), or [how to improve things at Enspiral](/guides/improvements.md). Any Enspiral Contributor can change these.
+* [**Enspiral Foundation**](foundation.md) - the central node in the network. The [Board](board.md), [Ops Team](ops-scope.md), [Catalysts](working-groups/catalysts.md), [Comms person](comms-role.md), and [Ventures](ventures.md) all have some formal arrangement with the Foundation, which is owned by all the Enspiral Members.
 * [**Money**](money.md) - a lot of what makes Enspiral special is how we deal with money. Read more about those processes in this chapter.
 * [**Ventures**](ventures.md) - the companies that make up the network.
 
@@ -28,8 +28,6 @@ The book is broken up into chapters and sub-chapters. The chapters are:
 The information in this handbook pertains to Enspiral Foundation Limited and the Enspiral network as a whole. Many Enspiral ventures and teams will have different processes, which live in their own handbooks e.g.:
 
 * [The Loomio Cooperative Handbook](http://loomio.coop)
-* [The Enspiral Labs Handbook](http://labs-handbook.enspiral.com)
-* [The Enspiral Dev Academy Handbook](http://handbook.devacademy.co.nz/)
 
 There's an increasing number of companies outside of Enspiral that are also documented with public handbooks:
 

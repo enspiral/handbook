@@ -2,7 +2,7 @@
 
 **Note: This page is accurate as of October 2016 **
 
-How money works at Enspiral is determined by the [Financial Agreement](http://handbook.enspiral.com/financial_agreement.html). This page is to provide information and transparency about our financial situation.
+How money works at Enspiral is determined by the [Financial Agreement](/agreements/financial.html). This page is to provide information and transparency about our financial situation.
 ## Income and Expenses
 
 ### Income
@@ -12,9 +12,10 @@ __Venture__ contributions:
 
 | $ | From |
 |---|---|
-|700 | Lifehack |
+| 1.5k - 2.5k | Services |
+| 700 | Lifehack |
 | 500 | EDA |
-| 400 | Accounting |
+| 400 - 650 | Accounting |
 | 200 | Loomio |
 | 200  | Rabid |
 | 100 | Ops |

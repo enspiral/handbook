@@ -1,12 +1,12 @@
 # Blogging at Enspiral
 
-![](http://i.imgur.com/ZZO5vsM.png)
+![](https://i.imgur.com/ZZO5vsM.png)
 
-During the original Catalyst experiment, Gina started [Enspiral Tales](https://medium.com/enspiral-tales) - a Medium collection for blog stories written by Enspiral people. 
+During the original Catalyst experiment, Gina started [Enspiral Tales](https://medium.com/enspiral-tales) - a Medium collection for blog stories written by Enspiral people.
 
 Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This is a bucket of money that anyone in the network can contribute to. Rich arbitrarily hands out money to people for writing, editing and illustrating blog posts.
 
-*At 8/07/16, there is $775 left in [the bucket](http://cobudget.co/#/buckets/276) - contact Rich to check if you can have some!*
+*At 01/08/17, there is $2,000 in [the bucket](http://cobudget.co/#/buckets/1483) - so get writing, get paid :)*
 
 
 ## Content
@@ -43,21 +43,20 @@ Anyone can write a piece on Medium and submit it to the publication for review. 
 
 Practically, Rich has the strongest editorial oversight - chat with him if you’re thinking of a post but not sure if it fits, or want any kind of encouragement. If you don’t know where to start, this short story about [writing the minimum viable post](https://medium.com/@richdecibels/rich-s-general-theory-of-blogging-aa2cb502fbc#.jihqiqa33) might help. He’s currently operating on the principle that more contributors is good: let’s all get in the habit of sharing our lessons in public! Right now he's particularly interested in sharing stories about the challenges and tensions of working in this way, but you might be interested in something completely different and that is cool too.
 
-Also the [Enspiral Ministry of Letters](https://www.loomio.org/d/8pcau5vh/enspiral-ministry-of-letters) is a support group for writers - join in there if you want some writing buddies!
 
 ## Licensing and syndication
 
 Licensing is up to you. Medium allows you to choose a license, whether you want to reserve all, some, or no rights. [This article](https://medium.com/@Medium/licensing-your-work-on-medium-517fa7096e62#.8i5wxkbd7) might help you choose. **If you don't actively choose a license, you're effectively giving up all your rights to Medium.**
 
-If you choose a license that allows people to share your work, it can get reposted elsewhere. This is great to expand the reach of our stories. E.g. [Shareable](http://www.shareable.net/blog/how-to-bootstrap-a-bossless-organization-in-3-easy-steps) and [P2P Foundation](https://blog.p2pfoundation.net/how-to-bootstrap-a-bossless-organization-in-3-easy-steps/2016/06/12) both reposted Rich’s Bossless Organisations piece. 
+If you choose a license that allows people to share your work, it can get reposted elsewhere. This is great to expand the reach of our stories. E.g. [Shareable](http://www.shareable.net/blog/how-to-bootstrap-a-bossless-organization-in-3-easy-steps) and [P2P Foundation](https://blog.p2pfoundation.net/how-to-bootstrap-a-bossless-organization-in-3-easy-steps/2016/06/12) both reposted Rich’s Bossless Organisations piece.
 
 If you want to make it easier on the editors of those publications, it’s helpful to publish a raw Markdown or Html version of your post somewhere. For example, see how Rich did that at the very end of [this post](https://medium.com/@richdecibels/occupiers-from-tunisia-spain-new-zealand-taiwan-and-france-compare-notes-5c6cc6d3afd3#.5ufyt410n).
 
 
 ## Impact
-The results have been great: about 30 people have written stories, growing the publication to 600 followers, getting about 10k hits in a month.
+The results have been great: about 40 people have written stories, growing the publication to 1700 followers, getting about 5-10k hits in a month.
 
-![](http://i.imgur.com/GBgBEYK.png)
+![](https://i.imgur.com/fCPwWY4.png)
 
 Are you the next contributor?
 
@@ -74,9 +73,9 @@ Are you the next contributor?
 
 People will rightly question: hey why are you supporting Medium over [free software](https://www.gnu.org/philosophy/free-sw.en.html) alternatives? Aren't they just another venture-backed company capturing the value we peer-produce for the common benefit of the internet!?
 
-Yes they are. Boo. I'm a free software advocate. I've been supporting people to write blogs since literally before blogging platforms were invented. I've rolled my own code, and hosted collaborative blogs on Blogger and Wordpress. 
+Yes they are. Boo. I'm a free software advocate. I've been supporting people to write blogs since literally before blogging platforms were invented. I've rolled my own code, and hosted collaborative blogs on Blogger and Wordpress.
 
-In my opinion, Medium has a couple of huge benefits compared to any other tool I've tried. The focus on "writing a post" rather than "starting a blog", the simplicity of the editor interface, the ease of maintaining an individual and a collective identity, the integration with social networks... all of these factors make it really attractive to new writers. 
+In my opinion, Medium has a couple of huge benefits compared to any other tool I've tried. The focus on "writing a post" rather than "starting a blog", the simplicity of the editor interface, the ease of maintaining an individual and a collective identity, the integration with social networks... all of these factors make it really attractive to new writers.
 
 I've found it to be orders of magnitude easier to recruit people to write on Medium than on any other platform. I'm optimising for maximum number of contributors.
 

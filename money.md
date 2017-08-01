@@ -8,6 +8,6 @@ A lot of what makes Enspiral special is how we deal with money. Read more about 
 
 ![](images/how-money-works.jpg)
 
-Money at Enspiral is governed by the [Financial Agreement](http://handbook.enspiral.com/financial_agreement.html).
+Money at Enspiral is governed by the [Financial Agreement](/agreements/financial.html).
 
 {% include 'contributing_hint.md' %}
