@@ -6,7 +6,7 @@ During the original Catalyst experiment, Gina started [Enspiral Tales](https://m
 
 Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This is a bucket of money that anyone in the network can contribute to. Rich arbitrarily hands out money to people for writing, editing and illustrating blog posts.
 
-*At 28/07/17, there is no money left in the bucket - if you have money in Cobudget, [please put it in the bucket](http://cobudget.co/#/buckets/1483)! :)*
+*At 01/08/17, there is $2,000 in [the bucket](http://cobudget.co/#/buckets/1483) - so get writing, get paid :)*
 
 
 ## Content
