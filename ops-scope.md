@@ -1,17 +1,18 @@
-# Enspiral Ops Scope of Work
+# Ops Scope of Work
 
 ##Context
 
 ###The contract
 Enspiral Foundation Limited via the Board has contracted the Ops team to provide a range of back office and administrative services. This is a summarised version of the agreed scope of work.
 
-###Ops team
-The Ops team are a pod within Enspiral Services Ltd. They were founded by Malcolm and Phill in July 2015 to take on the admin work of Tracey in Enspiral Services Ltd and Phill in Enspiral Foundation Ltd. Their plan is to become a proto-venture of Enspiral by November 2016.
-The team:
+###Ops
+The Ops team were a pod within Enspiral Services Ltd but in March 2017 setup as an independent company. They were originally founded by Malcolm Shearer and Phill Coxon in July 2015 to take on the admin work of Tracey in Enspiral Services Ltd and Phill in Enspiral Foundation Ltd. 
+The current team, all based in Wellington:
 
-* Malcolm Shearer (Wellington)
-* Charley Davenport (Wellington)
-* Haley Littlewood (Nelson)
+* Malcolm Colman-Shearer
+* Charley Davenport
+* Rupert Snook
+* Andre Robertson-Bate
 
 ##Contracted work
 **Banking and Xero - Financial Admin**
