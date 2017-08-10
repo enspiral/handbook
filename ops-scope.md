@@ -30,6 +30,7 @@ The current team, all based in Wellington:
 
 * Respond to emails coming to contact@enspiral.com (website contact address) and foundation@enspiral.com 
 * If someone doesn't know who to talk to at Enspiral, point them in the right direction
+* Ops can also be contacted via the Slack channel #ops_chat
 
 **Manage Contributors**
 
@@ -64,7 +65,6 @@ The current team, all based in Wellington:
 * Ensure all contributors are added to Cobudget
 * Distribute funds in Cobudget according to contributions
 * Update buckets when paid out
-* Reconcile total funds in Cobudget to total collab funding funds in my.enspiral 
 
 **Role Optimisation**
 
