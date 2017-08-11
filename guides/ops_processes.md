@@ -10,6 +10,7 @@ This is a list of processes that Ops runs in Enspiral Foundation and which are p
 - Optimising
 
 ##Contributor processes
+
 ###Onboarding
 
 ###Annual opt-in
