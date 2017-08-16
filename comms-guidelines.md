@@ -22,10 +22,6 @@ Feel free to start subgroups on Loomio if you'd like a more targeted collaborati
 
 Daily chatting, realtime comms, quick questions, intersting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
 
-**[Chalkle](http://www.chalkle.com/enspiral) - Events/Classes**
-
-Enspiral's Chalkle Channel is where events and classes are posted that everyone is welcome to attend. If you'd like to host one, feel free! They can be free or you can charge. Chalkle events are visible on the public internet, but only 'followers' of the channel (including all contributors) will get a direct invitation. [More info](https://docs.google.com/document/d/1Phe94mRRo5yMpxiNiZiiX-sRKpsDQcDTbh9J7sdjIBY/edit?usp=sharing).
-
 **[Cobudget](beta.cobudget.co/#/groups/41) - Collaborative Funding**
 
 Our tool for budgeting and financial decision making. Enspiral's discretionary budget is distributed using a democratic process. All contributors are welcome to raise buckets (funding requests) and comment on buckets. If your message is about spending collective money, it probably makes sense to post it here as a bucket or comment.
