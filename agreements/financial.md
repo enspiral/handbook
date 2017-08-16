@@ -62,6 +62,14 @@ Those holding money in Cobudget decide what buckets they want to contribute fund
 * People carrying out work funded through Cobudget are expected to perform to the best of their abilities, and clearly communicate about their progress and the bucket outcomes.
 * Bucket funders are expected to use their funds responsibly, stepping beyond self-interest to make decisions on the basis of what’s best for the network as a whole.
 
+## Tax
+As a [New Zealand registered company](http://www.companies.govt.nz/co/3415611) Enspiral Foundation is liable for tax on its end of year profit. This overseen by the Board and handled by Enspiral Ops and Enspiral Accounting.
+
+**Collaborative Funds**
+In general collaborative funds are expected to be spent throughout the year, however it can occur that these are held into the next financial year.
+
+Funds held in cobudget at the end of the financial year will be countered as profit from the point of view of Inland Revenue and be subject to tax (currently 28%). As Foundation is holding these funds on behalf of individuals it will pass this liability on to the bucket holders in the form of a haircut of the same amount.
+
 ## Reporting
 The Board is responsible for keeping up to date a [Financial Transparency](/financial_transparency.html) section of the Enspiral Handbook, which covers:
 
