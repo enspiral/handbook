@@ -6,17 +6,21 @@ This agreement defines how Enspiral handles money as a collective, specifically 
 ## Income
 The Foundation’s funds come from the following sources.
 
+**Recuring Contributor Contributions**
+
+Individuals in the network make a financial contribution to Enspiral Foundation, representing their choice to remain an Enspiral Contributor and support the core Foundation activities. Contributors select how much and how often they wish to contribute, this may be weekly, monthly, quaterly or annually. Contributors will elect how much they wish to contribute to both foundation and collaborative funding. They may also select additional services they wish to recieve (eg $90 for google apps account).
+
+**One Off Contributor Contributions**
+
+Individuals may contribute additional funds to foundation or a collaborative funding account anytime.
+
+**Gifts**
+
+Anyone may gift funds to Enspiral Foundation, a specic project or bucket any time.
+
 **Venture Contributions**
 
-[Enspiral ventures](/ventures.html) make voluntary financial contributions, usually on a monthly basis. Half a Venture’s contribution goes toward fixed costs and reserves, and half is allocated to Discretionary Funds through Cobudget. Ventures can opt for their funds to be added to their Venture’s Cobudget account, to be split equally among nominated individuals, or the venture may specify exact allocation amounts, to fund projects of their choice.
-
-**Contributor Contributions**
-
-Individuals in the network make a financial contribution to the Foundation at least annually, representing their choice to remain an Enspiral Contributor. The baseline amount is $100 to Enspiral Foundation for management and overhead around contributors, including ops contract (optional $90 for a google apps account). Contributions to cobudget are optional and at the contributor's discretion.
-
-**Variable Contributions**
-The real time Variable Contribution process allows people to contribute to Enspiral Foundation and participate in Enspiral's Collaborative Funding process.
-It also allows existing Enspiral contributors to give more funds to Enspiral Foundation above and beyond the (suggested) $100 / year annual contribution. See more description on the [Variable Contributions page](/finances_variable_contributions.md)
+[Enspiral ventures](/ventures.html) make voluntary financial contributions, usually on a monthly basis. Ventures elect how much they wish to contribute to both foundation and collaborative funding. Collaborative funds are divided evenly amongst elected cobudget accounts.
 
 **Other Income**
 
