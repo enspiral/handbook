@@ -8,15 +8,15 @@ The Foundation’s funds come from the following sources.
 
 **Recuring Contributor Contributions**
 
-Individuals in the network make a financial contribution to Enspiral Foundation, representing their choice to remain an Enspiral Contributor and support the core Foundation activities. Contributors select how much and how often they wish to contribute, this may be weekly, monthly, quaterly or annually. Contributors will elect how much they wish to contribute to both foundation and collaborative funding. They may also select additional services they wish to recieve (eg $90 for google apps account).
+Individuals in the network are asked to make a financial contribution to Enspiral Foundation. Contributors select how much and how often they wish to contribute, this may be weekly, monthly, quaterly or annually. Contributors will elect how much they wish to contribute to both foundation and collaborative funding. They may also select additional services they wish to recieve (eg $90 for google apps account). In order to prioritise a healthy financial base for foundation we ask individuals to contribute a certain amount to foundation before collaborative funding.
 
 **One Off Contributor Contributions**
 
-Individuals may contribute additional funds to foundation or a collaborative funding account anytime.
+Individuals may contribute additional funds to foundation or a Cobudget account anytime. As with recuring contributions we ask individuals to contribute a certain amount to foundation before collobarative funds. If an individual has already contributed to foundation via a recuring contribution they may just do a one off contribution to Cobudget.
 
 **Gifts**
 
-Anyone may gift funds to Enspiral Foundation, a specic project or bucket any time.
+Anyone may gift funds to Enspiral Foundation, a specic project or bucket any time. These funds are overseen by the Board and are managed by Optimi
 
 **Venture Contributions**
 
@@ -27,7 +27,6 @@ Anyone may gift funds to Enspiral Foundation, a specic project or bucket any tim
 The Foundation is a [charitable entity](/constitution.html) not intended to bear commercial risk. However, from time to time other activities (such as serving as a fundholder for grants and projects) can result in income directly to the Foundation. Approval for such transactions is at the discretion of the Board. The Board and the people involved in bringing in the income agree how to distribute any resulting income between Normal Reserves and Discretionary Funds (via nominated users in Cobudget). These decisions and transactions are reported on the Financial Transparency page of the Handbook (as described below).
 
 ## Expenditure
-
 Money flowing through or held by the Foundation falls under the following categories.
 
 **Fixed Costs**
@@ -63,7 +62,7 @@ Those holding money in Cobudget decide what buckets they want to contribute fund
 * Bucket funders are expected to use their funds responsibly, stepping beyond self-interest to make decisions on the basis of what’s best for the network as a whole.
 
 ## Tax
-As a [New Zealand registered company](http://www.companies.govt.nz/co/3415611) Enspiral Foundation is liable for tax on its end of year profit. This overseen by the Board and handled by Enspiral Ops and Enspiral Accounting.
+As a [New Zealand registered company](http://www.companies.govt.nz/co/3415611) Enspiral Foundation is liable for tax on its end of year profit. This overseen by the Board and handled by Optimi and Enspiral Accounting.
 
 **Collaborative Funds**
 In general collaborative funds are expected to be spent throughout the year, however it can occur that these are held into the next financial year.
