@@ -2,9 +2,9 @@
 
 In many ways, the sum total of all our communication is what defines the existence of Enspiral - it’s the connections between us all. There are a variety of different channels that are used in constantly evolving ways. 
 
-This guide is here to give an overview of the channels we've officially decided to adopt, the policies we've set, and to give you some tips for how best to communicat with the network.
+This guide is here to give an overview of the channels we've officially decided to adopt, the policies we've set, and to give you some tips for how best to communicate with the network.
 
-These comms channels are hosted by the Enspiral Foundation and are open to all contributors (or wider). If you are a contributor but lack access to something, contact foundation@enspiral.com
+These comms channels are hosted by the Enspiral Foundation and are open to all contributors (or wider). If you are a contributor but lack access to something, contact the Ops team: foundation@enspiral.com or #ops_chat on Slack.
 
 # Channels and Tools
 
@@ -12,7 +12,7 @@ These comms channels are hosted by the Enspiral Foundation and are open to all c
 
 Our tool for decision making. The assumption is everyone will see everything. A proposal passed on Loomio becomes network policy.
 
-Posting on Loomio in the main Enspiral group sends a notification out to everyone (nearly 300 people around the world), and so should be used judiciously. Tends to get noisy if we over-use it.
+Posting on Loomio in the main Enspiral group sends a notification out to everyone (200+ people around the world), and so should be used judiciously. Tends to get noisy if we over-use it.
 
 Two categories of content appropriate for Loomio: a topic that could lead to a decision that affects the whole network, or important information everyone really needs to discuss.
 
@@ -20,11 +20,7 @@ Feel free to start subgroups on Loomio if you'd like a more targeted collaborati
 
 **[Slack](http://enspiral.slack.com) - Daily Comms**
 
-Daily chatting, realtime comms, quick questions, intersting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
-
-**[Chalkle](http://www.chalkle.com/enspiral) - Events/Classes**
-
-Enspiral's Chalkle Channel is where events and classes are posted that everyone is welcome to attend. If you'd like to host one, feel free! They can be free or you can charge. Chalkle events are visible on the public internet, but only 'followers' of the channel (including all contributors) will get a direct invitation. [More info](https://docs.google.com/document/d/1Phe94mRRo5yMpxiNiZiiX-sRKpsDQcDTbh9J7sdjIBY/edit?usp=sharing).
+Daily chatting, realtime comms, quick questions, interesting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
 
 **[Cobudget](beta.cobudget.co/#/groups/41) - Collaborative Funding**
 

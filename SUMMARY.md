@@ -24,6 +24,7 @@
   * [Google apps](guides/google_apps.md)
   * [Improvements](guides/improvements.md)
   * [Onboarding Emails](guides/onboarding-info.md)
+  * [Ops processes](guides/ops_processes.md)
   * [People\*](guides/people.md)
   * [Project Kitchens](guides/project_kitchen.md)
   * [Projects & Reports](guides/projects_reports.md)
