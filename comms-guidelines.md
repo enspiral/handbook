@@ -2,9 +2,9 @@
 
 In many ways, the sum total of all our communication is what defines the existence of Enspiral - it’s the connections between us all. There are a variety of different channels that are used in constantly evolving ways. 
 
-This guide is here to give an overview of the channels we've officially decided to adopt, the policies we've set, and to give you some tips for how best to communicat with the network.
+This guide is here to give an overview of the channels we've officially decided to adopt, the policies we've set, and to give you some tips for how best to communicate with the network.
 
-These comms channels are hosted by the Enspiral Foundation and are open to all contributors (or wider). If you are a contributor but lack access to something, contact foundation@enspiral.com
+These comms channels are hosted by the Enspiral Foundation and are open to all contributors (or wider). If you are a contributor but lack access to something, contact the Ops team: foundation@enspiral.com or #ops_chat on Slack.
 
 # Channels and Tools
 
@@ -12,7 +12,7 @@ These comms channels are hosted by the Enspiral Foundation and are open to all c
 
 Our tool for decision making. The assumption is everyone will see everything. A proposal passed on Loomio becomes network policy.
 
-Posting on Loomio in the main Enspiral group sends a notification out to everyone (nearly 300 people around the world), and so should be used judiciously. Tends to get noisy if we over-use it.
+Posting on Loomio in the main Enspiral group sends a notification out to everyone (200+ people around the world), and so should be used judiciously. Tends to get noisy if we over-use it.
 
 Two categories of content appropriate for Loomio: a topic that could lead to a decision that affects the whole network, or important information everyone really needs to discuss.
 
@@ -20,7 +20,7 @@ Feel free to start subgroups on Loomio if you'd like a more targeted collaborati
 
 **[Slack](http://enspiral.slack.com) - Daily Comms**
 
-Daily chatting, realtime comms, quick questions, intersting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
+Daily chatting, realtime comms, quick questions, interesting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
 
 **[Cobudget](beta.cobudget.co/#/groups/41) - Collaborative Funding**
 
