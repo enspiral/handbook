@@ -14,6 +14,7 @@ Guides explain in practical terms how we do stuff. Any Enspiral Contributor can 
 * [Google apps](guides/google_apps.md) - how to get an Enspiral email account
 * [Improvements](guides/improvements.md) - how to make changes to the network
 * [Onboarding Emails](guides/onboarding-info.md) - messages sent to new contributors
+* [Ops processes](guides/ops_processes.md) - a list of some of ops processes
 * [People\*](guides/people.md)
 * [Project Kitchens](guides/project_kitchen.md) - an energising process for efficiently giving mutual support to projects through enabling group intelligence
 * [Projects & Reports](guides/projects_reports.md)
