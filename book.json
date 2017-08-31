@@ -2,7 +2,12 @@
   "styles": {
     "website": "styles/website.css"
   },
-  "plugins": [ "collapsible-menu", "video" ],
+  "plugins": [ "collapsible-menu", "video", "ga" ],
+  "pluginsConfig": {
+        "ga": {
+            "token": "UA-1616271-11"
+        }
+  },
   "variables": {
     "org": "Enspiral"
   }
