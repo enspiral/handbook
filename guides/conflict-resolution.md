@@ -1,7 +1,7 @@
 # Conflict Resolution Guidelines
 ## a.k.a. Tranformative Justice Guidelines
 
-Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network.  We collectively strive to foster an increasingly open, inclusive and caring culture.  The [Well Working Group](https://handbook.enspiral.com/working-groups/well_working_group.html) will support this mission by developing network resources for constructive dialogue and co-working.
+Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network.  We collectively strive to foster an increasingly open, inclusive and caring culture.  The [Well Working Group](/working-groups/well_working_group.md) will support this mission by developing network resources for constructive dialogue and co-working.
 
 In this document you will find three suggested steps to take to safely and appropriately resolve conflict. Also included are support mechanisms if you need additional input to help resolve the conflict.
 
@@ -21,7 +21,7 @@ If you are in conflict with someone else consider taking these three steps:
 - Distinguish _disagreement_ from personal _hostility._  We're allowed to disagree, dissent and discuss.
 - Review relevant documents andConflict Resolution Support.
 
-If you've contemplated the experience and have decided it feels like it may be _harassment_ or _abuse_, please consult our [Harassment and Abuse Policy](https://docs.google.com/document/d/1dT7G-dsQi7TCjgiGfrQqUOWWBAsuDcKdtQ3Ol95jxLA/edit#heading=h.mjik30199qog).
+If you've contemplated the experience and have decided it feels like it may be _harassment_ or _abuse_, please consult our [Harassment and Abuse Policy](/agreements/harassment_and_abuse.md).
 
 ### 2.  Invite Conversation
 
