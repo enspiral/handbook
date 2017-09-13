@@ -29,7 +29,7 @@ If you're unable to resolve a conflict on your own, invite conversation.  The so
 
 - If you feel able and safe to, directly discuss your concerns with the person you are in conflict with.
 - Otherwise, see Conflict Resolution Support.
-- Consider your communication approach; [Comms Guidelines](https://handbook.enspiral.com/guides/comms_guidelines.html) might be helpful.
+- Consider your communication approach; [Comms Guidelines](/guides/comms_guidelines.html) might be helpful.
 - Ensure a mutually agreeable time and place for conversation, including adequate privacy.
 
 ### 3.  Develop a Plan
@@ -45,7 +45,7 @@ If you're unable to resolve a conflict on your own, invite conversation.  The so
 
 ## Transformative Justice Support
 
-Again, if you've contemplated the experience and have decided it feels like it may be _harassment_ or _abuse_, please consult our [Harassment and Abuse Policy](https://docs.google.com/document/d/1dT7G-dsQi7TCjgiGfrQqUOWWBAsuDcKdtQ3Ol95jxLA/edit#heading=h.mjik30199qog).
+Again, if you've contemplated the experience and have decided it feels like it may be _harassment_ or _abuse_, please consult our [Harassment and Abuse Policy](/agreements/harassment_and_abuse.md).
 
 Each of these support stages may be pursued separately or together.
 
@@ -63,7 +63,7 @@ Directly discuss your concerns with a conflicting person _if you're comfortable 
 
 ### 2. Private support
 
-Talk privately to your [Enspiral Steward(s)](https://handbook.enspiral.com/stewardship_agreement.html)or trusted friends to help you resolve conflicts with other Enspiral participants. Make a plan together about what you're going to do.
+Talk privately to your [Enspiral Steward(s)](/agreements/stewardship_agreement.md) or trusted friends to help you resolve conflicts with other Enspiral participants. Make a plan together about what you're going to do.
 
 ### 3. Expanded dialogue
 
@@ -83,11 +83,11 @@ ______
 
 ### Related Agreements
 
-[Personal Conduct](https://docs.google.com/document/d/1imAamOKSoqpCHnrsM8U2CWuZTrmOo5WYkqsVYETG_fk/edit?usp=sharing)
+[Personal Conduct](/agreements/personal_conduct.md)
 
-[Harassment and Abuse Policy](https://docs.google.com/document/d/1dT7G-dsQi7TCjgiGfrQqUOWWBAsuDcKdtQ3Ol95jxLA/edit#heading=h.mjik30199qog)
+[Harassment and Abuse Policy](/agreements/harassment_and_abuse.md)
 
-[Decisions](https://handbook.enspiral.com/agreements/decisions.html)
+[Decisions](/agreements/decisions.md)
 
 [Diversity](/agreements/diversity.md)
 
