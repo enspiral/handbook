@@ -6,7 +6,7 @@
 
 Be mindful of the damage which misunderstandings and misleading personal accusations can create. However, if you think you've been seriously harmed by any of the following behaviors, we encourage you to use the [Conflict Resolution Guide](/guides/conflict-resolution.md) to address the issue, **or** report a complaint to authorities.
 
-In serious cases if you are found to act in ways prohibited by this agreement you may be asked to leave Enspiral through a formal proposal as per our [Decisions Agreement](/decisions_agreement.md).
+In serious cases if you are found to act in ways prohibited by this agreement you may be asked to leave Enspiral through a formal proposal as per our [Decisions Agreement](/agreements/decisions.md).
 
 ### Warning Signs of Harassment or Abuse
 
@@ -21,7 +21,7 @@ In serious cases if you are found to act in ways prohibited by this agreement yo
 
 ### Reporting Concerns and Complaints
 
-Our [Conflict Resolution Guide](https://docs.google.com/document/d/1FElHGHgQ39u_z1QWCbzJQozvoILAH7hjL1_g2waEJVs/edit?usp=sharing) can be used to address all specific concerns and complaints.
+Our [Conflict Resolution Guide](/guides/conflict-resolution.md) can be used to address all specific concerns and complaints.
 Such proposals are _strongly recommended_ in any well-supported claims of harassment or abuse. Otherwise, email [foundation@enspiral.com](mailto:foundation@enspiral.com).
 
 If you have a complaint made against you, you will have access to the same Enspiral resources as the accuser.  Please use the [Conflict Resolution Guide](/guides/conflict-resolution.md) and related resources.
@@ -40,7 +40,7 @@ _____
 
 ### Related Agreements
 
-[Decisions](/decisions.md)
+[Decisions](/agreements/decisions.md)
 
 [Personal Conduct](/agreements/personal_conduct.md)
 
