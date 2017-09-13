@@ -1,12 +1,12 @@
 # Personal Conduct Guidelines
 
-Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network.  We collectively strive to foster an increasingly open, inclusive and caring culture.  The [Well Working Group](https://handbook.enspiral.com/working-groups/well_working_group.html) will support this mission by developing network resources for constructive dialogue and co-working.
+Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network.  We collectively strive to foster an increasingly open, inclusive and caring culture.  The [Well Working Group](/working-groups/well_working_group.md) will support this mission by developing network resources for constructive dialogue and co-working.
 
 **We ask all Enspiral participants to support these Personal Conduct Guidelines:**
 
 ## Respect diversity
 
-We are committed to supporting social diversity and cultural sensitivity.  Please support our [Diversity Agreement](https://handbook.enspiral.com/diversity_agreement.html) in all interactions.
+We are committed to supporting social diversity and cultural sensitivity.  Please support our [Diversity Agreement](/agreements/diversity.md) in all interactions.
 
 ## Communicate gently
 
@@ -14,11 +14,11 @@ Enspiral participants are expected to support contemplative awareness and [nonvi
 
 ## Communicate effectively
 
-Your voice is welcome. Your perspective is valued. Your interests are interesting. The best thing you can do to give and receive value is participate. Please consider reading our [Comms Guidelines](https://handbook.enspiral.com/guides/comms_guidelines.html), especially the "Pick your Channel Wisely" section, to help express yourself effectively.
+Your voice is welcome. Your perspective is valued. Your interests are interesting. The best thing you can do to give and receive value is participate. Please consider reading our [Comms Guidelines](/guides/comms_guidelines.html), especially the "Pick your Channel Wisely" section, to help express yourself effectively.
 
 ## Discuss concerns and questions
 
-If you feel uncomfortable or uncertain about Enspiral issues or processes, please _identify your concerns_.  If they've already been identified in [Enspiral Improvements](https://github.com/enspiral/improvements/issues) or in active [Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) discussions, please join the conversation.  If not, start a conversation which could help the whole network.
+If you feel uncomfortable or uncertain about Enspiral issues or processes, please _identify your concerns_.  If they've already been identified in [Enspiral Improvements](/guides/improvements.md) or in active [Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) discussions, please join the conversation.  If not, start a conversation which could help the whole network.
 
 ## Resolve conflicts inclusively
 
@@ -36,7 +36,7 @@ __________
 
 [Harassment and Abuse Policy](/agreements/harassment_and_abuse.md)
 
-[Decisions](/decisions.md)
+[Decisions](/agreements/decisions.md)
 
 [Diversity](/agreements/diversity.md)
 
