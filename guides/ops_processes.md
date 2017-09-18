@@ -49,3 +49,18 @@ After 3 months in the network, and once a year after that, we ask Contributors t
 - Five weeks after sending the "Opt-in" email, if Ops has not received any notification from the Contributor or Steward, we presume the Contributor does not wish to stay in the network and we process the Contributor to be removed from the Enspiral Systems
 
 ###Offboarding
+
+Contributors are offboarded from the network: either when they decide to leave the network at the annual opt-in date or by default if they have not responded to the Opt-in requests.
+
+Ops receives a notification that a Contributor would like to Opt-out or has not responded to the Opt-in requests.
+
+Ops removes the Contributor’s accounts from the following Enspiral systems:
+
+- Enspiral Loomio Group (this also removes them from the “Ask Enspiral // Enspiral Opportunites sub-group)
+- Secret Enspiral Facebook Group
+- Cobudget (any remaining funds are recycled into the next Cobudget round ***currently in construction***)
+- Removed from the Foundation Google Apps Contributors Group
+- Removed from the Monthly Enspiral Newsletter e-mail list
+- Slack: (Note: you cannot fully “remove” users, instead the Contributor’s account is “disabled”)
+
+If the Contributor has a Google Apps account (a "name@enspiral.com" account), they are notified via email and Slack that their Google Apps account will be removed in two weeks. Ops schedules the Google Apps account removal date. After two weeks, the account is removed and any remaining Google Drive documents owned by the contributor is re-assigned to a nominated account managed by Ops. If the Contributor is also in a Venture, Ops updates the repeating invoices to the Venture for the Google Apps account.
