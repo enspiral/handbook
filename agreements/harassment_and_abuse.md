@@ -22,7 +22,7 @@ In serious cases if you are found to act in ways prohibited by this agreement yo
 ### Reporting Concerns and Complaints
 
 Our [Conflict Resolution Guide](/guides/conflict-resolution.md) can be used to address all specific concerns and complaints.
-Such proposals are _strongly recommended_ in any well-supported claims of harassment or abuse. Otherwise, email [foundation@enspiral.com](mailto:foundation@enspiral.com).
+Additionally, our Decisions Agreement allows Enspiral participants to be removed by formal proposal.  Such proposals are _strongly recommended_ in any well-evidenced claims of harassment or abuse.  If you find yourself in a situation where you have pursued all the options available here and your concern is yet unresolved email [foundation@enspiral.com](mailto:foundation@enspiral.com).
 
 If you have a complaint made against you, you will have access to the same Enspiral resources as the accuser.  Please use the [Conflict Resolution Guide](/guides/conflict-resolution.md) and related resources.
 
