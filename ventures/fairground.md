@@ -2,7 +2,7 @@
 
 **Venture Description**
 
-At Fairground we believe in a world where purpose-driven business is business-as-usual. We’re all about mixing good business with social impact and are hugely passionate about supporting social enterprises and startups.
+At Fairground \(formally Enspiral Accounting\) we believe in a world where purpose-driven business is business-as-usual. We’re all about mixing good business with social impact and are hugely passionate about supporting social enterprises and startups.
 
 Having been born out of the Enspiral network as “Enspiral Accounting” in April 2012, we are proudly an [Enspiral Venture](https://enspiral.com/about-enspiral/ventures/) and are backed by a network of collaborators who are committed to working with organisations with a strong social purpose.
 
