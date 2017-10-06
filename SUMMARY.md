@@ -62,7 +62,7 @@
     * [Bucky Box](ventures/bucky_box.md)
     * [Chalkle](ventures/chalkle.md)
     * [Enspiral Academy](ventures/enspiral_academy.md)
-    * [Enspiral Accounting](ventures/enspiral_accounting.md)
+    * [Fairground \(formally Enspiral Accounting\)](ventures/enspiral_accounting.md)
     * [Enspiral Foundation](ventures/enspiral_foundation.md)
     * [Enspiral Services](ventures/enspiral_services.md)
     * [EXP](ventures/exp.md)
