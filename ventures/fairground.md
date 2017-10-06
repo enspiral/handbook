@@ -12,7 +12,7 @@ We are a 100% cloud based accounting firm and proud to be a Xero Gold Partner an
 
 **Key personnel**
 
-* Charmaine Meyers - Director/Accountant
+* Charmaine Meyers - Director/Accountant 
 * Antz Rohan - Director/Accountant
 * David Bellinger - Accountant
 * Kit Nelson - Accountant
