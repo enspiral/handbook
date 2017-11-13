@@ -22,6 +22,21 @@ The issues list and the waffle board are different views to the same information
 
 Daily chatting, realtime comms, quick questions, interesting links. There is a #watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own! 
 
+Here's a list of popular Slack Channels:
+* Cobudget - Find help: [https://cobudget.slack.com](https://cobudget.slack.com) OR support@cobudget.co, Plan:  [https://trello.com/b/Ca4BpYOz/cobudget-sprint-board](https://trello.com/b/Ca4BpYOz/cobudget-sprint-board)
+* Cool-Shit
+* Dev-Chat - For talk about programming stuff
+* Enspiral_Help - How do I enspiral?
+* Enspiral-News - A channel to add in any links or news you would like to have shared in the next issue of Enspiral news. If there is important or useful context you would like included, please drop that in as well
+* Enstagram - Like Enspiral-Instragam: a place we can share snapshots from daily life so it feels like we are hanging out together even when we’re all over the world!
+* Music
+* Network map - Network Map Here: [https://kumu.io/enspiral/enspiral](https://kumu.io/enspiral/enspiral) [Documentation here](https://docs.google.com/document/d/1p7pQDsr1KbEaOE5Zv5i1NsVpazPBLe8iLjYCRcBRIE4/edit#heading=h.b2negpxbz2ky)
+* Stewardingv2 - [https://www.loomio.org/d/JjhvAxdc/stewardship-update-2017-](https://www.loomio.org/d/JjhvAxdc/stewardship-update-2017-)
+* Thanks
+* Want-Ads - enspiral classifieds + mirror of Enspiral Opportunities = [https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral](https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral)
+* Watercooler
+* Wellington
+
 **[Cobudget](beta.cobudget.co/#/groups/41) - Collaborative Funding**
 
 Our tool for budgeting and financial decision making. Enspiral's discretionary budget is distributed using a democratic process. All contributors are welcome to raise buckets (funding requests) and comment on buckets. If your message is about spending collective money, it probably makes sense to post it here as a bucket or comment.
@@ -73,21 +88,6 @@ Know the various channels available and consciously decide where to post. Within
 * Long form public sharing goes on Enspiral Tales
 
 Messages relevant only to a limited group of people should be emailed directly, or posted in a specific Slack channel or Loomio subgroup.
-
-Here's a list of popular Slack Channels:
-* Cobudget - Find help: [https://cobudget.slack.com](https://cobudget.slack.com) OR support@cobudget.co, Plan:  [https://trello.com/b/Ca4BpYOz/cobudget-sprint-board](https://trello.com/b/Ca4BpYOz/cobudget-sprint-board)
-* Cool-Shit
-* Dev-Chat - For talk about programming stuff
-* Enspiral_Help - How do I enspiral?
-* Enspiral-News - A channel to add in any links or news you would like to have shared in the next issue of Enspiral news. If there is important or useful context you would like included, please drop that in as well
-* Enstagram - Like Enspiral-Instragam: a place we can share snapshots from daily life so it feels like we are hanging out together even when we’re all over the world!
-* Music
-* Network map - Network Map Here: [https://kumu.io/enspiral/enspiral](https://kumu.io/enspiral/enspiral) [Documentation here](https://docs.google.com/document/d/1p7pQDsr1KbEaOE5Zv5i1NsVpazPBLe8iLjYCRcBRIE4/edit#heading=h.b2negpxbz2ky)
-* Stewardingv2 - [https://www.loomio.org/d/JjhvAxdc/stewardship-update-2017-](https://www.loomio.org/d/JjhvAxdc/stewardship-update-2017-)
-* Thanks
-* Want-Ads - enspiral classifieds + mirror of Enspiral Opportunities = [https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral](https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral)
-* Watercooler
-* Wellington
 
 **Subject Lines**
 
