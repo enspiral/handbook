@@ -1,12 +1,16 @@
 # Collaborative Funding
 
+The Greaterthan team are working with Enspiral and the Ops Team to deliver Facilitated Cobudget rounds on a monthly basis. (Contributors only: read more context about this on Loomio: [https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-](https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-)
+
 ## How to get paid for a Cobudget Bucket
 
-First, you need to figure out whether you're invoicing Enspiral Services or Enspiral Foundation. See the [Venture Profiles](/venture_profiles.html) if you're not sure.
+Once you've proposed a Bucket and it gets Funded (Woohoo! High-five!!), at the end of the funding round you will be contacted by email with a request to send an invoice to Enspiral Foundation via foundation@enspiral.com.
 
-Then, if your work was for Foundation, fill out [this form first](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdr9pugQocyDm28R0he71za00bfLQ80Azgff9flSzKjpjFwog/viewform)
-
-If your work was for an Enspiral Services bucket, email services@enspiral.com with an invoice that includes:
+In your invoice, be sure to include:
+* the total amount for the bucket (remember, the amounts in Cobudget are GST-exclusive)
+* bucket name and URL
+* a clear indication of whether GST is included in your invoice
+* bank account numbe
 * the total amount for the bucket
 * a clear indication whether GST is included in your invoice (remember the Cobudget amounts are GST-exclusive)
 * your name, contact email and bank account number
@@ -14,13 +18,5 @@ If your work was for an Enspiral Services bucket, email services@enspiral.com wi
 * the web address and name of the Cobudget bucket.
 
 Here's a link to the [Financial Agreement](/agreements/financial.html)
-
-## Coming soon!
-
-History of Collborative Funding at Enspiral
-
-How Enspiral uses Cobudget
-
-Link to previous collab funding annual reports
 
 {% include 'contributing_hint.md' %}
