@@ -10,12 +10,7 @@ In your invoice, be sure to include:
 * the total amount for the bucket (remember, the amounts in Cobudget are GST-exclusive)
 * bucket name and URL
 * a clear indication of whether GST is included in your invoice
-* bank account numbe
-* the total amount for the bucket
-* a clear indication whether GST is included in your invoice (remember the Cobudget amounts are GST-exclusive)
-* your name, contact email and bank account number
-* whether you are invoicing for you personally or on behalf of an Enspiral venture
-* the web address and name of the Cobudget bucket.
+* bank account number
 
 Here's a link to the [Financial Agreement](/agreements/financial.html)
 
