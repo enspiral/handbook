@@ -78,12 +78,12 @@ Enspiral Foundation has a dedicated "Collab Funding" bank account, which houses 
 
 Not all of the above is clearly represented at present in Cobudget. As such, Ops and Greaterthan uses a spreadsheet to track the total funds in Cobudget vs. the total in the Collab Funding bank account.
 
-#How funds enter Cobudget
+###How funds enter Cobudget
 Contributors can allocate funds to their individual Cobudget account as part of the annual Opt-in process or via the  [Variable contributions](https://handbook.enspiral.com/finances_variable_contributions.html) form. For tax purposes, **Variable contributions** are treated differently than the funds allocated as part of annual Opt-ins. (View the above link for further details about this). 
 
 Once this money is received in the Enspiral Foundation bank account, Ops reconciles the bank payment in Xero and adds a record of this payment to the Cobudget "Audit log". This list of users and Cobudget contributions in the Audit Log are queued up for the subsequent funding round. At the start of a funding round, these funds are added to individual contributor accounts. Ventures also make contributions to Cobudget to team accounts; these payments are similarly recorded into this audit log.
 
-#General funding round process
+###General funding round process
 * At the start of a funding round: Greaterthan enter Funded Buckets from the previous round into the Cobudget spreadsheet dashboard.
 * Ops receives a notification that there is a new Funded Bucket
 * Once the bucket details are entered in the spreadsheet, an email is then sent to the bucket owner with instructions on how to invoice Enspiral Foundation. (Specifically this email is triggered from a Zap based on the "Status" column of the row). The invoice must include: the total amount for the bucket (remember, the amounts in Cobudget are GST-exclusive), bucket name and URL, a clear indication of whether GST is included in your invoice, and the recipient's bank account number.
