@@ -1,6 +1,6 @@
 # Financial Transparency
 
-**Note: This page is accurate as of October 2016 **
+**Note: This page is accurate as of October 2017 **
 
 How money works at Enspiral is determined by the [Financial Agreement](/agreements/financial.html). This page is to provide information and transparency about our financial situation.
 ## Income and Expenses
@@ -12,24 +12,20 @@ __Venture__ contributions:
 
 | $ | From |
 |---|---|
-| 1.5k - 2.5k | Services |
-| 700 | Lifehack |
 | 500 | EDA |
-| 400 - 650 | Accounting |
+| 400 - 650 | Fairground |
 | 200 | Loomio |
-| 200  | Rabid |
-| 100 | Ops |
 | 40  | ActionStation |
 
-__Contributors__ pay an annual fee averaging at about $100 per person. Half of this is allocated by contributors using Cobudget - I've listed this as an expense below.
+__Contributors__ pay an annual fee of $100 per person.
 
 So Foundation __monthly income__ is:
 
 | $ | source |
 |---|---|
-| 2090 | ventures |
-| 1833 | contributors |
-| 3923 | __total__ |
+| 1140 | ventures |
+| 1416 | contributors |
+| 2556 | __total__ |
 
 ### Expenses
 
@@ -45,20 +41,26 @@ So Foundation __monthly income__ is:
 | 5846 | __total__ |
 
 ## Money we have
+*(Contributors only: check out the [Enspiral Foundation Financials Loomio Discussion](https://www.loomio.org/d/DIejiytR/enspiral-foundation-ltd-financials) for the latest discussion and information.
+
+### Invoices & Expenses
+*Normal cashflow account where bills are paid and sales invoice income first enter Foundation's bank account
+
+$10,270
 
 ### Emergency Fund
 *Amount set aside by the Board of Directors*
 
-$10,000
+$10,068
 
 ### Normal Reserves
 *Spending these funds is a decision of the Enspiral Members*
 
-$28,537.18 in reserves
+$21,519 in reserves
 
 ### Foundation Cobudget
 This is money that has been allocated in the foundation cobudget system but has not been spent. We're considering what we want to do about all this money as it is continuing to increase.
 
-$34,000 in Foundation Cobudget
+$22,562 in Foundation Cobudget
 
 {% include 'contributing_hint.md' %}
