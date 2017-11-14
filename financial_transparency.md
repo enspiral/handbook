@@ -34,11 +34,10 @@ So Foundation __monthly income__ is:
 | $ | thing |
 |---|---|
 | 3200 | Enspiral Ops ([scope](ops-scope.html))|
-| 916 | Cobudget |
-| 900 | Google |
+| 140 | General Expenses (bank fees, company registration, accounting etc.) |
+| 322 | SaaS|
 | 480 | Comms ([scope](comms-role.html)) |
-| 350 | ACC |
-| 5846 | __total__ |
+| 4142 | __total__ |
 
 ## Money we have
 *(Contributors only: check out the [Enspiral Foundation Financials Loomio Discussion](https://www.loomio.org/d/DIejiytR/enspiral-foundation-ltd-financials) for the latest discussion and information.
