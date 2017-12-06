@@ -1,13 +1,12 @@
 
-#Variable Contributions
+#Top up your Cobudget Account - Variable Contributions
 
-The real time Variable Contribution process allows people to contribute to Enspiral Foundation and participate in Enspiral's Collaborative Funding process. 
+To top up your individual Cobudget Account, you can make a one-off or request to make a repeating "real time Variable Contribution". It allows Enspiral contributors to give more funds to Enspiral Foundation above any funds chosen to contribute during the annual Opt-in. 
 
-It also allows existing Enspiral contributors to give more funds to Enspiral Foundation above any funds you chose to contribute in your annual Opt-in.
 The Variable Contribution process works like this: 
 
-1. People complete the [Variable Contributions Form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdSilcJMsP5UCNUwr4e-sElSf0QYt6bLr0zr1g9Sc2-86WHOQ/viewform) specifying how much they would like to gift to Enspiral Foundation.
-2. Enspiral Foundation sends an invoice to them for payment.
+1. Complete the [Variable Contributions Form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdSilcJMsP5UCNUwr4e-sElSf0QYt6bLr0zr1g9Sc2-86WHOQ/viewform) specifying how much you would like to gift to Enspiral Foundation.
+2. Enspiral Foundation will sends an invoice to you for payment.
 3. Once the invoice is paid, 100% of the amount is allocated to the user's [cobudget.co](http://cobudget.co) account for use in the collaborative funding process. 
 
 People making Variable Contributions can choose to have an automatic repeating invoice sent for a recurring Variable Contribution each month. 
