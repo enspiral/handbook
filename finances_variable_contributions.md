@@ -1,5 +1,5 @@
 
-#Top up your Cobudget Account - Variable Contributions
+# Top up your Cobudget Account - Variable Contributions
 
 To top up your individual Cobudget Account, you can make a one-off or request to make a repeating "real time Variable Contribution". It allows Enspiral contributors to give more funds to Enspiral Foundation above any funds chosen to contribute during the annual Opt-in. 
 
