@@ -9,7 +9,7 @@ Here’s the process for someone considering starting a proto-venture:
 
 1. At least one of your people need to be Enspiral contributors (see the [People agreement](/agreements/people.html))
 2. Find your three stewards
-3. Work with your stewards to fill in the [Venture Introduction template](venture_introduction_template.html)
+3. Work with your stewards to fill in the [Venture Introduction template](/venture_introduction_template.html)
 4. Your stewards will start a Loomio thread to introduce the proto-venture to the network
 
 You’re expected to keep the network updated with progress. As a bare minimum you should meet with your stewards once per quarter and fill in the [venture update form](https://docs.google.com/forms/d/11Oz-HM1Wt8CbzxZpzGmjjFcd-sp9vahoqcLuL3UysT4/viewform), which all the ventures use as a lightweight quarterly reporting system.
