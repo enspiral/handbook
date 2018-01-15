@@ -52,7 +52,7 @@ Anyone is welcome to propose to spend Normal Reserves for a specific purpose. Ap
 
 Money can only change hands between Enspiral Foundation Limited and a party/parties when there is a Formal Agreement that has an end date for review.
 
-Formal Agreement means an agreement that is between Enspiral Foundation Limited and named secondary party/parties that is signed and dated by legal signatories from each of the parties.
+Formal Agreement means an agreement that is between Enspiral Foundation Limited and named secondary party/parties that is signed and dated by legal signatories from each of the parties. 
 
 ## Collaborative Funding
 
