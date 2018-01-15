@@ -16,6 +16,7 @@
 * [Guides](guides.md)
   * [Activation Programme](guides/activation-programme.md)
   * [Blogging](guides/blogging.md)
+  * [Board](guides/board.md)
   * [Conflict Resolution](guides/conflict-resolution.md)
   * [Comms Guidelines](guides/comms_guidelines.md)
   * [Contributing to the Handbook](guides/contributing.md)
