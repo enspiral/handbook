@@ -35,6 +35,8 @@ There's an increasing number of companies outside of Enspiral that are also docu
 * [Valve Company Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
 * [Crisp DNA](http://dna.crisp.se/docs/index.html)
+* [Clef Handbook](https://github.com/clef/handbook)
+* [Gini Handbook](http://handbook.gini.net)
 * *if you have a handbook of your own, add it here or ping [@richdecibels](http://twitter.com/richdecibels) on Twitter*
 
 
