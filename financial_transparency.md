@@ -1,6 +1,6 @@
 # Financial Transparency
 
-**Note: This page is accurate as of December 2017 **
+**Note: This page is accurate as of January 2018 **
 
 How money works at Enspiral is determined by the [Financial Agreement](/agreements/financial.html). This page is to provide information and transparency about our financial situation.
 ## Income and Expenses
@@ -40,26 +40,26 @@ So Foundation __monthly income__ is:
 | 4142 | __total__ |
 
 ## Money we have
-*(Contributors only: check out the [Enspiral Foundation Financials Loomio Discussion](https://www.loomio.org/d/DIejiytR/enspiral-foundation-ltd-financials) for the latest discussion and information.
+*(Contributors only: check out the [Enspiral Foundation Financials Loomio Discussion](https://www.loomio.org/d/DIejiytR/enspiral-foundation-ltd-financials) for the latest discussion and information.)
 
 ### Invoices & Expenses
 *Normal cashflow account where bills are paid and sales invoice income first enter Foundation's bank account
 
-$10,748
+$1,823
 
 ### Emergency Fund
 *Amount set aside by the Board of Directors*
 
-$10,085
+$10,093
 
 ### Normal Reserves
 *Spending these funds is a decision of the Enspiral Members*
 
-$22,611 in reserves
+$21,617 in reserves
 
 ### Foundation Cobudget
 This is money that has been allocated in the foundation cobudget system but has not been spent. We're considering what we want to do about all this money as it is continuing to increase.
 
-$15,828 in Foundation Cobudget
+$15,832 in Foundation Cobudget
 
 {% include 'contributing_hint.md' %}
