@@ -4,7 +4,12 @@ This guide is here to give an overview of the channels we've decided to adopt an
 
 These comms channels are hosted by the Enspiral Foundation and are open to all contributors (or wider). If you are a contributor but lack access to something, contact foundation@enspiral.com
 
+[![Map of our comms tools](https://i.imgur.com/GaC40ja.png)](https://kumu.io/enspiral/comms)
+
+[Explore an interactive map of our comms tools](https://kumu.io/enspiral/comms), or read on:
+
 # Comms Platforms and Tools
+
 
 **[Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) - Group Decisions**
 
