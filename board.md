@@ -40,11 +40,6 @@ Bart is intent on moving the world. He has an eclectic background. Working as a 
 
 Now Bart is back in Wellington and intent on moving the world, getting people focused on their health, wellbeing, their vitality and happiness. He no longer wants to be at the bottom of the cliff but rather is getting to the top, fencing it off and sign posting to make an impact on how this world functions and where to moves to next.
 
-### Billy Matheson
-I am a social entrepreneur who brings a unique set of skills and perspectives to every project I get involved with. My educational background is in Industrial Design (B.Des Victoria) and Adult Education (M.Ed, Massey). In 2009 I was involved in founding the ReGeneration youth leadership project in partnership with Enviroschools and the Tindall Foundation, where I met many Enspiral people. In 2012 I was employed by Auckland Council as their Principal Advisor on Social Entrepreneurship, a role that I was in for three years. I am involved with three Enspiral Ventures and serve in a governance capacity with a number of other companies and trusts.
-
-I really like working with complexity, and for that reason I want the things that can be simple and clear to be as simple and clear as possible - like the MVB. The key thing to understand about the MVB concept is that, if it works, it will free the directors to focus on governance rather than operational issues. With the Catalysts in action, Venture Stewards doing their thing, and the Enspiral Handbook underway, the MVB can get on with fundamental compliance issues like processes for appointing new directors, financial reporting, and managing risk. It also means that, like directors of any other Enspiral venture, we can spend more time thinking about how Enspiral Foundation Ltd can be more awesome. This is a massive improvement on what we had before, so definitely watch this space!
-
 ### Rob Guthrie
 Lifelong programmer with a passion for the power of the internet to transform society and improve lives. Serial entrepreneur, business and product strategist, and relentless problem solver. Loves building useful tools that real people use. Supports others to learn and grow.
 
