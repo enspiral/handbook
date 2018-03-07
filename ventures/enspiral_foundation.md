@@ -6,22 +6,19 @@ The Enspiral Foundation is a charitable company co-owned by the [Enspiral Member
 
 **Key personnel**
 
-* Silvia Zuur - Director
+* Ants Cabraal - Director
+* Bart De Vries - Director
 * Robert Guthrie - Director
-* Billy Matheson - Director
+* Susan Basterfield - Director
 * Enspiral Members - Shareholders
 * Enspiral Ops - Administration
 
-Contact: Enspiral Ops, [foundation@enspiral.com](mailto:oundation@enspiral.com)
+Contact: Enspiral Ops, [foundation@enspiral.com](mailto:foundation@enspiral.com)
 
 **Links**
 
 * website: [www.enspiral.com](http://www.enspiral.com)
 * handbook: [handbook.enspiral.com](http://handbook.enspiral.com)
-
-**Latest Quarterly Update**
-
-The Enspiral Foundation is currently implementing the results of the 2016 Refactor, including transitioning to the "minimal viable board", and cleaning up a lot of systems and processes.
 
 **Founding Date & Brief History**
 
@@ -33,7 +30,7 @@ Limited liability company with a charitable constitution. The Foundation is owne
 
 **Business Model**
 
-The Foundation's income is made up of voluntary contributions from individuals and ventures in the Enspiral network. The Foundation also has occasionally received grant funding.
+The Foundation's income is made up of paid contributions from individuals and ventures in the Enspiral network. The Foundation also has occasionally received grant funding.
 
 In the past, the Foundation has run initiatives that generated direct income, but these will be minimised in the future due to the approach of minimal governance and lean operations - instead initiatives will live in other entities and agreements will be made for contributions from them to the Foundation on a case by case basis.
 
@@ -50,10 +47,10 @@ Everything the Foundation does is oriented toward the loosely defined mission of
 **Venture Stewards**
 
 * Robert Guthrie
-* Silvia Zuur
-* Billy Matheson
+* Ants Cabraal
+* Bart de Vries
+* Susan Basterfield
 
-*note: the Foundation is in the process of figuring out the best board makeup, and how to bring in new directors. As part of that we will assign an external steward. For now, the Foundation is being stewarded by the existing directors.*
 
 **Enspiral Foundation Contribution**
 

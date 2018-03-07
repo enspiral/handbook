@@ -1,18 +1,9 @@
 
 # Top up your Cobudget Account - Variable Contributions
 
-To top up your individual Cobudget Account, you can make a one-off or request to make a repeating "real time Variable Contribution". It allows Enspiral contributors to give more funds to Enspiral Foundation above any funds chosen to contribute during the annual Opt-in. 
+To top up your individual Cobudget Account, you can make a one-off payment [here](https://enspiral.com/contribute/). This is the process for collaborative spending with Enspiral. There is a different place to go to pay your Enspiral contribution.
 
-The Variable Contribution process works like this: 
-
-1. Complete the [Variable Contributions Form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdSilcJMsP5UCNUwr4e-sElSf0QYt6bLr0zr1g9Sc2-86WHOQ/viewform) specifying how much you would like to gift to Enspiral Foundation.
-2. Enspiral Foundation will sends an invoice to you for payment.
-3. Once the invoice is paid, 100% of the amount is allocated to the user's [cobudget.co](http://cobudget.co) account for use in the collaborative funding process. 
-
-People making Variable Contributions can choose to have an automatic repeating invoice sent for a recurring Variable Contribution each month. 
-
-### Tax Implications of Variable Contributions
-
+## Tax Implications of cobudget funds / variable Contributions.
 
 In April 2016 we received advice from Deloitte. 
 
@@ -20,11 +11,11 @@ From an IRD point of view the contributions are a gift and won’t be taxable or
 
 The gifts are not classed as income for the foundation - they go straight onto the balance sheet and no tax is paid on them.
 
-#### Gifts from Individuals
+### Gifts from Individuals
 
 Gifts from individuals are made using post tax money and are not tax deductible. 
 
-#### Gifts from Businesses
+### Gifts from Businesses
 
 Gifts from business are not tax deductible, unlike yearly contributor fees or monthly venture fees.
 
