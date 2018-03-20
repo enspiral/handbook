@@ -1,7 +1,7 @@
 # Email (Gsuite accounts) / Google groups / Google Drive
 
 ## Email
-To request an account, or remove you account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses)
+To request an account, or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses)
 
 ### What you need to know
 
@@ -11,7 +11,7 @@ To request an account, or remove you account, fill out [this form](https://docs.
 * If you need an account to work for an Enspiral venture, that venture may be able to pay for the account.
 
 ### Account security
-Ops HIGHLY recommends you keep your do as much as you can to secure your account. A few small tweaks will reduce the chance your identity is stolen. Here's some suggestions:
+Ops HIGHLY recommends you keep your account as secure as possible. A few small tweaks will reduce the chance your identity is stolen. Here's some suggestions:
 
 * <b>Use a long password</b>. Getting Chrome to remember it is better than nothing (we use 1password and lastpass is good too).
 * Setup 2-step authentication. Seriously, it's not worth the risks of not doing it. Do Google's security check up [here](https://myaccount.google.com/). Ideally do everything on that page but at the very least setup 2-step and some backup codes in case you get locked out. It'll only ask you for a code every 30 days either via text or the google authenticator app. Use the app if you'll be travelling overseas.
