@@ -7,28 +7,13 @@
 
 ### Retreats
 * [Retreats Timeline](https://docs.google.com/presentation/d/1UIO8q1G8-UNmQ2ckJD0JwTDiRVAeTdBL-GbMPdt_6qo/present#slide=id.p)
+* [Retreat report 2017](https://drive.google.com/file/d/0B03pa7WnDghxZFFULUtHNkRlYkU/view)
+* [Retrreat report and recommendations 2018](https://loomio-uploads.s3.amazonaws.com/documents/files/000/126/372/original/Summerfest_2018__Report_and_Recommendations.pdf)
 
 ### Organisational Development 
 * [2016 Refactor Report](https://drive.google.com/file/d/0Bxr3iqrIRxyQVVY1LTdHbktpX1k/view?usp=sharing)
-
+* [Catalyst v2 report reflections and recommenations March 2018](https://docs.google.com/document/d/1nzyR9SJLKvYmxMPRjLJn0EY2n9zXjT7Ko0ZQqucajIU)
 --------------
 
-
-Coming soon...
-*depending on decisions about what to make public*
-
-Past major projects of the foundation
-- os//os 
-- Namaste grant
-- Social enterprise intership
-- Lifehack
-- Enspiral connect / open Enspiral
-- Social series
-
-Catalyst Experiment 2015
-
-Mastermind 2014, 2015
-
-Namaste Retrospective
 
 {% include 'contributing_hint.md' %}
