@@ -14,11 +14,12 @@ The Foundation’s funds come from the following sources.
 
 **Contributor Contributions**
 
-Individuals in the network make a financial contribution to the Foundation at least annually, representing their choice to remain an Enspiral Contributor. The baseline amount is $100 to Enspiral Foundation for management and overhead around contributors, including ops contract \(optional $90 for a google apps account\). Contributions to cobudget are optional and at the contributor's discretion.
+Individuals in the network make a financial contribution to the Foundation, representing their choice to remain an Enspiral Contributor. The baseline amount is $230 (ex GST) to Enspiral Foundation for management and overhead around contributors, including ops contract \(optional $90 for a google apps account\). This subscription can be paid weekly, monthly or annually. Contributions to cobudget are optional and at the contributor's discretion.
 
 **Variable Contributions**  
 The real time Variable Contribution process allows people to contribute to Enspiral Foundation and participate in Enspiral's Collaborative Funding process.  
-It also allows existing Enspiral contributors to give more funds to Enspiral Foundation above and beyond the \(suggested\) $100 / year annual contribution. See more description on the [Variable Contributions page](/finances_variable_contributions.md)
+
+This process also allows existing Enspiral contributors to give more funds to Enspiral Foundation above and beyond the subscription. See more description on the [Variable Contributions page](/finances_variable_contributions.md)
 
 **Other Income**
 
