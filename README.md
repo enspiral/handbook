@@ -34,10 +34,12 @@ The information in this handbook pertains to Enspiral Foundation Limited and the
 
 There's an increasing number of companies outside of Enspiral that are also documented with public handbooks:
 
+* [Crisp DNA](http://dna.crisp.se/docs/index.html)
+* [Gini handbook](https://drive.google.com/file/d/0B44XthBdMmN6bGlfdk8zejdSZUU/view)
+* [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
 * [Thoughtbot Playbook](https://thoughtbot.com/playbook)
 * [Valve Company Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
-* [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
-* [Crisp DNA](http://dna.crisp.se/docs/index.html)
+
 * *if you have a handbook of your own, add it here or ping [@richdecibels](http://twitter.com/richdecibels) on Twitter*
 
 
