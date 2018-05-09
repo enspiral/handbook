@@ -1,1 +1,1 @@
-The MVB guide is currently in the advise process.
+The MVB guide is currently going through the advice process.
