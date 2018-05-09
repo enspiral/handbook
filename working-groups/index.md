@@ -4,7 +4,7 @@
 
 Active working groups:
 
-* [Ambassadors](working-groups/ambassadors.md)
+* [Ambassadors](ambassadors.md)
 * [Enspiral Brand](working-groups/brand_working_group.md)
 * [Catalysts](working-groups/catalysts.md)
 * [Comms](working-groups/comms.md)
