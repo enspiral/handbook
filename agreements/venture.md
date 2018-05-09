@@ -1,5 +1,6 @@
 # Venture Agreement
 
+*This agreement is out-of-date and is likely to be updated in the next six months (added in May 2018).*
 
 This agreement defines what it means to be an Enspiral Venture, and the relationship between Enspiral Ventures and the rest of the Enspiral network.
 
