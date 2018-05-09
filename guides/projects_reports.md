@@ -8,7 +8,7 @@
 ### Retreats
 * [Retreats Timeline](https://docs.google.com/presentation/d/1UIO8q1G8-UNmQ2ckJD0JwTDiRVAeTdBL-GbMPdt_6qo/present#slide=id.p)
 * [Retreat report 2017](https://drive.google.com/file/d/0B03pa7WnDghxZFFULUtHNkRlYkU/view)
-* [Retrreat report and recommendations 2018](https://loomio-uploads.s3.amazonaws.com/documents/files/000/126/372/original/Summerfest_2018__Report_and_Recommendations.pdf)
+* [Retreat report and recommendations 2018](https://loomio-uploads.s3.amazonaws.com/documents/files/000/126/372/original/Summerfest_2018__Report_and_Recommendations.pdf)
 
 ### Organisational Development 
 * [2016 Refactor Report](https://drive.google.com/file/d/0Bxr3iqrIRxyQVVY1LTdHbktpX1k/view?usp=sharing)
