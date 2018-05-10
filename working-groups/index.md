@@ -5,11 +5,12 @@
 Active working groups:
 
 * [Ambassadors](ambassadors.md)
-* [Brand Working Group](brand_working_group.md)
+* [Enspiral Brand](brand_working_group.md)
 * [Catalysts](catalysts.md)
-* [Enspiral Circles](enspiral-circles.md)
-* [Enspiral Week](enspiral-week.md)
+* [Comms](comms.md)
+* [External funding](external-funding.md)
 * [Financial Working Group](financial.md)
+* [Gatherings](gatherings.md)
 * [Well Working Group](well_working_group.md)
 
 Anyone can start a working group. Working groups are where we do work on the network. Often a working group will be initiated by someone with high context but low capacity for action (e.g. directors or catalysts), and then they'll recruit contributors with more capacity. Working groups will often be temporary, though some will be permanent.
