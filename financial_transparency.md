@@ -1,6 +1,6 @@
 # Financial Transparency
 
-**Note: This page is accurate as of April 2018 **
+**Note: This page is accurate as of May 2018 **
 
 How money works at Enspiral is determined by the [Financial Agreement](/agreements/financial.html). This page is to provide information and transparency about our financial situation.
 ## Income and Expenses
@@ -19,6 +19,8 @@ __Venture__ contributions:
 | 150 | Optimi |
 | 200 | EXP |
 | 350 | Root Systems |
+| 250 | Golden Pandas|
+| 1000 | Blackwood Systems |
 
 __Contributors__ pay a variable weekly, monthly or annual subscription fee; this is currently being set up. * The Contributor amount below is a current monthly amount based on 42 Subscriptions on the new model.
 
@@ -26,9 +28,9 @@ So Foundation __monthly income__ is:
 
 | $ | source |
 |---|---|
-| 1510 | ventures |
-| 1771 | contributors | *
-| 3281 | __total__ |
+| 2860 | ventures |
+| 2364 | contributors | *
+| 5224 | __total__ |
 
 ### Expenses
 
@@ -36,11 +38,10 @@ So Foundation __monthly income__ is:
 
 | $ | thing |
 |---|---|
-| 2148 | Enspiral Ops ([scope](ops-scope.html))|
+| 2167 | Enspiral Ops ([scope](ops-scope.html))|
 | 140 | General Expenses (bank fees, company registration, accounting etc.) |
-| 322 | SaaS|
-| 480 | Comms ([scope](comms-role.html)) |
-| 3090 | __total__ |
+| 493 | SaaS|
+| 2800 | __total__ |
 
 ## Money we have
 *(Contributors only: check out the [Enspiral Foundation Financials Loomio Discussion](https://www.loomio.org/d/DIejiytR/enspiral-foundation-ltd-financials) for the latest discussion and information.)
@@ -48,21 +49,21 @@ So Foundation __monthly income__ is:
 ### Invoices & Expenses
 *Normal cashflow account where bills are paid and sales invoice income first enter Foundation's bank account
 
-$3,371
+$4,886
 
 ### Emergency Fund
 *Amount set aside by the Board of Directors*
 
-$10,118
+$10,127
 
 ### Normal Reserves
 *Spending these funds is a decision of the Enspiral Members*
 
-$28,477 in reserves
+$28,501 in reserves
 
 ### Foundation Cobudget
 This is money that has been allocated in the foundation cobudget system but has not been spent. We're considering what we want to do about all this money as it is continuing to increase.
 
-$16,823 in Foundation Cobudget
+$15,318 in Foundation Cobudget
 
 {% include 'contributing_hint.md' %}
