@@ -1,6 +1,6 @@
 # Financial Transparency
 
-**Note: This page is accurate as of May 2018 **
+**Note: This page is accurate as of June 2018 **
 
 How money works at Enspiral is determined by the [Financial Agreement](/agreements/financial.html). This page is to provide information and transparency about our financial situation.
 ## Income and Expenses
@@ -29,7 +29,7 @@ So Foundation __monthly income__ is:
 | $ | source |
 |---|---|
 | 2860 | ventures |
-| 2364 | contributors | *
+| 2683 | contributors | *
 | 5224 | __total__ |
 
 ### Expenses
@@ -49,21 +49,21 @@ So Foundation __monthly income__ is:
 ### Invoices & Expenses
 *Normal cashflow account where bills are paid and sales invoice income first enter Foundation's bank account
 
-$4,886
+$8,114
 
 ### Emergency Fund
 *Amount set aside by the Board of Directors*
 
-$10,127
+$10,135
 
 ### Normal Reserves
 *Spending these funds is a decision of the Enspiral Members*
 
-$28,501 in reserves
+$28,009 in reserves
 
 ### Foundation Cobudget
 This is money that has been allocated in the foundation cobudget system but has not been spent. We're considering what we want to do about all this money as it is continuing to increase.
 
-$15,318 in Foundation Cobudget
+$6,992 in Foundation Cobudget
 
 {% include 'contributing_hint.md' %}
