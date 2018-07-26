@@ -26,7 +26,7 @@ and use the password:
 
 **enspiralprofile** 
 
-**Please note**
+### Please note
 At a minimum you need to provide a:
 
  - Public Name (what you want to be known as on the website)
@@ -39,4 +39,5 @@ At a minimum you need to provide a:
 **Keep bios to around 80 words**
 
 Bios are ideally around 80 words. Example bio that fits well on the site is:
-*Gina has been around the Enspiral network for a number of years. She was one of the inaugural catalysts, worked on the Low Carbon Challenge and co-lead Lifehack until it closed down in October 2017. She now works with the Dev Academy team and sometimes EXP. She's a facilitator and programme designer with a background in corporates, strategy, research and marketing**
+
+*"Gina has been around the Enspiral network for a number of years. She was one of the inaugural catalysts, worked on the Low Carbon Challenge and co-lead Lifehack until it closed down in October 2017. She now works with the Dev Academy team and sometimes EXP. She's a facilitator and programme designer with a background in corporates, strategy, research and marketing"*
