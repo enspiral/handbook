@@ -1,36 +1,36 @@
 # Financial Transparency
 
-**Note: This page is accurate as of June 2018 **
+**Note: This page is accurate as of July 2018 **
 
 How money works at Enspiral is determined by the [Financial Agreement](/agreements/financial.html). This page is to provide information and transparency about our financial situation.
 ## Income and Expenses
 
-### Income
+### Income to Core
 Enspiral Foundation income comes from both Ventures and Contributors
 
-__Venture__ contributions:
+__Venture__ contributions to Core:
 
 | $ | From |
 |---|---|
-| 500 | EDA |
-| 170 | Fairground |
+| 250 | EDA |
+| 150 | Fairground |
 | 200 | Loomio |
-| 40  | ActionStation |
-| 150 | Optimi |
-| 200 | EXP |
+| 20  | ActionStation |
+| 200 | Optimi |
+| 100 | EXP |
 | 350 | Root Systems |
 | 250 | Golden Pandas|
 | 1000 | Blackwood Systems |
 
-__Contributors__ pay a variable weekly, monthly or annual subscription fee; this is currently being set up. * The Contributor amount below is a current monthly amount based on 42 Subscriptions on the new model.
+__Contributors__ pay a variable weekly, monthly or annual subscription fee. * The Contributor amount below is a current monthly amount based on 102 Subscriptions on the new model.
 
-So Foundation __monthly income__ is:
+So Foundation __monthly income to Core__ is:
 
 | $ | source |
 |---|---|
-| 2860 | ventures |
-| 2683 | contributors | *
-| 5224 | __total__ |
+| 2520 | ventures |
+| 2701 | contributors | *
+| 5221 | __total__ |
 
 ### Expenses
 
@@ -49,21 +49,33 @@ So Foundation __monthly income__ is:
 ### Invoices & Expenses
 *Normal cashflow account where bills are paid and sales invoice income first enter Foundation's bank account
 
-$8,114
+$11,781
 
 ### Emergency Fund
 *Amount set aside by the Board of Directors*
 
-$10,135
+$10,143
 
 ### Normal Reserves
 *Spending these funds is a decision of the Enspiral Members*
 
-$28,009 in reserves
+$28,032 in reserves
 
 ### Foundation Cobudget
 This is money that has been allocated in the foundation cobudget system but has not been spent. We're considering what we want to do about all this money as it is continuing to increase.
 
-$6,992 in Foundation Cobudget
+__Venture__ monthly contributions to Cobudget:
+
+| $ | From |
+|---|---|
+| 250 | EDA |
+| 100 | EXP |
+| 20  | ActionStation |
+| 20 | Fairground |
+| 250 | Golden Pandas|
+| 1000 | Blackwood Systems |
+| 1640 | __total__ |
+
+$6,587 in Foundation Cobudget
 
 {% include 'contributing_hint.md' %}
