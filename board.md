@@ -44,6 +44,6 @@ Now Bart is back in Wellington and intent on moving the world, getting people fo
 Lifelong programmer with a passion for the power of the internet to transform society and improve lives. Serial entrepreneur, business and product strategist, and relentless problem solver. Loves building useful tools that real people use. Supports others to learn and grow.
 
 ### Susan Basterfield
-I’m a catalyst, cultivator, convenor and curator, helping individuals and organisations experiment with new ways of working and being. I’m a member of the Golden Pandas livelihood pod, serve as an Enspiral Foundation Catalyst, engage in acts of ambassador-ing, and work with teams worldwide as a coach and facilitator. I convene Teal NZ, with over 350 members. And I like to write.
+I’m a catalyst, cultivator, convenor and curator, helping individuals and organisations experiment with new ways of working and being. I’m a member of the Golden Pandas, participate in a variety of working groups, engage in acts of ambassador-ing, and work with teams worldwide as a coach and facilitator.
 
 {% include 'contributing_hint.md' %}

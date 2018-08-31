@@ -3,7 +3,7 @@
 
 ### Context
 
-This agreement sets out the roles and responsibilities of the Enspiral Foundation Board and the powers granted to the Directors of Enspiral Foundation Ltd. As a [registered limited liability company](https://www.business.govt.nz/companies/app/ui/pages/companies/3415611), Enspiral Foundation Ltd is legally required to have a board of directors and a chairperson.
+This agreement sets out the roles and responsibilities of the Enspiral Foundation Board and the powers granted to the [Directors of Enspiral Foundation Ltd](board.md). As a [registered limited liability company](https://www.business.govt.nz/companies/app/ui/pages/companies/3415611), Enspiral Foundation Ltd is legally required to have a board of directors and a chairperson.
 
 Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so our approach is a “minimum viable board” (MVB), with a narrow compliance focus.
 

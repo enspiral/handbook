@@ -26,6 +26,7 @@
   * [Github for Beginners](guides/github_for_beginners.md)
   * [Google apps](guides/google_apps.md)
   * [Improvements](guides/improvements.md)
+  * [Manage your enspiral.com profile](guides/manage-enspiral-website-profile.md)
   * [Onboarding Emails](guides/onboarding-info.md)
   * [Ops processes](guides/ops_processes.md)
   * [People\*](guides/people.md)
