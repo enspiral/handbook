@@ -5,7 +5,7 @@
 
 In chemistry, a Catalyst is an agent of change, used in small amounts relative to the reactants, which reduces the amount of energy required to create a reaction, and activates the rest of the system without itself getting consumed. 
 
-With Catalysts at Enspiral, we are attempting to take the function of executive leadership, share it across multiple agents, and cycle many people through the role under a set time limit. The goal is to increase the rate of evolution at Enspiral by reducing friction people encounter trying to make changes and improvements.
+With Catalysts at Enspiral, we are attempting to take the function of executive leadership, share it across multiple agents, and cycle many people through the role under a set time limit. The goal is to maintain a rhythm of evolution at Enspiral by inviting contribution, participation, and action, whilst reducing the friction people encounter trying to make changes and improvements.
 
 
 ### Roles & Responsibilities
