@@ -7,8 +7,6 @@ In chemistry, a Catalyst is an agent of change, used in small amounts relative t
 
 With Catalysts at Enspiral, we are attempting to take the function of executive leadership, share it across multiple agents, and cycle many people through the role under a set time limit. The goal is to increase the rate of evolution at Enspiral by reducing friction people encounter trying to make changes and improvements.
 
-Without formal power structures, informal ones naturally emerge. To decentralise power we must continuously, explicitly, and proactively distribute it. This agreement is a stepping stone on Enspiral’s journey of understanding decentralised organising - we expect it to change as we learn more from putting it into practice.
-
 
 ### Roles & Responsibilities
 
@@ -19,31 +17,25 @@ As leaders, Catalysts are responsible for defining and managing their own work. 
 The primary responsibility of Catalysts is to catalyze working groups and help them be more productive. This can involve activities like strategy setting, co-facilitation, conflict resolution, fund raising and recruitment. Catalysts exist to support the work, not do the work.
 
 **Interface Between Working Groups and the Network**
-Catalysts are a focal point for in the attention economy. They are responsible for maintaining a list of active working groups and ensuring their activities are communicated succintly to the wider network. They are also responsible for supporting people who wish to join working groups find somewhere to contribute.
+Catalysts are a focal point in the attention economy. They are responsible for maintaining a list of active working groups and ensuring their activities are communicated succintly to the wider network. They are also responsible for supporting people who wish to join working groups find somewhere to contribute.
 
 **Maintain a Prioritised Network Improvements List**
 
 [The Improvements Board](improvements.enspiral.com) is the catalysts responsibility. They are responsible for keeping it up to date and ensuring that working groups activity is clearly represented and that ideas for new improvements are frequently reviewed and considered.
 
 **Hold Working Group Rhythms**
-Catalysts are responsible for facilitating key rhythms and decisions for all the working groups as a whole.
-
-
+Catalysts are responsible for facilitating key rhythms and decisions for ecosystem of working groups as a whole.
 
 ### Processes
 
+
 **Appointment**
 
-* Catalyst working group to appoint
-
-
-
-
+The [Catalyst support working group](/working-groups/catalyst-support) is responsible for selecting and supporting catalysts.
 
 **Resourcing**
 
-
-**Completion**
+The [Catalyst support working group](/working-groups/catalyst-support) is responsible for raising funds through cobudget or other means to fund on-going catalyst work.
 
 ### Expectations
 
