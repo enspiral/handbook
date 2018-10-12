@@ -20,7 +20,8 @@ Sensing community needs, initiating responses, delegation in line with contribut
 
 
 ![catalyst priorities, with Peer Support, Clarity, and Retreats as priorities or "the big sticks I'm chewing"](https://farm2.staticflickr.com/1905/45274411111_b563716ae0_b.jpg)
-  _picture of current priorities as of 12 October, 2018_
+
+_picture of current priorities as of 12 October, 2018_
 
 * Capacity development of groups and individuals, and relationship-building.
 * Sense-making (maintaining context).
