@@ -1,5 +1,6 @@
 Brand Working Group
 ===================
+_[Status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing): Active_
 
 ### Why we exist.
 
