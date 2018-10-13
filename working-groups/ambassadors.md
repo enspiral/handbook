@@ -1,9 +1,10 @@
-# Ambassadors
+# Ambassadoring
+_[Status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing): Hibernating_
 
-The Ambassadors are a working group in Enspiral focused on outreach and connecting with other organisations.
+Ambassadoring is a working group in Enspiral focused on outreach and connecting with other organisations.
 
 ##Working with Ambassadors
-### Why do the Ambassadors exist?
+### Why do Ambassadors exist?
 It can be challenging for external people and organisations to have a relationship with Enspiral. Ambassadors are people who are confident and supported to represent Enspiral and maintain long term relationships with external groups and individuals.
 
 ### What do Ambassadors do?
@@ -13,7 +14,7 @@ They spend time with people and help them find opportunities to collaborate with
 
 Ooh, we love introductions! You can either post a message in our slack group or send an email to [ambassadors@enspiral.com](mailto:ambassadors@enspiral.com)
 
-### I'm looking for an introduction to one of our friends, can the Ambassadors help?
+### I'm looking for an introduction to one of our friends, can Ambassadors help?
 Absolutely. We know literally tons of people (well, tens of tons actually, people are heavy!) - just post up in our slack channel what sort of connection you are looking for and we will do our best to help.
 
 ### Who are our current Ambassadors?
