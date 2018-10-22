@@ -31,11 +31,11 @@ Catalysts are responsible for facilitating key rhythms and decisions for the eco
 
 **Appointment**
 
-The [Catalyst support working group](/working-groups/catalyst-support) is responsible for selecting and supporting catalysts.
+The [Catalyst support working group](/working-groups/catalyst-support.md) is responsible for selecting and supporting catalysts.
 
 **Resourcing**
 
-The [Catalyst support working group](/working-groups/catalyst-support) is responsible for raising funds through cobudget or other means to fund on-going catalyst work.
+The [Catalyst support working group](/working-groups/catalyst-support.md) is responsible for raising funds through cobudget or other means to fund on-going catalyst work.
 
 ### Expectations
 
