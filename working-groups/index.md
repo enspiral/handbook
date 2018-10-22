@@ -7,6 +7,7 @@ Active working groups:
 * [Ambassadors](ambassadors.md)
 * [Enspiral Brand](brand_working_group.md)
 * [Catalysts](catalysts.md)
+* [Catalyst Support](catalyst-support.md)
 * [Comms](comms.md)
 * [External funding](external-funding.md)
 * [Financial Working Group](financial.md)
