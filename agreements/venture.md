@@ -96,7 +96,7 @@ Venture stewards are responsible for ensuring that venture follow through with t
 
 * Ventures are required to submit a quarterly update four times a year, in collaboration with their Venture Stewards.
 * Ventures are required to keep their public venture profile up to date, in collaboration with their venture stewards.
-* Ventures commit to financial transparency with other ventures and Enspiral members. The level of transparency is to be agreed with each venture on a case by case basis. The catalysts will work with the ops team and venture stewards to define, gather and share this data.
+* Ventures commit to financial transparency with other ventures and Enspiral members. The level of transparency is to be agreed with each venture on a case by case basis. 
 * Ventures are required to sign an updated MOU if their contribution commitment changes.
 
 

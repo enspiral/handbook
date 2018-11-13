@@ -41,6 +41,7 @@
   * [Ambassadors](working-groups/ambassadors.md)
   * [Brand Working Group](working-groups/brand_working_group.md)
   * [Catalysts](working-groups/catalysts.md)
+  * [Catalyst Support](working-groups/catalyst-support.md)
   * [Enspiral Circles](working-groups/enspiral-circles.md)
   * [Enspiral Week](working-groups/enspiral-week.md)
   * [Financial Working Group](working-groups/financial.md)

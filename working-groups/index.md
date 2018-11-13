@@ -5,6 +5,7 @@
 Working groups ([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)):
 
 * [Catalysts](catalysts.md) (vibrant)
+* [Catalyst Support](catalyst-support.md) (vibrant)
 * [Gatherings](gatherings.md) (active)
 * [Enspiral Brand](brand_working_group.md) (active)
 * [Ambassadors](ambassadors.md) (hibernating)
