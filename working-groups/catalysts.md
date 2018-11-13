@@ -1,3 +1,4 @@
+_[Status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing): Vibrant_
 # How Catalysts Work
 
 We're governed by the [Catalyst Agreement](/agreements/catalyst.html)
