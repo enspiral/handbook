@@ -15,6 +15,7 @@
   * [Venture Agreement](agreements/venture.md)
 * [Guides](guides.md)
   * [Activation Programme](guides/activation-programme.md)
+  * [Air NZ Airpoints Program](guides/airnz.md)
   * [Blogging](guides/blogging.md)
   * [Board](guides/board.md)
   * [Conflict Resolution](guides/conflict-resolution.md)
