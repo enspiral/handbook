@@ -4,7 +4,7 @@
 
 This agreement defines how {{book.org}} handles money as a collective, specifically the funds in the accounts of {{book.legalOrg}}. Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through participatory processes.
 
-### Type of Funds
+## Type of Funds
 
 Money held by the foundation falls into the following two categories.
 
@@ -18,7 +18,7 @@ The board is expected to maintain a viable level for the core fund account (e.g.
 
 Funds allocated to an approved collaborative funding process governed by the rules that define the specific process.
 
-### Income
+## Income
 
 {{book.org}} receives income from individuals, companies, trusts or other entities. Income can be broken into the following categories:
 
@@ -42,7 +42,7 @@ An agreement (in the form of a memorandum) with the {{book.org}} Board and the s
 
 All other income is allocated to core funds.
 
-### Outgoings
+## Outgoings
 
 Money spent by the Foundation falls under the following categories.
 
@@ -58,7 +58,7 @@ All discretionary costs are managed through an approved collaborative funding pr
 
 The board can approve one-off expenditures from any fund when exercising [their emergency powers](/agreements/board.html#emergency-powers).
 
-### Collaborative Funding Processes
+## Collaborative Funding Processes
 
 A collaborative funding process must have a facilitator who takes responsibility for the process. Specifically the facilitator is responsible for:
 
@@ -70,6 +70,6 @@ A collaborative funding process must have a facilitator who takes responsibility
 
 Funds may only be allocated to a collaborative funding process that has clearly documented rules that have been approved by the board. If no such rules have previously been defined, a proposal must be made to the board and approved.
 
-### Overall Compliance & Reporting
+## Overall Compliance & Reporting
 
 All financial compliance is managed at the discretion of the board. The board will provide a periodical financial report on {{book.org}}s funds/accounts balances and budget/financial forecast.
