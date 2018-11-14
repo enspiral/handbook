@@ -9,6 +9,7 @@
         }
   },
   "variables": {
-    "org": "Enspiral"
+    "org": "Enspiral",
+    "legalOrg": "Enspiral Foundation ltd"
   }
 }
