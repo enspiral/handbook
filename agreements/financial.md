@@ -2,81 +2,74 @@
 
 ## Context
 
-This agreement defines how Enspiral handles money as a collective, specifically the funds in the accounts of Enspiral Foundation Ltd \(“the Foundation”\). Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through democratic participatory processes.
+This agreement defines how Enspiral handles money as a collective, specifically the funds in the accounts of Enspiral Foundation Ltd (“the Foundation”). Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through participatory processes.
+
+## Type of Funds
+
+Money held by the foundation falls into the following two categories.
+
+### Core Fund
+
+The core fund is controlled by the Foundation Board. These funds are flagged for operational expenses and providing an economic runway for Enspiral Foundation.
+
+The board is expected to maintain a viable level for the core fund account (e.g. minimum of 12 months of fixed expenses) and to periodically allocate any surplus to the approved collaborative funding processes of their choice.
+
+### Collaborative Funds
+
+Funds allocated to an approved collaborative funding process governed by the rules that define the specific process.
 
 ## Income
 
-The Foundation’s funds come from the following sources.
+Enspiral receives income from individuals, companies, trusts or other entities. Income can be broken into the following categories:
 
-**Venture Contributions**
+### Gifts
 
-[Enspiral ventures](/ventures.html) make voluntary financial contributions, usually on a monthly basis. Half a Venture’s contribution goes toward fixed costs and reserves, and half is allocated to Discretionary Funds through Cobudget. Ventures can opt for their funds to be added to their Venture’s Cobudget account, to be split equally among nominated individuals, or the venture may specify exact allocation amounts, to fund projects of their choice.
+All one-off gifts to the foundation go to the core funds.
 
-**Contributor Contributions**
+### Membership
 
-Individuals in the network make a financial contribution to the Foundation, representing their choice to remain an Enspiral Contributor. The baseline amount is $230 (ex GST) to Enspiral Foundation for management and overhead around contributors, including ops contract \(optional $90 for a google apps account\). This subscription can be paid weekly, monthly or annually. Contributions to cobudget are optional and at the contributor's discretion.
+All recurring membership fees go to core funds. The board is responsible for setting membership fee levels and processes via the membership fees guide.
 
-**Variable Contributions**  
-The real time Variable Contribution process allows people to contribute to Enspiral Foundation and participate in Enspiral's Collaborative Funding process.  
+### Sponsorship
 
-This process also allows existing Enspiral contributors to give more funds to Enspiral Foundation above and beyond the subscription. See more description on the [Variable Contributions page](/finances_variable_contributions.md)
+A recurring sponsorship with Enspiral Foundation. All sponsorships have a written memorandum which outlines the terms of the sponsorship and where funds are allocated.
 
-**Other Income**
+Sponsorship monies can be allocated to any fund, as defined by the sponsorship memorandum.
 
-The Foundation is a [charitable entity](/constitution.html) not intended to bear commercial risk. However, from time to time other activities \(such as serving as a fundholder for grants and projects\) can result in income directly to the Foundation. Approval for such transactions is at the discretion of the Board. The Board and the people involved in bringing in the income agree how to distribute any resulting income between Normal Reserves and Discretionary Funds \(via nominated users in Cobudget\). These decisions and transactions are reported on the Financial Transparency page of the Handbook \(as described below\).
+An agreement (in the form of a memorandum) with the Enspiral Board and the sponsor. The Board will sign off on and maintain a record of all memorandums.
 
-## Expenditure
+### Other income
 
-Money flowing through or held by the Foundation falls under the following categories.
+All other income is allocated to core funds.
 
-**Fixed Costs**
+## Outgoings
 
-Regular monthly financial commitments for expenses such as essential professional services and tools used by the network. Anyone is welcome to propose changes to fixed costs \(which are reported in the Enspiral Handbook, see below\). Formal approval of such requests requires a [standard decision](/agreements/decisions.html) from Enspiral Members.
+Money spent by the Foundation falls under the following categories.
 
-The Board is required to regularly review fixed costs and the aim is to keep these expenses as lean as possible. The Board is permitted to adjust fixed costs by up to 10% within a 12-month period without seeking approval from the network.
+### Fixed Costs
 
-**Discretionary Funds**
+The board is responsible for managing the fixed costs of the Enspiral Foundation from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the Enspiral network.
 
-We use a [collaborative funding](/collabfunding.html) process through Cobudget to manage our discretionary funds. People get money to spend in the collaborative funding process through making Contributor and Venture contributions, half of which is allocated to them in Cobudget to fund projects they would like to support \(the other half goes to fund Fixed Costs and Reserves\). As a collective, we all share the responsibility to decide where to spend our resources, what to focus on, and what financial risks to take in pursuit of achieving our mission.
+### Discretionary Costs
 
-**Emergency Fund**
+All discretionary costs are managed through an approved collaborative funding process and taken from collaborative funds.
 
-These funds cannot be spent except by the approval of the Board, and should only be accessed in exceptional circumstances. The amount in the Emergency Fund is determined by the Board \(guideline is 3 months of Fixed Costs\). The Board can replenish or increase the Emergency Fund as a priority ahead of other budget categories. Any use of the emergency funds or adjustments of the amount of emergency funds must be announced to the network in a timely manner.
+### Emergency Costs
 
-**Normal Reserves**
+The board can approve one-off expenditures from any fund when exercising \[their emergency powers](/agreements/board.html#emergency-powers).
 
-Any funds not explicitly in Discretionary Funds, the Emergency Fund, or committed to another specific project are considered Normal Reserves — the savings in the Foundation’s bank accounts. These are used to pay for replenishing the Emergency Fund, or for special initiatives and larger projects.
+## Collaborative Funding Processes
 
-Anyone is welcome to propose to spend Normal Reserves for a specific purpose. Approval of such requests requires a standard decision from Enspiral Members. Normal Reserves offer an additional cushion for unexpected expenses, and enable different possibilities that come from a large number of people making collective decisions about larger amounts of money \(as distinct from individuals making a series of decisions about smaller amounts of money, which is our approach for Discretionary Funds\).
+A collaborative funding process must have a facilitator who takes responsibility for the process. Specifically the facilitator is responsible for:
 
-**Contracted work with Enspiral Foundation**
+-   Ensuring the rules for the process are clearly documented and approved by the board
+-   Budgeting for the process, including themselves running the process.
+-   Facilitating the process
+-   Reporting the outcomes to the network
+-   Holding entities that receive funding accountable
 
-Money can only change hands between Enspiral Foundation Limited and a party/parties when there is a Formal Agreement that has an end date for review.
+Funds may only be allocated to a collaborative funding process that has clearly documented rules that have been approved by the board. If no such rules have previously been defined, a proposal must be made to the board and approved.
 
-Formal Agreement means an agreement that is between Enspiral Foundation Limited and named secondary party/parties that is signed and dated by legal signatories from each of the parties. 
+# Overall Compliance & Reporting
 
-## Collaborative Funding
-
-We make collective decisions about spending discretionary funds with a transparent and democratic processes called [collaborative funding](/collabfunding.html) using software called Cobudget.
-
-* All Enspiral contributors are invited to use Cobudget, and are welcome to raise bucket ideas.
-  Those holding money in Cobudget decide what buckets they want to contribute funds to at their discretion.
-* Payments from the Foundation for buckets are only made upon completion of work, reporting of the outcome, and receipt of an invoice from the payee.
-* Funded buckets must be completed within in 90 days, or else they will be cancelled. Catalysts and bucket sponsors can agree to variation and reasonable extensions to this time limit.
-* If cancelled after being funded, a bucket’s funds are sent to Normal Reserves.
-* For a bucket to move forward for funding, it must be clear who specifically will be responsible for delivering the work.
-* People carrying out work funded through Cobudget are expected to perform to the best of their abilities, and clearly communicate about their progress and the bucket outcomes.
-* Bucket funders are expected to use their funds responsibly, stepping beyond self-interest to make decisions on the basis of what’s best for the network as a whole.
-
-## Reporting
-
-The Board is responsible for keeping up to date a [Financial Transparency](/financial_transparency.html) section of the Enspiral Handbook, which covers:
-
-* Overview of revenue \(Contributions and Income\)
-* Emergency Fund \(current level and any expenditures\)
-* Normal Reserves \(current level and any expenditures\)
-* Breakdown of current Fixed Costs
-* Overview of discretionary spending \(Collaborative Funding\)
-
-Enspiral Foundation Ltd participates in quarterly venture reporting, which includes financial information.
-
+All financial compliance is managed at the discretion of the board. The board will provide a periodical financial report on Enspiral Foundations funds/accounts balances and budget/financial forecast.
