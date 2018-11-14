@@ -7,9 +7,9 @@ There is a special way of contributing funds to Enspiral that does not involve m
 ### How to:
 
  - Login to your personal Airpoints Account
- - go to Airpoints™ for Business, and Join the Business Program
+ - go to **Airpoints™ for Business, and Join the Business Program**
  - Enter some personal details
- - Enter Enspiral's NZBN (New Zealand Business Numberk) 9429031065870
+ - Enter Enspiral's NZBN (New Zealand Business Numberk) **9429031065870**
  - Enter Enspiral's address:
   - Level 2, 
   - 275 Cuba Street, 
