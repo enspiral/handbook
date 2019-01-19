@@ -54,11 +54,13 @@ If you want to make it easier on the editors of those publications, it’s helpf
 
 
 ## Impact
-The results have been great: about 40 people have written stories, growing the publication to 1700 followers, getting about 5-10k hits in a month.
+The results have been great: about 40 people have written stories, growing the publication to 2800 followers, getting about 5-10k hits in a month. Here's a summary of our all-time views:
 
-![](https://i.imgur.com/fCPwWY4.png)
+![](https://i.imgur.com/u1dpv3D.png)
 
-Are you the next contributor?
+And our most popular stories to date (updated Jan '19):
+
+![](https://i.imgur.com/tJUTTUS.png)
 
 ---
 
