@@ -6,7 +6,7 @@ To request an account, or remove your account, fill out [this form](https://docs
 ### What you need to know
 
 * An account allows you to have all the normal google services hosted within Enspiral's Google apps domain. eg. an Enspiral email address and aliasaes, google drive, google calendar and google groups. But an account isn't neccesary to interact with Enspiral people or to use the various services and tools.
-* An account costs 90 NZD per year. This bill is separate to the annual contribution.
+* An account costs 108 NZD per year. This bill is separate to the annual contribution.
 * Any contributor can request an account, if they need it to represent Enspiral.
 * If you need an account to work for an Enspiral venture, that venture may be able to pay for the account.
 
