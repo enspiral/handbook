@@ -1,4 +1,4 @@
-# Email (Gsuite accounts) / Google groups / Google Drive
+# Email accounts (G Suite accounts) / Google groups / Google Drive
 
 ## Email
 To request an account, or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses)
