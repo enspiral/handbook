@@ -12,7 +12,7 @@ Guides explain in practical terms how we do stuff. Any Enspiral Contributor can 
 * [Enspiral Values](guides/values.md) - some of the values that people in the network hold
 * [Forms](guides/forms.md) - some of the forms that make the network tick
 * [Github for Beginners](guides/github_for_beginners.md) - more background on editing this book
-* [Google apps](guides/google_apps.md) - how to get an Enspiral email account
+* [Email accounts](guides/email_accounts.md) - how to get an Enspiral email account
 * [Improvements](guides/improvements.md) - how to make changes to the network
 * [Manage your enspiral.com profile](guides/manage-enspiral-website-profile.md) - update your public profile
 * [Onboarding Emails](guides/onboarding-info.md) - messages sent to new contributors
