@@ -25,7 +25,7 @@
   * [Enspiral Values](guides/values.md)
   * [Forms](guides/forms.md)
   * [Github for Beginners](guides/github_for_beginners.md)
-  * [Google apps](guides/google_apps.md)
+  * [Email accounts](guides/email_accounts.md)
   * [Improvements](guides/improvements.md)
   * [Manage your enspiral.com profile](guides/manage-enspiral-website-profile.md)
   * [Onboarding Emails](guides/onboarding-info.md)
