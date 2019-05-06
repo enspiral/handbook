@@ -21,7 +21,7 @@ Catalysts are a focal point in the attention economy. They are responsible for m
 
 **Maintain a Prioritised Network Improvements List**
 
-[The Improvements Board](improvements.enspiral.com) is the catalysts responsibility. They are responsible for keeping it up to date and ensuring that working groups activity is clearly represented and that ideas for new improvements are frequently reviewed and considered.
+[The Improvements Board](https://trello.com/b/btHeb35m/enspiral-improvements-board) is the catalysts responsibility. They are responsible for keeping it up to date and ensuring that working groups activity is clearly represented and that ideas for new improvements are frequently reviewed and considered.
 
 **Hold Working Group Rhythms**
 Catalysts are responsible for facilitating key rhythms and decisions for the ecosystem of working groups as a whole.
