@@ -1,6 +1,6 @@
 # Agreement: Working Groups
 
-*Approved: April 2019* 
+[*Approved: April 2019*](https://www.loomio.org/p/vksIn6z0/we-approve-the-working-group-agreement)
 
 Working groups are the way we build and maintain Enspiral, if Enspiral were a body, working groups would be the organs.
 
