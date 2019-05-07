@@ -7,6 +7,7 @@
   * [Catalyst Agreement](agreements/catalyst.md)
   * [Decisions Agreement](agreements/decisions.md)
   * [Diversity Agreement](agreements/diversity.md)
+  * [Email Accounts Agreement](email_accounts_agreement.md)
   * [Financial Agreement](agreements/financial.md)
   * [Harassment And Abuse](agreements/harassment_and_abuse.md)
   * [People Agreement](agreements/people.md)
