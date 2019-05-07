@@ -2,7 +2,7 @@
 This guide covers instructions for Enspiral email's, account security, Google groups and Google Drive
 
 ## Email
-To request an account (if you don't meet the requirements in the [Email accounts agreement](email_accounts_agreement.md), contact the Catalysts), or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses)
+To request an account (if you don't meet the requirements in the [Email accounts agreement](agreements/email_accounts_agreement.md), contact the Catalysts), or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses)
 
 ### What you need to know
 
