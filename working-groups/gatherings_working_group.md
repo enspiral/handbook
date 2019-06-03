@@ -21,6 +21,7 @@ Each gathering will typically have its own project group, _or "pod", in Enspiral
 ### Other Members
 
 * Nicolas Wormser (Winter Retreat 2019)
+* Lucia Die Gil (Summer Fest 2020, possibly Winter Retreat 2019)
 * Melina Chan (Summer Fest 2020)
 * Anna Watson (Summer Fest 2020)
 * Joshua Vial (Summer Fest 2020)
@@ -38,4 +39,4 @@ The window for joining a gatherings pod opens well in advance of each gathering;
 * Our main slack channel is public
 * Feedback is solicited in other channels as appropriate
 * Loomio posts are made for advice process and in accordance with any significant decisions
-* Every big gathering has a report
+* Every yearly gathering has a report
