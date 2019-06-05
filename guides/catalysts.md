@@ -1,3 +1,5 @@
+_NOTE: no longer current; current details of Catalysts can be found in the [relevant agreement](/agreements/catalyst.html) and in the [Working Groups](/working-groups) section
+
 # How Catalysts Work
 
 We're governed by the [Catalyst Agreement](/agreements/catalyst.html)
@@ -8,7 +10,7 @@ We run 2 week sprints. We take turns hosting our ceremonies: planning, sync (cat
 
 For demo, we make short videos to share our progress with the network. These are reported in the fortnightly network newsletter and published on [our Youtube channel](https://www.youtube.com/user/enspiral/videos).
 
-We track all our work on [the Improvements board](https://waffle.io/enspiral/improvements?search=catalyst).
+We track all our work on [the Improvements board](https://trello.com/b/btHeb35m/enspiral-improvements-board).
 
 We try to take notes in all our meetings, and share them in the Slack channel [#wg-catalysts](https://enspiral.slack.com/messages/wg-catalysts/).
 
