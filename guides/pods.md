@@ -96,8 +96,9 @@ Share what you learn in your Retrospective with the network so we can all learn 
 - Have an agenda
  - Even better, have an agenda at least a week in advance
 
-°_we recommend [Jitsi](https://meet.jit.si/) as a free and open source video call option, and [zoom](zoom.us) is excellent if you have access to a paid zoom subscription or are going for less than 40 minutes_
-°°_Loomio is able to send calendar invites after you use a Time Poll; if you can stand Google, their Calendar gives you the ability to modify the event and easily send changes._
+° _we recommend [Jitsi](https://meet.jit.si/) as a free and open source video call option, and [zoom](zoom.us) is excellent if you have access to a paid zoom subscription or are going for less than 40 minutes_
+
+°° _Loomio is able to send calendar invites after you use a Time Poll; if you can stand Google, their Calendar gives you the ability to modify the event and easily send changes._
 
 **Set-up concerns**
 
