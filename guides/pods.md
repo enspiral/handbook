@@ -2,11 +2,11 @@
 
 A _pod_ is a small group of (typically 3 to 5) enspirally humans° that connect regularly around one or more shared intentions. We have developed this practice to be useful for folks who can't get together in person, noting that the opportunity to meet face-to-face can add priceless value. At the broadest level, these intentions tend to implicitly or explicitly include mutual support, care, and building relationships. However, every Pod is unique, and the intentions may vary (project-based, topic-based, learning together, personal-professional development, and beyond). Enspiral Working Groups can be understood as a type of Pod.
 
-°_Obviously, pods can be comprised of those outside of Enspiral; for our purpose here we're focussed on groups that have at least one or two Contributors_.
+° _Obviously, pods can be comprised of those outside of Enspiral; for our purpose here we're focussed on groups that have at least one or two Contributors_.
 
 # Getting started
 
-If you're starting, joining, or participating in a pod you may prefer to [jump into the resource guide, below](#Resources).
+If you're starting, joining, or participating in a pod you may prefer to [jump into the resource guide, below](#resource-guide).
 
 If you want to know more about the pods initiative, read on!
 
@@ -25,7 +25,7 @@ People in pods have shared how it "Helps them feel more connected to the network
 Here's some other ways we see pods having big potential for a network such as ours:
 - Support more people to be _seen_, i.e., experience of belonging & contributing, mutual support
 - Grow individuals’ social capital (and ours)
-- Make it easier to understand Enspiral, make context more accessible to people with diverse stories and backgrounds → increase agency of Contributors
+- Make it easier to understand Enspiral, make context more accessible to people with diverse stories and backgrounds, increasing the agency of Contributors
 - Encourage collaboration and learning together, practicing and realizing better ways of being
 - Improve our ability, as a network and in our groups, to adapt, and to define shared visions that support us and our work
 
@@ -118,6 +118,7 @@ Share what you learn in your Retrospective with the network so we can all learn 
  - _Rationale_: For building brave or courageous spaces. This is likely only needed in groups that intend to explore subjects that might be trying for the participants, or are groups that have a tension built in. This helps groups go further afield or deeper into more tricky or delicate matters.
 
 **Speak from the I**
+
 ... and all other brilliant suggestions from Non-Violent Communication (NVC). If you are running into interpersonal friction, or are having trouble communicating with your group members, you might want to consider [this one-pager](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf) as a quick guide to the deep wealth of NVC practice.
 
 - _Protocol_: If your group agrees on "speak from the I" as a protocol, the intention is that folks will try not to speak on behalf of another person or the group as a whole, or at least not to do so in tense situations
@@ -205,24 +206,24 @@ Copying and pasting some relevant Rituals from the [Workshop Patterns](/guides/w
 
 #### Check in
 
-**Process:** We start events with a check in. Everyone in a circle, sitting or standing (more energetic). Facilitator gives a prompt, then we go around and hear from everybody, e.g. how are you feeling on a scale 1-5?, or, what’s something you feel grateful for this morning? Remind people to be brief. Funny ice breaker questions can break tensions if the group doesn’t work together often (e.g. “each of you has a super power, what’s yours?”)
+*Process:* We start events with a check in. Everyone in a circle, sitting or standing (more energetic). Facilitator gives a prompt, then we go around and hear from everybody, e.g. how are you feeling on a scale 1-5?, or, what’s something you feel grateful for this morning? Remind people to be brief. Funny ice breaker questions can break tensions if the group doesn’t work together often (e.g. “each of you has a super power, what’s yours?”)
 
 You can also invite people to say what they are looking forward to in the workshop or what they would like to get out of it.
 
-**Rationale:** Demonstrates that all voices are important. Also, we care about how you’re feeling.
+*Rationale:* Demonstrates that all voices are important. Also, we care about how you’re feeling.
 
 #### Agenda/Programme/Timeline
 
-**Process**: Ensure that a rough outline of the day is written on a shared document or chat. Go through it in a bit of detail at the beginning if people won't have already been familiar.
+*Process*: Ensure that a rough outline of the day is written on a shared document or chat. Go through it in a bit of detail at the beginning if people won't have already been familiar.
 
-**Rationale**: This gives people a lay of the land and an overview of what to expect and how to orientate themselves in it.
+*Rationale*: This gives people a lay of the land and an overview of what to expect and how to orientate themselves in it.
 
 
 #### Twinkle fingers / Direct response
 
-**Process** Introduce new ways of communication by explicitly letting folks know what they mean. You might introduce sparkle/twinkle fingers where, when someone says something that really moves me or I agree with or want to affirm, I waggle (twinkle) my fingers at them (think jazz hands). Direct responses can be indicated by pointing the index finger of each hand and alternately raising and lowering those fingers (from the wrist).
+*Process* Introduce new ways of communication by explicitly letting folks know what they mean. You might introduce sparkle/twinkle fingers where, when someone says something that really moves me or I agree with or want to affirm, I waggle (twinkle) my fingers at them (think jazz hands). Direct responses can be indicated by pointing the index finger of each hand and alternately raising and lowering those fingers (from the wrist).
 
-**Rationale** This creative non-verbal communication takes up less time- and audio-space than clapping. Very easy introduction to the idea that different communication tools have different outcomes. And somehow it feels really great when a lot of people twinkle at you :)
+*Rationale* This creative non-verbal communication takes up less time- and audio-space than clapping. Very easy introduction to the idea that different communication tools have different outcomes. And somehow it feels really great when a lot of people twinkle at you :)
 
 #### Commitment to Action
 
@@ -230,7 +231,7 @@ At the end of the session, everyone decides one thing they are going to do. Shar
 
 #### Retrospective
 
-**Process**: At the end of a specified number of sessions, run a Retrospective.
+*Process*: At the end of a specified number of sessions, run a Retrospective.
 
 How you do this tends to depend on how much time you have and how much trust you have built within the participants. One way is to give everyone three post it notes and on one they write something like likes, one something they did not like, and something they would recommend to change.
 
