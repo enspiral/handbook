@@ -98,7 +98,8 @@ ______
 * [Loomio's Conflict Resolution Process](http://loomio.coop/conflict_resolution.html) and [resources](http://loomio.coop/conflict_resolution_resources.html)
 * [AORTA - Conflict mediation in action](https://github.com/valueflows/valueflows/files/371989/Conflict.Mediation.in.Action.March.2015.pdf)
 * [AORTA - Conflict Resolution Worksheet](https://github.com/valueflows/valueflows/files/371994/AORTA.Conflict.Resolution.Worksheet.pdf)
-* [Nonviolent Communication](http://cnvc.org/)
+* [Non-Violent Communication process (1-pager)](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf).
+* [Nonviolent Communication homepage](http://cnvc.org/)
 * [Codes of Conduct: When Being Excellent is Not Enough](https://modelviewculture.com/pieces/codes-of-conduct-when-being-excellent-is-not-enough)
 * [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Code_of_conduct_evaluations#Effective_codes_of_conduct)
 * [Buffer's 10 values](https://open.buffer.com/buffer-values/)
