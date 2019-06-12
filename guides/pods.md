@@ -25,7 +25,7 @@ People in pods have shared how it "Helps them feel more connected to the network
 Here are some other ways we (_the pods working group, currently Nati, Lucia, john, and Nicolas_) see pods having big potential for a network such as ours:
 - Support more people to be _seen_, i.e., experience of belonging & contributing, mutual support
 - Grow individuals’ social capital (and ours)
-- Make it easier to understand Enspiral, make context more accessible to people with diverse stories and backgrounds → increase agency of Contributors
+- Make it easier to understand Enspiral, make context more accessible to people with diverse stories and backgrounds, increasing the agency of Contributors
 - Encourage collaboration and learning together, practicing and realizing better ways of being
 - Improve our ability, as a network and in our groups, to adapt, and to define shared visions that support us and our work
 
@@ -174,17 +174,17 @@ Below are the Rituals we've curated; we'd love to see yours – drop them in [th
 
 1. How do we want to interact together? What’s the intention – or the outcomes or experiences that are hoped for – of our meetings?
 
-> a. You can ask things like, ‘what would be wildly ideal’ and ‘what would spoil this for you’... exploring the extremes of what would be good for each individual can help you create healthy boundaries and expectations for the group
+ a. You can ask things like, ‘what would be wildly ideal’ and ‘what would spoil this for you’... exploring the extremes of what would be good for each individual can help you create healthy boundaries and expectations for the group
 
 2. What recurring meeting time could work for us?
 
-> having a concrete cadence, not having to find a time again and again, has a big impact on your group’s chances!
+ a. having a concrete cadence, not having to find a time again and again, has a big impact on your group’s chances!
 
 3. What are folks ready to commit to?
 
-> a. This is the culminating question of the previous two explorations, and also gives people a concrete sense of ownership and dedication to the plan you laid out
+ a. This is the culminating question of the previous two explorations, and also gives people a concrete sense of ownership and dedication to the plan you laid out
 
-> b. It’s helpful if the commitment question includes a proposal of a duration—at the end of which you’ll have a retrospective or group reflection—in addition to the intention and cadence
+ b. It’s helpful if the commitment question includes a proposal of a duration—at the end of which you’ll have a retrospective or group reflection—in addition to the intention and cadence
 
 #### Presence in silence
 
