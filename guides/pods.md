@@ -2,7 +2,7 @@
 
 A _pod_ is a small group of (typically 3 to 5) enspirally humans° that connect regularly around one or more shared intentions. We have developed this practice to be useful for folks who can't get together in person, noting that the opportunity to meet face-to-face can add priceless value. At the broadest level, these intentions tend to implicitly or explicitly include mutual support, care, and building relationships. However, every pod is unique, and the intentions may vary (project-based, topic-based, learning together, personal-professional development, and beyond). Enspiral Working Groups can be understood as a type of Pod.
 
-°_Obviously, pods can be comprised of those outside of Enspiral; for our purpose here we're focussed on groups that have at least one or two Contributors_.
+° _Obviously, pods can be comprised of those outside of Enspiral; for our purpose here we're focussed on groups that have at least one or two Contributors_.
 
 # Getting started
 
@@ -174,17 +174,17 @@ Below are the Rituals we've curated; we'd love to see yours – drop them in [th
 
 1. How do we want to interact together? What’s the intention – or the outcomes or experiences that are hoped for – of our meetings?
 
- 1. You can ask things like, ‘what would be wildly ideal’ and ‘what would spoil this for you’... exploring the extremes of what would be good for each individual can help you create healthy boundaries and expectations for the group
+> a. You can ask things like, ‘what would be wildly ideal’ and ‘what would spoil this for you’... exploring the extremes of what would be good for each individual can help you create healthy boundaries and expectations for the group
 
 2. What recurring meeting time could work for us?
 
- 1. having a concrete cadence, not having to find a time again and again, has a big impact on your group’s chances!
+> having a concrete cadence, not having to find a time again and again, has a big impact on your group’s chances!
 
 3. What are folks ready to commit to?
 
- 1. This is the culminating question of the previous two explorations, and also gives people a concrete sense of ownership and dedication to the plan you laid out
+> a. This is the culminating question of the previous two explorations, and also gives people a concrete sense of ownership and dedication to the plan you laid out
 
- 2. It’s helpful if the commitment question includes a proposal of a duration—at the end of which you’ll have a retrospective or group reflection—in addition to the intention and cadence
+> b. It’s helpful if the commitment question includes a proposal of a duration—at the end of which you’ll have a retrospective or group reflection—in addition to the intention and cadence
 
 #### Presence in silence
 
