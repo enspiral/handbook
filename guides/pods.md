@@ -70,8 +70,9 @@ _How do we want to show up for each other? How do we want to treat one another? 
 
 Principles can support your pod’s resilience. Like we mentioned above, principles include protocols that guide your group when you're asking "who speaks next, what do we all want to talk about, and who's facilitating?" Principles are not limited to facilitation rules and may also address the following or beyond.
 
-- **The first five are particularly important**; they’re the most significant factors across successful pods as far as we’ve noticed (beyond Shared intention)
-- Our examples and categorisations are by no means exhaustive – we'd love to hear yours! Drop them in [this sheet](https://docs.google.com/document/d/1IlFsQMSXzkJZ6AF59Zwg6mNrWGl86Bk2wUpYRqAXxqs/edit?usp=sharing).
+**The first five are particularly important**; they’re the most significant factors across successful pods as far as we’ve noticed (beyond Shared intention)
+
+Our examples and categorisations are by no means exhaustive – we'd love to hear yours! Drop them in [this sheet](https://docs.google.com/document/d/1IlFsQMSXzkJZ6AF59Zwg6mNrWGl86Bk2wUpYRqAXxqs/edit?usp=sharing).
 
 #### 1.  Boundaries
 
