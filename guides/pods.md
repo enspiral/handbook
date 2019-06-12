@@ -104,14 +104,14 @@ See the resources below for different formats and rituals you can use. Ask other
 - Have an agenda
  - Even better, have an agenda at least a week in advance
 
-°_we recommend [Jitsi](https://meet.jit.si/) as a free and open source video call option, and [zoom](zoom.us) is excellent if you have access to a paid zoom subscription or are going for less than 40 minutes_
-°°_Loomio is able to send calendar invites after you use a Time Poll; if you can stand Google, their Calendar gives you the ability to modify the event and easily send changes._
+° _We recommend [Jitsi](https://meet.jit.si/) as a free and open source video call option, and [zoom](zoom.us) is excellent if you have access to a paid zoom subscription or are going for less than 40 minutes_
+°° _Loomio is able to send calendar invites after you use a Time Poll; if you can stand Google, their Calendar gives you the ability to modify the event and easily send changes._
 
 #### Set-up concerns
 
 The environments you meet in will affect your experience, as will the environments of a video call’s participants. Some pods may want to commit to certain basics, such as mindfulness around lighting and audio quality so you can see and hear one another. Headphones (with mics) can help heaps. So can quiet spaces. Questions your pod or members might consider include:
 
-- _What call environments will best serve our shared intention?
+- _What call environments will best serve our shared intention?_
  - _Would it help if everyone were in a place where letting go, lying down, crying or laughing out loud wouldn’t be an issue?_
 - _Is it important to us to be able to see each other's faces?_ [***Authors' bias says yes!***]
 
@@ -161,6 +161,7 @@ Personal-professional development that is more project-oriented than the “Care
 ### Free Format (Less structured, Build your own…)
 
 While a Shared intention and a few Principles or key protocols are recommended, some pods may want to lean into emergence and arrive with a barebones agenda or none at all. Whatever the case, you might like to use one or more of the Rituals below, or to plan and build a Format by remixing those presented above.
+
 ## Rituals
 
 The concrete gestures, practices, and motions your group can go through during the sessions to really bring it to life.
@@ -231,24 +232,24 @@ Copying and pasting some relevant Rituals from the [Workshop Patterns](/guides/w
 
 #### Check in
 
-**Process:** We start events with a check in. Everyone in a circle, sitting or standing (more energetic). Facilitator gives a prompt, then we go around and hear from everybody, e.g. how are you feeling on a scale 1-5?, or, what’s something you feel grateful for this morning? Remind people to be brief. Funny ice breaker questions can break tensions if the group doesn’t work together often (e.g. “each of you has a super power, what’s yours?”)
+*Process:* We start events with a check in. Everyone in a circle, sitting or standing (more energetic). Facilitator gives a prompt, then we go around and hear from everybody, e.g. how are you feeling on a scale 1-5?, or, what’s something you feel grateful for this morning? Remind people to be brief. Funny ice breaker questions can break tensions if the group doesn’t work together often (e.g. “each of you has a super power, what’s yours?”)
 
 You can also invite people to say what they are looking forward to in the workshop or what they would like to get out of it.
 
-**Rationale:** Demonstrates that all voices are important. Also, we care about how you’re feeling.
+*Rationale:* Demonstrates that all voices are important. Also, we care about how you’re feeling.
 
 #### Agenda/Programme/Timeline
 
-**Process**: Ensure that a rough outline of the day is written on a shared document or chat. Go through it in a bit of detail at the beginning if people won't have already been familiar.
+*Process*: Ensure that a rough outline of the day is written on a shared document or chat. Go through it in a bit of detail at the beginning if people won't have already been familiar.
 
-**Rationale**: This gives people a lay of the land and an overview of what to expect and how to orientate themselves in it.
+*Rationale*: This gives people a lay of the land and an overview of what to expect and how to orientate themselves in it.
 
 
 #### Twinkle fingers / Direct response
 
-**Process** Introduce new ways of communication by explicitly letting folks know what they mean. You might introduce sparkle/twinkle fingers where, when someone says something that really moves me or I agree with or want to affirm, I waggle (twinkle) my fingers at them (think jazz hands). Direct responses can be indicated by pointing the index finger of each hand and alternately raising and lowering those fingers (from the wrist).
+*Process* Introduce new ways of communication by explicitly letting folks know what they mean. You might introduce sparkle/twinkle fingers where, when someone says something that really moves me or I agree with or want to affirm, I waggle (twinkle) my fingers at them (think jazz hands). Direct responses can be indicated by pointing the index finger of each hand and alternately raising and lowering those fingers (from the wrist).
 
-**Rationale** This creative non-verbal communication takes up less time- and audio-space than clapping. Very easy introduction to the idea that different communication tools have different outcomes. And somehow it feels really great when a lot of people twinkle at you :)
+*Rationale* This creative non-verbal communication takes up less time- and audio-space than clapping. Very easy introduction to the idea that different communication tools have different outcomes. And somehow it feels really great when a lot of people twinkle at you :)
 
 #### Commitment to Action
 
@@ -256,7 +257,7 @@ At the end of the session, everyone decides one thing they are going to do. Shar
 
 #### Retrospective
 
-**Process**: At the end of a specified number of sessions, run a Retrospective.
+*Process*: At the end of a specified number of sessions, run a Retrospective.
 
 How you do this tends to depend on how much time you have and how much trust you have built within the participants. One way is to give everyone three post it notes and on one they write something like likes, one something they did not like, and something they would recommend to change.
 
