@@ -174,17 +174,17 @@ Below are the Rituals we've curated; we'd love to see yours – drop them in [th
 
 1. How do we want to interact together? What’s the intention – or the outcomes or experiences that are hoped for – of our meetings?
 
- a. You can ask things like, ‘what would be wildly ideal’ and ‘what would spoil this for you’... exploring the extremes of what would be good for each individual can help you create healthy boundaries and expectations for the group
+ 1. You can ask things like, ‘what would be wildly ideal’ and ‘what would spoil this for you’... exploring the extremes of what would be good for each individual can help you create healthy boundaries and expectations for the group
 
 2. What recurring meeting time could work for us?
 
- a. having a concrete cadence, not having to find a time again and again, has a big impact on your group’s chances!
+ 1. having a concrete cadence, not having to find a time again and again, has a big impact on your group’s chances!
 
 3. What are folks ready to commit to?
 
- a. This is the culminating question of the previous two explorations, and also gives people a concrete sense of ownership and dedication to the plan you laid out
+ 1. This is the culminating question of the previous two explorations, and also gives people a concrete sense of ownership and dedication to the plan you laid out
 
- b. It’s helpful if the commitment question includes a proposal of a duration—at the end of which you’ll have a retrospective or group reflection—in addition to the intention and cadence
+ 2. It’s helpful if the commitment question includes a proposal of a duration—at the end of which you’ll have a retrospective or group reflection—in addition to the intention and cadence
 
 #### Presence in silence
 
