@@ -43,7 +43,7 @@ We have noticed that successful pods organise around the following elements; if 
 
 1. [**Shared intention**](#shared-intention) is a clear statement of the common intent bringing a group together (e.g. studying a topic together or practicing self-development and mutual accountability).
 2. [**Principles**](#principles) are the set of rules, protocols and values that define the culture of the pod. _For example on the topic of facilitation we could have a protocol,_ « _facilitation is a responsibility that rotates around our pod's members_ ».
-3. [**Formats**](#formats) have been useful to some pods as they provide a set of Rituals to follow every call, _e.g., start with a check in, do an ‘action learning’ to support one of the members with a challenge, check out…_. Some pods follow a time bound set of sessions with specific exercises they do before the calls; some just have a toolkit of Rituals they use depending on the needs of the moment. E.g., the [Care Pod (ICT) format](https://drive.google.com/open?id=1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU) defines a series of exercises that your group may go through in a specific order through their different encounters. Some formats may not have an evolutionary nature from one call to the next, but instead aim to provide a simple, reusable agenda (e.g., this [Care Pod (peer incubator) format](https://docs.google.com/document/d/1E0Bt0bSRpARKgMNRYWboIELbSTurfPMedHOWDYUCHIo/edit?usp=sharing))
+3. [**Formats**](#formats) have been useful to some pods as they provide a set of rituals to follow every call, _e.g., start with a check in, do an ‘action learning’ to support one of the members with a challenge, check out…_. Some pods follow a time bound set of sessions with specific exercises they do before the calls; some just have a toolkit of rituals they use depending on the needs of the moment. E.g., the [Care Pod (ICT) format](https://drive.google.com/open?id=1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU) defines a series of exercises that your group may go through in a specific order through their different encounters. Some formats may not have an evolutionary nature from one call to the next, but instead aim to provide a simple, reusable agenda (e.g., this [Care Pod (peer incubator) format](https://docs.google.com/document/d/1E0Bt0bSRpARKgMNRYWboIELbSTurfPMedHOWDYUCHIo/edit?usp=sharing))
 4. [**Rituals**](#rituals) are practices that help boost the interactivity of your calls so that they feel much richer and deeper than a dull chat. Some of them call for forward preparation to concentrate even more connecting energy into the limited time of a call. Proceeding with a moment of silence before checking-in is an example of ritual. Being creative here might help creating online experiences you never knew were possible.
 
 ## Shared intention
@@ -70,7 +70,7 @@ _How do we want to show up for each other? How do we want to treat one another? 
 
 Principles can support your pod’s resilience. Like we mentioned above, principles include protocols that guide your group when you're asking "who speaks next, what do we all want to talk about, and who's facilitating?" Principles are not limited to facilitation rules and may also address the following or beyond.
 
-**The first five are particularly important**; they’re the most significant factors across successful pods as far as we’ve noticed (beyond Shared intention)
+**The first six are particularly important**; they’re the most significant factors across successful pods as far as we’ve noticed (beyond shared intention)
 
 Our examples and categorisations are by no means exhaustive – we'd love to hear yours! Drop them in [this sheet](https://docs.google.com/document/d/1IlFsQMSXzkJZ6AF59Zwg6mNrWGl86Bk2wUpYRqAXxqs/edit?usp=sharing).
 
@@ -78,11 +78,18 @@ Our examples and categorisations are by no means exhaustive – we'd love to hea
 
 _What are you up for? And what are you not up for?_ Talk about your _norms_ and _boundaries_. E.g., being respectful with each other, setting a confidentiality agreement, etc.
 
-#### 2.  Cadence
+#### 2.  Size
+
+Best seems to be 4 or 5 in the experience of the initial prototypes. Think about the number of participants according to the intention of your pod.
+
+Consider the bigger you go in amount of members you’ll need more time in your calls and you may lose some intimacy.
+
+
+#### 3.  Cadence
 
 _How often are you meeting?_ Some pods do it every week for a while and then change to a longer cadence, fortnightly or monthly. It’s up to your pod members to decide. Having a regular time (e.g., first Monday of the month) makes it significantly easier to get together.
 
-#### 3.  Cycles
+#### 4.  Cycles
 
 _When do you stop? When do you reflect?_ Start with the end in mind or with a moment when you will stop and reflect (more on it in the Retrospective part below)
 
@@ -90,11 +97,10 @@ Agree on a time to stop and reflect on how is the pod working for each member: _
 
 - You can use that reflection point as a good place to decide if you stop or if you keep on going, and how.
 
-
-#### 4.  Presence
+#### 5.  Presence
 Agree on the minimum number of participants you want to be present to go ahead with a meeting. _Do you want everyone to be present every time? Can you go ahead with a meeting if someone can’t make it?_
 
-#### 5. Seek Support
+#### 6. Seek Support
 See the resources below for different formats and rituals you can use. Ask others in the network what is working for them and what isn’t.
 
 #### Meeting preparation
@@ -132,7 +138,7 @@ The environments you meet in will affect your experience, as will the environmen
 - _Protocol_: If your group agrees on "speak from the I" as a protocol, the intention is that folks will try not to speak on behalf of another person or the group as a whole, or at least not to do so in tense situations
  - _Rationale_: Again, likely only needed for groups that are travelling into more vulnerable territory together. See NVC resources for more on the 'why'.
 
-### Assorted protocols or conversations
+### Other assorted protocols or conversations
 
 These will hopefully spark an insight of a useful Principle you could propose for your pod:
 
@@ -144,23 +150,23 @@ These will hopefully spark an insight of a useful Principle you could propose fo
 
 ## Formats
 
-Some pods enjoy having a Format with a set of Rituals for their meetings that they follow every call, eg, start with a check in, do an ‘action learning’ to support one of the members with a challenge, check out… Some pods follow a time bound set of sessions with specific exercises they do before the calls; some just have a toolkit of Rituals they use depending on the needs of the moment.
+Some pods enjoy having a format with a set of rituals for their meetings that they follow every call, eg, start with a check in, do an ‘action learning’ to support one of the members with a challenge, check out… Some pods follow a time bound set of sessions with specific exercises they do before the calls; some just have a toolkit of rituals they use depending on the needs of the moment.
 
-- Having an agreed number of sessions and a Format to follow seems to help keep the momentum and commitment to show up
+- Having an agreed number of sessions and a format to follow seems to help keep the momentum and commitment to show up
 
 ### [Care Pod](https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing)
 
-Personal-professional development centered around Intentional Change Theory (ICT), a process for achieving sustained desired change in oneself alongside peers. ICT itself is a powerful pattern that can be approached in a variety of ways. Feel free to create some exercises or agendas from scratch or use the ones presented here. Four pods reported they had good experiences using the exercises outlined in this [Format’s documentation](https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing), .
+Personal-professional development centered around Intentional Change Theory (ICT), a process for achieving sustained desired change in oneself alongside peers. ICT itself is a powerful pattern that can be approached in a variety of ways. Feel free to create some exercises or agendas from scratch or use the ones presented here. Four pods reported they had good experiences using the exercises outlined in this [format’s documentation](https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing), .
 
 ### [Peer Incubator](https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing)
 
-Personal-professional development that is more project-oriented than the “Care Pod” format. The documentation of [how the very first one evolved](https://drive.google.com/open?id=1Zr1R8g__xJNQhYKgnVJwCf9v0nDaaPn5K6o6MRy7XeA) can give a picture of how to bring a pod together and evolve your own Format along with some starter material, prompts, and agendas. There are examples of [combining this one with the exercises from ICT](https://drive.google.com/open?id=1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs), and also a [super simple, reusable agenda](https://docs.google.com/document/d/1E0Bt0bSRpARKgMNRYWboIELbSTurfPMedHOWDYUCHIo/edit?usp=sharing) that is just a combination of the « Project Kitchen » and « Share and tell » Rituals (see below).
+Personal-professional development that is more project-oriented than the “Care Pod” format. The documentation of [how the very first one evolved](https://drive.google.com/open?id=1Zr1R8g__xJNQhYKgnVJwCf9v0nDaaPn5K6o6MRy7XeA) can give a picture of how to bring a pod together and evolve your own format along with some starter material, prompts, and agendas. There are examples of [combining this one with the exercises from ICT](https://drive.google.com/open?id=1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs), and also a [super simple, reusable agenda](https://docs.google.com/document/d/1E0Bt0bSRpARKgMNRYWboIELbSTurfPMedHOWDYUCHIo/edit?usp=sharing) that is just a combination of the « Project Kitchen » and « Share and tell » rituals (see below).
 
 **Invitation**: You can take advantage of this template [survey of interest](http://tiny.cc/peerincubator) which can help your pod illuminate its shared intention; you might include this in your invitation to track who is saying yes.
 
 ### Free Format (Less structured, Build your own…)
 
-While a Shared intention and a few Principles or key protocols are recommended, some pods may want to lean into emergence and arrive with a barebones agenda or none at all. Whatever the case, you might like to use one or more of the Rituals below, or to plan and build a Format by remixing those presented above.
+While a shared intention and a few Principles or key protocols are recommended, some pods may want to lean into emergence and arrive with a barebones agenda or none at all. Whatever the case, you might like to use one or more of the rituals below, or to plan and build a format by remixing those presented above.
 
 ## Rituals
 
@@ -168,7 +174,7 @@ The concrete gestures, practices, and motions your group can go through during t
 
 While all rituals we document are intended to support a group’s development, some particularly support them to develop intimacy, e.g., _[Showing Up With a Treasure](#showing-up-with-a-treasure)_. When you introduce these it can help to pay attention to how it affects the atmosphere of the call. Note that different people may have more or less desire for crossing boundaries and learning about each other. Be aware that inviting the adoption of a ritual may sometime make some people feel excluded and potentially willing to leave the pod (e.g., they’re not comfortable doing this).
 
-Below are the Rituals we've curated; we'd love to see yours – drop them in [this sheet](https://docs.google.com/document/d/1ER84YbDSHNTLyQQ05hRJiqjwzFVb-EAoE8hUIoo5psM/edit?usp=sharing)
+Below are the rituals we've curated; we'd love to see yours – drop them in [this sheet](https://docs.google.com/document/d/1ER84YbDSHNTLyQQ05hRJiqjwzFVb-EAoE8hUIoo5psM/edit?usp=sharing)
 
 #### Three conversations for initiating a group
 
@@ -220,7 +226,7 @@ Share & Show is an invitation for folks to _first and foremost_ share something 
 
 #### Sharing Learnings
 
-Share what you learn in your Retrospective with the network so we can all learn together. We will have shared learning prompts within the network every 3 months, and an open thread where everyone can post what have they learned from specific Formats and Rituals.
+Share what you learn in your Retrospective with the network so we can all learn together. We will have shared learning prompts within the network every 3 months, and an open thread where everyone can post what have they learned from specific formats and rituals.
 
 #### Conflict Transformation
 
@@ -228,7 +234,7 @@ See our [Conflict Resolution / Transformative Justice guide](https://handbook.en
 
 ### Some oldies and goodies (from Enspiral's Workshops Guide)
 
-Copying and pasting some relevant Rituals from the [Workshop Patterns](/guides/workshop_patterns.html) guide
+Copying and pasting some relevant rituals from the [Workshop Patterns](/guides/workshop_patterns.html) guide
 
 #### Check in
 
