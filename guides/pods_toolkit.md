@@ -1,3 +1,5 @@
+Want a quick guide? [Click here](/guides/pods_guide.html).
+
 # What's a pod
 
 A _pod_ is a small group of (typically 3 to 5) enspirally humans° that connect regularly around one or more shared intentions. We have developed this practice to be useful for folks who can't get together in person, noting that the opportunity to meet face-to-face can add priceless value. At the broadest level, these intentions tend to implicitly or explicitly include mutual support, care, and building relationships. However, every pod is unique, and the intentions may vary (project-based, topic-based, learning together, personal-professional development, and beyond). Enspiral Working Groups can be understood as a type of Pod.
