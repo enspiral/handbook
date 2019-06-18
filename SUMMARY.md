@@ -33,6 +33,7 @@
   * [Onboarding Emails](guides/onboarding-info.md)
   * [Ops processes](guides/ops_processes.md)
   * [People\*](guides/people.md)
+  * [Pods](guides/pods.md)
   * [Project Kitchens](guides/project_kitchen.md)
   * [Projects & Reports](guides/projects_reports.md)
   * [PR tips for humans](guides/press.md)

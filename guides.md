@@ -17,6 +17,7 @@ Guides explain in practical terms how we do stuff. Any Enspiral Contributor can 
 * [Manage your enspiral.com profile](guides/manage-enspiral-website-profile.md) - update your public profile
 * [Onboarding Emails](guides/onboarding-info.md) - messages sent to new contributors
 * [Ops processes](guides/ops_processes.md) - a list of some of ops processes
+* [Pods](guides/pods.md) - an initiative aiming to build relationships across the network
 * [Project Kitchens](guides/project_kitchen.md) - an energising process for efficiently giving mutual support to projects through enabling group intelligence
 * [Projects & Reports](guides/projects_reports.md)
 * [PR tips for humans](guides/press.md)
