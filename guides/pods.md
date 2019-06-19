@@ -1,16 +1,18 @@
-# Growing our Support in Pods
+# Growing our support with pods
 
-## What is a Pod?
+## What is a pod?
 
 
 Pods are small groups of people (4 to 5 is suggested) formed by members and contributors of Enspiral. These groups can support us to build relationships across the network – especially with those further from the center – supporting more people to be ‘seen’ and to experience mutual support and care.
 
 
-## Forming a Pod
+## Forming a pod
 
-A pod is formed by a few people coming together around an *intention* and some *principles*. Typically there is an initial invitation from a *caller*. Callers are those who make the initial invitation and coordinate the first video call or meeting. The invitation often will come with the beginnings of an intention, and perhaps a principle that's important to the caller. The invitation may also suggest a *format* that the group may choose to follow, perhaps even some *rituals* they could use through their calls.
+A pod is formed by a few people coming together around an *intention* and some *principles*. An initial invitation is made by a caller, who also coordinates the first video call or meeting.
 
-These terms could be explained as follows:
+The invitation will often come with the seed of an *intention*. It could also suggest a *format* that the group may choose to follow, or some *principles* and *rituals* to use through their calls.
+
+In summary:
 
 - The **intention** clearly states the common intent bringing a group together (e.g. studying a topic together or going through a self-development methodology).
 
@@ -23,7 +25,7 @@ These terms could be explained as follows:
 You can refer to the [List of Rituals](#list-of-rituals) and the [List of Formats](#list-of-formats) for inspiration on what to propose to your group. The next section highlights key *principles* intended to increase the resilience of your pod and the broader set of pods across Enspiral… we're in this to grow (and compost) together!
 
 
-## Running a Pod
+## Running a pod
 
 There are key areas where *principles* might be specifically important for all groups:
 
@@ -44,27 +46,27 @@ There are key areas where *principles* might be specifically important for all g
 
 ## The pods process at Enspiral
 
-- Every 3 months the Pods working group will put a callout to the network for New Pods formation.
-- People interested in being Callers or joining a new Pod will opt-in and find their Pod members in compatible timezones.
+- Every 3 months the pods working group will put a callout to the network for new pods formation.
+- People interested in being Callers or joining a new pod will opt-in and find their pod members in compatible timezones.
 - Pods will form around the Intention, Principles and Format they choose and will last what the people in them agree on.
-- Every 3 months the Pod working group will start a thread to encourage Pods to do Retrospectives and collect lessons for the whole network.
-- Once a Pod ends we will encourage people exiting a pod to either join another pod or become caller for new ones.
+- Every 3 months the pod working group will start a thread to encourage pods to do Retrospectives and collect lessons for the whole network.
+- Once a pod ends we will encourage people exiting a pod to either join another pod or become caller for new ones.
 
 
 ## List of Formats
 <details>
-   <summary><strong>▶ Care Pod</strong> - A format based on Intentional Change Theory</summary>
+   <summary><strong>Care Pod</strong> - A format based on Intentional Change Theory <em>[click to expand]</em></summary>
 Personal-professional development centered around Intentional Change Theory (ICT), a process for achieving sustained desired change in oneself alongside peers. ICT itself is a powerful pattern that can be approached in a variety of ways. Feel free to create some exercises or agendas from scratch or use the ones presented here. Four pods reported they had good experiences using the exercises outlined in this <a href="https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing">Format’s documentation</a>
 </details>
 
 <details>
-   <summary><strong>▶ Peer Incubator</strong> - Personal-professional development that is more project-oriented than the “Care Pod” format.</summary>
+   <summary><strong>Peer Incubator</strong> - Personal-professional development that is more project-oriented than the “Care Pod” format. <em>[click to expand]</em></summary>
    The documentation of <a href="https://drive.google.com/open?id=1Zr1R8g__xJNQhYKgnVJwCf9v0nDaaPn5K6o6MRy7XeA">how the very first one evolved</a> can give a picture of how to bring a pod together and evolve your own Format along with some starter material, prompts, and agendas. There are examples of <a href="https://drive.google.com/open?id=1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs">combining this Format with the exercises from Care Pod (ICT)</a>, and also a <a href="https://docs.google.com/document/d/1E0Bt0bSRpARKgMNRYWboIELbSTurfPMedHOWDYUCHIo/edit?usp=sharing">super simple, reusable agenda</a> that is just a combination of the « Project Kitchen » and « Share and tell » Rituals (see below).
 <strong>Invitation</strong>: You can take advantage of this template <a href="http://tiny.cc/peerincubator">survey of interest</a> which can help your pod illuminate its shared intention; you might include this in your invitation to track who is saying yes. Find all the <a href="https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing">documentation about this format here</a>.
 </details>
 
 <details>
-  <summary><strong>Free Format</strong> - Less structured, build your own…</summary>
+  <summary><strong>Free Format</strong> - Less structured, build your own… <em>[click to expand]</em></summary>
   While a Shared intention and a few Principles or key protocols are recommended, some pods may want to lean into emergence and arrive with a barebones agenda or none at all. Whatever the case, you might like to use one or more of the Rituals below, or to plan and build a Format by remixing those presented above.
 </details>
 
@@ -72,7 +74,7 @@ Personal-professional development centered around Intentional Change Theory (ICT
 ## List of Rituals
 
 <details>
-  <summary><strong>▶ 3 conversations </strong> - Three conversations for initiating a group</summary>
+  <summary><strong>3 conversations </strong> - Three conversations for initiating a group <em>[click to expand]</em></summary>
 <ol>
    <li>How do we want to interact together? What’s the intention – or the outcomes or experiences that are hoped for – of our meetings?
    <ul><li>a. You can ask things like, ‘what would be wildly ideal’ and ‘what would spoil this for you’... exploring the extremes of what would be good for each individual can help you create healthy boundaries and expectations for the group</li></ul>
@@ -89,20 +91,20 @@ Personal-professional development centered around Intentional Change Theory (ICT
 </ol>
 </details>
 <details>
-  <summary><strong>▶ Presence in silence</strong> - Hold a moment of silence at the beginning of a call</summary> 
+  <summary><strong>Presence in silence</strong> - Hold a moment of silence at the beginning of a call <em>[click to expand]</em></summary> 
 
 Life can be hectic and participant may have rushed into the call with stress and other thoughts in mind. Keeping silent for a few minutes (even just 1) can help ground everyone into the moment and improve the capacity of immediacy of the participants.
 </details>
 
 <details>
-  <summary><strong>▶ Showing up with a treasure</strong> - Join the meeting with a physical object...</summary>
+  <summary><strong>Showing up with a treasure</strong> - Join the meeting with a physical object... <em>[click to expand]</em></summary>
  It could have intrinsic subjective value or be anything helping you illustrate a short story that is important to you. Presenting it during the opening of the call can yield multiple benefits, starting with remembering ourselves what it is we treasure in life, practising storytelling and giving an opportunity to other pod members to get to know you.
 </details>
 
-<details><summary><strong>▶ Project Kitchens</strong> - A practical, project-oriented exercise.</summary>
+<details><summary><strong>Project Kitchens</strong> - A practical, project-oriented exercise. <em>[click to expand]</em></summary>
 This exercise will help small groups build collective intelligence by giving mutual support to their projects <a href="/guides/project_kitchen.html">see here</a></details>
 
-<details><summary><strong>▶ Case Clinic</strong> - From Theory U</summary>
+<details><summary><strong>Case Clinic</strong> - From Theory U <em>[click to expand]</em></summary>
 Similar to the Project Kitchen with some different nuances and perhaps a broader scope (but each can be modified in length or content to suit your pod). Case Clinic is best suited to groups with a stronger focus on personal-professional development; <a href="https://www.collaboratiohelvetica.ch/blog/2017/11/20/mmrb05mfc3nlnxfqw2r9pcq26ietjp">see here</a>.
 </details>
 
