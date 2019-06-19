@@ -23,7 +23,7 @@ These terms could be explained as follows:
 Pod callers can refer to the [List of Rituals](#list-of-rituals) and the [List of Formats](#list-of-formats) for inspiration on what to propose to their group. The section [Embracing resilience](#embracing-resilience) highlights key *principles* relating to peoples' boundaries, as well as meeting cycles and cadence.
 
 
-## Embracing resilience
+## Running a pod
 
 There are key areas where *principles* might be specifically important for all groups:
 
@@ -31,9 +31,24 @@ There are key areas where *principles* might be specifically important for all g
 - **acknowledging boundaries** – What are you up for? And what are you not up for? Talk about your Norms and Boundaries. Eg, being respectful with each other, setting a confidentiality agreement, etc.
 - **cadence** - How often are you meeting? Some pods do it every week for a while and then change to longer cadence, fortnightly or monthly. It is up to your pod members to decide. Having a regular time (eg, first Monday of the month) makes it significantly easier to get together. If you don't have a regular time to meet, dedicating a few minutes at the end of each meeting to schedule the next one, makes logistics easier and more effective.
 - **presence** - Agree on the minimum number of participants you want to be present to go ahead with a meeting Do you want everyone to be present every time? Can you go ahead with a meeting if someone can’t make it?
-- **cycles** - When do you stop? When do you reflect? Start with the end in mind or with a moment when you will stop and reflect (also see the *[Retrospective ritual](#list-of-rituals)*)
+- **cycles** - When do you stop? When do you reflect? Start with the end in mind or with a moment when you will stop and reflect (also see *[Retrospective](#continuous-improvement)*)
 - **hosting duties** - Should facilitation ‘rotate’ amongst your pod’s members, with a different person attending to the clock, agenda, or people’s speaking time each session? Should you take turns to decide who's in charge of inviting people of the next meeting and providing a link for them to join?
 - **setup concerns** - Some pods may want to commit to certain basics, such as being able to see one another’s faces.
+
+
+## Continuous improvement
+
+  There are two ways you can help make your pod experience useful to its members and others:
+* **Retrospective** - Agree on a time to stop and reflect on how is the pod working for each member: What is working well? What can be better? What are we going to change? You can use that reflection point as a good place to decide if you stop or if you keep on going, and how.
+* **Sharing learnings** - Share what you learn in your Retro with the network so we can all learn together. We will have shared learning prompts with the network every 3 months, and an open thread where everyone can post what have they learned from specific Formats and Rituals.
+
+## The pods process at Enspiral
+
+- Every 3 months the Pods working group will put a callout to the network for New Pods formation.
+- People interested in being Callers or joining a new Pod will opt-in and find their Pod members in compatible timezones.
+- Pods will form around the Intention, Principles and Format they choose and will last what the people in them agree on.
+- Every 3 months the Pod working group will start a thread to encourage Pods to do Retrospectives and collect lessons for the whole network.
+- Once a Pod ends we will encourage people exiting a pod to either join another pod or become caller for new ones.
 
 
 ## List of Formats
@@ -84,26 +99,10 @@ Life can be hectic and participant may have rushed into the call with stress and
  It could have intrinsic subjective value or be anything helping you illustrate a short story that is important to you. Presenting it during the opening of the call can yield multiple benefits, starting with remembering ourselves what it is we treasure in life, practising storytelling and giving an opportunity to other pod members to get to know you.
 </details>
 
-<details>
-  <summary><strong>Retrospective</strong> - Agree on a time to stop and reflect on how is the pod working for each member: What is working well? What can be better? What are we going to change?</summary>
-   <em>No details here</em>
-</details>
-<details>
-  <summary><strong>Sharing learnings</strong> - Share what you learn in your Retro with the network so we can all learn together. We will have shared learning prompts with the network every 3 months, and an open thread where everyone can post what have they learned from specific Formats and Rituals.</summary>
-   <em>No details here</em>
-</details>
 <details><summary><strong>Project Kitchens</strong> - A practical, project-oriented exercise.</summary>
 This exercise will help small groups build collective intelligence by giving mutual support to their projects <a href="/guides/project_kitchen.html">see here</a></details>
 
 <details><summary><strong>Case Clinic</strong> - From Theory U</summary>
 Similar to the Project Kitchen with some different nuances and perhaps a broader scope (but each can be modified in length or content to suit your pod). Case Clinic is best suited to groups with a stronger focus on personal-professional development; <a href="https://www.collaboratiohelvetica.ch/blog/2017/11/20/mmrb05mfc3nlnxfqw2r9pcq26ietjp">see here</a>.
 </details>
-
-## The ‘pods process’ at Enspiral
-
-- Every 3 months the Pods working group will put a callout to the network for New Pods formation.
-- People interested in being Callers or joining a new Pod will opt-in and find their Pod members in compatible timezones.
-- Pods will form around the Intention, Principles and Format they choose and will last what the people in them agree on.
-- Every 3 months the Pod working group will start a thread to encourage Pods to do Retrospectives and collect lessons for the whole network.
-- Once a Pod ends we will encourage people exiting a pod to either join another pod or become caller for new ones.
 
