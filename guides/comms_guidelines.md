@@ -6,8 +6,6 @@ These comms channels are hosted by the Enspiral Foundation and are open to all c
 
 [![Map of our comms tools](https://i.imgur.com/GaC40ja.png)](https://kumu.io/enspiral/comms)
 
-[Explore an interactive map of our comms tools](https://kumu.io/enspiral/comms), or read on:
-
 # Comms Platforms and Tools
 
 
