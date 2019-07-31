@@ -1,23 +1,5 @@
 # Forms at Enspiral
 
-
-These are some of the forms that help make Enspiral tick. They're all connected to the Ops team, so if something doesn't seem quite right, try contacting us at: foundation@enspiral.com
-
-### All contributors
-
-* Update your details in the [Enspiral Members & Contributor database](https://airtable.com/shrOJj0yaWZhdwKXW/tbleUf8EMbN7ihPOP) via this [Contributor Details form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSeExKCL4UhU3LdRzF0aSkn-nhw7b-Hdyl0PCfgO9KkAeqwulg/viewform)
-* [Annual contributor opt-in form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSfbcTxIiZR4zvZlVOugVkXb34bcg4iUeB5uwDXveVODOGr5jg/viewform?entry.190767353&entry.977126547=100&entry.1019976978&entry.2103714586&entry.39252034)
-* Add or remove your [Enspiral email account](email_accounts.md)
-* Get permission to [use the Enspiral brand](https://goo.gl/forms/imQs3ZenqFz9x4ls1)
-* Request a steward or stewardee [form](https://docs.google.com/forms/d/e/1FAIpQLSfwLPjFHuDseqcuek9qUGOIXJU6JYnrj-VAdyuYt8IqnOrG9w/viewform)
-
-### Members
-
-* To add a new contributor to the Enspiral network, go to [Add a new contributor form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSfnstSPWmIEscbAfDF_oswNa9vzEnhTTl174JnSJvGHcBlHGw/viewform)
-* To add a new member, leave membership or change your hiatus status, go to the [Member status change form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSe3pO-XEzduRM3UgrnW1GqAFm9F8NQaHHanjizgpn9EoWyBQA/viewform)
-
-### Ventures
-
-* To add a new venture or proto-venture to the network, go to the [New Enspiral venture form](https://docs.google.com/a/enspiral.com/forms/d/1KpnihByGGSiio0_-ipwG8NML_kXHDe5-Tiq8GrqWq1I/edit?usp=drive_web)
+Links to forms at Enspiral are now living in the [Introductions and Readme Loomio Context](https://www.loomio.org/d/eUqFhOdN/introductions-and-readme-2019?membership_token=YmftE5yAirpwsHwkT4CEUk6C&utm_campaign=discussion_mailer&utm_medium=email&utm_source=discussion_announced)
 
 {% include 'contributing_hint.md' %}
