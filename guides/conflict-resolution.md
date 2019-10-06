@@ -19,7 +19,7 @@ If you are in conflict with someone else consider taking these three steps:
 - Note _uncertainties_ and possible _misunderstandings_ in your interactions, including cultural differences.
 - Distinguish people's _actions_ from your _feelings_ about them.  They're both important, but they're different.
 - Distinguish _disagreement_ from personal _hostility._  We're allowed to disagree, dissent and discuss.
-- Review relevant documents andConflict Resolution Support.
+- Review relevant documents and Conflict Resolution Support.
 
 If you've contemplated the experience and have decided it feels like it may be _harassment_ or _abuse_, please consult our [Harassment and Abuse Policy](/agreements/harassment_and_abuse.md).
 
@@ -71,7 +71,7 @@ Enspiral participants may seek to informally resolve their conflicts by discussi
 
 ### 4. Mediation
 
-For intense conflicts, Enspiral participants may request mediation meetings which are assigned to trained, in-network (orexternal) mediators.
+For intense conflicts, Enspiral participants may request mediation meetings which are assigned to trained, in-network (or external) mediators.
 
 Our expectations are that a mediator is suitably qualified, costs incurred will be negotiated directly with the people involved. We commit to hosting a recurring bucket and—at the Enspiral Foundation's discretion—the use of reserves.
 
