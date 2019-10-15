@@ -4,6 +4,7 @@ Guides explain in practical terms how we do stuff. Any Enspiral Contributor can 
 
 * [Activation Programme](guides/activation-programme.md) - our experiment for helping new people find their feet at Enspiral
 * [Air NZ Airpoints Program](guides/airnz.md) - Keep 100% of your air points AND give some to the collective!
+* [Assembly Sprint](guides/assembly-sprints.md) 
 * [Blogging](guides/blogging.md) - how to add a story to the [Enspiral Tales blog](http://medium.com/enspiral-tales)
 * [Conflict Resolution](guides/conflict-resolution.md) - resources for conflict resolution
 * [Comms Guidelines](guides/comms_guidelines.md) - how to know which tool to use for which kind of communication

@@ -13,9 +13,9 @@ These comms channels are hosted by the Enspiral Foundation and are open to all c
 
 **[Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) - Group Decisions**
 
-Our tool for decision making. The assumption is everyone will see everything.
+Our tool for decision making and thoughtful discussions. By default, assume the whole network will see everything.
 
-Posting on Loomio in the main Enspiral group sends a notification out to everyone (nearly 300 people around the world), and so should be used judiciously. Tends to get noisy if we over-use it.
+Posting on Loomio in the main Enspiral group won't necessarily _alert_ everyone, but if you invite the whole group to a thread or to vote on a poll, Loomio will notify everyone (sending emails to any of our 200 people around the world, if they haven't changed their settings,) and so should be used judiciously. Big announcements can make a lot of noise if we overuse them.
 
 Feel free to start subgroups on Loomio if you'd like a more targeted collaboration space with a subset of Enspiral people.
 
