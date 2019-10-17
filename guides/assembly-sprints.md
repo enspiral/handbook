@@ -1,6 +1,6 @@
 # Assembly Sprints
 
-[___This is a work in progress (WIP)___ / _placeholder that should give enough background until we edit it before the Nov. Assembly_]
+[___This is a work in progress (WIP),___ _a placeholder that should give enough background until we edit it before the Nov. Assembly_]
 
 ## What is an Assembly Sprint?
 
