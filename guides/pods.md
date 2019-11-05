@@ -69,7 +69,7 @@ If you don't have a regular time to meet, dedicating a few minutes at the end of
 
 ## List of Formats
 <details>
-   <summary><strong>,<a href="https://docs.google.com/document/d/1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs/edit">Care Pod</a></strong> - A format based on Intentional Change Theory <em>[click to expand]</em></summary>
+   <summary><strong><a href="https://docs.google.com/document/d/1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs/edit">Care Pod</a></strong> - A format based on Intentional Change Theory <em>[click to expand]</em></summary>
 <ul><li>Personal-professional development centered around Intentional Change Theory (ICT), a process for achieving sustained desired change in oneself alongside peers. ICT itself is a powerful pattern that can be approached in a variety of ways. Feel free to create some exercises or agendas from scratch or use the ones presented here. Four pods reported they had good experiences using the exercises outlined in this <a href="https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing">Format’s documentation</a>.</li></ul>
 </details>
 
