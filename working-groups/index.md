@@ -5,7 +5,6 @@
 Working groups ([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)):
 
 * [Catalysts](catalysts.md) (vibrant)
-* [Catalyst Support](catalyst-support.md) (vibrant)
 * [Gatherings](gatherings.md) (active)
 * [Enspiral Brand](brand_working_group.md) (active)
 * [Ambassadors](ambassadors.md) (hibernating)
@@ -20,7 +19,7 @@ Catalysts will keep an overview of all active working groups, and clear out the 
 
 Standard operating procedure for working groups:
 
-* have a **name**, e.g. "Financial Working Group"
+* have a **name**, e.g. "Assembly Sprint Working Group"
 * have a **scope**, e.g. "Take the Board's recommendations about Foundation finances and turn them into decisions."
 * **membership**: a named list of people who are in, plus a way for people to join, if appropriate
 * have a page in the **handbook** sharing this basic overview
