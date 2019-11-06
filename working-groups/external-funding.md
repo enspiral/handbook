@@ -1,4 +1,4 @@
-_[WG Status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing): Active_
+_[Status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing): Active_
 
 # MoneySwarm (a.k.a. External Funding)
 
