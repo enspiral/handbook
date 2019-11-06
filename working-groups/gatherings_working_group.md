@@ -20,10 +20,11 @@ Each gathering will typically have its own project group, _or "pod", in Enspiral
 
 ### Other Members
 
+* Nicolas Wormser (Winter Retreat 2019)
 * Lucia Die Gil (Summer Fest 2020, possibly Winter Retreat 2019)
 * Melina Chan (Summer Fest 2020)
+* Anna Watson (Summer Fest 2020)
 * Joshua Vial (Summer Fest 2020)
-* Gina Rembe (Summer Fest 2020)
 
 ### Get involved
 We are always open for input, be it feedback observations about things that could work better, or (constructive) gripes.
