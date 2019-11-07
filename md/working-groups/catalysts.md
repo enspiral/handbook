@@ -17,17 +17,15 @@ We try to take notes in all our meetings, and share them in the Slack channel [#
 
 ## What are we doing
 
-Sensing community needs, initiating responses, delegation in line with contributors development journey and their passions and wellbeing.
-
 ### Update 2019-11-06
 
-The below is still relatively accurate, but here's a quick-list of key Catalyst contributions
-- Retreats: not having them or burning out event planners/ hosts
-- Assembly Sprints: we've managed to easily pass 3 or 4 agreements and get a bunch of key collective work done over the last few 
-- Pods: our initial experiments are proving fruitful, new Contributors have called it "key" to their experience in joining us, and longer-timers have found it a lovely way to keep in contact, give back, etc.
-- Communications: Catalysts work to keep the network talking to each other. As is the nature of our network, we all can get consumed by our work. This can leave the network feeling a bit too quiet, cause worthwhile initiatives to be dropped, and make it more difficult for people to engage with the network at the level they want.
-- Working Groups: upkeep of documentation, support, and more.
-- Others: include external funding and storytelling efforts (eg, MoneySwarm, StoryDojo...)
+Here's a quick-list of key Catalyst contributions (the snapshot below further illustrates our work, in essence, if not exactly)
+- **Retreats:** sustaining this vital heartbeat via Winter and Summer Retreats (in a way that no longer burns people out)
+- **Assembly Sprints:** keeping momentum between events, these digital happenings have supported us to easily pass 3 or 4 agreements and get a bunch of key collective work done
+- **Pods:** our initial experiments are proving fruitful, new Contributors have called it "key" to their experience in joining us, and longer-timers have found it a lovely way to keep in contact, give back, etc.
+- **Communications:** Catalysts work to keep the network talking to each other. As is the nature of our network, we all can get consumed by our work. This can leave the network feeling a bit too quiet, cause worthwhile initiatives to be dropped, and make it more difficult for people to engage with the network at the level they want.
+- **Working Groups:** upkeep of documentation, support, and more.
+- _Others:_ include external funding and storytelling efforts (eg, MoneySwarm, StoryDojo...)
 
 ### Snapshot of john's priorities as of 12 October, 2018
 
@@ -43,5 +41,3 @@ The below is still relatively accurate, but here's a quick-list of key Catalyst 
 * We do things until we can delegate or automate them.
 * We maintain an overview of all the working groups in the network so we can help direct people's attention.
 * We act as theatre attendants, supporting people - new or returning - to find a place of meaningful contribution or benefit for them.
-
-*TODO: share example of working group formation, e.g. the stewardship project*
