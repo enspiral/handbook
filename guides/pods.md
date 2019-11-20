@@ -69,15 +69,15 @@ If you don't have a regular time to meet, dedicating a few minutes at the end of
 
 ## List of Formats
 <details>
-   <summary><strong><a href="https://docs.google.com/document/d/1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs/edit">Care Pod</a></strong> - A format based on Intentional Change Theory <em>[click to expand]</em></summary>
-<ul><li>Personal-professional development centered around Intentional Change Theory (ICT), a process for achieving sustained desired change in oneself alongside peers. ICT itself is a powerful pattern that can be approached in a variety of ways. Feel free to create some exercises or agendas from scratch or use the ones presented here. Four pods reported they had good experiences using the exercises outlined in this <a href="https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing">Format’s documentation</a>.</li></ul>
+   <summary><strong><a href="https://docs.google.com/document/d/1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs/edit" target=”_blank”>Care Pod</a></strong> - A format based on Intentional Change Theory <em>[click to expand]</em></summary>
+<ul><li>Personal-professional development centered around Intentional Change Theory (ICT), a process for achieving sustained desired change in oneself alongside peers. ICT itself is a powerful pattern that can be approached in a variety of ways. Feel free to create some exercises or agendas from scratch or use the ones presented here. Four pods reported they had good experiences using the exercises outlined in this <a href="https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing" target=”_blank”>Format’s documentation</a>.</li></ul>
 </details>
 
 <details>
-   <summary><strong><a href="https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing">Peer Incubator</a></strong> - Personal-professional development that is more project-oriented than the “Care Pod” format. <em>[click to expand]</em></summary>
-<ul><li>The documentation of <a href="https://drive.google.com/open?id=1Zr1R8g__xJNQhYKgnVJwCf9v0nDaaPn5K6o6MRy7XeA">how the very first one evolved</a> can give a picture of how to bring a pod together and evolve your own Format along with some starter material, prompts, and agendas.</li>
-<li>There are examples of <a href="https://drive.google.com/open?id=1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs">combining this Format with the exercises from Care Pod (ICT)</a>, and also a <a href="https://docs.google.com/document/d/1E0Bt0bSRpARKgMNRYWboIELbSTurfPMedHOWDYUCHIo/edit?usp=sharing">super simple, reusable agenda</a> that is just a combination of the Project Kitchen & Share-and-tell Rituals (see below).</li>
-<li>Find all the <a href="https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing">documentation about this format here</a>.</li></ul>
+   <summary><strong><a href="https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing" target=”_blank”>Peer Incubator</a></strong> - Personal-professional development that is more project-oriented than the “Care Pod” format. <em>[click to expand]</em></summary>
+<ul><li>The documentation of <a href="https://drive.google.com/open?id=1Zr1R8g__xJNQhYKgnVJwCf9v0nDaaPn5K6o6MRy7XeA" target=”_blank”>how the very first one evolved</a> can give a picture of how to bring a pod together and evolve your own Format along with some starter material, prompts, and agendas.</li>
+<li>There are examples of <a href="https://drive.google.com/open?id=1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs" target=”_blank”>combining this Format with the exercises from Care Pod (ICT)</a>, and also a <a href="https://docs.google.com/document/d/1E0Bt0bSRpARKgMNRYWboIELbSTurfPMedHOWDYUCHIo/edit?usp=sharing" target=”_blank”>super simple, reusable agenda</a> that is just a combination of the Project Kitchen & Share-and-tell Rituals (see below).</li>
+<li>Find all the <a href="https://drive.google.com/drive/folders/106sDS6JRDpS64Yp0tozzI2VNJyIF67vq?usp=sharing" target=”_blank”>documentation about this format here</a>.</li></ul>
 </details>
 
 <details>
@@ -104,15 +104,17 @@ If you don't have a regular time to meet, dedicating a few minutes at the end of
 </details>
 
 <details><summary><strong>Project Kitchens</strong> - A practical, project-oriented exercise. <em>[click to expand]</em></summary>
-<ul><li>This exercise will help small groups build collective intelligence by giving mutual support to their projects; <a href="/guides/project_kitchen.html">see here</a></li></ul></details>
+<ul><li>This exercise will help small groups build collective intelligence by giving mutual support to their projects; <a href="/guides/project_kitchen.html" target=”_blank”>see here</a></li></ul></details>
 
 <details><summary><strong>Case Clinic</strong> - From Theory U <em>[click to expand]</em></summary>
-<ul><li>Similar to the Project Kitchen with some different nuances and perhaps a broader scope (but each can be modified in length or content to suit your pod). Case Clinic is best suited to groups with a stronger focus on personal-professional development; <a href="https://www.collaboratiohelvetica.ch/blog/2017/11/20/mmrb05mfc3nlnxfqw2r9pcq26ietjp">see here</a>.</li></ul>
+<ul><li>Similar to the Project Kitchen with some different nuances and perhaps a broader scope (but each can be modified in length or content to suit your pod). Case Clinic is best suited to groups with a stronger focus on personal-professional development; <a href="https://www.collaboratiohelvetica.ch/blog/2017/11/20/mmrb05mfc3nlnxfqw2r9pcq26ietjp" target=”_blank”>see here</a>.</li></ul>
 </details>
 
 <details><summary><strong>Retrospective</strong> - Reflecting, periodically, for continuous improvement <em>[click to expand]</em></summary>
-<ul><li><a href="https://www.atlassian.com/team-playbook/plays/retrospective">This simple Retro format</a> covers the very basics. You can find a variety of options in this <a href="http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki">directory of retro formats</a> (including the <a href="http://retrospectivewiki.org/index.php?title=Four_L%27s_Retrospective">4 L’s</a>)</li></ul>
+<ul><li><a href="https://www.atlassian.com/team-playbook/plays/retrospective" target=”_blank”>This simple Retro format</a> covers the very basics. You can find a variety of options in this <a href="http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki" target=”_blank”>directory of retro formats</a> (including the <a href="http://retrospectivewiki.org/index.php?title=Four_L%27s_Retrospective">4 L’s</a>)</li></ul>
 </details>
+
+**A few other basic rituals,** such as check ins (one of the most used!) can be found in our handy guide, [Workshop patterns](https://handbook.enspiral.com/guides/workshop_patterns.html).
 
 ### Rituals for initiating
 
@@ -136,5 +138,5 @@ If you don't have a regular time to meet, dedicating a few minutes at the end of
 
 <details>
   <summary><strong>Survey of Interest</strong> - Find alignment and participants <em>[click to expand]</em></summary>
-<ul><li>One way to easily gather the ideal mix of participants is to do a survey. This can also help a group to find or strengthen its shared intention or to choose rituals/ format. You can take advantage of this template survey of interest which can help your pod illuminate its shared intention; you might include this in your invitation to track who is saying yes.</li></ul>
+<ul><li>One way to easily gather the ideal mix of participants is to do a survey. This can also help a group to find or strengthen its shared intention or to choose rituals/ format. You can take advantage of <a target=”_blank” href="http://tiny.cc/peerincubator">this template survey</a> of interest which can help your pod illuminate its shared intention; you might include this in your invitation to track who is saying yes.</li></ul>
 </details>
