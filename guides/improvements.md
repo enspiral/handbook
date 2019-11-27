@@ -11,7 +11,7 @@ All Enspiral people can view the [Improvements board](https://trello.com/b/btHeb
 
 Here's what it looks like:
 
-![Improvements board screenshot](https://i.imgur.com/GewBNaQ.png)
+![Improvements board screenshot](/images/trello.png)
 
 Here's what's going on:
 
