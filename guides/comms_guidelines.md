@@ -6,8 +6,6 @@ These comms channels are hosted by the Enspiral Foundation and are open to all c
 
 [![Map of our comms tools](https://i.imgur.com/GaC40ja.png)](https://kumu.io/enspiral/comms)
 
-[Explore an interactive map of our comms tools](https://kumu.io/enspiral/comms), or read on:
-
 # Comms Platforms and Tools
 
 
@@ -19,9 +17,9 @@ Posting on Loomio in the main Enspiral group won't necessarily _alert_ everyone,
 
 Feel free to start subgroups on Loomio if you'd like a more targeted collaboration space with a subset of Enspiral people.
 
-**[Github](https://github.com/enspiral/improvements/issues) or [Waffle](https://waffle.io/enspiral/improvements) -General Discussion**
+**[Improvements](/guides/improvements.md) - Task management**
 
-The issues list and the waffle board are different views to the same information. Posting and commenting on one will show up in the other. If you sense something could be improved or have a topic that you feel needs discussing but won't lead to a group decision in the short term start a discussion here.
+The Improvements board is a place to see work in progress. We will occasionally have small conversations there about specific tasks, but it is not a place for important discussion that need the input of many people.
 
 **[Slack](http://enspiral.slack.com) - Daily Realtime Comms**
 
@@ -33,6 +31,7 @@ Here's a list of popular Slack Channels:
 * Dev-Chat - For talk about programming stuff
 * Enspiral_Help - How do I enspiral?
 * Enspiral-News - A channel to add in any links or news you would like to have shared in the next issue of Enspiral news. If there is important or useful context you would like included, please drop that in as well
+* Europe - Chat with the growing number of Enspiral people based in Europe, share links to events, etc.
 * Enstagram - Like Enspiral-Instragam: a place we can share snapshots from daily life so it feels like we are hanging out together even when we’re all over the world!
 * Music
 * Network map - Network Map Here: [https://kumu.io/enspiral/enspiral](https://kumu.io/enspiral/enspiral) [Documentation here](https://docs.google.com/document/d/1p7pQDsr1KbEaOE5Zv5i1NsVpazPBLe8iLjYCRcBRIE4/edit#heading=h.b2negpxbz2ky)
