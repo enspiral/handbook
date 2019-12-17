@@ -12,10 +12,6 @@ The first one we use is **Github**: it's a hosting service for Git repositories.
 
 **Gitbooks** is another service we use: it turns all the files you see on [github.com/enspiral/handbook](http://github.com/enspiral/handbook) into the nice browsable, searchable, portable package you can see at [handbook.enspiral.com](http://handbook.enspiral.com).
 
-Another Git-based service we use is Waffle, which is like a [kanban board](https://en.wikipedia.org/wiki/Kanban_board) for Github issues.
-
-Everything we're doing to improve Enspiral is tracked in public through the [Improvements system](improvements.html) which you can see at [improvements.enspiral.com](http://improvements.enspiral.com). That's a Waffle board, automagically built from the issues list on [github.com/enspiral/improvements/issues](http://github.com/enspiral/improvements/issues)
-
 ## Git lingo: issues, repos, pull requests, and merging
 
 **Repo** is short for **repository**: in Git, all the files for a project live in a repo.
