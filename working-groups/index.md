@@ -1,6 +1,6 @@
 # Working groups
 
-*Warning: this is experimental territory. Expect it to be updated frequently.*
+*Warning: this is experimental territory. Expect it to be updated soon.*
 
 Working groups ([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)):
 
