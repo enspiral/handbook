@@ -10,4 +10,4 @@ Members: Kate Beecroft
 
 On slack: #moneyswarm
 
-{% include 'contributing_hint.md' %}
+{% include '../contributing_hint.md' %}

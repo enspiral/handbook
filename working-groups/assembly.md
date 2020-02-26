@@ -10,4 +10,4 @@ Members: Charley Davenport, Joriam Philipe
 
 On slack: #wg-assembly-sprints
 
-{% include 'contributing_hint.md' %}
+{% include '../contributing_hint.md' %}
