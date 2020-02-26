@@ -1235,7 +1235,33 @@ If you don&apos;t have an account <a href="https://github.com/join?source=header
 <p>Handbook maintainers aim to merge pull requests within 1-2 days. As a general guideline a maintainer does not merge in their own branches or pull requests. If they cannot get hold of another maintainer they may merge their own branches.</p>
 <p>To improve communications and understanding, its useful for your proposed changes to reference an <a href="https://github.com/enspiral/improvements/issues" target="_blank">underlying issue</a> that your changes aim to solve.</p>
 <p>If you want to become a maintainer ask @joshuavial to give to maintainer rights.</p>
-<h2 id="improvements-and-disagreements">Improvements and Disagreements</h2>
+<h3 id="code-to-sync-github-and-gitbooks">Code to sync github and gitbooks</h3>
+<pre><code>## prereqs
+rsync
+python3
+git
+gitbook-cli
+&#x200B;
+in the md/ folder, run gitbook install
+&#x200B;
+## Test
+./serve.sh
+http://localhost:8000/
+&#x200B;
+&#x200B;git fetch origin
+git checkout gh-pages
+git merge master
+./build.sh
+
+## if you need better error messages, try gitbook build .
+
+git add .
+git commit -m &quot;whatevers happened&quot;
+git push origin gh-pages
+
+## if you need to make edits, do this on another branch.
+## just use gh-pages to build the html version of the book
+</code></pre><h2 id="improvements-and-disagreements">Improvements and Disagreements</h2>
 <p>If you think the content in the handbook is inaccurate or could be improved follow the process above to submit your own changes. The contribution process may reveal differences of opinion. In these cases, try to understand each others perspective. Consider starting a Loomio discussion to find agreement.</p>
 <h2 id="the-gitbooks-method">The Gitbooks Method</h2>
 <p>You can also edit the handbook using the <a href="https://www.gitbook.com/editor" target="_blank">Gitbooks Editor</a>. If you know how to do that, why don&apos;t you go ahead and update this page to explain it to someone else :)</p>
@@ -1292,7 +1318,7 @@ If you don&apos;t have an account <a href="https://github.com/join?source=header
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Contributing to the Handbook","level":"1.3.8","depth":2,"next":{"title":"Content dusting","level":"1.3.9","depth":2,"path":"guides/content-dusting.md","ref":"guides/content-dusting.md","articles":[]},"previous":{"title":"Comms Guidelines","level":"1.3.7","depth":2,"path":"guides/comms_guidelines.md","ref":"guides/comms_guidelines.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{"org":"Enspiral","legalOrg":"Enspiral Foundation ltd"},"plugins":["collapsible-menu","video","ga"],"pluginsConfig":{"collapsible-menu":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-1616271-11"},"video":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css"}},"file":{"path":"guides/contributing.md","mtime":"2020-02-26T09:39:33.176Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-02-26T09:39:52.552Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Contributing to the Handbook","level":"1.3.8","depth":2,"next":{"title":"Content dusting","level":"1.3.9","depth":2,"path":"guides/content-dusting.md","ref":"guides/content-dusting.md","articles":[]},"previous":{"title":"Comms Guidelines","level":"1.3.7","depth":2,"path":"guides/comms_guidelines.md","ref":"guides/comms_guidelines.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{"org":"Enspiral","legalOrg":"Enspiral Foundation ltd"},"plugins":["collapsible-menu","video","ga"],"pluginsConfig":{"collapsible-menu":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-1616271-11"},"video":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css"}},"file":{"path":"guides/contributing.md","mtime":"2020-02-26T09:53:23.891Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-02-26T09:53:34.235Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
