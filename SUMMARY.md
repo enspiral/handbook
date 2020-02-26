@@ -41,7 +41,6 @@
   * [Retreats\*](guides/retreats.md)
   * [Songs](guides/songs.md)
   * [Stewarding](guides/stewarding.md)
-  * [Working Groups](guides/working_groups.md)
   * [Workshop Patterns](guides/workshop_patterns.md)
 * [Working Groups](working-groups/index.md)
   * [Ambassadors](working-groups/ambassadors.md)
