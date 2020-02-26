@@ -10,4 +10,4 @@ Members: Natalie Sisson, Alina Manko
 
 On slack: #wg-comms
 
-{% include 'contributing_hint.md' %}
+{% include '../contributing_hint.md' %}

@@ -8,4 +8,4 @@ Lead: Fran Pick
 
 On slack at #wg-collaborative-funding
 
-{% include 'contributing_hint.md' %}
+{% include '../contributing_hint.md' %}
