@@ -62,6 +62,36 @@ To improve communications and understanding, its useful for your proposed change
 
 If you want to become a maintainer ask @joshuavial to give to maintainer rights.
 
+### Code to sync github and gitbooks
+
+```
+## prereqs
+rsync
+python3
+git
+gitbook-cli
+​
+in the md/ folder, run gitbook install
+​
+## Test
+./serve.sh
+http://localhost:8000/
+​
+​git fetch origin
+git checkout gh-pages
+git merge master
+./build.sh
+
+## if you need better error messages, try gitbook build .
+
+git add .
+git commit -m "whatevers happened"
+git push origin gh-pages
+
+## if you need to make edits, do this on another branch.
+## just use gh-pages to build the html version of the book
+
+```
 ## Improvements and Disagreements
 
 If you think the content in the handbook is inaccurate or could be improved follow the process above to submit your own changes. The contribution process may reveal differences of opinion. In these cases, try to understand each others perspective. Consider starting a Loomio discussion to find agreement.
