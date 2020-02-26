@@ -69,7 +69,7 @@ If you don't have a regular time to meet, dedicating a few minutes at the end of
 
 ## List of Formats
 <details>
-   <summary><strong><a href="https://docs.google.com/document/d/1ZSa-CL21vKCHp2FVJMkDy7nZLSb0PGBcXu1rFl8AwZs/edit" target=”_blank”>Care Pod</a></strong> - A format based on Intentional Change Theory <em>[click to expand]</em></summary>
+   <summary><strong><a href="https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing" target=”_blank”>Care Pod</a></strong> - A format based on Intentional Change Theory <em>[click to expand]</em></summary>
 <ul><li>Personal-professional development centered around Intentional Change Theory (ICT), a process for achieving sustained desired change in oneself alongside peers. ICT itself is a powerful pattern that can be approached in a variety of ways. Feel free to create some exercises or agendas from scratch or use the ones presented here. Four pods reported they had good experiences using the exercises outlined in this <a href="https://docs.google.com/document/d/1IUXBpZJas2MRNlrKDu4KBivZjBw67RQ9o7accovv4fU/edit?usp=sharing" target=”_blank”>Format’s documentation</a>.</li></ul>
 </details>
 
@@ -88,8 +88,26 @@ If you don't have a regular time to meet, dedicating a few minutes at the end of
 
 ## List of Rituals
 
+<details><summary><strong>Project Kitchens</strong> - A practical, project-oriented exercise. <em>[click to expand]</em></summary>
+<ul><li>This exercise will help small groups build collective intelligence by giving mutual support to their projects; <a href="/guides/project_kitchen.html" target=”_blank”>see here</a></li></ul></details>
+
+<details><summary><strong>Case Clinic</strong> - From Theory U <em>[click to expand]</em></summary>
+<ul><li>Similar to the Project Kitchen with some different nuances and perhaps a broader scope (but each can be modified in length or content to suit your pod). Case Clinic is best suited to groups with a stronger focus on personal-professional development; <a href="https://www.collaboratiohelvetica.ch/blog/2017/11/20/mmrb05mfc3nlnxfqw2r9pcq26ietjp" target=”_blank”>see here</a>.</li></ul>
+</details>
+
 <details>
-  <summary><strong>Presence in silence</strong> - Hold a moment of silence at the beginning of a call <em>[click to expand]</em></summary> 
+  <summary><strong><a href="https://docs.google.com/document/d/1j-PBG42a54bTrpI9dlF0BxAq55FcFTS8sgibEkKOCxk/edit#" target="_blank">Peer Action Learning</a></strong> - These sessions can be simply defined as ‘learning by… <em>[click to expand]</em></summary> sharing real challenges with others.’
+<ul><li>These sessions can be simply defined as ‘learning by sharing real challenges with others.’ This process allows participants to address real and immediate challenges they face… <a href="https://docs.google.com/document/d/1j-PBG42a54bTrpI9dlF0BxAq55FcFTS8sgibEkKOCxk/edit#" target="_blank">Learn to run Peer Action Learning (click here)</a>.</li></ul>
+</details>
+
+<details>
+  <summary><strong>Music and movement (opening)</strong> - Connect with the body, tunefully, to get started <em>[click to expand]</em></summary> 
+<ul><li>One person chooses some music, hits play, and people 🎵 "do a little dance…" 🎵 for a few minutes to get present, allowing the group to better get started together.
+</li></ul>
+</details>
+
+<details>
+  <summary><strong>Presence in silence (opening)</strong> - Hold a moment of silence at the beginning of a call <em>[click to expand]</em></summary> 
 <ul><li>Life can be hectic and participant may have rushed into the call with stress and other thoughts in mind. Keeping silent for a few minutes (even just 1) can help ground everyone into the moment and improve the capacity of immediacy of the participants.</li></ul>
 </details>
 
@@ -101,13 +119,6 @@ If you don't have a regular time to meet, dedicating a few minutes at the end of
 <details>
   <summary><strong>Share and tell</strong> - Share stuff you’re proud of (or fascinated with) and dialogue <em>[click to expand]</em></summary>
 <ul><li>This is an invitation for folks to first and foremost share something they’ve produced or they’re proud of, and then (if not that) secondarily anything that’s inspired them, that fascinates them, or may support insights for (members of) the group or good dialogue.</li></ul>
-</details>
-
-<details><summary><strong>Project Kitchens</strong> - A practical, project-oriented exercise. <em>[click to expand]</em></summary>
-<ul><li>This exercise will help small groups build collective intelligence by giving mutual support to their projects; <a href="/guides/project_kitchen.html" target=”_blank”>see here</a></li></ul></details>
-
-<details><summary><strong>Case Clinic</strong> - From Theory U <em>[click to expand]</em></summary>
-<ul><li>Similar to the Project Kitchen with some different nuances and perhaps a broader scope (but each can be modified in length or content to suit your pod). Case Clinic is best suited to groups with a stronger focus on personal-professional development; <a href="https://www.collaboratiohelvetica.ch/blog/2017/11/20/mmrb05mfc3nlnxfqw2r9pcq26ietjp" target=”_blank”>see here</a>.</li></ul>
 </details>
 
 <details><summary><strong>Retrospective</strong> - Reflecting, periodically, for continuous improvement <em>[click to expand]</em></summary>
