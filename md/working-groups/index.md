@@ -1,6 +1,6 @@
 # Working groups
 
-*Warning: this is experimental territory. Expect it to be updated frequently.*
+Working groups are governed by the [Working Groups Agreement](/agreements/working_groups.md).
 
 Working groups ([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)):
 
@@ -27,7 +27,7 @@ Standard operating procedure for working groups:
 * a **Slack channel** using the `wg-` naming convention, e.g. #wg-financial (and optionally, a private Slack channel #wg-financial-private). The #wg-all channel is a place to connect with all people active in working groups.
 * **reporting**: post updates in the public Slack channel and in the newsletter
 * involve people in **decisions** on Loomio. (Tagging Loomio threads with the `wg-` label will make them easier to find.)
-* **task tracking**: we use the Improvements board for task tracking. Read the [Improvements Guide](../guides/improvements.md) and talk to Rich if you'd like hands-on support. E.g. [here are the tickets](https://waffle.io/enspiral/improvements?label=wg-financial) for the Financial Working Group (labeled wg-financial).
+* **task tracking**: we use the Improvements board for task tracking. Read the [Improvements Guide](/guides/improvements.md) and talk to the Catalysts if you'd like hands-on support.
 * **rhythm**: align to the two-weekly sprint rhythm set by the Catalysts (e.g, sprint 15 starts on Monday Oct 31.) The sprint rhythm corresponds to the "milestones" on the Improvements board. All active tasks on the Improvements board have a Milestone, i.e. which sprint to we expect to finish the work. 
 
 You can take as much of this structure as is useful!

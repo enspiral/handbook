@@ -1,5 +1,3 @@
-The MVB guide is currently going through the advice process.
-
 # Enspiral Foundation Board Meeting Guide
 
 This is a guide to how Foundation Board Meetings are currently operating within Enspiral.
@@ -34,7 +32,7 @@ As the current board we have collectively defined some roles within the board to
 
 * WG Reporter - Anthony Cabraal
 
-* Fishbowl Coordinator - Robert Guthrie
+* Fishbowl Coordinator - Not Appointed
 
 * Observer - You?
 
