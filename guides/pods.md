@@ -151,3 +151,9 @@ If you don't have a regular time to meet, dedicating a few minutes at the end of
   <summary><strong>Survey of Interest</strong> - Find alignment and participants <em>[click to expand]</em></summary>
 <ul><li>One way to easily gather the ideal mix of participants is to do a survey. This can also help a group to find or strengthen its shared intention or to choose rituals/ format. You can take advantage of <a target=”_blank” href="http://tiny.cc/peerincubator">this template survey</a> of interest which can help your pod illuminate its shared intention; you might include this in your invitation to track who is saying yes.</li></ul>
 </details>
+
+## Additional resources
+
+🔊 Listen to Nati Lombardo and john gieryn [share their experiences and explain further](https://www.microsolidarity.cc/discussing/enspiral-summer-retreat-feb-2019) the ideas in this guide (you might also like this [update 6 months later](https://anchor.fm/Microsolidarity/episodes/Nati-and-john-talking-about-pods-at-Enspiral-e9giqj))
+
+📜 Find additional formats and rituals [on the Microsolidarity site](https://www.microsolidarity.cc/crewing).
