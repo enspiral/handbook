@@ -1,14 +1,14 @@
 # Stewarding
 
-Since the adoption of the [stewardship agreement](/agreements/stewardship.md), we're in a process to give stewards to all members, new contributors, and anyone else who wants one.
+Since the adoption of the [stewardship agreement](../agreements/stewardship.md), we're in a process to give stewards to all members, new contributors, and anyone else who wants one.
 
 As this process gets underway, the intention is to update this guide with what we learn about processes and guidelines.
 
 ## Stewarding circle
 
-We've offered to kickstart stewarding relationships for all active Contributors ([discussion here](https://www.loomio.org/d/txvesKRb/)):
+We've offered to kickstart stewarding relationships for all active Contributors \([discussion here](https://www.loomio.org/d/txvesKRb/)\):
 
-[![](/images/steward-chart-sept-2016.png)](images/steward-chart-sept-2016.png)
+[![](../.gitbook/assets/steward-chart-sept-2016.png)](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/images/steward-chart-sept-2016.png)
 
 ## Resources
 
@@ -20,4 +20,3 @@ The [stewarding system within Loomio](https://loomio.gitbooks.io/loomio-cooperat
 
 Matchmaking happens in batches roughly once a year; if you're keen to jump in at this moment, though, you may be able to get connected with a steward if you ask in the [Stewarding slack channel](https://enspiral.slack.com/messages/C6649VCKF/details/).
 
-{% include 'contributing_hint.md' %}

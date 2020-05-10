@@ -1,26 +1,30 @@
-# Agreement: Working Groups
+# Working Groups Agreement
 
-[*Approved: April 2019*](https://www.loomio.org/p/vksIn6z0/we-approve-the-working-group-agreement)
+[_Approved: April 2019_](https://www.loomio.org/p/vksIn6z0/we-approve-the-working-group-agreement)
 
 Working groups are the way we build and maintain Enspiral, if Enspiral were a body, working groups would be the organs.
 
 ## Types of Working Groups
+
 There are three types of working groups: informal, formal and financially enabled.
 
-### Informal 
+### Informal
+
 An informal working group is the easiest to start, it requires no approval and only needs at least two members to qualify as a working group.
 
 * Any two people can start an informal working group for any purpose they define.
 * It can be for a short lived project or long term mission.
 * The working group can set its own rules for who can join.
 
-### Formal 
+### Formal
+
 A formal working group is a more robust working group with additional powers and responsibilities.
 
 * Catalyst approval is required to create a formal working group.
 * Only formal working groups can be delegated responsibilities or powers in an Agreement.
 
-### Financial Enabled 
+### Financial Enabled
+
 A financially enabled working group is able to use the Enspiral Foundation Ltd as a financial and legal platform. They can use the company to receive, spend and hold money and enter into legal contracts.
 
 * Board approval is required to create a financially enabled working group.
@@ -33,6 +37,7 @@ A financially enabled working group is able to use the Enspiral Foundation Ltd a
 Be awesome, look after your members, do good work, have fun, clean up after yourselves.
 
 ### Formal Working Group
+
 Responsibilities and powers as delegated by agreement.
 
 ### Financially Enabled Working Group
@@ -49,12 +54,12 @@ Responsibilities and powers as delegated by agreement.
 
 **Powers**
 
-* Enter into (pre-approved) legal contracts on behalf of the Enspiral Foundation.
+* Enter into \(pre-approved\) legal contracts on behalf of the Enspiral Foundation.
 * Receive funds from collaborative funding processes directly to its business unit.
 
 ### Catalysts
 
-Catalysts are the friendly gatekeeper for formalizing a working group. 
+Catalysts are the friendly gatekeeper for formalizing a working group.
 
 **Responsibilities**
 
@@ -72,7 +77,7 @@ Catalysts are the friendly gatekeeper for formalizing a working group.
 
 ### Board
 
-The board is the friendly gatekeeper for financially enabled working groups. 
+The board is the friendly gatekeeper for financially enabled working groups.
 
 **Responsibilities**
 
@@ -84,9 +89,7 @@ The board is the friendly gatekeeper for financially enabled working groups.
 **Powers**
 
 * Approve / reject requests to become a financially enabled working group.
-* Disband a financially enabled working group and appoint someone(s) to unwind the business unit.
+* Disband a financially enabled working group and appoint someone\(s\) to unwind the business unit.
 
-
-For more information about working groups, check out [this guide](/guides/working_groups.md).
-
+For more information about working groups, check out [this guide](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/working_groups.md).
 

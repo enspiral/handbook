@@ -1,4 +1,4 @@
-# Agreement: Stewardship
+# Stewardship Agreement
 
 Stewardship agreement:
 
@@ -10,4 +10,5 @@ Your steward looks after your relationship with the group, your one guaranteed p
 
 [Loomio thread for this agreement](https://www.loomio.org/d/RIMCfuaT/).
 
-For information about how we implement this agreement, check the [stewarding guide](/guides/stewarding.md).
+For information about how we implement this agreement, check the [stewarding guide](../guides/stewarding.md).
+

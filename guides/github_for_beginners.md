@@ -1,6 +1,6 @@
-# Git for Beginners
+# Github for Beginners
 
-*Psst, if you like video, scroll to the bottom for an awesome video intro series from Gabby, featuring onesies!* 😺
+_Psst, if you like video, scroll to the bottom for an awesome video intro series from Gabby, featuring onesies!_ 😺
 
 ## Why Git?
 
@@ -24,7 +24,7 @@ In git lingo, the proposal is a **pull request** and it is accepted by **merging
 
 ## Put your new Git skills to good use
 
-Now that you have some Git skills, why don't you try [proposing a change to this handbook](/#contributing-to-the-handbook), or [suggesting a new issue on the Improvements board](improvements.html)
+Now that you have some Git skills, why don't you try [proposing a change to this handbook](../#contributing-to-the-handbook), or [suggesting a new issue on the Improvements board](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/improvements.html)
 
 If you have any questions that aren't answered by this guide, you can ask them by [creating a new issue](https://github.com/enspiral/handbook/issues/new).
 
@@ -34,32 +34,13 @@ Gabby made these excellent videos introducing Github for beginners. Some of the 
 
 ### What is Github and Why use it for org documentation?
 
-<div class="video-wrapper">
-  <iframe src="https://player.vimeo.com/video/148974050?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
 ### Visiting the repo
-
-<div class="video-wrapper">
-  <iframe src="https://player.vimeo.com/video/148974051?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
 
 ### Posting issues
 
-<div class="video-wrapper">
-  <iframe src="https://player.vimeo.com/video/148974049?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
 ### Practice now:
-
-<div class="video-wrapper">
-  <iframe src="https://player.vimeo.com/video/148974048?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
 
 And a place to practice your new Github skills:
 
-https://github.com/fractalcactus/anEnspiralStory
-
-{% include 'contributing_hint.md' %}
+[https://github.com/fractalcactus/anEnspiralStory](https://github.com/fractalcactus/anEnspiralStory)
 

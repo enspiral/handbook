@@ -1,8 +1,10 @@
-# Email accounts guide
+# Email accounts
+
 This guide covers instructions for Enspiral email's, account security, Google groups and Google Drive
 
 ## Email
-To request an account (if you don't meet the requirements in the [Email accounts agreement](agreements/email_accounts_agreement.md), contact the Catalysts), or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses)
+
+To request an account \(if you don't meet the requirements in the [Email accounts agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/agreements/email_accounts_agreement.md), contact the Catalysts\), or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses)
 
 ### What you need to know
 
@@ -11,11 +13,12 @@ To request an account (if you don't meet the requirements in the [Email accounts
 * If you need an account to work for an Enspiral venture, that venture will organise it for you.
 
 ### Account security
+
 Ops HIGHLY recommends you keep your account as secure as possible. A few small tweaks will reduce the chance your identity is stolen. Here's some suggestions:
 
-* <b>Use a long password</b>. Getting Chrome to remember it is better than nothing (we use 1password and lastpass).
+* **Use a long password**. Getting Chrome to remember it is better than nothing \(we use 1password and lastpass\).
 * Setup 2-step authentication. Seriously, it's not worth the risks of not doing it. Do Google's security check up [here](https://myaccount.google.com/). Ideally do everything on that page but at the very least setup 2-step and some backup codes in case you get locked out. It'll only ask you for a code every 30 days either via text or the google authenticator app. Use the app if you'll be travelling overseas.
-* Next level security is to buy a Yubico key and use that instead of phone or google authenticator. It is more convenient (if you have keys with you) and is far more secure.
+* Next level security is to buy a Yubico key and use that instead of phone or google authenticator. It is more convenient \(if you have keys with you\) and is far more secure.
 * Make sure your software is up-to-date
 * School up on what phishing is and how to avoid it. There are some really great looking fake gmail login pages out there that will suck up your login details and you won't have a clue you've been hacked, until it's too late. [Read this](https://www.tracesecurity.com/blog/social-engineering-red-flags)
 
@@ -49,7 +52,6 @@ You can setup a group in the Enspiral domain or outside it.
 * A group can have many members and they can all control whether they receive the emails that are sent to the group.
 * If you want to forward the emails to a particular tool, you can add the tools generic email address as a member of the group. You could also adjust everyone's email settings so they don't receive the emails if it was only for email forwarding.
 
-
 ### Using Groups for Google Drive permissions
 
 * If you share a Google Drive folder with a group, everyone in that group will have access to the folder.
@@ -65,5 +67,3 @@ You can setup a group in the Enspiral domain or outside it.
 * You can change the permissions on any individual document you create.
 * PLEASE DO THIS: When you're sharing with anyone in Enspiral, please make sure the permissions are correct! "Anyone at Enspiral can find and edit" only allows people with Enspiral email accounts to edit the document. If you want to share it with everyone, ideally place it in an Enspiral folder which should inherit the correct permissions. To be sure, scroll through who the document has been shared with, it should include "Foundation Contributors" Google group. You don't need to individually add everyone if that group is there.
 
-
-{% include 'contributing_hint.md' %}

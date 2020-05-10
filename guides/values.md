@@ -34,4 +34,3 @@ In order for us to realise the benefits of distributed power and diverse viewpoi
 
 We love autonomy and self-determination, but we can add more value working together than on our own. If someone in their hearts is a lone wolf and doesn’t think we can build something better by working together, then membership of this collective is not for them.
 
-{% include 'contributing_hint.md' %}

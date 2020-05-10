@@ -1,4 +1,4 @@
-# Blogging at Enspiral
+# Blogging
 
 ![](https://i.imgur.com/ZZO5vsM.png)
 
@@ -6,10 +6,10 @@ During the original Catalyst experiment, Gina started [Enspiral Tales](https://m
 
 Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This is a bucket of money that anyone in the network can contribute to. Rich arbitrarily hands out money to people for writing, editing and illustrating blog posts.
 
-*At 01/08/17, there is $2,000 in [the bucket](http://cobudget.co/#/buckets/1483) - so get writing, get paid :)*
-
+_At 01/08/17, there is $2,000 in_ [_the bucket_](http://cobudget.co/#/buckets/1483) _- so get writing, get paid :\)_
 
 ## Content
+
 The content is diverse. We don’t need to have a strong editorial opinion about what kind of content to publish, as the internet decides what is interesting. Here’s some of the kinds of posts that seem to do well.
 
 **Decentralised Leadership**
@@ -30,19 +30,17 @@ Then again some people share more practical lessons like Mix Irving’s [Teachin
 
 **Reflecting on events**
 
-Blogging is a great way to digest events, e.g. Richard D. Bartlett’s [epic summary of the Democratic Cities conference in Madrid](https://medium.com/enspiral-tales/commons-technology-and-the-right-to-a-democratic-city-9dce13043f5b#.8x8e3csnm), Silvia Zuur’s [review of Bioneers](https://medium.com/enspiral-tales/bioneers-da7d47638dde#.qgjo8h5we), Tracey Ambrose’s [review of OuiShare Fest](https://medium.com/enspiral-tales/how-a-conference-i-thought-irrelevant-became-a-compass-for-my-future-a8afd5b609e3#.l2hf00bjz), Alina Seigfried’s piece about [Michel Bauwens’ visit to Wellington](https://medium.com/enspiral-tales/rise-of-the-commons-fundamentals-of-p2p-economies-f737e6d8adfc#.e9phr3pbq), and Derek Razo’s [schemes after POC21 as the event morphed into a community](https://medium.com/enspiral-tales/beyond-poc21-from-a-moment-to-a-movement-46ae0177276c#.cu5jz138y). 
+Blogging is a great way to digest events, e.g. Richard D. Bartlett’s [epic summary of the Democratic Cities conference in Madrid](https://medium.com/enspiral-tales/commons-technology-and-the-right-to-a-democratic-city-9dce13043f5b#.8x8e3csnm), Silvia Zuur’s [review of Bioneers](https://medium.com/enspiral-tales/bioneers-da7d47638dde#.qgjo8h5we), Tracey Ambrose’s [review of OuiShare Fest](https://medium.com/enspiral-tales/how-a-conference-i-thought-irrelevant-became-a-compass-for-my-future-a8afd5b609e3#.l2hf00bjz), Alina Seigfried’s piece about [Michel Bauwens’ visit to Wellington](https://medium.com/enspiral-tales/rise-of-the-commons-fundamentals-of-p2p-economies-f737e6d8adfc#.e9phr3pbq), and Derek Razo’s [schemes after POC21 as the event morphed into a community](https://medium.com/enspiral-tales/beyond-poc21-from-a-moment-to-a-movement-46ae0177276c#.cu5jz138y).
 
 Events are easy to write about, and they tend to get a good level of attention because you can share them on the event hashtag. Event participants are often eager to read the reflections of other attendees.
 
-
 ## Editing
 
-There’s no formal editorial system in place. 
+There’s no formal editorial system in place.
 
 Anyone can write a piece on Medium and submit it to the publication for review. Technically, Rich, Alanna, Chloe, Derek, Seb and Gina have “editor” permissions so can approve or edit any submitted post. If you want your name on this list, talk to Rich.
 
 Practically, Rich has the strongest editorial oversight - chat with him if you’re thinking of a post but not sure if it fits, or want any kind of encouragement. If you don’t know where to start, this short story about [writing the minimum viable post](https://medium.com/@richdecibels/rich-s-general-theory-of-blogging-aa2cb502fbc#.jihqiqa33) might help. He’s currently operating on the principle that more contributors is good: let’s all get in the habit of sharing our lessons in public! Right now he's particularly interested in sharing stories about the challenges and tensions of working in this way, but you might be interested in something completely different and that is cool too.
-
 
 ## Licensing and syndication
 
@@ -52,24 +50,19 @@ If you choose a license that allows people to share your work, it can get repost
 
 If you want to make it easier on the editors of those publications, it’s helpful to publish a raw Markdown or Html version of your post somewhere. For example, see how Rich did that at the very end of [this post](https://medium.com/@richdecibels/occupiers-from-tunisia-spain-new-zealand-taiwan-and-france-compare-notes-5c6cc6d3afd3#.5ufyt410n).
 
-
 ## Impact
+
 The results have been great: about 40 people have written stories, growing the publication to 2800 followers, getting about 5-10k hits in a month. Here's a summary of our all-time views:
 
 ![](https://i.imgur.com/u1dpv3D.png)
 
-And our most popular stories to date (updated Jan '19):
+And our most popular stories to date \(updated Jan '19\):
 
 ![](https://i.imgur.com/tJUTTUS.png)
 
----
-
 ## Resources
 
-- [Unsplash](https://unsplash.com/): free high resolution photos
-
----
-
+* [Unsplash](https://unsplash.com/): free high resolution photos
 
 ## Post script from Rich about Medium vs. free software
 
@@ -81,7 +74,6 @@ In my opinion, Medium has a couple of huge benefits compared to any other tool I
 
 I've found it to be orders of magnitude easier to recruit people to write on Medium than on any other platform. I'm optimising for maximum number of contributors.
 
-
 **My recommendations:**
 
 * [Export your stories](https://help.medium.com/hc/en-us/articles/214043918-Export-content-from-Medium) from Medium periodically to make sure you own them. 
@@ -89,4 +81,3 @@ I've found it to be orders of magnitude easier to recruit people to write on Med
 * Put your stories elsewhere and just use Medium as a signal-booster. I've started publishing on Gist with public-domain licensing, so it is easy for anyone to repost my work onto Medium, Wordpress, or anywhere else.
 * If you know of a free software alternative to Medium that is comparable in terms of accessibility and impact, and you want to host Enspiral's blogging platform there, I will be happy to do what I can to support a migration plan.
 
-{% include 'contributing_hint.md' %}
