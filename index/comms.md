@@ -4,11 +4,13 @@
 
 ## Comms
 
-**UPDATE 2019-11-06** \| This Working Group is active, but this page is TBC. While the lead, Joriam, is certain, membership is understood to be unclear, with Nat and Alina currently active.
+**UPDATE 2019-11-06** \| This Working Group is active, but this page is TBC.
 
 Lead: Joriam Philipe
 
-Members: Natalie Sisson, Alina Manko
+Members: Susan Basterfield, Alina Manko
+
+Advisors: (Nat Sisson?)
 
 On slack: \#wg-comms
 
