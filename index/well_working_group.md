@@ -8,4 +8,4 @@ If you currently feel unsafe in Enspiral's communication channels, please immedi
 
 ### Contact the Catalysts
 
-Via the [contact info here](../catalysts.md/#contact-us)
+Via the [contact info here](catalysts.md/#contact-us)
