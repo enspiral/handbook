@@ -51,6 +51,7 @@
   * [Comms](index/comms.md)
   * [MoneySwarm](index/external-funding.md)
   * [Gatherings](index/gatherings.md)
+  * [Pods](index/pods.md)
   * [Ventures](index/ventures.md)
 * [Enspiral Foundation Ltd](foundation/README.md)
   * [Constitution](foundation/constitution.md)
