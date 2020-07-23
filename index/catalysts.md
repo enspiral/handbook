@@ -6,9 +6,9 @@
 
 We're governed by the [Catalyst Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/catalyst.html)
 
-Current catalysts are: john gieryn and Joriam Philipe.
+Current catalysts are: **john gieryn and Joriam Philipe**
 
-Current catalyst supporters are: Susan Basterfield, Joshua Vial, Teddy Taptiklis, and Phoebe Tickell. The catalyst supporters are invited to hold more strongly the responsibility of selection, support, and – most importantly – funding of Catalysts, but are aided by the Catalysts.
+Current catalyst supporters are: Lisa Gill, Joshua Vial, and Teddy Taptiklis. The catalyst supporters are invited to hold more strongly the responsibility of selection, support, and funding of Catalysts, but are aided by the Catalysts (especially in the latter).
 
 Catalysts operate on 2 week sprints.
 
@@ -20,29 +20,15 @@ We try to take notes in all our meetings, and share them in the Slack channel [\
 
 ### What are we doing
 
-#### Update 2019-11-06
+#### Catalyst Accountability Pulse + Next Steps Pulse (Update 2020-06)
 
-Here's a quick-list of key Catalyst contributions \(the snapshot below further illustrates our work, in essence, if not exactly\)
+As part of our inquiry into how to better do ‘succession’ and hand the Catalyst-baton to the next round of Catalysts, we got to the conclusion that we could create a **Catalyst Accountability Pulse** and use it to also assess future candidates. This supports our intention of creating a process that Enspiral (and even other orgs!) can use to manage, recruit and evaluate Catalysts.
 
-* **Retreats:** sustaining this vital heartbeat via Winter and Summer Retreats \(in a way that no longer burns people out\)
-* **Assembly Sprints:** keeping momentum between events, these digital happenings have supported us to easily pass 3 or 4 agreements and get a bunch of key collective work done
-* **Pods:** our initial experiments are proving fruitful, new Contributors have called it "key" to their experience in joining us, and longer-timers have found it a lovely way to keep in contact, give back, etc.
-* **Communications:** Catalysts work to keep the network talking to each other. As is the nature of our network, we all can get consumed by our work. This can leave the network feeling a bit too quiet, cause worthwhile initiatives to be dropped, and make it more difficult for people to engage with the network at the level they want.
-* **Working Groups:** upkeep of documentation, support, and more.
-* _Others:_ include external funding and storytelling efforts \(eg, MoneySwarm, StoryDojo...\)
+It also forced us to better define what Catalysts really do. We tried to keep it vague enough so different Catalysts could apply their style to the points, but specific enough so that Catalysts can point at those items and say “my project is about this guideline”.
 
-#### Snapshot of john's priorities as of 12 October, 2018
+The guidelines are captured in our [first trial of the Accountability Pulse + Next Steps Pulse](https://docs.google.com/document/d/1_38ZaDk7QO2RZFc7ZyMbQURG2zNb31tmq16198bsaKE/edit?usp=sharing), and you can read more context and share feedback or ask questions in the Loomio [thread/ current home](https://www.loomio.org/d/Q7fRBi41/catalyst-accountability-next-steps-pulse-june-2020) for these Pulses.
 
-![catalyst priorities, with Peer Support, Clarity, and Retreats as priorities or &quot;the big sticks I&apos;m chewing&quot;](https://farm2.staticflickr.com/1905/45274411111_b563716ae0_b.jpg)
+### Contact us
 
-* Capacity development of groups and individuals, and relationship-building.
-* Sense-making \(maintaining context\).
-* Growing our habits of reflection and retrospectives.
-* We help [working groups](./) to form and maintain good health and working relationships.
-* We remind people of the things they said they would do.
-* We encourage people to contribute, e.g. by matching people to opportunities, or inviting individuals to contribute on specific tasks.
-* We maintain our own internal rhythm, which everyone else can sync up with if its useful.
-* We do things until we can delegate or automate them.
-* We maintain an overview of all the working groups in the network so we can help direct people's attention.
-* We act as theatre attendants, supporting people - new or returning - to find a place of meaningful contribution or benefit for them.
-
+**On slack** at #wg-catalysts or by direct message
+**or email** catalysts@enspiral.com
