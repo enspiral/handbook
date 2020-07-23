@@ -4,7 +4,7 @@
 
 ## Comms
 
-**UPDATE 2019-11-06** \| This Working Group is active, but this page is TBC.
+**UPDATED 2020-07-23** \| This Working Group is active, but this page is TBC.
 
 Lead: Joriam Philipe
 
