@@ -2,7 +2,7 @@
 
 ## a.k.a. Tranformative Justice Guidelines
 
-Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/working-groups/well_working_group.md) will support this mission by developing network resources for constructive dialogue and co-working.
+Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](../index/well_working_group.md) will support this mission by developing network resources for constructive dialogue and co-working.
 
 In this document you will find three suggested steps to take to safely and appropriately resolve conflict. Also included are support mechanisms if you need additional input to help resolve the conflict.
 
