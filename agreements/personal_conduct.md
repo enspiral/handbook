@@ -1,6 +1,6 @@
 # Personal Conduct
 
-Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](../../index/well_working_group.md) will support this mission by developing network resources for constructive dialogue and co-working.
+Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](../index/well_working_group.md) will support this mission by developing network resources for constructive dialogue and co-working.
 
 **We ask all Enspiral participants to support these Personal Conduct Guidelines:**
 
