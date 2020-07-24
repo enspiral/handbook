@@ -24,11 +24,11 @@ As leaders, Catalysts are responsible for defining and managing their own work. 
 
 **Appointment**
 
-The [Catalyst support working group](../index/catalysts.md) is responsible for selecting and supporting catalysts.
+The [Catalyst support working group](../working-groups/catalysts.md) is responsible for selecting and supporting catalysts.
 
 **Resourcing**
 
-The [Catalyst support working group](../index/catalysts.md) is responsible for raising funds through cobudget or other means to fund on-going catalyst work.
+The [Catalyst support working group](../working-groups/catalysts.md) is responsible for raising funds through cobudget or other means to fund on-going catalyst work.
 
 ## Expectations
 
