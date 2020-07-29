@@ -4,26 +4,34 @@
 
 ### Why we exist.
 
-We are a small group of members and contributors committed to our yearly gatherings.
+We are a small group of members and contributors committed to our yearly gatherings and – increasingly – all of Enspiral's vital gatherings, year round.
 
 * Our work is to care for the heartbeat of Enspiral.
 * Our work is to create and hold space for connection and cultivation and nurturance, to ground our work and give it wings.
+* Our work is essentially manaakitanga ([defined here as](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=manaakitanga) hospitality, kindness, generosity, support…) and the work that creates the conditions in which another's mana may grow.
 
 ## Membership and Participation
 
-Each gathering will typically have its own project group, _or "pod", in Enspiral jargon_. The core members of this Working Group are committed to participate in the pods for the next two gatherings \(Winter Retreat 2019 and Summer Fest 2020\) and seek to establish the foundations for future retreat pods to better and more easily run our key gatherings. This also means cultivating a sustainable Working Group and planning for our own succession.
+Each gathering will typically have its own crew, or "project group". The core members of this Working Group are committed to participate in the pods for the next two gatherings \(Winter Retreat 2019 and Summer Fest 2020\) and seek to establish the foundations for future retreat pods to better and more easily run our key gatherings. This also means cultivating a sustainable Working Group and planning for our own succession.
 
 ### Current Core Members
 
 * john gieryn
 * Doris Zuur
+* Lucia Die Gil
+* Carolyn Taueki-Stott
 
-### Other Members
+### Crew Members
 
-* Lucia Die Gil \(Summer Fest 2020, possibly Winter Retreat 2019\)
-* Melina Chan \(Summer Fest 2020\)
-* Joshua Vial \(Summer Fest 2020\)
-* Gina Rembe \(Summer Fest 2020\)
+* Don Smith \(Summer Fest 2021\)
+* Melina Chan \(Summer Fest 2021\)
+* Mikey Williams \(Summer Fest 2021 Party subcrew\)
+* Christina Curley \(Winter Retreat 2021 Venue & Date selection crew\)
+
+### Advisors and other support
+
+* Gina Rembe
+* Joshua Vial
 
 ### Get involved
 
