@@ -21,7 +21,7 @@ If you're interested in how we work or you want to join in, our meetings are ope
 Sensing community needs, initiating responses, handing them off wherever possible.
 
 * Sense-making (maintaining context).
-* We help [working groups](index.md) to form.
+* We help [working groups](working-groups.md) to form.
 * We remind people of the things they said they would do (e.g. fill in your quarterly venture update).
 * We encourage people to contribute, e.g. by matching people to opportunities, or inviting individuals to contribute on specific tasks.
 * We maintain our own internal rhythm, which everyone else can sync up with if its useful.
