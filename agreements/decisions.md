@@ -74,7 +74,7 @@ Any participant can raise a proposal, which describes a clear course of action o
 
 ## Blocking
 
-At , a single block is sufficient to stop a proposal proceeding in most cases. This places a considerable responsibility on someone blocking to deeply consider their choice, and on everyone involved to respect the right to block and to work toward a resolution.
+At Enspiral, a single block is sufficient to stop a proposal proceeding in most cases. This places a considerable responsibility on someone blocking to deeply consider their choice, and on everyone involved to respect the right to block and to work toward a resolution.
 
 A decision to block should not be taken lightly, but if you feel strongly about an issue and really want to stop a proposal you actually need to block it, because simply disagreeing or arguing against is not a guarantee that it won't be passed.
 
