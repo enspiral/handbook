@@ -36,7 +36,6 @@ Here's a list of popular Slack Channels:
 * Europe - Chat with the growing number of Enspiral people based in Europe, share links to events, etc.
 * Enstagram - Like Enspiral-Instragam: a place we can share snapshots from daily life so it feels like we are hanging out together even when we’re all over the world!
 * Music
-* Network map - Network Map Here: [https://kumu.io/enspiral/enspiral](https://kumu.io/enspiral/enspiral) [Documentation here](https://docs.google.com/document/d/1p7pQDsr1KbEaOE5Zv5i1NsVpazPBLe8iLjYCRcBRIE4/edit#heading=h.b2negpxbz2ky)
 * Stewardingv2 - [https://www.loomio.org/d/JjhvAxdc/stewardship-update-2017-](https://www.loomio.org/d/JjhvAxdc/stewardship-update-2017-)
 * Thanks
 * Want-Ads - enspiral classifieds + mirror of Enspiral Opportunities = [https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral](https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral)
