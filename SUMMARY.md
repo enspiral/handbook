@@ -31,6 +31,7 @@
   * [Github for Beginners](guides/github_for_beginners.md)
   * [Improvements](guides/improvements.md)
   * [Manage your enspiral.com profile](guides/manage-enspiral-website-profile.md)
+  * [Onboarding Buddies - doing it well](onboarding-buddies.md)
   * [Onboarding Emails](guides/onboarding-info.md)
   * [Ops processes](guides/ops_processes.md)
   * [People\*](guides/people.md)
@@ -81,4 +82,3 @@
     * [Gamelab](ventures/proto-ventures/gamelab.md)
     * [Enspiral Labs](ventures/proto-ventures/enspiral-labs.md)
     * [Ability Mate](ventures/proto-ventures/ability-mate.md)
-
