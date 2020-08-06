@@ -20,7 +20,7 @@ In order to enable efficient decision-making, provide clarity to participants, c
 
 ## Decision Tool: Loomio
 
-At , formal decisions are made using a software tool called [Loomio](http://www.loomio.org), which helps groups make collective decisions using constructive deliberation. This process is based on the principle that diverse perspectives can be synthesised to achieve better solutions that work for more people.
+At Enspiral, formal decisions are made using a software tool called [Loomio](http://www.loomio.org), which helps groups make collective decisions using constructive deliberation. This process is based on the principle that diverse perspectives can be synthesised to achieve better solutions that work for more people.
 
 While making use of other channels \(online and offline\) to enrich input into a decision is strongly encouraged, the results on Loomio are considered the official outcome. This is so that we can keep a clear record and archive, and to ensure that everyone who desires to participate in a given decision-making process has the opportunity to make their voice heard.
 
