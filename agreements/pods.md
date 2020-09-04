@@ -11,5 +11,5 @@ For information about how we implement Pods, see the [Pods Guide](../guides/pods
 [Loomio thread for this agreement](https://www.loomio.org/d/gbz8p95P/proposal-pods-agreement).
 
 ## Related Agreements
-- [Stewardship](stewardship)
-- [Working Groups](working_groups)
+- [Stewardship](stewardship.md)
+- [Working Groups](working_groups.md)
