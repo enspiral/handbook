@@ -6,10 +6,10 @@ Pods are small groups of people (4 to 5 is suggested) formed by people in Enspir
 
 The Pods Working Group (Pods WG) is accountable for hosting the Pods formation process on a regular basis, once or more per year and communicating updates with the Network which could include status, progress and learnings.
 
-For information about how we implement Pods, see the [Pods Guide](../../guides/pods.md).
+For information about how we implement Pods, see the [Pods Guide](../guides/pods.md).
 
 [Loomio thread for this agreement](https://www.loomio.org/d/gbz8p95P/proposal-pods-agreement).
 
 ## Related Agreements
-- [Stewardship](../stewardship)
-- [Working Groups](../working_groups)
+- [Stewardship](stewardship)
+- [Working Groups](working_groups)
