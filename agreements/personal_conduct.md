@@ -14,7 +14,7 @@ Enspiral participants are expected to support contemplative awareness and [nonvi
 
 ## Communicate effectively
 
-Your voice is welcome. Your perspective is valued. Your interests are interesting. The best thing you can do to give and receive value is participate. Please consider reading our [Comms Guidelines](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/comms_guidelines.html), especially the "Pick your Channel Wisely" section, to help express yourself effectively.
+Your voice is welcome. Your perspective is valued. Your interests are interesting. The best thing you can do to give and receive value is participate. Please consider reading our [Comms Guidelines](../guides/comms_guidelines.md), especially the "Pick your Channel Wisely" section, to help express yourself effectively.
 
 ## Discuss concerns and questions
 
@@ -40,5 +40,5 @@ We're all responsible, all of the time, to take positive action in response to h
 
 [Conflict Resolution Guidelines](../guides/conflict-resolution.md)
 
-[Communications Guidelines](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/comms-guidelines.md)
+[Communications Guidelines](../guides/comms_guidelines.md)
 
