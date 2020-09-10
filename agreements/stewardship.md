@@ -1,6 +1,6 @@
 # Stewardship Agreement
 
-Stewardship agreement:
+Stewardship agreement
 
 * Every new contributor has a steward. By default, this will be the person who added them.
 * Everyone who wants one will have a steward.
