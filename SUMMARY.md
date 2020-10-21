@@ -39,6 +39,7 @@
   * [Project Kitchens](guides/project_kitchen.md)
   * [Projects & Reports](guides/projects_reports.md)
   * [PR tips for humans](guides/press.md)
+  * [Research](guides/research.md)
   * [Retreats\*](guides/retreats.md)
   * [Songs](guides/songs.md)
   * [Stewarding](guides/stewarding.md)
