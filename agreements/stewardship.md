@@ -1,14 +1,13 @@
-# Stewardship Agreement
+# Stewardship Agreement (amended)
 
-Stewardship agreement:
+Every new contributor has a steward. By default, this will be the person who added them, unless arranged to be someone else.
 
-* Every new contributor has a steward. By default, this will be the person who added them.
-* Everyone who wants one will have a steward.
-* Anyone can be a steward.
+As a *new contributor*, your steward is your point of contact who helps you find your way around Enspiral when you arrive. You and your steward can agree the scope of the role together. As a suggested start point, they should touch base with you once per month to see how you’re going.
 
-Your steward looks after your relationship with the group, your one guaranteed point of contact. You and your steward can agree the scope of the role together. As a suggested start point, they should check in with you once per month to see how you’re going.
+As a *steward*, you will encourage and support them to join a pod when suited. You are expected to make sure another Member or Catalyst knows if you become unable to fulfill your role.
 
-[Loomio thread for this agreement](https://www.loomio.org/d/RIMCfuaT/).
+**Related Agreements**
 
-For information about how we implement this agreement, check the [stewarding guide](../guides/stewarding.md).
+[Pods](https://handbook.enspiral.com/agreements/pods)
+
 
