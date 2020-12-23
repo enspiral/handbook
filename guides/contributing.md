@@ -1,5 +1,9 @@
 # Contributing to the Handbook
 
+## Getting started
+
+This Handbook is like a wiki, maintained by everyone in the community: we need your help! Enspiral Contributors: join the \#handbook channel on Slack and we can support you to get started.
+
 ## The Github Method
 
 [Github](https://en.wikipedia.org/wiki/GitHub) is a platform that is mostly used by developers to manage software projects: it allows many contributors to all work on a single project without stepping on each other's toes. It has a system for storing files and proposing changes to them in a managed way. \(This is based on an amazing free technology called git.\)
