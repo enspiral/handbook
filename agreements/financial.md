@@ -2,7 +2,7 @@
 
 ### Context
 
-This agreement defines how  handles money as a collective, specifically the funds in the accounts of . Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through participatory processes.
+This agreement defines how handles money as a collective, specifically the funds in the accounts of . Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through participatory processes.
 
 ## Type of Funds
 
@@ -32,11 +32,11 @@ All recurring membership fees go to core funds. The board is responsible for set
 
 #### Sponsorship
 
-A recurring sponsorship with . All sponsorships have a written memorandum which outlines the terms of the sponsorship and where funds are allocated.
+A recurring sponsorship with a written memorandum (between the Enspiral Foundation and the sponsor) which outlines the terms of the sponsorship.
 
-Sponsorship monies can be allocated to any fund, as defined by the sponsorship memorandum.
+Sponsorship monies are allocated to core funds and controlled by the board, though they are free to delegate control to financially enabled working groups.
 
-An agreement \(in the form of a memorandum\) with the  Board and the sponsor. The Board will sign off on and maintain a record of all memorandums.
+Catalysts are responsible for maintaining a record of sponsorship memorandums.
 
 #### Other income
 
@@ -48,7 +48,7 @@ Money spent by the Foundation falls under the following categories.
 
 #### Fixed Costs
 
-The board is responsible for managing the fixed costs of the  from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the  network.
+The board is responsible for managing the fixed costs of the from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the network. The fixed costs are expected to cover paying for catalysts.
 
 #### Discretionary Costs
 
