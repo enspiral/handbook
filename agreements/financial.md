@@ -2,7 +2,7 @@
 
 ### Context
 
-This agreement defines how handles money as a collective, specifically the funds in the accounts of . Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through participatory processes.
+This agreement defines how we handle money as a collective, specifically the funds in the foundation's accounts. Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through participatory processes.
 
 ## Type of Funds
 
@@ -10,7 +10,7 @@ Money held by the foundation falls into the following two categories.
 
 #### Core Fund
 
-The core fund is controlled by the Foundation Board. These funds are flagged for operational expenses and providing an economic runway for .
+The core fund is controlled by the Foundation Board. These funds are flagged for operational expenses and providing an economic runway.
 
 The board is expected to maintain a viable level for the core fund account \(e.g. minimum of 12 months of fixed expenses\) and to periodically allocate any surplus to the approved collaborative funding processes of their choice.
 
@@ -20,7 +20,7 @@ Funds allocated to an approved collaborative funding process governed by the rul
 
 ## Income
 
- receives income from individuals, companies, trusts or other entities. Income can be broken into the following categories:
+Received from individuals, companies, trusts or other entities, income can be broken into the following categories:
 
 #### Gifts
 
@@ -34,7 +34,7 @@ All recurring membership fees go to core funds. The board is responsible for set
 
 A recurring sponsorship with a written memorandum (between the Enspiral Foundation and the sponsor) which outlines the terms of the sponsorship.
 
-Sponsorship monies are allocated to core funds and controlled by the board, though they are free to delegate control to financially enabled working groups.
+Sponsorship money is allocated to core funds and controlled by the board, though they are free to delegate control to financially enabled working groups.
 
 Catalysts are responsible for maintaining a record of sponsorship memorandums.
 
@@ -48,7 +48,7 @@ Money spent by the Foundation falls under the following categories.
 
 #### Fixed Costs
 
-The board is responsible for managing the fixed costs of the from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the network. The fixed costs are expected to cover paying for catalysts.
+The board is responsible for managing the fixed costs from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the network. The fixed costs are expected to cover catalysts' fees.
 
 #### Discretionary Costs
 
@@ -63,7 +63,7 @@ The board can approve one-off expenditures from any fund when exercising [their 
 A collaborative funding process must have a facilitator who takes responsibility for the process. Specifically the facilitator is responsible for:
 
 * Ensuring the rules for the process are clearly documented and approved by the board
-* Budgeting for the process, including themselves running the process.
+* Budgeting for the process, including themselves running the process
 * Facilitating the process
 * Reporting the outcomes to the network
 * Holding entities that receive funding accountable
