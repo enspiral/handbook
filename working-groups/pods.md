@@ -4,10 +4,11 @@
 
 ## Pods Working Group
 
-**UPDATED 2020-07-23** \| This Working Group is active, but this page is TBC. 
+**UPDATED 2020-07-23** \| This Working Group is active, but this page is TBC.
 
 Co-leads: Nati Lombardo, john gieryn
 
 Additional Members: Melina Chan, Nancy Gibson
 
 On slack: \#care-pods
+

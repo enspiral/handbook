@@ -1,7 +1,5 @@
 # Financial Transparency
 
-**Note: This page is accurate as of September 2018** 
-
 How money works at Enspiral is determined by the [Financial Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/financial.html). This page is to provide information and transparency about our financial situation.
 
 ### Bank Accounts

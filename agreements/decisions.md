@@ -4,13 +4,13 @@ This agreement defines how formal decisions are made at . It identifies a number
 
 ## Context
 
- is a network of highly autonomous individuals, teams, and ventures. As much as possible, we encourage people to make decisions for themselves.
+is a network of highly autonomous individuals, teams, and ventures. As much as possible, we encourage people to make decisions for themselves.
 
- is also a network building shared commons, and pursuing shared aspirations, that call for collective agreements and commitments. There are a variety of situations where it is useful or necessary to make a formal decision as a group.
+is also a network building shared commons, and pursuing shared aspirations, that call for collective agreements and commitments. There are a variety of situations where it is useful or necessary to make a formal decision as a group.
 
 ## Decision Protocol: Consensus
 
-For formal decisions,  uses [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), a methodology with a specific meaning and practice. Consensus does not mean unanimous agreement or engagement from everyone on all decisions. The key concept is consent \(you can live with it\), which is distinct from agreement \(it’s your preference or first choice\).
+For formal decisions, uses [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), a methodology with a specific meaning and practice. Consensus does not mean unanimous agreement or engagement from everyone on all decisions. The key concept is consent \(you can live with it\), which is distinct from agreement \(it’s your preference or first choice\).
 
 ## Agreements
 
@@ -28,7 +28,7 @@ Not every Loomio proposal constitutes a formal decision. Many Loomio proposals a
 
 ## Making Formal Decisions
 
-Anyone can propose a formal decision at any time. We seek open, transparent decision-making and strive to enable the people who are affected by a decision to participate as fully as possible in making it.  tries to make decisions with the widest possible circle of participants, while recognising the necessity and wisdom of delegating responsibility for certain decisions.
+Anyone can propose a formal decision at any time. We seek open, transparent decision-making and strive to enable the people who are affected by a decision to participate as fully as possible in making it. tries to make decisions with the widest possible circle of participants, while recognising the necessity and wisdom of delegating responsibility for certain decisions.
 
 A formal decision is only required whenever there is a significant impact on the network. It is difficult to specify exact criteria for every case, so everyone is encouraged to use their best judgement to balance exercising autonomy with gaining shared understanding.
 
@@ -45,7 +45,7 @@ Formal decisions are needed for the following areas \(some with the whole networ
 
 This agreement sets out the types of consensus decision making protocols that are used within . These protocols are named here so they can easily be referred to in other Agreements and contexts, and people can consider which is most appropriate for the situation.
 
-The default for all formal decision making in  is the Standard Decision.
+The default for all formal decision making in is the Standard Decision.
 
 | Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -85,7 +85,7 @@ A decision to block should not be taken lightly, but if you feel strongly about 
 * Simply vetoing a decision is not considered a responsible use of consensus blocking - you must be prepared to work collaboratively to try and reach a resolution, make time for conversations, and to help others understand the issue.
 * Blocks should only be used in cases where the blocker genuinely believes there is a significant risk of harm to the network, or that the proposal contravenes the fundamental values of .
 
-_Note: Blocks by  Members are binding. The question of whether blocks by contributors are or should be binding as well is ambiguous, with people in the community feeling strongly both ways. That ambiguity is intentionally left unresolved in this agreement._
+_Note: Blocks by Members are binding. The question of whether blocks by contributors are or should be binding as well is ambiguous, with people in the community feeling strongly both ways. That ambiguity is intentionally left unresolved in this agreement._
 
 ## Decision Culture & Practice
 

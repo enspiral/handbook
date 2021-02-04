@@ -6,13 +6,13 @@ Working groups \([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCv
 
 * [Ambassadors](ambassadors.md) \(hibernating\)
 * [Assembly](assembly.md) \(active\)
-* [Catalysts](catalysts.md) \(vibrant\)
+* [Catalysts]() \(vibrant\)
 * [Collaborative funding](collaborative-funding.md) \(active\)
 * [Comms](comms.md) \(active\)
 * [Enspiral Brand](brand_working_group.md) \(active\)
 * [Gatherings](gatherings.md) \(vibrant\)
 * [MoneySwarm](external-funding.md) \(active\)
-* [Pods](pods.md) \(active\)
+* [Pods](https://github.com/enspiral/handbook/tree/92a24ced1d66282e12a0e864c8ecd2ae430b88ba/index/pods.md) \(active\)
 * [Ventures](ventures.md) \(hibernating\)
 
 Anyone can start a working group. Working groups are where we do work on the network. Often a working group will be initiated by someone with high context but low capacity for action \(e.g. directors or catalysts\), and then they'll recruit contributors with more capacity. Working groups will often be temporary, though some will be permanent.
