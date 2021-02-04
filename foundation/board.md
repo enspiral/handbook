@@ -32,19 +32,19 @@ Examples of things within scope:
 
 ## Current Directors
 
-### Ants Cabraal
-
-Ants has worked across several ventures in roles like investor, director, co-founder, business development, marketing & creative production. Currently focused on building Enspiral ventures working in education and professional development. He stays up late scheming about creative projects to help make the world a more peaceful place.
-
-### Bart de Vries
-
-Bart is a business growth strategist and founder, creating and supporting business to build a more sustainable and equitable world. Bart has a deep interest in organisational design, culture and physical environments that bring out the best in people. Bart is the co-founder of Limber \(www.getlimber.nz\), which is disrupting the office furniture industry by creating sustainably made workstations that love your uniqueness and support you to perform well and be healthy at work.
-
-### Rob Guthrie
-
-Lifelong programmer with a passion for the power of the internet to transform society and improve lives. Serial entrepreneur, business and product strategist, and relentless problem solver. Loves building useful tools that real people use. Supports others to learn and grow.
-
 ### Susan Basterfield
 
 I’m a catalyst, cultivator, convenor and curator, helping individuals and organisations experiment with new ways of working and being. I’m a member of the Golden Pandas, participate in a variety of working groups, engage in acts of ambassador-ing, and work with teams worldwide as a coach and facilitator.
+
+### Richard Bartlett
+
+I'm enthusiastic about co-ownership, self-governance and building relationships of partnership instead of domination to create collaborative workplaces. I'm a co-founder of Loomio and The Hum. I have a unique way of seeing patterns and speaking about complexity in simple words.
+
+### Charley Davenport
+
+I am an experienced systems and technical support specialist and helping people to connect with new technology is at the heart of what I do for work. I'm currently working with New Zealand-based electric vehicle charging network Thundergrid as a Charge Point Operator, with the mission of transitioning transport to cleaner technology. I also work with the Enspiral Venture Greaterthan administering finances. I am also a freelance cellist and adventurous performer and arts advocate in Wellington.
+
+
+
+
 
