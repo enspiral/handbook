@@ -10,7 +10,7 @@ Lead: Joriam Philipe
 
 Members: Susan Basterfield, Alina Manko
 
-Advisors: (Nat Sisson?)
+Advisors: \(Nat Sisson?\)
 
 On slack: \#wg-comms
 

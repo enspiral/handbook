@@ -59,7 +59,7 @@ There are four steps you might consider to reach a resolution, each step include
 
 ### 1. Direct communication
 
-Directly discuss your concerns with a conflicting person _if you're comfortable doing that._ 
+Directly discuss your concerns with a conflicting person _if you're comfortable doing that._
 
 ### 2. Private support
 

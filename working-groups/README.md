@@ -6,7 +6,7 @@ Working groups \([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCv
 
 * [Ambassadors](ambassadors.md) \(hibernating\)
 * [Assembly](assembly.md) \(active\)
-* [Catalysts](catalysts.md) \(vibrant\)
+* [Catalysts]() \(vibrant\)
 * [Collaborative funding](collaborative-funding.md) \(active\)
 * [Comms](comms.md) \(active\)
 * [Enspiral Brand](brand_working_group.md) \(active\)

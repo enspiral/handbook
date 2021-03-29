@@ -14,6 +14,6 @@ On slack: \#wg-assembly-sprints
 
 For more on Assembly Sprints:
 
-- [Assembly Sprint guide](/guides/assembly-sprints.md) will give you a general picture
-- The most recent is in Loomio, threads tagged `Assembly Sprint` _TBD; so just search Loomio for "assembly sprint")_
+* [Assembly Sprint guide](../guides/assembly-sprints.md) will give you a general picture
+* The most recent is in Loomio, threads tagged `Assembly Sprint` _TBD; so just search Loomio for "assembly sprint"\)_
 

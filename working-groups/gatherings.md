@@ -8,7 +8,7 @@ We are a small group of members and contributors committed to our yearly gatheri
 
 * Our work is to care for the heartbeat of Enspiral.
 * Our work is to create and hold space for connection and cultivation and nurturance, to ground our work and give it wings.
-* Our work is essentially manaakitanga ([defined here as](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=manaakitanga) hospitality, kindness, generosity, support…) and the work that creates the conditions in which another's mana may grow.
+* Our work is essentially manaakitanga \([defined here as](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=manaakitanga) hospitality, kindness, generosity, support…\) and the work that creates the conditions in which another's mana may grow.
 
 ## Membership and Participation
 
