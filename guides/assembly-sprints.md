@@ -37,19 +37,25 @@ Hopefully, this will result in conditions of more coherence, transparency, and a
 
 ## Most recent threads and reports
 
-[November 2019 Assembly Sprint report](https://www.loomio.org/d/6o920KVU/retrospective-asssembly-sprint-nov-2019-)
+[2020 July closing notes and retro](https://www.loomio.org/d/cGuE6WRl/closing-circle-retrospective-and-harvest-)
+
+[2019 November Assembly Sprint report](https://www.loomio.org/d/6o920KVU/retrospective-asssembly-sprint-nov-2019-)
+
+[2020 July Agenda announcement](https://www.loomio.org/d/zMsW9GJ2/prototyping-the-next-4-years-agenda-opt-in-assembly-sprint-22nd-july-)
+
+[2020 July decision and agenda formation](https://www.loomio.org/d/QelSq2CV/call-for-submissions-assembly-sprint-22nd-july)
+
+## Past records
+
+### 2019
+
+[2019 November Assembly Sprint report](https://www.loomio.org/d/6o920KVU/retrospective-asssembly-sprint-nov-2019-)
 
 [Assembly Opt-in and Agenda announcement for 11 Nov. 2019 Sprint](https://www.loomio.org/d/8RdAKBOo/agenda-and-opt-in-assembly-sprint-an-online-enspiral-convergence-november-2019)
-
-[November Assembly Sprint decision and agenda formation](https://www.loomio.org/d/ZULNjKYq/calling-for-submissions-next-assembly-sprint-2019-start-of-november-?q=)
-
-### 2019 Retro and decision
 
 [Report back from March 2019:](https://www.loomio.org/d/QPSHlBqe/report-back-on-recent-assembly-sprint-any-last-feedback-?q=)
 
 [Decision to run the March '19 assembly \(and the initial one\)](https://www.loomio.org/d/myTOM64J/next-steps-and-2018-closing-comments-assembly-sprint-an-online-enspiral-convergence/78)
-
-## Past records
 
 ### 2018
 
