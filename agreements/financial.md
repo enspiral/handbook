@@ -36,7 +36,7 @@ A recurring sponsorship with a written memorandum (between the Enspiral Foundati
 
 Sponsorship money is allocated to the Core Fund and the board is responsible for managing, dispersing, delegating or spending the funds in accordance with the Sponsorship Memorandum. 
 
-The Foundation Board is responsible for developing guidelines on what reasonable, effective and efficient conditons may be added to the Sponsorship Memorandum.
+The Foundation Board is responsible for developing guidelines on what reasonable, effective and efficient clauses/requirments may be added to the Sponsorship Memorandum.
 
 Catalysts are responsible for maintaining a record of Sponsorship Memorandums.
 
