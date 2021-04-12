@@ -34,9 +34,11 @@ All recurring membership fees go to core funds. The board is responsible for set
 
 A recurring sponsorship with a written memorandum (between the Enspiral Foundation and the sponsor) which outlines the terms of the sponsorship.
 
-Sponsorship money is allocated to core funds and controlled by the board, though they are free to delegate control to financially enabled working groups.
+Sponsorship money is allocated to the Core Fund and the board is responsible for managing, dispersing, delegating or spending the funds in accordance with the Sponsorship Memorandum. 
 
-Catalysts are responsible for maintaining a record of sponsorship memorandums.
+The Foundation Board is responsible for developing guidelines on what reasonable, effective and efficient conditons may be added to the Sponsorship Memorandum.
+
+Catalysts are responsible for maintaining a record of Sponsorship Memorandums.
 
 #### Other income
 
