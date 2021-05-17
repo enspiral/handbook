@@ -50,7 +50,9 @@ Money spent by the Foundation falls under the following categories.
 
 #### Fixed Costs
 
-The board is responsible for managing the fixed costs from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the network. The fixed costs are expected to cover catalysts' fees.
+The board is responsible for managing the fixed costs from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the network. 
+
+At its discretion the board can add/remove a Financially Enabled Working Group to the Fixed Costs table. When it does so the Board takes on the responsibility of holding the working group to account for funds spent.
 
 #### Discretionary Costs
 
