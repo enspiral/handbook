@@ -10,9 +10,9 @@ Money held by the foundation falls into the following two categories.
 
 #### Core Fund
 
-The core fund is controlled by the Foundation Board. These funds are flagged for operational expenses and providing an economic runway.
+The core fund is controlled by the Foundation Board (Board). These funds are flagged for operational expenses and providing an economic runway.
 
-The board is expected to maintain a viable level for the core fund account \(e.g. minimum of 12 months of fixed expenses\) and to periodically allocate any surplus to the approved collaborative funding processes of their choice.
+The Board is expected to maintain a viable level for the core fund account \(e.g. minimum of 12 months of fixed expenses\) and to periodically allocate any surplus to the approved collaborative funding processes of their choice.
 
 #### Collaborative Funds
 
@@ -36,9 +36,9 @@ A recurring sponsorship with a written memorandum (between the Enspiral Foundati
 
 Sponsorship money is allocated to the Core Fund and the board is responsible for managing, dispersing, delegating or spending the funds in accordance with the Sponsorship Memorandum. 
 
-The Foundation Board is responsible for developing guidelines on what reasonable, effective and efficient clauses/requirments may be added to the Sponsorship Memorandum.
+The Board is responsible for developing guidelines on what reasonable, effective and efficient clauses/requirments may be added to the Sponsorship Memorandum.
 
-The Foundation Board is responsible for maintaining a record of Sponsorship Memorandums.
+The Board is responsible for maintaining a record of Sponsorship Memorandums.
 
 #### Other income
 
@@ -50,9 +50,11 @@ Money spent by the Foundation falls under the following categories.
 
 #### Fixed Costs
 
-The board is responsible for managing the fixed costs from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the network. 
+The Board is responsible for managing the fixed costs from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the network. 
 
 At its discretion the board can add/remove a Financially Enabled Working Group to the Fixed Costs table. When it does so the Board takes on the responsibility of holding the working group to account for funds spent.
+
+At least once a year the Board will run a community engagement process to recieve insight/feedback on what the sponsors and communities priority is for strategic spend by the board.
 
 #### Discretionary Costs
 
