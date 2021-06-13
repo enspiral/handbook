@@ -4,7 +4,7 @@ Enspiral is committed to developing and fostering a culture of diversity within 
 
 Enspiral will better reach its overall goals if it is successful in systematically identifying and removing barriers to full participation in all aspects of our work. Increasing diversity has been consistently shown to help business succeed. It is essential for reaching both our financial and social goals.
 
- **will:**
+ **Enspiral will:**
 
 * be guided by the principle that equity means more than treating people in the same way; it requires special measures and the accommodation of differences.
 * advocate for learning and development opportunities to raise awareness and build understanding of equity and diversity in practice.
