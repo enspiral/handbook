@@ -1,8 +1,8 @@
 # Diversity Agreement
 
- is committed to developing and fostering a culture of diversity within an equitable workplace where all people are respected and valued.  will take active steps to reflect the diversity of the communities it works in. This policy provides a framework to which all other policies should align. It provides direction to everyone at .
+Enspiral is committed to developing and fostering a culture of diversity within an equitable workplace where all people are respected and valued.  will take active steps to reflect the diversity of the communities it works in. This policy provides a framework to which all other policies should align. It provides direction to everyone at .
 
- will better reach its overall goals if it is successful in systematically identifying and removing barriers to full participation in all aspects of our work. Increasing diversity has been consistently shown to help business succeed. It is essential for reaching both our financial and social goals.
+Enspiral will better reach its overall goals if it is successful in systematically identifying and removing barriers to full participation in all aspects of our work. Increasing diversity has been consistently shown to help business succeed. It is essential for reaching both our financial and social goals.
 
  **will:**
 
