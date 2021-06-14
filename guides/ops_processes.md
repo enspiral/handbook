@@ -25,7 +25,7 @@ Ops onboards the new Contributor by inviting them to join to the following syste
 * Enspiral Slack
 * Secret Enspiral Facebook Group
 * Cobudget
-* Added to the Foundation Google Apps Contributors Group
+* Added to the Foundation Contributors Group
 * Added to receive the [Onboarding Email Series](https://handbook.enspiral.com/guides/onboarding-info.html)
 
 If the new Contributor is getting an Enspiral Google Apps account, all of the above invites are generally sent to the new Google Apps account address unless the contributor prefers for these to be sent to their personal address.
@@ -36,29 +36,26 @@ Once the new Contributor has logged into the Loomio Enspiral Group for the first
 
 The new Contributor is now fully onboarded to all of Enspiral’s systems.
 
-### Annual opt-in
+### Trial end
 
-After 3 months in the network, and once a year after that, we ask Contributors to proactively decide if they'd like to stay on in the network. \(Enspiral members are also contributors, and they go through this same process\).
+After 3 months in the network, the trial contributor is then asked if they'd like to join by signing up to a subscription on the [welcome page](welcome.enspiral.com).
 
-* Near the "Subscription Date" dictated by the above 3-month or annual Enspiral birthdate, Contributors are sent an email with a custom-link to the Opt-in form. This is sent via Mandrill, with the name "Charley at Enspiral Foundation". The email is sent to both the "preferred email address" from our database of Contributors. We recently modified this to also send a Slack notification to the contributor about their request to "Opt-in". At this point, an email is also sent to the Contributor's Steward, if they have one, suggesting that this is a good time to check in with them, since this is a specific period of time that they'll be considering to Opt-in or out of the network. \(Stewards have the option of not receiving this notification.\)
-* Two weeks after sending the "Opt-in" email, if Ops does not receive a response from the contributor, a "Final Reminder" email is sent to the contributor at both their personal and enspiral email addresses \(if they have one\), with their custom opt-in google form link, and a caution that if we do not receive a response within one further week, we'll take it to mean that they're Opting-out by default. We also send a reminder via Enspiral Slack \(recently added notification.\)
+* Two weeks after sending the "Opt-in" email, if Ops does not receive a response from the contributor, a "Final Reminder" email is sent to the contributor and a caution that if we do not receive a response within one further week, we'll take it to mean that they're Opting-out by default. We also send a reminder via Enspiral Slack \(recently added notification.\)
 * Four weeks after sending the "Opt-in" email, if Ops still does not receive a response, we send a "Farewell" email to the Contributor \(at both email addresses\), saying that we will be removing them from Enspiral systems within one week, unless there's been some mistake. At this point, we also send a follow-up email notification to the Contributor's Steward, advising that unless they think there's been some mistake or problem with the contributor opting-in, Ops will opt-out the contributor by default and remove them from Enspiral systems.
 * Five weeks after sending the "Opt-in" email, if Ops has not received any notification from the Contributor or Steward, we presume the Contributor does not wish to stay in the network and we process the Contributor to be removed from the Enspiral Systems
 
 ### Offboarding
 
-Contributors are offboarded from the network: either when they decide to leave the network at the annual opt-in date or by default if they have not responded to the Opt-in requests.
-
-Ops receives a notification that a Contributor would like to Opt-out or has not responded to the Opt-in requests.
+Contributors are offboarded from the network: either when they cancel their subscription or their payment method fails 3 times (they're still given some time to get in touch if either is an accident and can also ask to be added back in, in the future)
 
 Ops removes the Contributor’s accounts from the following Enspiral systems:
 
 * Enspiral Loomio Group \(this also removes them from the “Ask Enspiral // Enspiral Opportunites sub-group\)
 * Secret Enspiral Facebook Group
 * Cobudget \(any remaining funds are recycled into the next Cobudget round _**currently in construction**_\)
-* Removed from the Foundation Google Apps Contributors Group
+* Removed from the Foundation Contributors Group
 * Removed from the Monthly Enspiral Newsletter e-mail list
 * Slack: \(Note: you cannot fully “remove” users, instead the Contributor’s account is “disabled”\)
 
-If the Contributor has a Google Apps account \(a "name@enspiral.com" account\), they are notified via email and Slack that their Google Apps account will be removed in two weeks. Ops schedules the Google Apps account removal date. After two weeks, the account is removed and any remaining Google Drive documents owned by the contributor is re-assigned to a nominated account managed by Ops. If the Contributor is also in a Venture, Ops updates the repeating invoices to the Venture for the Google Apps account.
+If the Contributor has a Google Work Space account \(a "name@enspiral.com" account\), they are notified via email and Slack that their Google Workspace account will be removed in two weeks. Ops schedules the account removal date. After two weeks, the account is removed and any remaining Google Drive documents owned by the contributor is re-assigned to a nominated account managed by Ops. If the Contributor is also in a Venture, Ops updates the repeating invoices to the Venture.
 
