@@ -4,7 +4,7 @@ How money works at Enspiral is determined by the [Financial Agreement](https://g
 
 ### Bank Accounts
 
-EF has five bank accounts in Kiwibank:
+EF has six bank accounts in Kiwibank:
 
 **Income and expenses**  
 Money in this account has been pre-allocated to future spending and is not for allocation to any new projects. This includes money allocated to 10 years of Lifehack website hosting \(final payment April 2028, hosting to expire March 31, 2029\).
@@ -20,13 +20,16 @@ Proposals to access this money are created through an advice process with the co
 Money in this account has been allocated to collaborative funding processes and outcomes of those processes.
 
 **Working groups account**  
-Working group account hold money allocated to specific working groups. Ops can provide the budget allocations to each working group at any point in time.
+The Working groups account holds money allocated to specific working groups. Ops can provide the budget allocations to each working group at any point in time.
+
+**Gatherings account**
+in 2021 the Gathering's funds have been separated out from the general working group account to make it more visible.
 
 **Runway Saver**  
 This bank account holds 12 months of fixed operating expenses to create spare capacity purposively to accommodate future disruption.  
 \(_Example; Balancing the books crisis that the Enspiral community went through in 2016-2018, where the revenue model for the community dried up and our expenses maintained which meant that we were quickly losing money and going into a state of bankruptcy._\)  
-As of 4 December 2019 the average outgoings for the previous 9 months were $3700 per month with a total of $44,400.  
-If the core expenses increase \(eg $100 per month for website\) then then runway saver account needs to be increased accordingly to represent 12 months of this new figure \(eg increased by $1200 to $45,600\).  
+As of 14 June 2021 the average outgoings for the previous 12 months were $3100 per month with a total of $34,959.  
+If the core expenses increase \(eg $100 per month for website\) then then runway saver account needs to be increased accordingly to represent 12 months of this new figure. However, at the current time, the balance is $44,837 which is 14 months runway.
 This money is not accessible for new project spending  
 The account is a savings account which requires 30 days to get access to the money.
 
@@ -37,8 +40,9 @@ EF receives money from five sources:
 1. Individual contributions via Subscriptions
 2. Venture Contributions
 3. CoBudget
-4. Google app Subscriptions \(these should be close to cost-neutral\)
+4. Google Workspace Subscriptions \(these should be close to cost-neutral\)
 5. Sponsorship to WG-Catalysts
+6. Gatherings surpluses
 
 ### Expenses
 
@@ -46,7 +50,7 @@ EF spends money generally in the following areas:
 
 Accounting and Operations  
 Software services \(mailchimp, loomio, domain registration etc\)  
-Google apps  
+Google Workspace  
 Collab funding  
 Newsletter  
 Catalysts \(via WG-Catalysts\)
