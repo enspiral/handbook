@@ -28,19 +28,21 @@ Daily chatting, realtime comms, quick questions, interesting links. There is a \
 
 Here's a list of popular Slack Channels:
 
-* Cobudget - Find help: [https://cobudget.slack.com](https://cobudget.slack.com) OR support@cobudget.co, Plan:  [https://trello.com/b/Ca4BpYOz/cobudget-sprint-board](https://trello.com/b/Ca4BpYOz/cobudget-sprint-board)
 * Cool-Shit
 * Dev-Chat - For talk about programming stuff
 * Enspiral\_Help - How do I enspiral?
 * Enspiral-News - A channel to add in any links or news you would like to have shared in the next issue of Enspiral news. If there is important or useful context you would like included, please drop that in as well
 * Europe - Chat with the growing number of Enspiral people based in Europe, share links to events, etc.
 * Enstagram - Like Enspiral-Instragam: a place we can share snapshots from daily life so it feels like we are hanging out together even when we’re all over the world!
-* Music
-* Stewardingv2 - [https://www.loomio.org/d/JjhvAxdc/stewardship-update-2017-](https://www.loomio.org/d/JjhvAxdc/stewardship-update-2017-)
+* Music - Share your latest fav
+* OMG - A channel to organise regular Enspiral online meetings
+* Ops chat - A place to contact Enspiral Ops about anything system related
+* Personal_investment_crypto
 * Thanks
 * Want-Ads - enspiral classifieds + mirror of Enspiral Opportunities = [https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral](https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral)
-* Watercooler
-* Wellington
+* WG-Assembly Sprints - Where semi-regular assembly sprints are organised. How Enspiral get's stuff done,
+* Watercooler - The primary channel for sharing cool stuff
+* Wellington - If you're in and around Welly.
 
 [**Cobudget**](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/beta.cobudget.co#/groups/41) **- Collaborative Funding**
 
@@ -52,7 +54,7 @@ Every two weeks, a newsletter goes out to all Enspiral contributors via Mailchim
 
 To get something published in News, email news@enspiral.com or post in the \#enspiral-news Slack channel. If you want to reach the whole network with non-urgent infomation, this is the way.
 
-**Google Apps**
+**Google Workspace**
 
 * Email - Everyone at Enspiral can pay a subscription fee to have an Enspiral email address if they need one to represent Enspiral to clients or the public. Email is great for one-on-one or small group correspondence, or one-way announcements. There are more details on the [Google Apps page](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/google_apps.md).
 * Calendar - Great for your own planning and for private events and meetings where you have a specific guest list in mind.
