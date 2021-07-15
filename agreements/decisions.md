@@ -16,7 +16,7 @@ For formal decisions, uses [consensus decision-making](https://en.wikipedia.org/
 
 Formal decisions with everyone are only intended to be used when they will have significant impact on the wider network. This Decision Agreement is the core agreement from which all others derive their mandate.
 
-In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements.html). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
+In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](https://handbook.enspiral.com/agreements). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
 
 ## Decision Tool: Loomio
 
@@ -55,8 +55,8 @@ Additionally, we have other types of formal decisions for specific circumstances
 
 | Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days \(10 working days encouraged when possible\) | This option should be used for more consequential decisions, such as changes to [ Agreements](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements.html). |
-| Quorum Decision | Passes as long as there are no blocks. | Requires at least 75% of all eligible voters to agree or abstain \(meaning at least ¾ of all group members must participate\) | 5 working days \(10 working days encouraged when possible\) | This option is used when a Special Resolution \(as defined in the [Constitution](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/constitution.html)\) is required |
+| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days \(10 working days encouraged when possible\) | This option should be used for more consequential decisions, such as changes to [Agreements](https://handbook.enspiral.com/agreements). |
+| Quorum Decision | Passes as long as there are no blocks. | Requires at least 75% of all eligible voters to agree or abstain \(meaning at least ¾ of all group members must participate\) | 5 working days \(10 working days encouraged when possible\) | This option is used when a Special Resolution \(as defined in the [Constitution](https://handbook.enspiral.com/foundation/constitution) is required |
 | Emergency Decision | Passes even if there are blocks, but requires 75% of those stating a position to agree | None | 10 working days. If faster action is required, the board can exercise its emergency powers. | This option is a safeguard when the normal decision making processes fails. This option is only used in specific circumstances where a minority block would be destructive, such as removing a member, contributor or venture from the community or a role. |
 
 ## Discussions & Proposals
