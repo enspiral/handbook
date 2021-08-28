@@ -10,7 +10,7 @@ Working groups \([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCv
 * [Collaborative funding](collaborative-funding.md) \(hibernating\)
 * [Comms](comms.md) \(active\)
 * [Enspiral Brand](brand_working_group.md) \(active\)
-* [Financial](financial.md) \(hibernating\)
+* [Financial](collaborative-funding.md) \(hibernating\)
 * [Gatherings](gatherings.md) \(vibrant\)
 * [MoneySwarm](external-funding.md) \(active\)
 * [Pods](pods.md) \(active\)
