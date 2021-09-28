@@ -1,6 +1,6 @@
 # Board of Directors
 
-As a registered New Zealand company, Enspiral Foundation Ltd has to have directors. Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so our approach is a “minimum viable board” \(MVB\), with a narrow compliance focus. You can see the details in the [Board Agreement](board.md).
+As a registered New Zealand company, Enspiral Foundation Ltd has to have directors. Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so our approach is a “minimum viable board” \(MVB\), with a narrow compliance focus. You can see the details in the [Board Agreement](https://handbook.enspiral.com/agreements/board).
 
 **Responsibilities**
 
