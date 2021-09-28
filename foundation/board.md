@@ -44,7 +44,7 @@ I'm enthusiastic about co-ownership, self-governance and building relationships 
 
 I am an experienced systems and technical support specialist and helping people to connect with new technology is at the heart of what I do for work. I'm currently working with New Zealand-based electric vehicle charging network Thundergrid as a Charge Point Operator, with the mission of transitioning transport to cleaner technology. I also work with the Enspiral Venture Greaterthan administering finances. I am also a freelance cellist and adventurous performer and arts advocate in Wellington.
 
+### Lucia Die Gil
 
-
-
+I would love to see the spaces where we work and live together becoming healthier, more open, more spacious and more generous. I believe that bringing awareness to our relationships is the key to setting the foundations of the structures we can create these spaces around. With that focus, I work with global people and organisations as a coach, trainer and facilitator. 
 
