@@ -4,7 +4,7 @@
 
 ### The contract
 
-Enspiral Foundation Limited via the Board has contracted the Ops team to provide a range of back office and administrative services. This is a summarised version of the agreed scope of work.
+Enspiral Foundation Limited via the Board has contracted the Ops team (Optimi) to provide a range of back office and administrative services. This is a summarised version of the agreed scope of work.
 
 ### Ops
 
