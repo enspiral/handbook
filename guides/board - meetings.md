@@ -24,13 +24,13 @@ As the current board we have collectively defined some roles within the board to
 
 **The current people holding each role are;**
 
-* Chair - Bart de Vries
+* Chair -  
 
 * Minutes Writer - Susan Basterfield
 
 * Financial Reporter - Susan Basterfield
 
-* WG Reporter - Anthony Cabraal
+* WG Reporter -  
 
 * Fishbowl Coordinator - Not Appointed
 
