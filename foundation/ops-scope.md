@@ -8,19 +8,13 @@ Enspiral Foundation Limited via the Board has contracted the Ops team to provide
 
 ### Ops
 
-The Ops team were a pod within Enspiral Services Ltd but in March 2017 setup as an independent company. They were originally founded by Malcolm Shearer and Phill Coxon in July 2015 to take on the admin work of Tracey in Enspiral Services Ltd and Phill in Enspiral Foundation Ltd. The current team, all based in Wellington:
-
-* Malcolm Colman-Shearer
-* Charley Davenport
-* Rupert Snook
-* Andre Robertson-Bate
+Optimi is an Enspiral venture founded by Malcolm Colman-Shearer to enable organisations to spend more time working on the stuff that matters by optimising organisational systems and processes.
 
 ## Contracted work
 
 **Banking and Xero - Financial Admin**
 
 * Process invoices and bills and keep bank accounts reconciled to Xero
-* Update accounts on the my.enspiral backend system, and regularly reconcile
 * Make payments for monthly fixed costs
 * Pay out Cobudget buckets after the [Bucket Payout form](../money/collabfunding.md) is filled in.
 * Chase any overdue invoices
@@ -50,7 +44,7 @@ The Ops team were a pod within Enspiral Services Ltd but in March 2017 setup as 
 **Manage Membership**
 
 * Run annual member re-opt-in process and check in with members on hiatus
-* Work with the Member meeting crew to schedule 2-monthly members meetings
+* Work with the Member meeting crew to schedule monthly members meetings
 * Add and remove members from the Members Loomio and Slack groups as needed
 * Manage issue and forfeiture of member shares in the Foundation 
 
@@ -62,7 +56,7 @@ The Ops team were a pod within Enspiral Services Ltd but in March 2017 setup as 
 * Manage document signing for shareholder resolutions
 
 **Collaborative Funding**
-
+Currently paused until a new approach is established (circa 2021)
 * Ensure all contributors are added to Cobudget
 * Distribute funds in Cobudget according to contributions
 * Update buckets when paid out
