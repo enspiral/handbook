@@ -41,12 +41,10 @@ Optimi is an Enspiral venture founded by Malcolm Colman-Shearer to enable organi
 * Serve as SaaS admin for all Foundation platforms
 * Reconcile list of users for all tools with master list of contributors
 
-**Manage Membership**
+**Manage Foundation Stewards**
 
-* Run annual member re-opt-in process and check in with members on hiatus
-* Work with the Member meeting crew to schedule monthly members meetings
-* Add and remove members from the Members Loomio and Slack groups as needed
-* Manage issue and forfeiture of member shares in the Foundation 
+* Run annual foundation steward re-opt-in process 
+* Manage issue and forfeiture of  shares in the Foundation 
 
 **Company Support**
 

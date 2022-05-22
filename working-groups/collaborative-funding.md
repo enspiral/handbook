@@ -2,7 +2,7 @@
 
 [_WG Statuses_](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)_: Hibernating_
 
-**UPDATE 2021-08-28** \| These Working Groups are not the same in scope but their activity areas did overlap. Notable recent Loomio threads included the final notes from the Assembly Sprint and the orange flag from the MVB, which the Financial WG characterized as a good flag that some proactivity in this area would benefit the network, but not a real sign of anything at risk at this time.
+**UPDATE 2021-08-28** \| These Working Groups are not the same in scope but their activity areas did overlap. Notable recent Loomio threads included the final notes from the Assembly Sprint and the orange flag from the board, which the Financial WG characterized as a good flag that some proactivity in this area would benefit the network, but not a real sign of anything at risk at this time.
 
 ## Financial
 

@@ -4,7 +4,7 @@
 
 This agreement sets out the roles and responsibilities of the Enspiral Foundation Board and the powers granted to the [Directors of Enspiral Foundation Ltd](board.md). As a [registered limited liability company](https://www.business.govt.nz/companies/app/ui/pages/companies/3415611), Enspiral Foundation Ltd is legally required to have a board of directors and a chairperson.
 
-Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so our approach is a “minimum viable board” \(MVB\), with a narrow compliance focus.
+Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so our approach is a light board, with a narrow focus.
 
 ## Roles & Responsibilities
 
@@ -14,19 +14,21 @@ Enspiral’s goal is to distribute vision, strategy, and leadership as widely as
 * Oversee all agreements between Enspiral Foundation Ltd and other entities \(including Enspiral Ventures and external organisations\), such as memorandums of understanding \(MOUs - [see definition](http://whatis.techtarget.com/definition/memorandum-of-understanding-MOU-or-MoU)\), service contracts, fundholding arrangements, etc.
 * Make recommendations about substantive decisions involving Enspiral Foundation Ltd and its assets, consulting with the shareholders and wider network.
 * Report quarterly on its activities to the shareholders and wider network.
+* Decide on the contents of [Node Guidelines](../guides/node-guidelines.md) using an [Advice Decision](./decisions.md). 
+* Approve new [Enpsiral Nodes](../agreements/nodes.md) and decomission inactive / rogue Nodes.
+* Protect the Enspiral brand and ensure the Enspiral Foudnation has ultimate control over Enspiral brand assets and social media accounts.
 
 ## Selection & Composition
 
-* Members \(shareholders\) and existing directors are expected to actively maintain a diverse board in keeping with the [Diversity Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/diversity.html).
+* Foundation Stewards and existing directors are expected to actively maintain a diverse board in keeping with the [Diversity Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/diversity.html).
 * Enspiral currently has no quota or strict compositional requirements of the board as we do not want to limit the spectrum of diversity considered.
-* Directors do not need to be Enspiral Members, and the perspectives of non-member directors should be welcomed.
 
 ## Processes
 
 Defined by the company Constitution:
 
-* Directors not disqualified under the Companies Act can be appointed by the shareholders of Enspiral Foundation Ltd \(Enspiral Members\) with 75% support.
-* Directors can be removed by the shareholders of Enspiral Foundation Ltd \(Enspiral Members\) with 75% support.
+* Directors not disqualified under the Companies Act can be appointed by the shareholders of Enspiral Foundation Ltd with 75% support.
+* Directors can be removed by the shareholders of Enspiral Foundation Ltd with 75% support.
 * There will be a minimum of 3 and a maximum of 8 directors at any one time.
 * The Directors must elect one of their number as chairperson of the Board.
 
@@ -34,9 +36,9 @@ Further defined by this agreement:
 
 * The board of directors will meet at least quarterly.
 * Directors serve a term of a minimum of 2 years and a maximum of 5 years.
-* Decisions about appointing and removing directors will be made in the Enspiral Members Loomio group.
-* Any Enspiral member may nominate a new Director.
-* All directors must become Enspiral Contributors, in order to have access and context on network activity.
+* Decisions about appointing and removing directors will be made in the Foudnation Stewards Loomio group.
+* Any Foudnation Steward may nominate a new Director.
+* All directors must become an Enspiral member, in order to have access and context on network activity.
 * The Chair is selected by a 'paper, scissor, rock' process \(best 2 out of 3\), with the loser becoming the Chair of board for 12 months.
 
 ## Emergency Powers

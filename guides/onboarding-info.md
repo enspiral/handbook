@@ -1,5 +1,7 @@
 # Onboarding Emails
 
+TODO: update based on new node process.
+
 When a new contributor joins Enspiral, they receive a series of six email messages over six weeks for orientation to the network - how it functions and how they can participate. In the last email, we ask for feedback about their experience.
 
 The message series is part of a project by the Ops Team at Enspiral to improve the experience of new Contributors coming into Enspiral. If you have feedback or would like to contribute to this project email [foundation@enspiral.com](mailto://foundation@enspiral.com)

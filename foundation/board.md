@@ -1,6 +1,6 @@
 # Board of Directors
 
-As a registered New Zealand company, Enspiral Foundation Ltd has to have directors. Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so our approach is a “minimum viable board” \(MVB\), with a narrow compliance focus. You can see the details in the [Board Agreement](https://handbook.enspiral.com/agreements/board).
+As a registered New Zealand company, Enspiral Foundation Ltd has to have directors. Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so the board has a narrow focus. You can see the details in the [Board Agreement](https://handbook.enspiral.com/agreements/board).
 
 **Responsibilities**
 
@@ -17,11 +17,11 @@ As a registered New Zealand company, Enspiral Foundation Ltd has to have directo
 
 **Reporting**
 
-The MVB reports regularly to the network as a whole [on Loomio](https://www.loomio.org/d/oFN6x8t5/re-introducing-the-enspiral-foundation-mvb-board-of-directors-), and participates quarterly venture reporting \(since Enspiral Foundation Ltd is itself an Enspiral Venture\).
+The board reports regularly to the network as a whole [on Loomio](https://www.loomio.org/d/oFN6x8t5/re-introducing-the-enspiral-foundation-mvb-board-of-directors-), and participates quarterly venture reporting \(since Enspiral Foundation Ltd is itself an Enspiral Venture\).
 
 **Scope**
 
-The point of a ‘minimum’ board is that the scope is limited - the MVB specifically focuses on Enspiral Foundation Ltd \(not the entire Enspiral network\), and within that only governance.
+The scope board is that the scope is limited - the board specifically focuses on Enspiral Foundation Ltd \(not the entire Enspiral network\), and within that only governance.
 
 Examples of things within scope:
 
