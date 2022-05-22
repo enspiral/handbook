@@ -17,6 +17,7 @@ Enspiral’s goal is to distribute vision, strategy, and leadership as widely as
 * Decide on the contents of [Node Guidelines](../guides/node-guidelines.md) using an [Advice Decision](./decisions.md). 
 * Approve new [Enpsiral Nodes](../agreements/nodes.md) and decomission inactive / rogue Nodes.
 * Protect the Enspiral brand and ensure the Enspiral Foudnation has ultimate control over Enspiral brand assets and social media accounts.
+* Add / Remove members who are not part of a node to the network.
 
 ## Selection & Composition
 
