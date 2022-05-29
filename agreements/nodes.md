@@ -30,4 +30,4 @@ An Enspiral member may be part of multiple Nodes. Membership of multiple nodes i
 
 These guidelines can be changed by the board through an advice process.
 
-[First iteration of node guidelines coming soon
+*First iteration of node guidelines coming soon*
