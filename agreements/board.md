@@ -14,7 +14,7 @@ Enspiral’s goal is to distribute vision, strategy, and leadership as widely as
 * Oversee all agreements between Enspiral Foundation Ltd and other entities \(including Enspiral Ventures and external organisations\), such as memorandums of understanding \(MOUs - [see definition](http://whatis.techtarget.com/definition/memorandum-of-understanding-MOU-or-MoU)\), service contracts, fundholding arrangements, etc.
 * Make recommendations about substantive decisions involving Enspiral Foundation Ltd and its assets, consulting with the shareholders and wider network.
 * Report quarterly on its activities to the shareholders and wider network.
-* Decide on the contents of [Node Guidelines](../guides/node-guidelines.md) using an [Advice Decision](./decisions.md). 
+* Decide on the contents of [Node Requirements](../agreements/nodes.md) using an [Advice Decision](./decisions.md). 
 * Approve new [Enpsiral Nodes](../agreements/nodes.md) and decomission inactive / rogue Nodes.
 * Protect the Enspiral brand and ensure the Enspiral Foundation has ultimate control over Enspiral brand assets and social media accounts.
 * Add / Remove members who are not part of a node to the network.
