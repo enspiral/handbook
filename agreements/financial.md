@@ -28,7 +28,7 @@ All one-off gifts to the foundation go to the core funds.
 
 #### Membership
 
-All recurring membership fees go to core funds. The board is responsible for setting membership fee levels and processes via the membership fees guide.
+Except for membership fees collected directly by Enspiral Nodes, all recurring membership fees are considered global memberships and go to core funds. The board is responsible for setting global membership fee levels and processes via the membership fees guide.
 
 #### Sponsorship
 

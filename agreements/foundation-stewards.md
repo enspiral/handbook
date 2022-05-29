@@ -26,7 +26,7 @@ The intent is for each Foundation Steward to have an equal voice in shareholder 
 # A note on numbers
 The foundation stewards group are the ultimate power holder when it comes to determining the actions of the Enspiral Foundation. They have the power to rewrite the constitution, appoint the board of directors and control the Enspiral brand and money. It is important that this role is accessible to anyone who wants that responsibility and we have a wide and diverse group of stewards.
 
-Also, the more formal shareholders we have then the more work there is for the ops team and the more unwieldy it becomes to manage. We have not placed any limits on the numbers of stewards, or significant barriers in the way of people stepping in to this role and trust individuals to make the call on whether to join or not.
+Also, the more formal shareholders we have then the more work there is for the ops team and the more unwieldy it becomes to manage. We have not placed any limits on the numbers of shareholders, or significant barriers in the way of people stepping in to this role and trust individuals to make the call on whether to request a share or not.
 
 If you think the value of having your voice in this group is worth the administrative cost to the ops team of managing your share then step in. Likewise, if you feel like this group is working fine without your input, feel free to step out.
 

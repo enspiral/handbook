@@ -8,7 +8,7 @@
 Purpose, scope, role
 
 * Owns the Enspiral brand and IP
-* Is owned collectively by the Enspiral Foundation Stewards
+* Is owned collectively by the Enspiral Foundation Shareholders
 * Charitable company
 * Vehicle for collaboration
 * Budget comes from contributions from ventures and individuals
@@ -17,7 +17,7 @@ Purpose, scope, role
 Notes...
 
 * The Enspiral Foundation is incorporated as a limited liability company with a charitable constitution. It is not officially registered as a Charity, but is governed for charitable purposes.
-* The Foudnation Stewards are the shareholders of the Foundation and collectively own it
+* Some of the Foundation Stewards are the shareholders of the Foundation and collectively own it
 * Shareholding relates to decision-making stakeholding power, and does not bear financial dividends.
 * The Foundation is structured so that no profit is taken out - all financial returns are re-invested in supporting the network as a whole and its social impact mission.
 

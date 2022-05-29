@@ -16,7 +16,7 @@ Enspiral’s goal is to distribute vision, strategy, and leadership as widely as
 * Report quarterly on its activities to the shareholders and wider network.
 * Decide on the contents of [Node Guidelines](../guides/node-guidelines.md) using an [Advice Decision](./decisions.md). 
 * Approve new [Enpsiral Nodes](../agreements/nodes.md) and decomission inactive / rogue Nodes.
-* Protect the Enspiral brand and ensure the Enspiral Foudnation has ultimate control over Enspiral brand assets and social media accounts.
+* Protect the Enspiral brand and ensure the Enspiral Foundation has ultimate control over Enspiral brand assets and social media accounts.
 * Add / Remove members who are not part of a node to the network.
 
 ## Selection & Composition
@@ -37,8 +37,8 @@ Further defined by this agreement:
 
 * The board of directors will meet at least quarterly.
 * Directors serve a term of a minimum of 2 years and a maximum of 5 years.
-* Decisions about appointing and removing directors will be made in the Foudnation Stewards Loomio group.
-* Any Foudnation Steward may nominate a new Director.
+* Decisions about appointing and removing directors will be made in the Foundation Stewards Loomio group.
+* Any Foundation Steward may nominate a new Director.
 * All directors must become an Enspiral member, in order to have access and context on network activity.
 * The Chair is selected by a 'paper, scissor, rock' process \(best 2 out of 3\), with the loser becoming the Chair of board for 12 months.
 
