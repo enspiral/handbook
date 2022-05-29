@@ -110,3 +110,7 @@ To do this, go to the [Activity tab](https://www.gitbook.com/book/enspiral/enspi
 
 ![](http://g.recordit.co/VKyB3IqBgc.gif)
 
+
+## Gitbook build errors
+
+If you are getting an error running `gitbook build` or `gitbook serve` you may need to fix one of the dependencies as outlined in [this stack overflow issue](https://stackoverflow.com/questions/64211386/gitbook-cli-install-error-typeerror-cb-apply-is-not-a-function-inside-graceful)
