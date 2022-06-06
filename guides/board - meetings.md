@@ -50,7 +50,7 @@ Contributors are welcomed to talk to anyone on the board but if they are not con
 
 * Share the agenda \(with relevant checks on Loomio\)
 
-* Share required documents with Board Members for the next meeting \(with relevant checks on Loomio\)
+* Share required documents with Board members for the next meeting \(with relevant checks on Loomio\)
 
 * Facilitate the board meeting
 
@@ -126,17 +126,17 @@ The Chair will put a call out on the Board Loomio Group between 7-14 days prior 
 
 Any documents that board members need to read before a board meeting must initially be sent to the Chair a minimum of 7 days prior to the next board meeting. The Chair will then post the documents on the Board Loomio Group with a check for the board members to complete to show they have read the documents prior to the board meeting.
 
-## **Getting documents to the Board Members**
+## **Getting documents to the Board members**
 
-If you need need the board to make a decision on something and have relevant documents that the Board Members need to read, please send those documents to the Chair a minimum of 7 day prior to the next Board meeting \(so that everyone ha time to do the required reading\). The Chair will then circulate to the Board Members.
+If you need need the board to make a decision on something and have relevant documents that the Board members need to read, please send those documents to the Chair a minimum of 7 day prior to the next Board meeting \(so that everyone ha time to do the required reading\). The Chair will then circulate to the Board members.
 
 # **Meeting Process**
 
-The meeting is facilitated by the board Chair with support from fellow board members and follows the agenda agreed upon by the Board Members.
+The meeting is facilitated by the board Chair with support from fellow board members and follows the agenda agreed upon by the Board members.
 
 # **Meeting Minutes**
 
-Meeting minutes are written by the Minute Writer in the agreed format that the board has set up. Those minutes are then published on the Board Loomio Group by the Chair and a check is put in place for all Board Members to confirm they have read and agree with the minutes. Those minutes are then PDF’d and published on the Board Loomio Group and uploaded into the Google Drive Folder relating to that specific meeting.
+Meeting minutes are written by the Minute Writer in the agreed format that the board has set up. Those minutes are then published on the Board Loomio Group by the Chair and a check is put in place for all Board members to confirm they have read and agree with the minutes. Those minutes are then PDF’d and published on the Board Loomio Group and uploaded into the Google Drive Folder relating to that specific meeting.
 
 # **Tasks**
 

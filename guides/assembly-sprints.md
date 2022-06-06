@@ -22,10 +22,7 @@ Then, \[5-9 weeks in advance\], the Assembly Working Group would use advice proc
 
 ### Parameters
 
-Contributors and Members will be able to participate.
-
-* Contributors get blocking power if they commit to the two-week sprint
-* Members have blocking power in any decisions in the Assembly Sprint whether or not they “opt-in”
+All Enspiral members are able to participate and have blocking power if they commit to the two-week sprint.
 
 These were agreed to at a number of stages, [starting in this thread](https://www.loomio.org/d/myTOM64J/next-steps-and-2018-closing-comments-assembly-sprint-an-online-enspiral-convergence?q=).
 

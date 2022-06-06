@@ -2,16 +2,18 @@
 
 This is a list of processes that Ops runs in Enspiral Foundation and which are part of our [scope of work](https://handbook.enspiral.com/ops-scope.html). We'll build this up over time.
 
-* Contributor onboarding, annual opt-ins, offboarding and maintenance
+* Enspiral member onboarding, annual opt-ins, offboarding and maintenance
 * Bookkeeping, maintaining collab finance
 * Customer support
 * Administration
-  * Member maintenance / company office updates  
+  * Shareholder maintenance / company office updates  
 * Optimising
 
 ## Contributor processes
 
 ### Onboarding
+
+TODO: update based on new node process.
 
 Enspiral Members complete the “Add new contributor form” listed on the [Forms page](https://handbook.enspiral.com/guides/forms.html) in the handbook. Members are the new Contributor’s Steward by default unless they have arranged for someone else to be their Steward.
 
