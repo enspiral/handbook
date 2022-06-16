@@ -1,6 +1,6 @@
 # Conflict Resolution
 
-## a.k.a. Tranformative Justice Guidelines
+## a.k.a. Restorative Justice Guidelines
 
 Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](../working-groups/well-working-group.md) will support this mission by developing network resources for constructive dialogue and co-working.
 
@@ -16,10 +16,10 @@ If you are in conflict with someone else consider taking these three steps:
 
 ### 1.  Contemplate Conflict
 
-* Take time to _process_ experiences if you feel confused, overwhelmed or agitated.
-* Note _uncertainties_ and possible _misunderstandings_ in your interactions, including cultural differences.
-* Distinguish people's _actions_ from your _feelings_ about them.  They're both important, but they're different.
-* Distinguish _disagreement_ from personal _hostility._  We're allowed to disagree, dissent and discuss.
+* Take time to process your experiences if you feel confused, overwhelmed or agitated.
+* Note uncertainties and possible misunderstandings in your interactions, including cultural differences.
+* Distinguish people's actions from your feelings about them.  They're both important, but they're different.
+* Distinguish disagreement from personal hostility.  We're allowed to disagree, dissent and discuss.
 * Review relevant documents and Conflict Resolution Support.
 
 If you've contemplated the experience and have decided it feels like it may be _harassment_ or _abuse_, please consult our [Harassment and Abuse Policy](../agreements/harassment_and_abuse.md).
@@ -43,7 +43,7 @@ If you're unable to resolve a conflict on your own, invite conversation. The soo
 * Mutually _sign written plans_ in serious cases, or whenever desired.
 * _Follow up_ later to discuss progress.
 
-## Transformative Justice Support
+## Conflict Resolution Support
 
 Again, if you've contemplated the experience and have decided it feels like it may be _harassment_ or _abuse_, please consult our [Harassment and Abuse Policy](../agreements/harassment_and_abuse.md).
 
