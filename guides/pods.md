@@ -125,7 +125,7 @@ There are two ways you can help make your pod experience increasingly useful to 
 
 **Survey of Interest** - Find alignment and participants _\[click to expand\]_
 
-* One way to easily gather the ideal mix of participants is to do a survey. This can also help a group to find or strengthen its shared intention or to choose rituals/ format. You can take advantage of [this template survey](http://tiny.cc/peerincubator) of interest which can help your pod illuminate its shared intention; you might include this in your invitation to track who is saying yes.
+* One way to easily gather the ideal mix of participants is to use a survey. This can also help a group to find or strengthen its shared intention or to choose rituals/ format. You can take advantage of [this template survey](http://tiny.cc/peerincubator) of interest which can help your pod illuminate its shared intention; you might include this in your invitation to track who is saying yes.
 
 ## Additional resources
 
