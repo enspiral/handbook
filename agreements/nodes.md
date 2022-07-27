@@ -2,13 +2,13 @@
 
 An Enspiral node is a formal subgroup of Enspiral that has the power to manage their agreements, processes and finances independently.
 
-The board is responsible for creating and maintaining the Node Requirements (below) which are required to outline the requirements for starting, running and closing a node. 
+The Foundation Board is responsible for creating and maintaining the Node Requirements (below) which are required to outline the requirements for starting, running and closing a node. 
 
-The board has the power to approve requests for new Nodes and dissolve inactive / rogue Nodes.
+The Foundation Board has the power to approve requests for new Nodes and dissolve inactive / rogue Nodes.
 
 ## Node Hosts
 
-Each node is expected to have at least two node hosts who are responsible for communicating with the board and the wider network.
+Each node is expected to have at least two node hosts who are responsible for communicating with the Foundation Board and the wider network.
 
 ## Joining / leaving process
 
@@ -28,6 +28,6 @@ An Enspiral member may be part of multiple Nodes. Membership of multiple nodes i
 
 # Node Requirements
 
-These guidelines can be changed by the board through an advice process.
+These guidelines can be changed by the Foundation Board through an advice process.
 
 *First iteration of node guidelines coming soon*
