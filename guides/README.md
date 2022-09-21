@@ -27,3 +27,4 @@ Guides explain in practical terms how we do stuff. Any Enspiral Contributor can 
 * [Stewarding](stewarding.md) - how we look after people in the network
 * [Workshop Patterns](workshop_patterns.md) - group processes we use in participatory workshops
 
+testing github
