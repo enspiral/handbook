@@ -2,7 +2,7 @@
 
 ## Well Working Group has been disbanded \(at least for time being\)
 
-The **Members are currently the point people** for inquiries, comments or concerns around Personal Conduct. 
+Your nodes **coordinators, or the board, are currently the point people** for inquiries, comments or concerns around Personal Conduct. 
 
 ### Contact
 
