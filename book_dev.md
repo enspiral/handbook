@@ -1,5 +1,17 @@
 ## Building the gitbook locally
 
+###  25/01/23 update from JV
+
+gitbooks cli is unsupported and falling apart at the seams
+honkit is a maintained fork which works out of the box
+https://github.com/honkit/honkit
+
+just `npm install` and you will have all the plugins loaded and `npx honkit serve` will give you a local preview
+
+
+### old instructions
+
+
 You need node, gitbook-cli, and this repo
 
 ```

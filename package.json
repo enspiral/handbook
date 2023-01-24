@@ -1,0 +1,25 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "description": "If you're looking for introductory information about Enspiral, check our website [enspiral.com](http://enspiral.com/), [this quick slideshow](http://whatis.enspiral.com), or [this 90 second video](https://vimeo.com/125088390).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enspiral/handbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enspiral/handbook/issues"
+  },
+  "homepage": "https://github.com/enspiral/handbook#readme",
+  "devDependencies": {
+    "gitbook-plugin-collapsible-menu": "^1.0.3",
+    "gitbook-plugin-ga": "^2.0.0",
+    "gitbook-plugin-video": "^0.0.3",
+    "honkit": "^4.0.4"
+  }
+}
