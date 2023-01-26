@@ -13,7 +13,10 @@ This is a list of processes that Ops runs in Enspiral Foundation and which are p
 
 ### Onboarding
 
-TODO: update based on new node process.
+Optimi are contracted by the Enspiral Foundation to manage the global membership. When a new member is added by a Node, Optimi will add them to our loomio, slack, google workspace and mailing list. If the Node is not financially enabled Optimi will also manage the financial subscriptions to the Foundation.
+If a Node wishes for Optimi to do any custom integrations or management they will need to enter into an independent arrangement.
+
+TODO: update below based on new node process.
 
 Enspiral Members complete the “Add new contributor form” listed on the [Forms page](https://handbook.enspiral.com/guides/forms.html) in the handbook. Members are the new Contributor’s Steward by default unless they have arranged for someone else to be their Steward.
 

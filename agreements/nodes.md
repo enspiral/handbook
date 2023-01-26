@@ -28,6 +28,26 @@ An Enspiral member may be part of multiple Nodes. Membership of multiple nodes i
 
 # Node Requirements
 
-These guidelines can be changed by the Foundation Board through an advice process.
+The Board will update this agreement periodically with an advice process. This policy is a first iteration, if it hasn’t changed by Mar 2023 it is probably a bit stale.
 
-*First iteration of node guidelines coming soon*
+Please talk to the Board early if you are considering starting a Node. When you’re ready to form a Node, fill in [this form](https://docs.google.com/forms/d/1tcWPO7LE78jSP8wmIH7r95cSyg-HhW5TGnOY4BOvyhQ/edit).
+
+
+## Nodes must:
+
+* **maintain communication with the Board**. Nodes must name 2 formal **representatives** who will be responsive to Board requests.
+
+* **hold a gathering** at least twice per year (online or in person). Members of other Enspiral Nodes must be welcome to join at least part of the gatherings.
+
+* **maintain written documentation** (e.g. handbook, wiki, shared doc), visible to the wider Enspiral network. Nodes inherits all Enspiral agreements, unless explicitly overwritten.
+
+* **have a membership policy**, e.g. who can invite someone to join? What is expected of them? On what grounds would they be asked to leave?
+
+* **communicate with Enspiral Ops** within 5 working days when a member joins or leaves so we can maintain our global member database and add them to our global communication platforms.
+
+* if financially enabled, Nodes must make **finances transparent to the wider Enspiral network**. Nodes are expected to charge members a subscription fee, though offering scholarships or subsidies where appropriate is acceptable.
+
+* ensure that all ownership and **control over Enspiral branded** domain names, trade marks, social media accounts is **given to the Enspiral Foundation**.
+
+* receive **Board or Brand working group approval for any commercial use** of the Enspiral brand except for running Enspiral gatherings.
+
