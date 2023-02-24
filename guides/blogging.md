@@ -1,5 +1,9 @@
 # Blogging
 
+- [ ] record conversation with Rich
+- [ ] update stats
+- [ ] fall22 cobudget bucket for Enspiral Podcasts
+
 ![](https://i.imgur.com/ZZO5vsM.png)
 
 During the original Catalyst experiment, Gina started [Enspiral Tales](https://medium.com/enspiral-tales) - a Medium collection for blog stories written by Enspiral people.

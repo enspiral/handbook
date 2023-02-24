@@ -1,5 +1,8 @@
 # Assembly Sprint
 
+- [x] reach out to record a conversation about assembly sprints
+- [ ] update doc with newest links
+
 ## What is an Assembly Sprint?
 
 Assembly Sprints are for organizing the most important discussions and decisions for this season into one place for us to have our say and move the network forwards. Your voice matters, and we invite you to bring your gifts to bear on our collective potential, unfolding the value of our collective, its resources \(even its agreements, protocols, tools and shared understandings\) and its current and future relationships.

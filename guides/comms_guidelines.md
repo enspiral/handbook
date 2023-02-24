@@ -1,5 +1,8 @@
 # Comms Guidelines
 
+- [x] send email to check if the help info still accurate
+- [x] check in enspiral help
+
 ## Comms Guidelines
 
 This guide is here to give an overview of the channels we've decided to adopt and to give you some tips for how best to communicate with the network.
@@ -25,6 +28,9 @@ The Improvements board is a place to see work in progress. We will occasionally 
 [**Slack**](http://enspiral.slack.com) **- Daily Realtime Comms**
 
 Daily chatting, realtime comms, quick questions, interesting links. There is a \#watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own!
+
+You can brows through all the channels on Slack. Note that some channels are inactive.
+- [ ] add screenshot
 
 Here's a list of popular Slack Channels:
 

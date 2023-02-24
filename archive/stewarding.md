@@ -1,5 +1,9 @@
 # Stewarding
 
+{% hint style="info" %}
+Archived
+{% endhint %}
+
 Since the adoption of the [stewardship agreement](../agreements/stewardship.md), we're in a process to give stewards to all members, new contributors, and anyone else who wants one.
 
 As this process gets underway, the intention is to update this guide with what we learn about processes and guidelines.

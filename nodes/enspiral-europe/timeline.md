@@ -1,5 +1,8 @@
 # Timeline
 
+- [ ] add images
+- [ ] add direct link to subscribe to newsletter at the end
+
 *Subjective note from the author:* Documenting the emergence of Enspiral Europe Node sent me down a rabbit hole of research, digging through Loomio, Slack, various documents, and old newsletters, looking for the most important pieces of our story and weaving different perspectives together.
 
 While everything is context dependent and your node-building journey will most likely look different to ours, there seem to be a few underlying principles at play that lay at the foundation of the entire Enspiral ecosystem:
@@ -22,8 +25,6 @@ ps. If you’d like to add your perspective on the process I invite you to contr
 Back in 2020, a post appeared on Enspiral Loomio:
 
 IMAGE
-
-![](../.gitbook/assets/contributing-1.png)
 
 Fast forward to September 2022, and you'll see another post, this time giving the official thumbs up from the Enspiral Board for Enspiral Europe - the very first Node within Enspiral.
 

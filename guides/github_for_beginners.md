@@ -1,5 +1,7 @@
 # Github for Beginners
 
+- [ ] the last section missing content
+
 _Psst, if you like video, scroll to the bottom for an awesome video intro series from Gabby, featuring onesies!_ 😺
 
 ## Why Git?

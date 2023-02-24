@@ -1,5 +1,7 @@
 # Working Groups Agreement
 
+- [ ] how does a formal WG gets created if there are no catalysts?
+
 [_Approved: April 2019_](https://www.loomio.org/p/vksIn6z0/we-approve-the-working-group-agreement)
 
 Working groups are the way we build and maintain Enspiral, if Enspiral were a body, working groups would be the organs.
@@ -21,7 +23,6 @@ An informal working group is the easiest to start, it requires no approval and o
 A formal working group is a more robust working group with additional powers and responsibilities.
 
 * Catalyst approval is required to create a formal working group.
-	* **What if there are no catalysts?**
 * Only formal working groups can be delegated responsibilities or powers in an Agreement.
 
 ### Financial Enabled
