@@ -21,6 +21,7 @@ An informal working group is the easiest to start, it requires no approval and o
 A formal working group is a more robust working group with additional powers and responsibilities.
 
 * Catalyst approval is required to create a formal working group.
+	* **What if there are no catalysts?**
 * Only formal working groups can be delegated responsibilities or powers in an Agreement.
 
 ### Financial Enabled
@@ -90,6 +91,4 @@ The board is the friendly gatekeeper for financially enabled working groups.
 
 * Approve / reject requests to become a financially enabled working group.
 * Disband a financially enabled working group and appoint someone\(s\) to unwind the business unit.
-
-For more information about working groups, check out [this guide](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/working_groups.md).
 
