@@ -6,6 +6,8 @@ At the moment Enspiral has no active Catalysts.
 
 {% endhint %}
 
+- [ ] add podcast with Joriam
+
 ## Context
 
 In chemistry, a Catalyst is an agent of change, used in small amounts relative to the reactants, which reduces the amount of energy required to create a reaction, and activates the rest of the system without itself getting consumed.
