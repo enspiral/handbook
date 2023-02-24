@@ -88,7 +88,7 @@
     * [Gamelab](ventures/proto-ventures/gamelab.md)
     * [Enspiral Labs](ventures/proto-ventures/enspiral-labs.md)
     * [Ability Mate](ventures/proto-ventures/ability-mate.md)
-* [Resources](resources/)
+* [Resources](resources.md/)
 * [Archive](archive.md)
 	* [Stewarding](archive/stewarding.md)
 
