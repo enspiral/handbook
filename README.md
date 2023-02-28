@@ -8,7 +8,7 @@ Do you have feedback / share-backs / or want to build upon what's here? Reach ou
 
 Wishing you a magnificent day! ✨
 
-Live documentation of this process in this twitter thread.
+Live documentation of this process in this [twitter thread](https://twitter.com/michalkorzonek/status/1630632568260313098).
 
 {% endhint %}
 
