@@ -33,14 +33,14 @@ This book is in perpetual beta, it's constantly changing. If you see something t
 The book is broken up into chapters and sub-chapters. The chapters are:
 
 * [**Agreements**](agreements/) are the official legislation that governs the Enspiral network. Changing these requires a formal process.
+* [**Nodes**](nodes/) lists formal subgroups within our network
 * [**Guides**](guides/) explain in practical terms how we do stuff, like [what communications tools to use](guides/comms_guidelines.md), or [how to improve things at Enspiral](guides/improvements.md). Any Enspiral Contributor can change these.
 * [**Working Groups**](working-groups/) are where we do work on the network.
-* [**Nodes**](nodes/) list "subgroups" within our network
 * [**Enspiral Foundation**](foundation/) - the central node in the network. The [Board](foundation/board.md), [Ops Team](foundation/ops-scope.md), [Comms person](foundation/comms-role.md), and [Ventures](ventures/) all have some formal arrangement with the Foundation, which is owned by Foundation Shareholders.
 * [**Money**](money/) - a lot of what makes Enspiral special is how we deal with money. Read more about those processes in this chapter.
 * [**Ventures**](ventures/) - the companies that make up the network.
 * [**Resources**](web/enspiral-handbook-2023/nodes/enspiral-europe/resources.md) - a list of useful links
-* [**Archive**](archive/) compiles outdates info from previous iterations of our handbook, which feels like it's worth preserving to honour our lineage and for future reference.
+* [**Archive**](archive/) compiles outdated info from previous iterations of this handbook for future reference.
 
 ## Copyrights
 

@@ -21,6 +21,7 @@
 		* [About](nodes/enspiral-europe/about.md)
 		* [Timeline](nodes/enspiral-europe/timeline.md)
 		* [Resources](/nodes/enspiral-europe/resources.md)
+	* [Enspiral DAO](/nodes/enspiral-dao.md)
 * [Guides](guides/README.md)
   * [Activation Programme](guides/activation-programme.md)
   * [Air NZ Airpoints Program](guides/airnz.md)
@@ -37,7 +38,7 @@
   * [Github for Beginners](guides/github_for_beginners.md)
   * [Improvements](guides/improvements.md)
   * [Manage your enspiral.com profile](guides/manage-enspiral-website-profile.md)
-  * [Newcomers](newcomers.md)
+  * [Newcomers](guides/newcomers.md)
   * [Onboarding Emails](guides/onboarding-info.md)
   * [Ops processes](guides/ops_processes.md)
   * [People\*](guides/people.md)
@@ -91,4 +92,5 @@
 * [Resources](resources.md/)
 * [Archive](archive.md)
 	* [Stewarding](archive/stewarding.md)
+	* [Well Working Group](/archive/well-working-group.md)
 

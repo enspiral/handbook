@@ -1,16 +1,23 @@
 # Blogging
 
 - [ ] record conversation with Rich
-- [ ] update stats
-- [ ] fall22 cobudget bucket for Enspiral Podcasts
+- [ ] check if editors are still accurate
+- [ ] replace stats (which will keep getting outdated) with articles list?
+- [x] fall22 cobudget bucket for Enspiral Podcasts
 
 ![](https://i.imgur.com/ZZO5vsM.png)
 
+## Context
+
 During the original Catalyst experiment, Gina started [Enspiral Tales](https://medium.com/enspiral-tales) - a Medium collection for blog stories written by Enspiral people.
 
-Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This is a bucket of money that anyone in the network can contribute to. Rich arbitrarily hands out money to people for writing, editing and illustrating blog posts.
+Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This was a bucket of money that anyone in the network can contribute to. Rich arbitrarily handed out money to people for writing, editing and illustrating blog posts.
 
-_At 01/08/17, there is $2,000 in_ [_the bucket_](http://cobudget.co/#/buckets/1483) _- so get writing, get paid :\)_
+{% hint style="info" %}
+
+Creating Enspiral Blog and Podcast has been funded in [Fall'22 Cobudget Round](https://cobudget.com/enspiral/funding-round-2022/cl8rkemw8006509laj7vuh3sh). This is an active project with money available for content creators.
+
+{% endhint %}
 
 ## Content
 
@@ -56,6 +63,8 @@ If you want to make it easier on the editors of those publications, it’s helpf
 
 ## Impact
 
+- [ ] replace stats (which will keep getting outdated) with articles list?
+
 The results have been great: about 40 people have written stories, growing the publication to 2800 followers, getting about 5-10k hits in a month. Here's a summary of our all-time views:
 
 ![](https://i.imgur.com/u1dpv3D.png)
@@ -69,6 +78,8 @@ And our most popular stories to date \(updated Jan '19\):
 * [Unsplash](https://unsplash.com/): free high resolution photos
 
 ## Post script from Rich about Medium vs. free software
+
+- [ ] talk about best platforms during conversation with Rich
 
 People will rightly question: hey why are you supporting Medium over [free software](https://www.gnu.org/philosophy/free-sw.en.html) alternatives? Aren't they just another venture-backed company capturing the value we peer-produce for the common benefit of the internet!?
 

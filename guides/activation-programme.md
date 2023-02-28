@@ -1,12 +1,16 @@
 # Activation Programme
 
+- [ ] check with onboarding WG
+- [ ] archive the second part of the document?
+- [ ] find someone to record a podcast about onboarding into Enspiral. Is that you? ping Michał on Slack.
+
 This is an experiment that is currently being run with new contributors.
 
 ## What is it for?
 
 This programme aims is to support new contributors to become quickly active in the community through a "learning by doing" process. It consists in completing a list of easy / intermediate / hard challenges that will help any new contributor know more about Enspiral processes, people and culture.
 
-What are the challenges?
+Before starting the challenges, we invite you to **read [Enspiral Guide for Newcomers](guides/newcomers.md) compiled by Nick, providing excellent starting point into your Enspiral experience.**
 
 ### Easy challenges
 
@@ -14,8 +18,8 @@ What are the challenges?
   * join a working group
   * give feedback on the activation programme
 * Enspiral people
-  * attend an in person enspiral event
-  * interview an old timer
+  * attend an in person Enspiral event
+  * interview an old timer (even better, make a podcast!)
 * Enspiral culture and ideas
   * write a blog post
   * create a loomio thread
@@ -32,11 +36,13 @@ What are the challenges?
 ### Harder challenges
 
 * steward a new contributor through the activation programme
-* find paying work for someone enspiral
+* find paying work for someone Enspiral
 
 ## What is the experiment process?
 
-The experiment was kicked off at the beginning of sprint 30, with a loomio invitation to recruit initial voluntary participants. We will be holding fortnightly check-in threads in slack and tracking engagement with a monthly survey to get feedback from the participants.
+The experiment was kicked off at the beginning of sprint 30, with a Loomio invitation to recruit initial voluntary participants. We will be holding fortnightly check-in threads in slack and tracking engagement with a monthly survey to get feedback from the participants.
+
+- [ ] most likely archive / delete the part below.
 
 Here are the success criteria we will be assessing:
 

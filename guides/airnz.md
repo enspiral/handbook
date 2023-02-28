@@ -1,5 +1,7 @@
 # Air NZ Airpoints Program
 
+- [ ] check if this is still relevant
+
 ## Context
 
 There is a special way of contributing funds to Enspiral that does not involve money. You can contribute so-called “Airpoints” through Air New Zealand’s frequent flyer program. These airpoints could help the Commons to pay flight tickets or goods from the Airpoint Store. **By connecting your personal Airpoints Account you will keep 100% of your miles in your personal airpoints account AND contribute 20% additional airpoints to Enspiral.**
