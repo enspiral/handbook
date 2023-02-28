@@ -1,4 +1,4 @@
-https://docs.google.com/document/d/1VFAQQDThs2Q4Tw4W6mUB6pZTNivIVf31D2yWBMJmT04/edit#heading=h.apevou123661
+- [x] reach out to Nick
 
 # A Guide for Newcomers  
 

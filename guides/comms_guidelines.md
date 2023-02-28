@@ -1,8 +1,5 @@
 # Comms Guidelines
 
-- [x] send email to check if the help info still accurate
-- [x] check in enspiral help
-
 ## Comms Guidelines
 
 This guide is here to give an overview of the channels we've decided to adopt and to give you some tips for how best to communicate with the network.
@@ -139,7 +136,5 @@ Realize that any time you’re communicating to large groups of people, you are 
 
 ### If you need help...
 
-Contact news@enspiral.com to reach Jess, our comms maven.
-
-Drop into the \#enspiral\_help channel on Slack
+Contact foundation@enspiral.com or drop into the \#enspiral\_help channel on Slack
 
