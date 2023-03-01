@@ -1,7 +1,7 @@
 # Timeline
 
 - [ ] add images
-- [ ] add direct link to subscribe to newsletter at the end
+- [x] add direct link to subscribe to newsletter at the end
 
 *Subjective note from the author:* Documenting the emergence of Enspiral Europe Node sent me down a rabbit hole of research, digging through Loomio, Slack, various documents, and old newsletters, looking for the most important pieces of our story and weaving different perspectives together.
 
@@ -191,4 +191,4 @@ We’re on the right track 🚀
 
 --
 
-If you want to follow our journey, we invite you to subscribe to our [monthly newsletter](https://enspiral.com).
+If you want to follow our journey, we invite you to subscribe to our [monthly newsletter](https://mailchi.mp/4be697ce0c7b/enspiral-newsletter).

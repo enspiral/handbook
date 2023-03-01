@@ -1,5 +1,9 @@
 # Songs
 
+- [ ] waiata video broken link
+- [ ] more songs?
+- [ ] still relevant?
+
 “\[…\] Whenever humans come together for any reason, music is there \[…\]” - **Daniel Levitin**
 
 At gatherings and events like [Retreats](retreats.md) social activities can be an important part of developing culture and group identity. At some events singing has been used to welcome and farewell the attendees, and as part of sharing circles.

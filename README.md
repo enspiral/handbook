@@ -16,9 +16,9 @@ Live documentation of this process in this [twitter thread](https://twitter.com/
 
 Or at least that's one way to define what Enspiral is. Check out [our website](https://enspiral.com) for more context. You might also be inspired by our blog [Enspiral Tales](https://medium.com/enspiral-tales) and [this video](https://www.youtube.com/watch?v=lScGElP49Jc) created at Enspiral Summer Fest 2018.
 
-Our **monthly newsletter** is a great way to receive updates from our network.
+Our [**monthly newsletter**](https://mailchi.mp/4be697ce0c7b/enspiral-newsletter) is a great way to receive updates from our network.
 
-- [ ] add link to direct newsletter signup
+- [x] add link to direct newsletter signup
 - [ ] [this quick slideshow](http://whatis.enspiral.com), and [this 90 second video](https://vimeo.com/125088390) are fantastic but include outdated info about Enspiral structure. It would be great to re-edit if possible, or alternatively archive.
 - [x] ask on #enspiral-help ☝️
 

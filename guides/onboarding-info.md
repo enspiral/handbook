@@ -1,6 +1,7 @@
 # Onboarding Emails
 
-TODO: update based on new node process.
+- [ ] connect with onboarding WG and Ops
+- [ ] update based on new node process.
 
 When a new contributor joins Enspiral, they receive a series of six email messages over six weeks for orientation to the network - how it functions and how they can participate. In the last email, we ask for feedback about their experience.
 

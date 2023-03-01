@@ -1,5 +1,8 @@
 # Retreats\*
 
+- [ ] add guide from Rich
+- [ ] that's a perfect possibility to interview someone - is this you?
+
 Multimedia: [Retreats Timeline](https://docs.google.com/presentation/d/1UIO8q1G8-UNmQ2ckJD0JwTDiRVAeTdBL-GbMPdt_6qo/present#slide=id.p) - the first 10 Enspiral Retreats:
 
 ## Some notes about organising a multi-day event

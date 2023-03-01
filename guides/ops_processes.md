@@ -1,5 +1,8 @@
 # Ops processes
 
+- [ ] scope of work broken link
+- [ ] update process - no members / contributors / stewards
+
 This is a list of processes that Ops runs in Enspiral Foundation and which are part of our [scope of work](https://handbook.enspiral.com/ops-scope.html). We'll build this up over time.
 
 * Enspiral member onboarding, annual opt-ins, offboarding and maintenance
@@ -18,7 +21,7 @@ If a Node wishes for Optimi to do any custom integrations or management they wil
 
 TODO: update below based on new node process.
 
-Enspiral Members complete the “Add new contributor form” listed on the [Forms page](https://handbook.enspiral.com/guides/forms.html) in the handbook. Members are the new Contributor’s Steward by default unless they have arranged for someone else to be their Steward.
+Enspiral Members complete the “Add new contributor form” listed on the [Forms page](/guides/forms.md) in the handbook. Members are the new Contributor’s Steward by default unless they have arranged for someone else to be their Steward.
 
 Upon completion of this Form, Ops receives a notification with all of the details. At the same time, the new Contributor is sent an automated email with a link and request to complete the Contributor Details Form. Ops waits for the new Contributor to complete this form before onboarding them to the Enspiral apps and systems.
 

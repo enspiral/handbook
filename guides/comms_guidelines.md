@@ -1,5 +1,8 @@
 # Comms Guidelines
 
+- [ ] is improvements board still active?
+- [ ] add screenshot with slack channel browsing
+
 ## Comms Guidelines
 
 This guide is here to give an overview of the channels we've decided to adopt and to give you some tips for how best to communicate with the network.
@@ -27,6 +30,7 @@ The Improvements board is a place to see work in progress. We will occasionally 
 Daily chatting, realtime comms, quick questions, interesting links. There is a \#watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own!
 
 You can brows through all the channels on Slack. Note that some channels are inactive.
+
 - [ ] add screenshot
 
 Here's a list of popular Slack Channels:
@@ -55,7 +59,7 @@ Our tool for budgeting and financial decision making. Enspiral's discretionary b
 
 Every two weeks, a newsletter goes out to all Enspiral contributors via Mailchimp. It has info from ventures, media coverage, updates on decisions and happenings, and inspirational animal gifs.
 
-To get something published in News, email news@enspiral.com or post in the \#enspiral-news Slack channel. If you want to reach the whole network with non-urgent infomation, this is the way.
+To get something published in News, email foundation@enspiral.com or post in the \#enspiral-news Slack channel. If you want to reach the whole network with non-urgent infomation, this is the way.
 
 **Google Workspace**
 

@@ -1,5 +1,7 @@
 # Manage your enspiral.com profile
 
+- [ ] check with Ops for relevance
+
 All contributors to enspiral can have a public profile on enspiral.com There are just 2 easy steps you need to do.
 
 ## Step one
