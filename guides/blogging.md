@@ -1,11 +1,19 @@
 # Blogging
 
-- [ ] record conversation with Rich
+- [ ] record conversation with Rich - check about Medium subscript section
 - [ ] check if editors are still accurate
-- [ ] replace stats (which will keep getting outdated) with articles list?
 - [x] fall22 cobudget bucket for Enspiral Podcasts
 
-![](https://i.imgur.com/ZZO5vsM.png)
+As a member of Enspiral you are encouraged to share your experiences through our publishing platforms:
+
+- [Enspiral Tales](https://medium.com/enspiral-tales) on Medium
+- [Enspiral Podcast](https://www.youtube.com/watch?v=xyLl4HnXdyQ&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp) on Youtube
+
+{% hint style="info" %}
+
+Creating Enspiral Blog and Podcast has been funded in [Fall'22 Cobudget Round](https://cobudget.com/enspiral/funding-round-2022/cl8rkemw8006509laj7vuh3sh). This is an active project with money available for content creators.
+
+{% endhint %}
 
 ## Context
 
@@ -13,11 +21,8 @@ During the original Catalyst experiment, Gina started [Enspiral Tales](https://m
 
 Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This was a bucket of money that anyone in the network can contribute to. Rich arbitrarily handed out money to people for writing, editing and illustrating blog posts.
 
-{% hint style="info" %}
+![](https://i.imgur.com/ZZO5vsM.png)
 
-Creating Enspiral Blog and Podcast has been funded in [Fall'22 Cobudget Round](https://cobudget.com/enspiral/funding-round-2022/cl8rkemw8006509laj7vuh3sh). This is an active project with money available for content creators.
-
-{% endhint %}
 
 ## Content
 
@@ -61,9 +66,7 @@ If you choose a license that allows people to share your work, it can get repost
 
 If you want to make it easier on the editors of those publications, it’s helpful to publish a raw Markdown or Html version of your post somewhere. For example, see how Rich did that at the very end of [this post](https://medium.com/@richdecibels/occupiers-from-tunisia-spain-new-zealand-taiwan-and-france-compare-notes-5c6cc6d3afd3#.5ufyt410n).
 
-## Impact
-
-- [ ] replace stats (which will keep getting outdated) with articles list?
+## Impact on the original experiment
 
 The results have been great: about 40 people have written stories, growing the publication to 2800 followers, getting about 5-10k hits in a month. Here's a summary of our all-time views:
 
@@ -78,8 +81,6 @@ And our most popular stories to date \(updated Jan '19\):
 * [Unsplash](https://unsplash.com/): free high resolution photos
 
 ## Post script from Rich about Medium vs. free software
-
-- [ ] talk about best platforms during conversation with Rich
 
 People will rightly question: hey why are you supporting Medium over [free software](https://www.gnu.org/philosophy/free-sw.en.html) alternatives? Aren't they just another venture-backed company capturing the value we peer-produce for the common benefit of the internet!?
 

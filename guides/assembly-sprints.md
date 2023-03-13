@@ -1,7 +1,7 @@
 # Assembly Sprint
 
-- [x] reach out to record a conversation about assembly sprints
-- [x] update doc with newest links
+- [x] reach out to record podcast
+- [ ] record podcast and add link here
 
 ## What is an Assembly Sprint?
 
