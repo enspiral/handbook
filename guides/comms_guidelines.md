@@ -1,7 +1,6 @@
 # Comms Guidelines
 
 - [ ] is improvements board still active?
-- [ ] add screenshot with slack channel browsing
 
 ## Comms Guidelines
 
@@ -31,7 +30,7 @@ Daily chatting, realtime comms, quick questions, interesting links. There is a \
 
 You can brows through all the channels on Slack. Note that some channels are inactive.
 
-- [ ] add screenshot
+![Slack browse channel screenshot](.gitbook/assets/enspiral-slack-browse.png)
 
 Here's a list of popular Slack Channels:
 
