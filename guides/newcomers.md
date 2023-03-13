@@ -1,6 +1,6 @@
 # A Guide for Newcomers
 
-- [ ] update links / test links
+- [ ] fix broken navigation chapter links 
 
 {% hint style="info" %}
 
