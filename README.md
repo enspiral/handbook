@@ -2,7 +2,16 @@
 
 {% hint style="info" %}
 
-This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [Fall'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). Use [this form](https://airtable.com/shrZu4VyT3Dtcvwwx) for feedback or reach out to Michał via Slack.
+This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [Fall'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). 
+
+✋ 
+I could really use your help with addressing my core problem: not enough context to make good editing choices in certain places that have been out-of-date for a very, very long time.
+
+1. Check out [this google doc](https://docs.google.com/document/d/1u14ejKD59vIbtrHxicBY5fkhMD87FOmp0T3HJOIjjdQ/edit?usp=sharing) with my unclarities and comment with missing pieces / suggestions
+2. Use [this form](https://airtable.com/shrZu4VyT3Dtcvwwx) for feedback 
+3. reach out to me (Michał) via Slack.
+
+Thank you
 
 {% endhint %}
 
