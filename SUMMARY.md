@@ -90,17 +90,3 @@
 * [Archive](archive.md)
 	* [Stewarding](archive/stewarding.md)
 	* [Well Working Group](/archive/well-working-group.md)
-
-
-
-Intro
-Agreements
-Guides
-Money
-Network
-	Foundation
-	Nodes
-	WGs
-	Ventures
-Money
-Guides
