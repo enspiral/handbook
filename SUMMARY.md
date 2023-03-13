@@ -30,7 +30,7 @@
   * [Improvements](guides/improvements.md)
   * [Manage your enspiral.com profile](guides/manage-enspiral-website-profile.md)
   * [Newcomers](guides/newcomers.md)
-  * [Onboarding](web/enspiral-handbook-2023/onboarding.md)
+  * [Onboarding](guides/onboarding.md)
   * [Ops processes](guides/ops_processes.md)
   * [People\*](guides/people.md)
   * [Pods](guides/pods.md)
