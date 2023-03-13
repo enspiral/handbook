@@ -1,7 +1,12 @@
-- [x] record podcast with Nick
+# A Guide for Newcomers
+
 - [ ] update links / test links
 
-# A Guide for Newcomers  
+{% hint style="info" %}
+
+You can learn more about landing in Enspiral in [this podcast](https://youtu.be/79OhyzQVQp0).
+
+{% endhint %}
 
 ## Everyone’s experience of Enspiral is different
 
@@ -15,7 +20,7 @@ This is not right or wrong. Not good or bad. It just is. And knowing it can help
 
 The picture of Enspiral that is presented outside of the network can differ markedly from the experience you find when joining.
 
-Some of this comes from materials and experiences generated in the early days of Enspiral that still live on within the ‘library of the internet’. Some of this is the result of the Enspiral experience varying considerably between individuals (see also ‘[Everyone’s experience of Enspiral is different](newcomers.md#everyone's-experience-of-enspiral-is-different)’). Some of this is because of the attachment people have to what Enspiral represents to them rather than what it really is.
+Some of this comes from materials and experiences generated in the early days of Enspiral that still live on within the ‘library of the internet’. Some of this is the result of the Enspiral experience varying considerably between individuals (see also ‘[Everyone’s experience of Enspiral is different](newcomers.md#everyone’s-experience-of-enspiral-is-different)’). Some of this is because of the attachment people have to what Enspiral represents to them rather than what it really is.
 
 Enspiral is still a network of ‘people doing good in the world’. But your experience will be more accurate (and likely less frustrating) if you let go of every other expectation and assumption you have. Join because you think this might be a place where you fit, not because you need Enspiral to do, be or deliver something specific.
 
@@ -59,7 +64,7 @@ Don’t mistake this openness and acceptance for friendship. That’s not to say
 
 It is a wonderful aspect of Enspiral, but can also be confusing for newcomers. People who might connect with each other only once, or maybe once every year or so, are typically able to be present and receive fully. They can be there for each other, and for you, in the moment.
 
-Over time (see also ‘[Give it time!](newcomers.md#give-it-time!)’), those connections you repeat will likely build and strengthen. Though the timescale can be much longer than you’re used to, the result can be a network of like-minded people you can reach out to for help, to discuss a particular topic or just a periodic chat.
+Over time (see also ‘[Give it time](newcomers.md#give-it-time)’), those connections you repeat will likely build and strengthen. Though the timescale can be much longer than you’re used to, the result can be a network of like-minded people you can reach out to for help, to discuss a particular topic or just a periodic chat.
 
 Be curious, don’t assume friendship or familiarity, and stay connected where the exchanges are mutually beneficial. The rest will take care of itself.
 
@@ -71,7 +76,7 @@ On arrival into the network this is an exciting opportunity, and many leap in wi
 
 But many also become disillusioned, frustrated and burnt out within the first 6-12 months. The enthusiasm to engage can turn to disappointment with the lack of progress, not being heard or the sheer level of energy required to remain engaged at a high level.
 
-Pace yourself (see also ‘[Give it time!](newcomers.md#give-it-time!)’ below), and find a level of engagement that is appropriate, healthy and sustainable for you. Above all, don’t judge yourself against others.
+Pace yourself (see also ‘[Give it time](newcomers.md#give-it-time)’ below), and find a level of engagement that is appropriate, healthy and sustainable for you. Above all, don’t judge yourself against others.
 
 Everyone’s situation is different. Everyone’s ability to contribute is different. Everyone’s tolerance for process is different. Everyone’s influence on outcomes is different.
 
@@ -79,7 +84,7 @@ Embrace your unique differences and be you. It’s the greatest contribution you
 
 ## The power in social capital
 
-With the removal of the member / contributor divide in mid-2022, Enspiral is now broadly non-hierarchical in terms of decision-making structures. Anyone within the network can engage in processes that determine the future direction of Enspiral, how it operates, how its funds are spent, suggest amendments to agreements, and so on (see also ‘[Decisions happen through due process, sometimes](newcomers.md#decisions-happen-through-due-process... sometimes)’).
+With the removal of the member / contributor divide in mid-2022, Enspiral is now broadly non-hierarchical in terms of decision-making structures. Anyone within the network can engage in processes that determine the future direction of Enspiral, how it operates, how its funds are spent, suggest amendments to agreements, and so on (see also ‘[Decisions happen through due process... sometimes](newcomers.md#decisions-happen-through-due-process-sometimes)’).
 
 However, not all opinions and perspectives have equal weight within these processes.
 
@@ -95,7 +100,7 @@ Issues that society as a whole may still be grappling with such as gender and ra
 
 It is up to all of us to work to accept others as they are, and be kind to everyone (including ourselves) when we cannot. We all have work to do in this area – perhaps the most important thing is not where we are, but that we’re actively doing the work to grow.
 
-## Give it time!
+## Give it time
 
 It takes time to work out what your version of the Enspiral experience is. It takes time to understand the processes that shape and steer this network. It takes time for initial connections to become people you can reach out to. It takes time to find your place and build your presence.
 

@@ -1,6 +1,8 @@
 # Venture Agreement
 
-_This agreement is out-of-date and is likely to be updated in the next six months \(added in May 2018\)._
+- [ ] Create a Loomio thread asking for update.
+
+_Warning: This agreement is significantly out-of-date - need for update identified in May 2018 and hasn't been completed yet\)._
 
 This agreement defines what it means to be an Enspiral Venture, and the relationship between Enspiral Ventures and the rest of the Enspiral network.
 

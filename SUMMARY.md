@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](web/enspiral-handbook-2023/README.md)
 * [Agreements](agreements/README.md)
   * [Board Agreement](agreements/board.md)
   * [Brand Agreement](agreements/brand.md)
@@ -15,13 +15,6 @@
   * [Personal Conduct](agreements/personal_conduct.md)
   * [Pods Agreement](agreements/pods.md)
   * [Working Groups Agreement](agreements/working_groups.md)
-* [Nodes](/nodes/README.md)
-	* [How to Start a Node](nodes/start-a-node.md)
-	* [Enspiral Europe](/nodes/enspiral-europe.md)
-		* [About](nodes/enspiral-europe/about.md)
-		* [Timeline](nodes/enspiral-europe/timeline.md)
-		* [Resources](/nodes/enspiral-europe/resources.md)
-	* [Enspiral DAO](/nodes/enspiral-dao.md)
 * [Guides](guides/README.md)
   * [Activation Programme](guides/activation-programme.md)
   * [Air NZ Airpoints Program](guides/airnz.md)
@@ -50,6 +43,10 @@
   * [Retreats\*](guides/retreats.md)
   * [Songs](guides/songs.md)
   * [Workshop Patterns](guides/workshop_patterns.md)
+* [Nodes](/nodes/README.md)
+	* [How to Start a Node](nodes/start-a-node.md)
+	* [Enspiral Europe](/nodes/enspiral-europe.md)
+	* [Enspiral DAO](/nodes/enspiral-dao.md)
 * [Working Groups](working-groups/README.md)
   * [Ambassadors](working-groups/ambassadors.md)
   * [Assembly](working-groups/assembly.md)
@@ -67,11 +64,6 @@
   * [Board of Directors](foundation/board.md)
   * [Ops Scope](foundation/ops-scope.md)
   * [Comms Role Scope](foundation/comms-role.md)
-* [Money](money/README.md)
-  * [Collaborative Funding](money/collabfunding.md)
-  * [Variable Contributions](money/finances_variable_contributions.md)
-  * [Financial Agreement](money/financial.md)
-  * [Financial Transparency](money/financial_transparency.md)
 * [Ventures](ventures/README.md)
   * [Venture Agreement](ventures/venture.md)
   * [Venture Introduction Template](ventures/venture_introduction_template.md)
@@ -89,8 +81,26 @@
     * [Gamelab](ventures/proto-ventures/gamelab.md)
     * [Enspiral Labs](ventures/proto-ventures/enspiral-labs.md)
     * [Ability Mate](ventures/proto-ventures/ability-mate.md)
+* [Money](money/README.md)
+  * [Collaborative Funding](money/collabfunding.md)
+  * [Variable Contributions](money/finances_variable_contributions.md)
+  * [Financial Agreement](money/financial.md)
+  * [Financial Transparency](money/financial_transparency.md)
 * [Resources](resources.md/)
 * [Archive](archive.md)
 	* [Stewarding](archive/stewarding.md)
 	* [Well Working Group](/archive/well-working-group.md)
 
+
+
+Intro
+Agreements
+Guides
+Money
+Network
+	Foundation
+	Nodes
+	WGs
+	Ventures
+Money
+Guides

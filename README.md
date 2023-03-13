@@ -2,17 +2,11 @@
 
 {% hint style="info" %}
 
-This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [Fall'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). Last update: 24 Feb 2023.
-
-Do you have feedback / share-backs / or want to build upon what's here? Reach out to Michał on Slack or send a note via [this form](https://airtable.com/shrZu4VyT3Dtcvwwx). Alternatively, making chilled podcasts (like [these ones for Enspiral Europe](https://youtube.com/playlist?list=PLH4jIJHXyh2H_8XrLfbAqmV_JhMBm0kOl)) is my love language. Reach out, let's schedule a call, and co-create sweet content for Enspiral!
-
-Wishing you a magnificent day! ✨
-
-Live documentation of this process in this [twitter thread](https://twitter.com/michalkorzonek/status/1630632568260313098).
+This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [Fall'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). Use [this form](https://airtable.com/shrZu4VyT3Dtcvwwx) for feedback or reach out to Michał via Slack.
 
 {% endhint %}
 
-**Enspiral is a network of friends who support each other to do meaningful work.**
+**Enspiral is a network of people who support each other to do meaningful work.**
 
 Or at least that's one way to define what Enspiral is. Check out [our website](https://enspiral.com) for more context. You might also be inspired by our blog [Enspiral Tales](https://medium.com/enspiral-tales) and [this video](https://www.youtube.com/watch?v=lScGElP49Jc) created at Enspiral Summer Fest 2018.
 
@@ -26,7 +20,7 @@ Our [**monthly newsletter**](https://mailchi.mp/4be697ce0c7b/enspiral-newsletter
 
 This Handbook's primary audience is Enspiral members, but it will be publicly available for others who might find it useful. **The goal is to give everyone in the network as much clarity and context as possible, while sharing our structures and practices with the outside world as well.**
 
-This book is in perpetual beta, it's constantly changing. If you see something that could be improved: that's your invitation to improve it! [Find out more about editing the handbook](guides/contributing.md).
+Our handbook is designed as an **always relevant living document**. The handbook is constantly changing, and certain links point towards internal documents which contain the most up-to-date information. If you see something that could be improved: that's your invitation to improve it! [Find out more about editing the handbook](guides/contributing.md).
 
 ## Structure
 
