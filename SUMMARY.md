@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](web/enspiral-handbook-2023/README.md)
+* [Introduction](README.md)
 * [Agreements](agreements/README.md)
   * [Board Agreement](agreements/board.md)
   * [Brand Agreement](agreements/brand.md)
