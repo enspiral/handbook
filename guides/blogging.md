@@ -8,6 +8,7 @@ As a member of Enspiral you are encouraged to share your experiences through our
 
 - [Enspiral Tales](https://medium.com/enspiral-tales) on Medium
 - [Enspiral Podcast](https://www.youtube.com/watch?v=xyLl4HnXdyQ&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp) on Youtube
+- [Better Work Together Blog](https://blog.betterworktogether.co/) - contact Ants for more info
 
 {% hint style="info" %}
 
