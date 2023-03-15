@@ -5,7 +5,6 @@ Working groups are governed by the [Working Groups Agreement](../agreements/work
 Working groups \([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)\):
 
 * [Ambassadors](ambassadors.md) \(hibernating\)
-* [Assembly](assembly.md) \(hibernating\)
 * [Catalysts]() \(vibrant\)
 * [Collaborative funding](collaborative-funding.md) \(hibernating\)
 * [Comms](comms.md) \(active\)

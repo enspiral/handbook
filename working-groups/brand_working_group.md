@@ -25,11 +25,6 @@ Our goal is to have a group of 6-8 mixed members and contributors who have some 
 
 * Kate Beecroft
 * Ants Cabraal
-* Gina Rembe
-* Sam Rye
-* Olga Savinc
-
-_more BWG members to be announced shortly_
 
 **Connect with us**
 

@@ -2,6 +2,8 @@
 
 How money works at Enspiral is determined by the [Financial Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/financial.html). This page is to provide information and transparency about our financial situation.
 
+[This post on Loomio](https://www.loomio.com/d/SoNn7pb5/enspiral-foundations-ltd-financials) includes regular financial updates.
+
 ### Bank Accounts
 
 EF has six bank accounts in Kiwibank:

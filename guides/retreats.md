@@ -1,9 +1,11 @@
-# Retreats\*
+# Retreats
 
-- [ ] add guide from Rich
-- [ ] that's a perfect possibility to interview someone - is this you?
+- [ ] perhaps merge the guide here with the guide from Rich linked to below?
+- [ ] this is perfect possibility to interview someone about retreats - is this you?
 
-Multimedia: [Retreats Timeline](https://docs.google.com/presentation/d/1UIO8q1G8-UNmQ2ckJD0JwTDiRVAeTdBL-GbMPdt_6qo/present#slide=id.p) - the first 10 Enspiral Retreats:
+Retreats are the heartbeat of Enspiral, providing a predictable rhythm for gathering in-person and weaving the network.
+
+Check out [Patterns for Enspiral Retreats](https://docs.google.com/document/d/1Dhhl-IUFZhU-_CZEb87-OTWC9wVpmDXjsgkiW5SPFyE/edit#heading=h.otl87lqx6ocw) from Rich Bartlett and [Retreats Timeline](https://docs.google.com/presentation/d/1UIO8q1G8-UNmQ2ckJD0JwTDiRVAeTdBL-GbMPdt_6qo/present#slide=id.p) documenting the first 10 Enspiral Retreats.
 
 ## Some notes about organising a multi-day event
 
