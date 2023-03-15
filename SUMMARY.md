@@ -45,7 +45,6 @@
 	* [Enspiral DAO](/nodes/enspiral-dao.md)
 * [Working Groups](working-groups/README.md)
   * [Ambassadors](working-groups/ambassadors.md)
-  * [Assembly](working-groups/assembly.md)
   * [Brand Working Group](working-groups/brand_working_group.md)
   * [Catalysts](working-groups/catalysts.md)
   * [Collaborative funding](working-groups/collaborative-funding.md)
