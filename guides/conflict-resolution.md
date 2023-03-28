@@ -1,7 +1,5 @@
 # Conflict Resolution
 
-- [ ] reporting back/accountabilities section says "coming soon" – suggestions? remove?
-
 ## a.k.a. Restorative Justice Guidelines
 
 Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](/archive/well-working-group.md) historically supported this mission by developing network resources for constructive dialogue and co-working.
@@ -76,10 +74,6 @@ Enspiral participants may seek to informally resolve their conflicts by discussi
 For intense conflicts, Enspiral participants may request mediation meetings which are assigned to trained, in-network \(or external\) mediators.
 
 Our expectations are that a mediator is suitably qualified, costs incurred will be negotiated directly with the people involved. We commit to hosting a recurring bucket and—at the Enspiral Foundation's discretion—the use of reserves.
-
-## Reporting Back / Accountabilities
-
-coming soon
 
 ### Related Agreements
 

@@ -1,9 +1,6 @@
 # Onboarding
 
-The 2022 changes to Enspiral structure (removing the two-tier membership and introducing nodes) transformed how we onboard people into the Network.
-
-- [ ] connect with onboarding WG to add info
-- [ ] check if Loomio post still relevant
+The 2022 changes to Enspiral structure (removing the two-tier membership and introducing nodes) transformed how we onboard people into the Network. It is now the responsibility of [nodes](/nodes/README.md) to onboard new members.
 
 Before joining Enspiral we invite you to **read [Enspiral Guide for Newcomers](guides/newcomers.md) compiled by Nick, providing excellent starting point into your Enspiral experience.**
 

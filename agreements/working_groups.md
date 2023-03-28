@@ -1,6 +1,6 @@
 # Working Groups Agreement
 
-- [ ] how does a formal WG gets created if there are no catalysts?
+- [ ] There are currently no catalysts in Enspiral. Formal WG approval process in this agreement should be updated.
 
 [_Approved: April 2019_](https://www.loomio.org/p/vksIn6z0/we-approve-the-working-group-agreement)
 

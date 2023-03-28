@@ -1,9 +1,8 @@
 # Ops processes
 
-- [ ] scope of work broken link
-- [ ] update process - no members / contributors / stewards
+- [ ] Malcolm is compiling an update to this guide.
 
-This is a list of processes that Ops runs in Enspiral Foundation and which are part of our [scope of work](https://handbook.enspiral.com/ops-scope.html). We'll build this up over time.
+This is a list of processes that Ops runs in Enspiral Foundation and which are part of our [scope of work](/foundaton/ops-scope). We'll build this up over time.
 
 * Enspiral member onboarding, annual opt-ins, offboarding and maintenance
 * Bookkeeping, maintaining collab finance

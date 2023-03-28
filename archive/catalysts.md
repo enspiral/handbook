@@ -1,8 +1,14 @@
 # Catalysts
 
-[_WG Status_](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)_: Vibrant_
+[_WG Status_](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)_: Inactive_
 
 ## How Catalysts Work
+
+{% hint style="info" %}
+
+At the moment Enspiral has no active Catalysts. However, this social technology developed by Enspiral is still relevant in creating impact in the world. If you want to learn more about the role of the catalyst, here's [an interview with our ex-catalyst Joriam](https://youtu.be/SIlBobGS-Q8), exploring the role the Catalyst plays inside a network.
+
+{% endhint %}
 
 We're governed by the [Catalyst Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/catalyst.html)
 

@@ -1,7 +1,5 @@
 # Comms Guidelines
 
-- [ ] is improvements board still active?
-
 ## Comms Guidelines
 
 This guide is here to give an overview of the channels we've decided to adopt and to give you some tips for how best to communicate with the network.
@@ -21,6 +19,13 @@ Posting on Loomio in the main Enspiral group won't necessarily _alert_ everyone,
 Feel free to start subgroups on Loomio if you'd like a more targeted collaboration space with a subset of Enspiral people.
 
 [**Improvements**](improvements.md) **- Task management**
+
+
+{% hint style="info" %}
+
+The improvements board is currently inactive. 
+
+{% endhint %}
 
 The Improvements board is a place to see work in progress. We will occasionally have small conversations there about specific tasks, but it is not a place for important discussion that need the input of many people.
 
@@ -56,7 +61,7 @@ Our tool for budgeting and financial decision making. Enspiral's discretionary b
 
 **Enspiral News - Broadcast**
 
-Every two weeks, a newsletter goes out to all Enspiral contributors via Mailchimp. It has info from ventures, media coverage, updates on decisions and happenings, and inspirational animal gifs.
+Every month, a newsletter goes out to all Enspiral contributors via Substack. It compiles updates from the network, requests, offers, and showcases content created by Enspiral members, and other content that our members found valuable to share.
 
 To get something published in News, email foundation@enspiral.com or post in the \#enspiral-news Slack channel. If you want to reach the whole network with non-urgent infomation, this is the way.
 
@@ -88,7 +93,7 @@ We are all greatly enriched by all of our engagement. Your voice is welcome. You
 Know the various channels available and consciously decide where to post. Within a given tool, post to the right group or channel:
 
 * Topics requiring a group decision and affecting everyone go on Loomio
-* Issues, improvements and general discussion go on Github or Waffle
+* Issues, improvements and general discussion go on Github
 * Broadcast announcements to all contributors go in News
 * Casual realtime communication goes on Slack. You will reach whoever opts in to read when you happen to post.
 * Other casual communication goes in the Facebook group - again you'll reach whoever opts in there.
