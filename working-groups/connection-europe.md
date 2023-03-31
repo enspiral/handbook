@@ -1,1 +1,0 @@
-# Europe Connection WG
