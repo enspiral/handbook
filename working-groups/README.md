@@ -11,7 +11,7 @@ Working groups \([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCv
 * [Gatherings](gatherings.md) \(vibrant\)
 * [MoneySwarm](external-funding.md) \(active\)
 * [Pods](web/enspiral-handbook-2023/archive/pods.md) \(active\)
-* [Ventures](ventures.md) \(hibernating\)
+* [Ventures](web/enspiral-handbook-2023/archive/ventures.md) \(hibernating\)
 
 Anyone can start a working group. Working groups are where we do work on the network. Often a working group will be initiated by someone with high context but low capacity for action \(e.g. directors or catalysts\), and then they'll recruit contributors with more capacity. Working groups will often be temporary, though some will be permanent.
 
