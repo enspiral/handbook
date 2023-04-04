@@ -38,11 +38,13 @@ But how do you know whether your definition of ‘doing good in the world’ is 
 
 So whilst Enspiral is ‘purpose-agnostic’, there will be boundaries, and those boundaries have not been defined. The work of doing so will likely happen only as the need arises, which can be seen as either efficient prioritisation of capacity or perpetuating a lack of clarity. Or anything in between.
 
-It’s also worth noting that any decision around boundaries may or may not happen within a defined and agreed framework (see also ‘[Decisions happen through due process... sometimes](#decisions-happen-through-due-process-sometimes)’). 
+It’s also worth noting that any decision around boundaries may or may not happen within a defined and agreed framework (see also ‘[Decisions happen through due process](#decisions-happen-through-due-process)’). 
 
 If you think you’re pushing the boundaries, the best course of action is to ask. If nothing else, you’ll be creating the opportunity for Enspiral to engage and evolve.
 
-## Decisions happen through due process... sometimes
+## Decisions happen through due process
+
+At least sometimes they do...
 
 Enspiral is a network of individuals, each with their own unique relationship to…   …well, everything! 
 
@@ -84,7 +86,7 @@ Embrace your unique differences and be you. It’s the greatest contribution you
 
 ## The power in social capital
 
-With the removal of the member / contributor divide in mid-2022, Enspiral is now broadly non-hierarchical in terms of decision-making structures. Anyone within the network can engage in processes that determine the future direction of Enspiral, how it operates, how its funds are spent, suggest amendments to agreements, and so on (see also ‘[Decisions happen through due process... sometimes](newcomers.md#decisions-happen-through-due-process-sometimes)’).
+With the removal of the member / contributor divide in mid-2022, Enspiral is now broadly non-hierarchical in terms of decision-making structures. Anyone within the network can engage in processes that determine the future direction of Enspiral, how it operates, how its funds are spent, suggest amendments to agreements, and so on (see also ‘[Decisions happen through due process](newcomers.md#decisions-happen-through-due-process)’).
 
 However, not all opinions and perspectives have equal weight within these processes.
 
