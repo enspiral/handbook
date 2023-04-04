@@ -1,7 +1,5 @@
 # Improvements
 
-- [ ] is this still active?
-
 ## When a problem comes along...
 
 Usually, a problem or opportunity starts as a vague sense that something could be better. When this happens, you can start a conversation with other Enspiral people to see what they think. This could happen in our [digital communication spaces](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/guides/comms_guidelines.md), in [Working Groups](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/guides/working_groups.md) or at [Enspiral Retreats](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/guides/retreats.md).

@@ -18,7 +18,7 @@ Your voice is welcome. Your perspective is valued. Your interests are interestin
 
 ## Discuss concerns and questions
 
-If you feel uncomfortable or uncertain about Enspiral issues or processes, please _identify your concerns_. If they've already been identified in [Enspiral Improvements](../guides/improvements.md) or in active [Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) discussions, please join the conversation. If not, start a conversation which could help the whole network.
+If you feel uncomfortable or uncertain about Enspiral issues or processes, please _identify your concerns_. If they've already been identified in [Enspiral Improvements](improvements.md) or in active [Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) discussions, please join the conversation. If not, start a conversation which could help the whole network.
 
 ## Resolve conflicts inclusively
 

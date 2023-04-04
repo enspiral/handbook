@@ -1,8 +1,5 @@
 # Assembly Sprint
 
-- [x] reach out to record podcast
-- [ ] record podcast and add link here
-
 ## What is an Assembly Sprint?
 
 **Assembly Sprints are for organizing the most important discussions and decisions for this season into one place for us to have our say and move the network forwards**. Your voice matters, and we invite you to bring your gifts to bear on our collective potential, unfolding the value of our collective, its resources \(even its agreements, protocols, tools and shared understandings\) and its current and future relationships.
@@ -28,6 +25,8 @@ Then, it's time for Assembly Sprint!
 Hopefully, this will result in conditions of more coherence, transparency, and accountability in the process of decision-making that affects our Agreements, and will give each of us an opportunity to indicate the commitment that feels right for a given set of significant \(or substantial\) decisions in a given season. _@joshuavial outlined this approach in his document,_ [_4 Worlds \(link → relevant header\)_](https://docs.google.com/document/d/1VxnXg1jYlf26Eakybj_AHWd8iKXbDYQx8klbRHi-PCI/edit#heading=h.ieqmtfr9n4fb), _which you may have seen posted after the Members' meeting before last._
 
 You can read more in [this thread from Assembly Sprint 2018](https://www.loomio.com/d/myTOM64J/next-steps-and-2018-closing-comments-assembly-sprint-an-online-enspiral-convergence?q=) documenting the initial Assembly proposal, and the more legible text/ iteration inviting participation in the inaugural 2018 Assembly Sprint.
+
+Here's a [podcast about Assembly Sprints]([https://youtu.be/APBqseLt8HA](https://youtu.be/APBqseLt8HA)).
 
 ## Assembly Sprints Documentation
 

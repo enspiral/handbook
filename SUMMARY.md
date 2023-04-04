@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](web/enspiral-handbook-2023/README.md)
+* [Introduction](introduction.md)
 * [Agreements](agreements/README.md)
   * [Board Agreement](agreements/board.md)
   * [Brand Agreement](agreements/brand.md)
@@ -18,7 +18,6 @@
 * [Guides](guides/README.md)
   * [Assembly Sprint](guides/assembly-sprints.md)
   * [Blogging](guides/blogging.md)
-  * [Board](guides/board.md)
   * [Conflict Resolution](guides/conflict-resolution.md)
   * [Comms Guidelines](guides/comms_guidelines.md)
   * [Contributing to the Handbook](guides/contributing.md)
@@ -26,7 +25,6 @@
   * [Email accounts](guides/email_accounts.md)
   * [Enspiral Values](guides/values.md)
   * [Github for Beginners](guides/github_for_beginners.md)
-  * [Improvements](guides/improvements.md)
   * [Newcomers](guides/newcomers.md)
   * [Onboarding](guides/onboarding.md)
   * [Ops processes](guides/ops_processes.md)
@@ -62,6 +60,7 @@
 	* [Brand Working Group](/archive/brand_working_group.md)
 	* [Catalysts](/archive/catalysts.md)
 	* [Collaborative funding](/archive/collaborative-funding.md)
+	* [Improvements](archive/improvements.md)
 	* [Manage your enspiral.com profile](archive/manage-enspiral-website-profile.md)
 	* [MoneySwarm WG](archive/external-funding.md)
 	* [Onboarding Emails](/archive/onboarding-info.md)

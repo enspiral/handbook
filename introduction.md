@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 
-This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [Fall'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). It will soon be merged into handbook.enspiral.com
+This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [Fall'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). It will soon be merged into handbook.enspiral.com and the old version will be archived (and preserved for future reference).
 
 {% endhint %}
 
@@ -11,8 +11,6 @@ This is a draft version of the 2023 update to [Enspiral Handbook](https://handbo
 Or at least that's one way to define what Enspiral is. Check out [our website](https://enspiral.com) for more context. You might also be inspired by our blog [Enspiral Tales](https://medium.com/enspiral-tales) and [this video](https://www.youtube.com/watch?v=lScGElP49Jc) created at Enspiral Summer Fest 2018.
 
 Our [**monthly newsletter**](https://mailchi.mp/4be697ce0c7b/enspiral-newsletter) is a great way to receive updates from our network.
-
-- [ ] [this quick slideshow](http://whatis.enspiral.com), and [this 90 second video](https://vimeo.com/125088390) are fantastic but include outdated info about Enspiral structure. It would be great to re-edit if possible, or alternatively archive.
 
 ## About This Handbook
 
