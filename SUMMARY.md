@@ -54,7 +54,7 @@
   * [Collaborative Funding](money/collabfunding.md)
   * [Financial Agreement](money/financial.md)
   * [Financial Transparency](money/financial_transparency.md)
-* [Resources](resources.md/)
+* [Resources](resources.md)
 * [Archive](archive/README.md)
 	* [Activation Programme](archive/activation-programme.md)
 	* [Air NZ Airpoints Program](/archive/airnz.md)
