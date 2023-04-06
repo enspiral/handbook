@@ -1,8 +1,8 @@
 # Collaborative Funding
 
-- [ ] review and update
+At Enspiral, we are using facilitated [cobudget](https://cobudget.com) rounds to decide on how to distribute money.
 
-The Greaterthan team are working with Enspiral and the Ops Team to deliver Facilitated Cobudget rounds on a monthly basis. \(Contributors only: read more context about this on Loomio: [https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-](https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-)
+\(Contributors only: read more context about this on Loomio: [https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-](https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-)
 
 ## General funding round process
 

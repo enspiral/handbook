@@ -51,11 +51,10 @@ EF receives money from five sources:
 EF spends money generally in the following areas:
 
 Accounting and Operations  
-Software services \(mailchimp, loomio, domain registration etc\)  
+Software services \(loomio, domain registration etc\)  
 Google Workspace  
 Collab funding  
 Newsletter  
-Catalysts \(via WG-Catalysts\)
 
 
 
