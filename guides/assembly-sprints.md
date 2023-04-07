@@ -26,9 +26,9 @@ Hopefully, this will result in conditions of more coherence, transparency, and a
 
 You can read more in [this thread from Assembly Sprint 2018](https://www.loomio.com/d/myTOM64J/next-steps-and-2018-closing-comments-assembly-sprint-an-online-enspiral-convergence?q=) documenting the initial Assembly proposal, and the more legible text/ iteration inviting participation in the inaugural 2018 Assembly Sprint.
 
-Here's a [podcast about Assembly Sprints]([https://youtu.be/APBqseLt8HA](https://youtu.be/APBqseLt8HA)).
-
 ## Assembly Sprints Documentation
+
+- 🎙 Here's a [conversation about Assembly Sprints](https://youtu.be/APBqseLt8HA) with our ex-catalyst John Gieryn.
 
 ### 2021
 

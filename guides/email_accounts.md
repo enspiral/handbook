@@ -4,7 +4,7 @@ This guide covers instructions for Enspiral email's, account security, Google gr
 
 ## Email
 
-To request or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses). If you don't meet the requirements in the [Email accounts agreement](/agreements/email_accounts_agreement.md), contact the Catalysts or reach out to foundation@enspiral.com .
+To request or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses). If you don't meet the requirements in the [Email accounts agreement](../agreements/email_accounts_agreement.md), contact the Catalysts or reach out to foundation@enspiral.com .
 
 ### What you need to know
 

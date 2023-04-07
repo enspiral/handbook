@@ -6,7 +6,7 @@ _**If you or someone you know is in immediate danger, seek local law enforcement
 
 Be mindful of the damage which misunderstandings and misleading personal accusations can create. However, if you think you've been seriously harmed by any of the following behaviors, we encourage you to use the [Conflict Resolution Guide](../guides/conflict-resolution.md) to address the issue, **or** report a complaint to authorities.
 
-In serious cases if you are found to act in ways prohibited by this agreement you may be asked to leave Enspiral through a formal proposal as per our [Decisions Agreement](decisions.md).
+In serious cases if you are found to act in ways prohibited by this agreement you may be asked to leave Enspiral through a formal proposal as per our [Decisions Agreement](../agreements/decisions.md).
 
 ### Warning Signs of Harassment or Abuse
 
@@ -35,15 +35,15 @@ to support our personal rights: _freedom of expression_, _freedom from discrimin
 
 ### Related Agreements
 
-[Decisions](decisions.md)
+[Decisions](../agreements/decisions.md)
 
-[Personal Conduct](personal_conduct.md)
+[Personal Conduct](../agreements/personal_conduct.md)
 
-[Diversity](diversity.md)
+[Diversity](../agreements/diversity.md)
 
 ### Related Guidelines
 
 [Conflict Resolution Guidelines](../guides/conflict-resolution.md)
 
-[Communications Guidelines](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/comms-guidelines.md)
+[Communications Guidelines](../guides/comms-guidelines.md)
 

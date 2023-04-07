@@ -6,13 +6,13 @@ As a member of Enspiral you are encouraged to share your experiences through our
 - [Enspiral Podcast](https://www.youtube.com/watch?v=xyLl4HnXdyQ&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp) on Youtube
 - [Better Work Together Blog](https://blog.betterworktogether.co/) - contact Ants for more info
 
-Here's a podcast about [blogging for Enspiral and writing online]([https://youtu.be/aNYEQKiioUU](https://youtu.be/aNYEQKiioUU)).
+🎙 Here's a conversation about [blogging for Enspiral and writing online](https://youtu.be/aNYEQKiioUU) with Rich Bartlett.
 
 ## Context
 
 During the original Catalyst experiment, Gina started [Enspiral Tales](https://medium.com/enspiral-tales) - a Medium collection for blog stories written by Enspiral people.
 
-Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This was a bucket of money that anyone in the network can contribute to. Rich arbitrarily handed out money to people for writing, editing and illustrating blog posts. Creating Enspiral Blog and Podcast has been also funded in [Fall'22 Cobudget Round](https://cobudget.com/enspiral/funding-round-2022/cl8rkemw8006509laj7vuh3sh).
+Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This was a bucket of money that anyone in the network can contribute to. Rich arbitrarily handed out money to people for writing, editing and illustrating blog posts. Creating Enspiral Content has been also funded in [October '22 Cobudget Round](https://cobudget.com/enspiral/funding-round-2022/cl8rkemw8006509laj7vuh3sh).
 
 ![](https://i.imgur.com/ZZO5vsM.png)
 

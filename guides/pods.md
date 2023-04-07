@@ -129,6 +129,8 @@ There are two ways you can help make your pod experience increasingly useful to 
 
 ## Additional resources
 
+🎙 A [conversation about Pods](https://www.youtube.com/watch?v=c5TXH_pMxm4&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp&index=16) with Nati Lombardo
+
 📼 Watch John Gieryn and former Pod Working Group member Nancy Gibson [present on pods](https://www.youtube.com/watch?v=b9N_V0L989s) at the 2020 Impact Unconference, Aotearoa NZ
 
 🔊 Listen to Nati Lombardo and John Gieryn [share their experiences and explain further](https://anchor.fm/Microsolidarity/episodes/Discussion-about-Crews-at-Enspiral-Summer-Retreat-2019-e3ae9r) the ideas in this guide \(you might also like this [update 6 months later](https://anchor.fm/Microsolidarity/episodes/Nati-and-john-talking-about-pods-at-Enspiral-e9giqj)\)

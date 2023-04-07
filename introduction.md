@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 
-This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [Fall'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). It will soon be merged into handbook.enspiral.com and the old version will be archived (and preserved for future reference).
+This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [October'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). It will soon be merged into handbook.enspiral.com and the old version will be archived (and preserved for future reference).
 
 {% endhint %}
 
@@ -10,7 +10,7 @@ This is a draft version of the 2023 update to [Enspiral Handbook](https://handbo
 
 Or at least that's one way to define what Enspiral is. Check out [our website](https://enspiral.com) for more context. You might also be inspired by our blog [Enspiral Tales](https://medium.com/enspiral-tales) and [this video](https://www.youtube.com/watch?v=lScGElP49Jc) created at Enspiral Summer Fest 2018.
 
-Our [**monthly newsletter**](https://mailchi.mp/4be697ce0c7b/enspiral-newsletter) is a great way to receive updates from our network.
+Our [**monthly newsletter**](https://enspiral.substack.com) is a great way to receive updates from our network.
 
 ## About This Handbook
 
@@ -23,7 +23,7 @@ Our handbook is designed as an **always relevant living document**. The handbook
 The book is broken up into chapters and sub-chapters. The chapters are:
 
 * [**Agreements**](agreements/) are the official legislation that governs the Enspiral network. Changing these requires a formal process.
-* [**Guides**](guides/) explain in practical terms how we do stuff, like [what communications tools to use](guides/comms_guidelines.md). Any Enspiral Contributor can change these.
+* [**Guides**](guides/) explain in practical terms how we do stuff, for example [what communications tools to use](guides/comms_guidelines.md) and [how to navigate the experience of being a newcomer](/guides/newcomers.md). Any Enspiral Contributor can change these.
 * [**Nodes**](nodes/) lists formal subgroups within our network
 * [**Working Groups**](working-groups/) are where we do work on the network.
 * [**Enspiral Foundation**](foundation/) - the central node in the network. The [Board](foundation/board.md), [Ops Team](foundation/ops-scope.md), [Comms person](foundation/comms-role.md), and [Ventures](ventures/) all have some formal arrangement with the Foundation, which is owned by Foundation Shareholders.

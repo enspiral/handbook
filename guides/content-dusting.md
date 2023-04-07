@@ -33,5 +33,5 @@ You can see various examples of \(so far Github-centered\) content-dusting [here
 
 ## Discuss
 
-The emergence of this group is discussed in [this Loomio](https://www.loomio.org/d/P97tAUYQ). Conversation is also happening in the [\#activation-program](https://enspiral.slack.com/messages/C56MTV8SV/convo/C56MTV8SV-1499108780.752336/) Slack channel. Feel free to join and weight in your thoughts!
+The emergence of this group is discussed in [this Loomio](https://www.loomio.org/d/P97tAUYQ). Feel free to join and weight in your thoughts!
 

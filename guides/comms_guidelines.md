@@ -32,13 +32,13 @@ Daily chatting, realtime comms, quick questions, interesting links. There is a \
 
 {% hint style="info" %}
 
-If you'd have to pick ONE channel to join, it's definitelly \#watercooler.
+If you'd have to pick ONE channel to join, it's definitely \#watercooler.
 
 {% endhint %}
 
 You can browse through all the channels on Slack. Note that some channels are inactive.
 
-![Slack browse channel screenshot](.gitbook/assets/enspiral-slack-browse.png)
+![Slack browse channel screenshot](../.gitbook/assets/enspiral-slack-browse.png)
 
 Here's a list of popular Slack Channels:
 
@@ -57,17 +57,17 @@ Here's a list of popular Slack Channels:
 * Enspiral-News - A channel to add in any links or news you would like to have shared in the next issue of Enspiral news. If there is important or useful context you would like included, please drop that in as well
 * Enstagram - Like Enspiral-Instragam: a place we can share snapshots from daily life so it feels like we are hanging out together even when we’re all over the world!
 * Thanks - expressing gratitude
-* Want-Ads - enspiral classifieds + mirror of Enspiral Opportunities = [https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral](https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral)
+* Want-Ads - enspiral classifieds + [mirror of Enspiral Opportunities](https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral)
 * Watercooler - The primary channel for sharing cool stuff
 
 
-### [**Cobudget**](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/beta.cobudget.co#/groups/41) **- Collaborative Funding**
+### [**Cobudget**](https://cobudget.com) **- Collaborative Funding**
 
 Our tool for budgeting and financial decision making. Enspiral's discretionary budget is distributed using a democratic process. All contributors are welcome to raise buckets \(funding requests\) and comment on buckets. If your message is about spending collective money, it probably makes sense to post it here as a bucket or comment.
 
 ### **Google Workspace**
 
-* Email - Everyone at Enspiral can pay a subscription fee to have an Enspiral email address if they need one to represent Enspiral to clients or the public. Email is great for one-on-one or small group correspondence, or one-way announcements. Here's the[ email accounts agreement](/agreements/email_accounts_agreement.md).
+* Email - Everyone at Enspiral can pay a subscription fee to have an Enspiral email address if they need one to represent Enspiral to clients or the public. Email is great for one-on-one or small group correspondence, or one-way announcements. Here's the[ email accounts agreement](../agreements/email_accounts_agreement.md).
 * Calendar - Great for your own planning and for private events and meetings where you have a specific guest list in mind.
 * Drive - We use Drive \(Docs, Sheets, Forms\) extensively. If a team you're working with uses Drive, you'll be invited to the relevant folders/docs.
 
@@ -76,9 +76,9 @@ Our tool for budgeting and financial decision making. Enspiral's discretionary b
 * Public [Facebook page](https://www.facebook.com/Enspiral) - Updates, news, and links relevant to Enspiral followers. This is a one-to-many channel. To get something posted here, contact news@enspiral.com.
 * Private [Facebook group](https://www.facebook.com/groups/enspiral) - A space for Enspiral contributors to share links, updates, ideas, and discussion. This is a many-to-many channel, where everyone can post and reply.
 
-### [**Blog - Enspiral Tales**](http://blog.enspiral.com)
+### [**Blog & Content**]()
 
-Enspiral has a publication on Medium called Enspiral Tales that many people are contributing to. We welcome content from anyone in the network. [Find out more](/guides/blogging.md).
+Enspiral has a publication on Medium called [Enspiral Tales](http://medium.com/enspiral-tales) and a [youtube channel](https://www.youtube.com/enspiral). We welcome content from anyone in the network. [Find out more](../guides/blogging.md).
 
 ## Comms Tips and Guidelines
 
@@ -142,7 +142,7 @@ Realize that any time you’re communicating to large groups of people, you are 
 
 ‘nough said!
 
-If you'd like to learn more about digital engagement here's a [deep dive conversation](). ADD LINK
+If you'd like to learn more about digital engagement here's a [deep dive conversation](https://www.youtube.com/watch?v=Ej-4HlAHB0M&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp&index=15).
 
 ## If you need help...
 

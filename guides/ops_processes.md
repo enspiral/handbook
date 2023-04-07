@@ -1,6 +1,6 @@
 # Ops processes
 
-This is a list of processes that Ops runs in Enspiral Foundation and which are part of our [scope of work](/foundation/ops-scope.md)
+This is a list of processes that Ops runs in Enspiral Foundation and which are part of our [scope of work](../foundation/ops-scope.md)
 
 - Onboarding, offboarding and maintenance
 - Bookkeeping, maintaining collab finance
@@ -48,4 +48,4 @@ Ops then removes the member from the following systems:
 - Removed from the Monthly Enspiral Newsletter e-mail list (by newsletter person)
 - Slack: \(Note: you cannot fully “remove” users, instead the members account is “disabled”\)
 
-If the member has a Google Workspace account \(a "[name@enspiral.com](mailto:name@enspiral.com)" account\), they are notified via email and Slack that their Google Workspace account will be removed in two weeks. Ops schedules the account removal date. After two weeks, the account is removed and any remaining Google Drive documents owned by the contributor and shared with others are re-assigned to a nominated account managed by Ops.
+If the member has a Google Workspace account \(a "name @ enspiral.com" account\), they are notified via email and Slack that their Google Workspace account will be removed in two weeks. Ops schedules the account removal date. After two weeks, the account is removed and any remaining Google Drive documents owned by the contributor and shared with others are re-assigned to a nominated account managed by Ops.

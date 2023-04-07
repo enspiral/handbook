@@ -54,7 +54,7 @@ Please talk to the Board early if you are considering starting a Node. When youâ
 
 {% hint style="info" %}
 
-You can see current [Enspiral Nodes here](/nodes/README.md).
+You can see current [Enspiral Nodes here](../nodes/README.md).
 
 {% endhint %}
 

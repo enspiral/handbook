@@ -1,7 +1,5 @@
 # Projects & Reports
 
-- [ ] this is so super duper out of date
-
 ## Collaborative Funding
 
 * Report: [First Six Months](https://docs.google.com/document/d/1ZSVDqVzGpjk1MGoJIzBLBbcUcFuy1FdEydR7eYzJaAw/edit#)

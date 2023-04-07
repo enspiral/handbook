@@ -1,12 +1,12 @@
 # Personal Conduct
 
-Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](well-working-group.md) will support this mission by developing network resources for constructive dialogue and co-working.
+Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](../archive/well-working-group.md) will support this mission by developing network resources for constructive dialogue and co-working.
 
 **We ask all Enspiral participants to support these Personal Conduct Guidelines:**
 
 ## Respect diversity
 
-We are committed to supporting social diversity and cultural sensitivity. Please support our [Diversity Agreement](diversity.md) in all interactions.
+We are committed to supporting social diversity and cultural sensitivity. Please support our [Diversity Agreement](../agreements/diversity.md) in all interactions.
 
 ## Communicate gently
 
@@ -18,7 +18,13 @@ Your voice is welcome. Your perspective is valued. Your interests are interestin
 
 ## Discuss concerns and questions
 
-If you feel uncomfortable or uncertain about Enspiral issues or processes, please _identify your concerns_. If they've already been identified in [Enspiral Improvements](improvements.md) or in active [Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) discussions, please join the conversation. If not, start a conversation which could help the whole network.
+If you feel uncomfortable or uncertain about Enspiral issues or processes, please _identify your concerns_. If they've already been identified in [Enspiral Improvements](https://trello.com/b/btHeb35m/enspiral-improvements-board) or in active [Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) discussions, please join the conversation. If not, start a conversation which could help the whole network.
+
+{% hint style="info" %}
+
+The Enspiral Improvements Board is currently inactive.
+
+{% endhint %}
 
 ## Resolve conflicts inclusively
 
@@ -30,11 +36,11 @@ We're all responsible, all of the time, to take positive action in response to h
 
 ### Related Agreements
 
-[Harassment and Abuse Policy](harassment_and_abuse.md)
+[Harassment and Abuse Policy](../agreements/harassment_and_abuse.md)
 
-[Decisions](decisions.md)
+[Decisions](../agreements/decisions.md)
 
-[Diversity](diversity.md)
+[Diversity](../agreements/diversity.md)
 
 ### Related Guidelines
 

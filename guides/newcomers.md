@@ -1,14 +1,12 @@
 # A Guide for Newcomers
 
-- [ ] fix broken navigation chapter links 
-
 {% hint style="info" %}
 
-You can learn more about landing in Enspiral in [this podcast](https://youtu.be/79OhyzQVQp0).
+🎙 You can learn more about landing in Enspiral in [this podcast](https://youtu.be/79OhyzQVQp0).
 
 {% endhint %}
 
-## Everyone’s experience of Enspiral is different
+## Every experience of Enspiral is different
 
 Enspiral is a network of individuals, each with wonderfully varied experiences, aspirations, skills, knowledge, connections…and baggage! We all have our own versions of all of these, and it influences our experience of Enspiral just as much as it does the rest of our lives.
 
@@ -20,7 +18,7 @@ This is not right or wrong. Not good or bad. It just is. And knowing it can help
 
 The picture of Enspiral that is presented outside of the network can differ markedly from the experience you find when joining.
 
-Some of this comes from materials and experiences generated in the early days of Enspiral that still live on within the ‘library of the internet’. Some of this is the result of the Enspiral experience varying considerably between individuals (see also ‘[Everyone’s experience of Enspiral is different](newcomers.md#everyone’s-experience-of-enspiral-is-different)’). Some of this is because of the attachment people have to what Enspiral represents to them rather than what it really is.
+Some of this comes from materials and experiences generated in the early days of Enspiral that still live on within the ‘library of the internet’. Some of this is the result of the Enspiral experience varying considerably between individuals (see also ‘[Every experience of Enspiral is different](newcomers.md#every-experience-of-enspiral-is-different)’). Some of this is because of the attachment people have to what Enspiral represents to them rather than what it really is.
 
 Enspiral is still a network of ‘people doing good in the world’. But your experience will be more accurate (and likely less frustrating) if you let go of every other expectation and assumption you have. Join because you think this might be a place where you fit, not because you need Enspiral to do, be or deliver something specific.
 

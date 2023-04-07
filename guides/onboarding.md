@@ -2,7 +2,7 @@
 
 The 2022 changes to Enspiral structure (removing the two-tier membership and introducing nodes) transformed how we onboard people into the Network.
 
-Before joining Enspiral we invite you to **read [Enspiral Guide for Newcomers](/guides/newcomers.md) compiled by Nick, providing excellent starting point into your Enspiral experience.**
+Before joining Enspiral we invite you to **read [Enspiral Guide for Newcomers](../guides/newcomers.md) compiled by Nick, providing excellent starting point into your Enspiral experience.**
 
 [This post on Loomio](https://www.loomio.com/d/eUqFhOdN/introductions-and-readme-2019) compiles useful information and tools for new Enspiral members
 

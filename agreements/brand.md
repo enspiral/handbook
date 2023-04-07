@@ -1,6 +1,10 @@
 # Brand Agreement
 
-- [ ] Brand WG is currently "inactive". Approval process in this agreement should be updated.
+{% hint style="info" %}
+
+Brand WG is currently "inactive". Approval process in this agreement should be updated.
+
+{% endhint %}
 
 _Note: this agreement is not about ‘branded Enspiral ventures’ or Enspiral associated ventures/companies. For now potential ventures go through the venture process. We have identified that that work needs wider input and alignment with the people working on clarifying Enspiral ventures._
 

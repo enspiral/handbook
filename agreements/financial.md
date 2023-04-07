@@ -56,7 +56,7 @@ All discretionary costs are managed through an approved collaborative funding pr
 
 #### Emergency Costs
 
-The board can approve one-off expenditures from any fund when exercising [their emergency powers](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/board.html#emergency-powers).
+The board can approve one-off expenditures from any fund when exercising [their emergency powers](../agreements/board.md#emergency-powers).
 
 ## Collaborative Funding Processes
 

@@ -2,7 +2,7 @@
 
 ## a.k.a. Restorative Justice Guidelines
 
-Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](/archive/well-working-group.md) historically supported this mission by developing network resources for constructive dialogue and co-working.
+Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](../archive/well-working-group.md) historically supported this mission by developing network resources for constructive dialogue and co-working.
 
 In this document you will find three suggested steps to take to safely and appropriately resolve conflict. Also included are support mechanisms if you need additional input to help resolve the conflict.
 
@@ -30,7 +30,7 @@ If you're unable to resolve a conflict on your own, invite conversation. The soo
 
 * If you feel able and safe to, directly discuss your concerns with the person you are in conflict with.
 * Otherwise, see Conflict Resolution Support.
-* Consider your communication approach; [Comms Guidelines](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/comms_guidelines.html) might be helpful.
+* Consider your communication approach; [Comms Guidelines](../guides/comms_guidelines.html) might be helpful.
 * Ensure a mutually agreeable time and place for conversation, including adequate privacy.
 
 ### 3.  Develop a Plan
@@ -87,7 +87,6 @@ Our expectations are that a mediator is suitably qualified, costs incurred will 
 
 ### Other useful materials
 
-* [Open Mediation Protocol](https://docs.google.com/document/d/1WU0cf3wyeX4NIgXPDOzocn9UxAUM5aDaN_9VZGf5sB4/edit?usp=sharing)
 * [Loomio's Conflict Resolution Process](http://loomio.coop/conflict_resolution.html) and [resources](http://loomio.coop/conflict_resolution_resources.html)
 * [AORTA - Conflict mediation in action](https://github.com/valueflows/valueflows/files/371989/Conflict.Mediation.in.Action.March.2015.pdf)
 * [AORTA - Conflict Resolution Worksheet](https://github.com/valueflows/valueflows/files/371994/AORTA.Conflict.Resolution.Worksheet.pdf)

@@ -12,6 +12,6 @@ For information about how we implement Pods, see the [Pods Guide](../guides/pods
 
 ## Related Agreements
 
-* [Working Groups](working_groups.md)
-* [Stewarding](/archive/stewarding.md) (archived)
+* [Working Groups](../agreements/working_groups.md)
+* [Stewarding](../archive/stewarding.md) (archived)
 
