@@ -50,6 +50,7 @@
   * [Comms Role Scope](foundation/comms-role.md)
 * [Money](money/README.md)
   * [Collaborative Funding](money/collabfunding.md)
+  * [Contributing Money](money/contributing-money.md)
   * [Financial Transparency](money/financial_transparency.md)
 * [Ventures](/ventures.md)
 * [Resources](resources.md)
