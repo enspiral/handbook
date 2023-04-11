@@ -2,9 +2,15 @@
 
 At Enspiral, we are using facilitated [cobudget](https://cobudget.com) rounds to decide on how to distribute money.
 
-\(Contributors only: read more context about this on Loomio: [https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-](https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-)
+\(Contributors only: read more context about this on [Loomio](https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-).
 
 ## General funding round process
+
+{% hint style="info" %}
+
+rough guide
+
+{% endhint %}
 
 * At the start of a funding round: GT enter Funded Buckets from the previous round into the Cobudget spreadsheet dashboard.
 * Ops receives a notification that there is a new Funded Bucket
@@ -46,5 +52,5 @@ Contributors can allocate funds to their individual Cobudget account as part of 
 
 Once this money is received in the Enspiral Foundation bank account, Ops reconciles the bank payment in Xero and adds a record of this payment to the Cobudget "Audit log". This list of users and Cobudget contributions in the Audit Log are queued up for the subsequent funding round. At the start of a funding round, these funds are added to individual contributor accounts. Ventures also make contributions to Cobudget to team accounts; these payments are similarly recorded into this audit log.
 
-Here's a link to the [Financial Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/financial.html)
+Here's a link to the [Financial Agreement](../agreements/financial.md)
 
