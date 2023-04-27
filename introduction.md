@@ -1,6 +1,6 @@
 # Introduction
 
-![Enspiral Logo](/.gitbook/assets/enspiral-logo-black.jpg)
+![](/.gitbook/assets/enspiral-logo-black.jpg)
 
 **Enspiral is a network of people who support each other to do meaningful work.**
 
