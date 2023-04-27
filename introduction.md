@@ -1,10 +1,6 @@
 # Introduction
 
-{% hint style="info" %}
-
-This is a draft version of the 2023 update to [Enspiral Handbook](https://handbook.enspiral.com) funded via [October'22 cobudget round](https://cobudget.com/enspiral/funding-round-2022/cl8sptz8h015509l2i8evb6vw). It will soon be merged into handbook.enspiral.com and the old version will be archived (and preserved for future reference).
-
-{% endhint %}
+![Enspiral Logo](../assets/enspiral-logo.png)
 
 **Enspiral is a network of people who support each other to do meaningful work.**
 
