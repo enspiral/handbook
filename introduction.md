@@ -1,6 +1,5 @@
 # Introduction
 
-![](/.gitbook/assets/enspiral-logo-black.jpg)
 
 **Enspiral is a network of people who support each other to do meaningful work.**
 
@@ -35,3 +34,5 @@ All the content on this site is published with a [CC-BY-SA](https://creativecomm
 ## Contact
 
 Reach out via: foundation@enspiral.com
+
+![](/.gitbook/assets/enspiral-logo-black.jpg)
