@@ -10,6 +10,4 @@ Here are Enspiral companies contributing to the network:
 - [**Loomio**](https://www.loomio.com/) - a collaboration platform radically transforming how groups make decisions, discuss ideas and collaborate online. Say goodbye to tedious meetings and inbox-clogging emails and try Loomio’s decision-making tools for free!
 - [**Greatherthan**](https://www.greaterthan.works/) - on a mission to increase awareness of participatory practices, and make self-management and decentralized governance the clear choice for organizations.
 
-Have a look into the archive to learn more about Enspiral Ventures.
-
-- [ ] add direct link when the old handbook will be forked
+Have a look into the [archive](../archive/README.md) to learn more about Enspiral Ventures.
