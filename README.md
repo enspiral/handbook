@@ -1,3 +1,8 @@
+# Apr 28 2023 Update
+
+This is a snapshot of where the Handbook was, before we did the major upgrade in 2023. It's saved here as an archive.
+
+
 # Introduction
 
 If you're looking for introductory information about Enspiral, check our website [enspiral.com](http://enspiral.com/), [this quick slideshow](http://whatis.enspiral.com), or [this 90 second video](https://vimeo.com/125088390).
