@@ -2,26 +2,26 @@
 
 ## Context
 
-This agreement sets out the roles and responsibilities of the Enspiral Foundation Board and the powers granted to the [Directors of Enspiral Foundation Ltd](board.md). As a [registered limited liability company](https://www.business.govt.nz/companies/app/ui/pages/companies/3415611), Enspiral Foundation Ltd is legally required to have a board of directors and a chairperson.
+This agreement sets out the roles and responsibilities of the Enspiral Foundation Board and the powers granted to the [Directors of Enspiral Foundation Ltd](/foundation/board.md). As a [registered limited liability company](https://www.business.govt.nz/companies/app/ui/pages/companies/3415611), Enspiral Foundation Ltd is legally required to have a board of directors and a chairperson.
 
 Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so our approach is a light board, with a narrow focus.
 
 ## Roles & Responsibilities
 
 * Ensure Enspiral Foundation Ltd is fully compliant with New Zealand laws and regulations, and its company constitution.
-* Maintain an overview of current finances, long term financial view, and adequate reserves \(as defined in the [Financial Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/financial.html)\).
+* Maintain an overview of current finances, long term financial view, and adequate reserves (as defined in the [Financial Agreement](../agreements/financial.md)).
 * Decide what kind of financial activity can go through the Foundation, and oversee activity in the Foundation’s accounts.
 * Oversee all agreements between Enspiral Foundation Ltd and other entities \(including Enspiral Ventures and external organisations\), such as memorandums of understanding \(MOUs - [see definition](http://whatis.techtarget.com/definition/memorandum-of-understanding-MOU-or-MoU)\), service contracts, fundholding arrangements, etc.
 * Make recommendations about substantive decisions involving Enspiral Foundation Ltd and its assets, consulting with the shareholders and wider network.
 * Report quarterly on its activities to the shareholders and wider network.
-* Decide on the contents of [Node Requirements](../agreements/nodes.md) using an [Advice Decision](./decisions.md). 
-* Approve new [Enpsiral Nodes](../agreements/nodes.md) and decomission inactive / rogue Nodes.
+* Decide on the contents of [Node Requirements](../agreements/nodes.md) using an [Advice Decision](../decisions.md). 
+* Approve new [Enspiral Nodes](../agreements/nodes.md) and decomission inactive / rogue Nodes.
 * Protect the Enspiral brand and ensure the Enspiral Foundation has ultimate control over Enspiral brand assets and social media accounts.
 * Add / Remove members who are not part of a node to the network.
 
 ## Selection & Composition
 
-* Foundation Stewards and existing directors are expected to actively maintain a diverse board in keeping with the [Diversity Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/diversity.html).
+* Foundation Stewards and existing directors are expected to actively maintain a diverse board in keeping with the [Diversity Agreement](../agreements/diversity.md).
 * Enspiral currently has no quota or strict compositional requirements of the board as we do not want to limit the spectrum of diversity considered.
 
 ## Processes

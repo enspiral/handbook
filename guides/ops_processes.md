@@ -1,66 +1,51 @@
 # Ops processes
 
-This is a list of processes that Ops runs in Enspiral Foundation and which are part of our [scope of work](https://handbook.enspiral.com/ops-scope.html). We'll build this up over time.
+This is a list of processes that Ops runs in Enspiral Foundation and which are part of our [scope of work](../foundation/ops-scope.md)
 
-* Enspiral member onboarding, annual opt-ins, offboarding and maintenance
-* Bookkeeping, maintaining collab finance
-* Customer support
-* Administration
-  * Shareholder maintenance / company office updates  
-* Optimising
+- Onboarding, offboarding and maintenance
+- Bookkeeping, maintaining collab finance
+- Minor support to the network around these processes
+- Shareholder maintenance / company office updates
+- Optimising processes to reduce overhead and make things simpler
+- Knack support (the directory platform).
 
 ## Contributor processes
 
 ### Onboarding
 
-Optimi are contracted by the Enspiral Foundation to manage the global membership. When a new member is added by a Node, Optimi will add them to our loomio, slack, google workspace and mailing list. If the Node is not financially enabled Optimi will also manage the financial subscriptions to the Foundation.
+Optimi are contracted by the Enspiral Foundation to manage the global membership. When a new member is added by a Node, Optimi will add them to our loomio, slack, google drive and mailing list. If the Node is not financially enabled Optimi will also manage the financial subscriptions to the Foundation.
+
 If a Node wishes for Optimi to do any custom integrations or management they will need to enter into an independent arrangement.
 
-TODO: update below based on new node process.
+- [ ] cross check the process below with Uli’s documentation.
 
-Enspiral Members complete the “Add new contributor form” listed on the [Forms page](https://handbook.enspiral.com/guides/forms.html) in the handbook. Members are the new Contributor’s Steward by default unless they have arranged for someone else to be their Steward.
-
-Upon completion of this Form, Ops receives a notification with all of the details. At the same time, the new Contributor is sent an automated email with a link and request to complete the Contributor Details Form. Ops waits for the new Contributor to complete this form before onboarding them to the Enspiral apps and systems.
-
-The new Contributor completes this form, supplying the following info: Facebook login email, personal tagline/origin story, website, ask me about…, skills, activities, values, interests, bio/introduction, aspirations within the network. Ops receives a notification when the form is completed and that the Contributor is ready to be onboarded to the network.
-
-Ops onboards the new Contributor by inviting them to join to the following systems:
-
-* Enspiral Loomio
-* Enspiral Slack
-* Secret Enspiral Facebook Group
-* Cobudget
-* Added to the Foundation Contributors Group
-* Added to receive the [Onboarding Email Series](https://handbook.enspiral.com/guides/onboarding-info.html)
-
-If the new Contributor is getting an Enspiral Google Apps account, all of the above invites are generally sent to the new Google Apps account address unless the contributor prefers for these to be sent to their personal address.
-
-At this point the Contributor is considered “Onboarded” with a “Trial” status. The onboard date is created and a new Opt-in Request date is set for 3 months \(90 days\) after the onboard date. The [Contributors & Members Directory](https://docs.google.com/a/enspiral.com/spreadsheets/d/1-ZdYOEZ9KXpd8W166Pt-uTQdrsoXcmgZkURU3955L-w/edit?usp=drive_web) is updated with the new Contributors details.
-
-Once the new Contributor has logged into the Loomio Enspiral Group for the first time, Ops receives a notification. Ops introduces the new Contributor in the [New contributor welcome and introductions Discussion in Loomio](https://www.loomio.org/d/n1Uie3LW/new-contributor-welcome-and-introductions), tagging their inviting Member and Steward, and records the welcome date in the back end database. Ops then invites the new Contributor to join the “[Enspiral Opportunities // Ask Enspiral](https://www.loomio.org/g/9G8VrBKv/enspiral-enspiral-opportunities-ask-enspiral)” Enspiral Loomio sub-group.
-
-The new Contributor is now fully onboarded to all of Enspiral’s systems.
-
-### Trial end
-
-After 3 months in the network, the trial contributor is then asked if they'd like to join by signing up to a subscription on the [welcome page](welcome.enspiral.com).
-
-* Two weeks after sending the "Opt-in" email, if Ops does not receive a response from the contributor, a "Final Reminder" email is sent to the contributor and a caution that if we do not receive a response within one further week, we'll take it to mean that they're Opting-out by default. We also send a reminder via Enspiral Slack \(recently added notification.\)
-* Four weeks after sending the "Opt-in" email, if Ops still does not receive a response, we send a "Farewell" email to the Contributor \(at both email addresses\), saying that we will be removing them from Enspiral systems within one week, unless there's been some mistake. At this point, we also send a follow-up email notification to the Contributor's Steward, advising that unless they think there's been some mistake or problem with the contributor opting-in, Ops will opt-out the contributor by default and remove them from Enspiral systems.
-* Five weeks after sending the "Opt-in" email, if Ops has not received any notification from the Contributor or Steward, we presume the Contributor does not wish to stay in the network and we process the Contributor to be removed from the Enspiral Systems
+1. Node reps complete the “Add new contributor form” listed on the [Forms page](https://www.loomio.org/d/eUqFhOdN/introductions-and-readme-2019) in Loomio. Members are the new Contributor’s Steward by default unless they have arranged for someone else to be their Steward.
+2. Upon completion of this Form, Ops receives a notification with all of the details. 
+3. At the same time, the new member is sent an automated email with a link and request to login to the directory. 
+4. Once they’ve set their password and logged in, they can fill out their bio including the following fields: personal tagline/origin story, website, ask me about, skills, activities, values, interests, bio/introduction, aspirations within the network
+5. Once filled in, Ops invites them to Slack and Loomio for introductions as well as these other tools: 
+    - Cobudget
+    - Added to the [Foundation Global members](https://groups.google.com/a/enspiral.com/g/contributors) (to access Google Drive, this has to be a Google account)
+    - Newsletter list (managed by the newsletter person).
+- Introductions are added to each tool as they accept their invites (which can take a while). Be sure to look our for those emails. Introductions are done on these channels:
+    - [Loomio Introductions and Readme](https://www.loomio.com/d/jysfbc2Q/introductions-and-readme) - Manual intro by Ops
+    - [Slack Watercooler](https://app.slack.com/client/T024L84JD/C03TSSMN6) - Automated intro by Ops
+- At this point the member is considered “Onboarded”
 
 ### Offboarding
 
-Contributors are offboarded from the network: either when they cancel their subscription or their payment method fails 3 times (they're still given some time to get in touch if either is an accident and can also ask to be added back in, in the future)
+Contributors are offboarded from the network when:
 
-Ops removes the Contributor’s accounts from the following Enspiral systems:
+- they cancel their subscription
+- their payment method fails 3 times (they're still given some time to get in touch and can ask to be added back in, in the future)
+- they click on the “Opt out request” button in the directory app under My details
 
-* Enspiral Loomio Group \(this also removes them from the “Ask Enspiral // Enspiral Opportunites sub-group\)
-* Secret Enspiral Facebook Group
-* Cobudget \(any remaining funds are recycled into the next Cobudget round _**currently in construction**_\)
-* Removed from the Foundation Contributors Group
-* Removed from the Monthly Enspiral Newsletter e-mail list
-* Slack: \(Note: you cannot fully “remove” users, instead the Contributor’s account is “disabled”\)
+Ops then removes the member from the following systems:
 
-If the Contributor has a Google Work Space account \(a "name@enspiral.com" account\), they are notified via email and Slack that their Google Workspace account will be removed in two weeks. Ops schedules the account removal date. After two weeks, the account is removed and any remaining Google Drive documents owned by the contributor is re-assigned to a nominated account managed by Ops. If the Contributor is also in a Venture, Ops updates the repeating invoices to the Venture.
+- Loomio
+- Cobudget \(any remaining funds are recycled into the next Cobudget round\)
+- Removed from the Foundation Global Members Group
+- Removed from the Monthly Enspiral Newsletter e-mail list (by newsletter person)
+- Slack: \(Note: you cannot fully “remove” users, instead the members account is “disabled”\)
 
+If the member has a Google Workspace account \(a "name @ enspiral.com" account\), they are notified via email and Slack that their Google Workspace account will be removed in two weeks. Ops schedules the account removal date. After two weeks, the account is removed and any remaining Google Drive documents owned by the contributor and shared with others are re-assigned to a nominated account managed by Ops.

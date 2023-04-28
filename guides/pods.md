@@ -17,7 +17,7 @@ In summary:
 * **Rituals** are practices that help boost the interactivity of your calls. It could be as simple as holding a minute of silence at the start of the call.
 * A **format** gives your pod a direction and structure over time. It might specify a set of rituals for each session \(of a set\) or perhaps even activities that participants do in-between calls.
 
-You can refer to the [List of Rituals](pods.md#list-of-rituals) and the [List of Formats](pods.md#list-of-formats) for inspiration on what to propose to your group. The next section highlights key _principles_ intended to increase the resilience of your pod and the broader set of pods across Enspiral… we're in this to grow \(and compost\) together!
+You can refer to the [List of Rituals](web/enspiral-handbook-2023/guides/pods.md#list-of-rituals) and the [List of Formats](web/enspiral-handbook-2023/guides/pods.md#list-of-formats) for inspiration on what to propose to your group. The next section highlights key _principles_ intended to increase the resilience of your pod and the broader set of pods across Enspiral… we're in this to grow \(and compost\) together!
 
 ## Running a pod
 
@@ -31,7 +31,7 @@ There are key areas where _principles_ might be specifically important for all g
 
 **Presence** - Agree on the minimum number of participants you want to be present to go ahead with a meeting: Do you want everyone to be present every time? Can you go ahead with a meeting if someone can’t make it?
 
-**Cycles** - When do you stop? When do you reflect? Start with the end in mind or with a moment when you will stop and reflect \(also see [_Retrospective_](pods.md#continuous-improvement)\)
+**Cycles** - When do you stop? When do you reflect? Start with the end in mind or with a moment when you will stop and reflect \(also see [_Retrospective_](web/enspiral-handbook-2023/guides/pods.md#continuous-improvement)\)
 
 **Hosting Duties** - Should facilitation ‘rotate’ amongst your pod’s members, with a different person attending to the clock, agenda, or people’s speaking time each session? Should you take turns to decide who's in charge of inviting people of the next meeting and providing a link for them to join?
 
@@ -47,7 +47,7 @@ There are two ways you can help make your pod experience increasingly useful to 
 
 **Retrospective** - Agree on a time to stop and reflect on how is the pod working for each member: What is working well? What can be better? What are we going to change? You can use that reflection point as a good place to decide if you stop or if you keep on going, and how.
 
-> ℹ️ For an easy 'how to,' go to the Retro section [under “Rituals”](pods.md#list-of-rituals)
+> ℹ️ For an easy 'how to,' go to the Retro section [under “Rituals”](web/enspiral-handbook-2023/guides/pods.md#list-of-rituals)
 
 **Sharing learnings** - Share what you learn in your Retro with the network so we can all learn together. We will have shared learning prompts with the network every 3 months, and an open thread where everyone can post what have they learned from specific Formats and Rituals.
 
@@ -129,9 +129,12 @@ There are two ways you can help make your pod experience increasingly useful to 
 
 ## Additional resources
 
-📼 Watch john gieryn and former Pod Working Group member Nancy Gibson [present on pods](https://www.youtube.com/watch?v=b9N_V0L989s) at the 2020 Impact Unconference, Aotearoa NZ
+🎙 A [conversation about Pods](https://www.youtube.com/watch?v=c5TXH_pMxm4&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp&index=16) with Nati Lombardo
 
-🔊 Listen to Nati Lombardo and john gieryn [share their experiences and explain further](https://anchor.fm/Microsolidarity/episodes/Discussion-about-Crews-at-Enspiral-Summer-Retreat-2019-e3ae9r) the ideas in this guide \(you might also like this [update 6 months later](https://anchor.fm/Microsolidarity/episodes/Nati-and-john-talking-about-pods-at-Enspiral-e9giqj)\)
+📼 Watch John Gieryn and former Pod Working Group member Nancy Gibson [present on pods](https://www.youtube.com/watch?v=b9N_V0L989s) at the 2020 Impact Unconference, Aotearoa NZ
+
+🔊 Listen to Nati Lombardo and John Gieryn [share their experiences and explain further](https://anchor.fm/Microsolidarity/episodes/Discussion-about-Crews-at-Enspiral-Summer-Retreat-2019-e3ae9r) the ideas in this guide \(you might also like this [update 6 months later](https://anchor.fm/Microsolidarity/episodes/Nati-and-john-talking-about-pods-at-Enspiral-e9giqj)\)
 
 📜 Find additional formats and rituals [on the Microsolidarity site](https://www.microsolidarity.cc/crewing).
 
+🕸 Read Michal Korzonek's reflections about [Microsolidarity Journey and experimenting with pods](https://michalkorzonek.com/microsolidarity-journey).

@@ -8,61 +8,55 @@ Enspiral Foundation Limited via the Board has contracted the Ops team (Optimi) t
 
 ### Ops
 
-Optimi is an Enspiral venture founded by Malcolm Colman-Shearer to enable organisations to spend more time working on the stuff that matters by optimising organisational systems and processes.
+Optimi is an Enspiral financial sponsor founded by Malcolm Colman-Shearer *in 2015* to enable organisations to spend more time working on the stuff that matters by optimising organisational systems and processes.
 
 ## Contracted work
 
-**Banking and Xero - Financial Admin**
+### Banking and Xero - Financial Admin
 
-* Process invoices and bills and keep bank accounts reconciled to Xero
-* Make payments for monthly fixed costs
-* Pay out Cobudget buckets after the [Bucket Payout form](../money/collabfunding.md) is filled in.
-* Chase any overdue invoices
-* Work with the accountants and make sure the monthly financial report is published to members
-* Keep an accurate record of how much we have in all Foundation accounts
+- Process invoices and bills and keep bank accounts reconciled to Xero
+- Make payments for monthly fixed costs
+- Pay out Cobudget buckets when requested.
+- Chase any overdue invoices
+- Work with the accountants 
+- Keep an accurate record of how much we have in all Foundation accounts
 
-**General Inquiries**
+### General Inquiries
 
-* Respond to emails coming to contact@enspiral.com \(website contact address\) and foundation@enspiral.com 
-* If someone doesn't know who to talk to at Enspiral, point them in the right direction
-* Ops can also be contacted via the Slack channel \#ops\_chat
+- Respond to emails coming to foundation@enspiral.com
+- Look after decentralised system that sends contact requests to Slack
+- Ops can also be contacted via the Slack channel #ops_chat internally
 
-**Manage Contributors**
+### Manage members
 
-* Manage contributor enquiries about operations via email, slack and Google forms.
-* Process requests from members to add new contributors
-  * Send new contributor welcome email
-  * Add new person to online systems
-  * Keep list of contributors up to date
-* Manage contributor re-opt-in and financial contribution process \(at three months, and annually thereafter\), including removing contributors who opt out
+- Process requests from node hosts to add new members
+- Keep list of ~~contributors~~ members up to date
+- Offboard members who are leaving
 
-**Manage Tools**
+### Manage Tools
 
-* Serve as SaaS admin for all Foundation platforms
-* Reconcile list of users for all tools with master list of contributors
+- Serve as SaaS admin for all Foundation platforms
 
-**Manage Foundation Stewards**
+### Manage Foundation Stewards
 
-* Run annual foundation steward re-opt-in process 
-* Manage issue and forfeiture of  shares in the Foundation 
+- Run annual foundation steward re-opt-in process
+- Manage issue and forfeiture of shares in the Foundation
 
-**Company Support**
+### Company Support
 
-* Compliance paperwork for AGM and Shareholder meetings
-* Manage Enspiral Foundation Ltd on the Companies website and CompanyBox
-* Maintain a shareholders register
-* Manage document signing for shareholder resolutions
+- Compliance paperwork for AGM and Shareholder meetings
+- Manage Enspiral Foundation Ltd on the Companies website
+- Maintain a shareholders register
+- Manage document signing for shareholder resolutions
 
-**Collaborative Funding**
-Currently paused until a new approach is established (circa 2021)
-* Ensure all contributors are added to Cobudget
-* Distribute funds in Cobudget according to contributions
-* Update buckets when paid out
+### Collaborative Funding
 
-**Role Optimisation**
+- Ensure all members are added to Cobudget
+- Distribute funds in Cobudget according to requests from the Board
+- Update buckets when paid out
 
-* Manage and prioritise a roadmap of identified and suggested improvements to Foundation processes
-* Make improvements within scoped budget to provide increased value to Enspiral Foundation
-* Reporting back on improvements periodically
-* Update the FAQ, help, and onboarding documentation when possible
+### Role Optimisation
 
+- Manage and prioritise a roadmap of identified and suggested improvements to Foundation processes
+- Make improvements within scoped budget to provide increased value to Enspiral Foundation
+- Update the FAQ, help, and onboarding documentation when possible

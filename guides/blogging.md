@@ -1,12 +1,21 @@
 # Blogging
 
-![](https://i.imgur.com/ZZO5vsM.png)
+As a member of Enspiral you are encouraged to share your experiences through our publishing platforms:
+
+- [Enspiral Tales](https://medium.com/enspiral-tales) on Medium
+- [Enspiral Podcast](https://www.youtube.com/watch?v=xyLl4HnXdyQ&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp) on Youtube
+- [Better Work Together Blog](https://blog.betterworktogether.co/) - contact Ants for more info
+
+🎙 Here's a conversation about [blogging for Enspiral and writing online](https://youtu.be/aNYEQKiioUU) with Rich Bartlett.
+
+## Context
 
 During the original Catalyst experiment, Gina started [Enspiral Tales](https://medium.com/enspiral-tales) - a Medium collection for blog stories written by Enspiral people.
 
-Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This is a bucket of money that anyone in the network can contribute to. Rich arbitrarily hands out money to people for writing, editing and illustrating blog posts.
+Rich followed up with the “[Fairy Blog Mother](https://www.loomio.org/d/HMEnwIYz/greetings-from-the-fairy-blog-mother)”. This was a bucket of money that anyone in the network can contribute to. Rich arbitrarily handed out money to people for writing, editing and illustrating blog posts. Creating Enspiral Content has been also funded in [October '22 Cobudget Round](https://cobudget.com/enspiral/funding-round-2022/cl8rkemw8006509laj7vuh3sh).
 
-_At 01/08/17, there is $2,000 in_ [_the bucket_](http://cobudget.co/#/buckets/1483) _- so get writing, get paid :\)_
+![](https://i.imgur.com/ZZO5vsM.png)
+
 
 ## Content
 
@@ -50,7 +59,7 @@ If you choose a license that allows people to share your work, it can get repost
 
 If you want to make it easier on the editors of those publications, it’s helpful to publish a raw Markdown or Html version of your post somewhere. For example, see how Rich did that at the very end of [this post](https://medium.com/@richdecibels/occupiers-from-tunisia-spain-new-zealand-taiwan-and-france-compare-notes-5c6cc6d3afd3#.5ufyt410n).
 
-## Impact
+## Impact on the original experiment
 
 The results have been great: about 40 people have written stories, growing the publication to 2800 followers, getting about 5-10k hits in a month. Here's a summary of our all-time views:
 
@@ -63,21 +72,4 @@ And our most popular stories to date \(updated Jan '19\):
 ## Resources
 
 * [Unsplash](https://unsplash.com/): free high resolution photos
-
-## Post script from Rich about Medium vs. free software
-
-People will rightly question: hey why are you supporting Medium over [free software](https://www.gnu.org/philosophy/free-sw.en.html) alternatives? Aren't they just another venture-backed company capturing the value we peer-produce for the common benefit of the internet!?
-
-Yes they are. Boo. I'm a free software advocate. I've been supporting people to write blogs since literally before blogging platforms were invented. I've rolled my own code, and hosted collaborative blogs on Blogger and Wordpress.
-
-In my opinion, Medium has a couple of huge benefits compared to any other tool I've tried. The focus on "writing a post" rather than "starting a blog", the simplicity of the editor interface, the ease of maintaining an individual and a collective identity, the integration with social networks... all of these factors make it really attractive to new writers.
-
-I've found it to be orders of magnitude easier to recruit people to write on Medium than on any other platform. I'm optimising for maximum number of contributors.
-
-**My recommendations:**
-
-* [Export your stories](https://help.medium.com/hc/en-us/articles/214043918-Export-content-from-Medium) from Medium periodically to make sure you own them. 
-* [Use the licenses](https://medium.com/@Medium/licensing-your-work-on-medium-517fa7096e62#.5jtprii94) to make sure you understand who owns the stories and who can reproduce them on what conditions.
-* Put your stories elsewhere and just use Medium as a signal-booster. I've started publishing on Gist with public-domain licensing, so it is easy for anyone to repost my work onto Medium, Wordpress, or anywhere else.
-* If you know of a free software alternative to Medium that is comparable in terms of accessibility and impact, and you want to host Enspiral's blogging platform there, I will be happy to do what I can to support a migration plan.
 

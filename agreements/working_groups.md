@@ -1,5 +1,12 @@
 # Working Groups Agreement
 
+
+{% hint style="info" %}
+
+There are currently no catalysts in Enspiral. Formal WG approval process in this agreement should be updated.
+
+{% endhint %}
+
 [_Approved: April 2019_](https://www.loomio.org/p/vksIn6z0/we-approve-the-working-group-agreement)
 
 Working groups are the way we build and maintain Enspiral, if Enspiral were a body, working groups would be the organs.
@@ -90,6 +97,4 @@ The board is the friendly gatekeeper for financially enabled working groups.
 
 * Approve / reject requests to become a financially enabled working group.
 * Disband a financially enabled working group and appoint someone\(s\) to unwind the business unit.
-
-For more information about working groups, check out [this guide](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/working_groups.md).
 

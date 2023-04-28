@@ -2,7 +2,7 @@
 
 ### Context
 
-This agreement defines how  handles money as a collective, specifically the funds in the accounts of . Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through participatory processes.
+This agreement defines how Enspiral handles money as a collective, specifically the funds in the accounts of Enspiral. Our goals are to ensure legal compliance, financial solvency, and operational reliability, make financial flows across the network as transparent as possible, and direct significant resources to discretionary funds to be decided through participatory processes.
 
 ## Type of Funds
 
@@ -10,7 +10,7 @@ Money held by the foundation falls into the following two categories.
 
 #### Core Fund
 
-The core fund is controlled by the Foundation Board. These funds are flagged for operational expenses and providing an economic runway for .
+The core fund is controlled by the Foundation Board. These funds are flagged for operational expenses and providing an economic runway for Enspiral.
 
 The board is expected to maintain a viable level for the core fund account \(e.g. minimum of 12 months of fixed expenses\) and to periodically allocate any surplus to the approved collaborative funding processes of their choice.
 
@@ -20,7 +20,7 @@ Funds allocated to an approved collaborative funding process governed by the rul
 
 ## Income
 
- receives income from individuals, companies, trusts or other entities. Income can be broken into the following categories:
+Enspiral receives income from individuals, companies, trusts or other entities. Income can be broken into the following categories:
 
 #### Gifts
 
@@ -32,11 +32,11 @@ Except for membership fees collected directly by Enspiral Nodes, all recurring m
 
 #### Sponsorship
 
-A recurring sponsorship with . All sponsorships have a written memorandum which outlines the terms of the sponsorship and where funds are allocated.
+A recurring sponsorship with Enspiral. All sponsorships have a written memorandum which outlines the terms of the sponsorship and where funds are allocated.
 
 Sponsorship monies can be allocated to any fund, as defined by the sponsorship memorandum.
 
-An agreement \(in the form of a memorandum\) with the  Board and the sponsor. The Board will sign off on and maintain a record of all memorandums.
+An agreement \(in the form of a memorandum\) with the Enspiral Board and the sponsor. The Board will sign off on and maintain a record of all memorandums.
 
 #### Other income
 
@@ -48,7 +48,7 @@ Money spent by the Foundation falls under the following categories.
 
 #### Fixed Costs
 
-The board is responsible for managing the fixed costs of the  from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the  network.
+The board is responsible for managing the fixed costs of the network from core funds, which are expected to be kept at ‘minimum viable’ to ensure smooth operations of core processes for the  network.
 
 #### Discretionary Costs
 
@@ -56,7 +56,7 @@ All discretionary costs are managed through an approved collaborative funding pr
 
 #### Emergency Costs
 
-The board can approve one-off expenditures from any fund when exercising [their emergency powers](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/board.html#emergency-powers).
+The board can approve one-off expenditures from any fund when exercising [their emergency powers](../agreements/board.md#emergency-powers).
 
 ## Collaborative Funding Processes
 
@@ -72,5 +72,5 @@ Funds may only be allocated to a collaborative funding process that has clearly 
 
 ## Overall Compliance & Reporting
 
-All financial compliance is managed at the discretion of the board. The board will provide a periodical financial report on s funds/accounts balances and budget/financial forecast.
+All financial compliance is managed at the discretion of the board. The board will provide a periodical financial report on Enspiral's funds/accounts balances and budget/financial forecast.
 

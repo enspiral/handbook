@@ -5,16 +5,13 @@ Working groups are governed by the [Working Groups Agreement](../agreements/work
 Working groups \([status](https://docs.google.com/document/d/1RQrZE_9iw0ewIj7UCvC7SBLCziYwfi13vM5FbRDBCx4/edit?usp=sharing)\):
 
 * [Ambassadors](ambassadors.md) \(hibernating\)
-* [Assembly](assembly.md) \(hibernating\)
-* [Catalysts]() \(vibrant\)
 * [Collaborative funding](collaborative-funding.md) \(hibernating\)
 * [Comms](comms.md) \(active\)
-* [Enspiral Brand](brand_working_group.md) \(active\)
 * [Financial](collaborative-funding.md) \(hibernating\)
 * [Gatherings](gatherings.md) \(vibrant\)
 * [MoneySwarm](external-funding.md) \(active\)
-* [Pods](pods.md) \(active\)
-* [Ventures](ventures.md) \(hibernating\)
+* [Pods](web/enspiral-handbook-2023/archive/pods.md) \(active\)
+* [Ventures](web/enspiral-handbook-2023/archive/ventures.md) \(hibernating\)
 
 Anyone can start a working group. Working groups are where we do work on the network. Often a working group will be initiated by someone with high context but low capacity for action \(e.g. directors or catalysts\), and then they'll recruit contributors with more capacity. Working groups will often be temporary, though some will be permanent.
 
@@ -29,7 +26,7 @@ Standard operating procedure for working groups:
 * a **Slack channel** using the `wg-` naming convention, e.g. \#wg-financial \(and optionally, a private Slack channel \#wg-financial-private\). The \#wg-all channel is a place to connect with all people active in working groups.
 * **reporting**: post updates in the public Slack channel and in the newsletter
 * involve people in **decisions** on Loomio. \(Tagging Loomio threads with the `wg-` label will make them easier to find.\)
-* **task tracking**: we use the Improvements board for task tracking. Read the [Improvements Guide](../guides/improvements.md) and talk to the Catalysts if you'd like hands-on support.
+* **task tracking**: we use the Improvements board for task tracking. Read the [Improvements Guide](improvements.md) and talk to the Catalysts if you'd like hands-on support.
 * **rhythm**: align to the two-weekly sprint rhythm set by the Catalysts \(e.g, sprint 15 starts on Monday Oct 31.\) The sprint rhythm corresponds to the "milestones" on the Improvements board. All active tasks on the Improvements board have a Milestone, i.e. which sprint to we expect to finish the work. 
 
 You can take as much of this structure as is useful!

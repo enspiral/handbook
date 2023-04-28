@@ -4,11 +4,11 @@ This guide covers instructions for Enspiral email's, account security, Google gr
 
 ## Email
 
-To request an account \(if you don't meet the requirements in the [Email accounts agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/agreements/email_accounts_agreement.md), contact the Catalysts\), or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses)
+To request or remove your account, fill out [this form](https://docs.google.com/a/enspiral.com/forms/d/e/1FAIpQLSdpzzBQOHtMCowHOLamaBYqu4a-TsoP7Z4T8R-3pUWveyD0sw/viewform#responses). If you don't meet the requirements in the [Email accounts agreement](../agreements/email_accounts_agreement.md), contact the Catalysts or reach out to foundation@enspiral.com .
 
 ### What you need to know
 
-* An account allows you to have all the normal google services hosted within Enspiral's Google apps domain. eg. an Enspiral email address and aliasaes, google drive, google calendar and google groups. But an account isn't neccesary to interact with Enspiral people or to use the various services and tools.
+* An account allows you to have all the normal google services hosted within Enspiral's Google apps domain. eg. an Enspiral email address and aliases, google drive, google calendar and google groups. But an account isn't necessary to interact with Enspiral people or to use the various services and tools.
 * An account costs 108 NZD per year. This bill is separate to the annual contribution.
 * If you need an account to work for an Enspiral venture, that venture will organise it for you.
 

@@ -1,7 +1,5 @@
 # Github for Beginners
 
-_Psst, if you like video, scroll to the bottom for an awesome video intro series from Gabby, featuring onesies!_ 😺
-
 ## Why Git?
 
 We use Git because it is an amazing structured collaboration process that enables thousands of people to work on projects without central coordination. There is a learning curve but it is worth the effort.
@@ -24,19 +22,9 @@ In git lingo, the proposal is a **pull request** and it is accepted by **merging
 
 ## Put your new Git skills to good use
 
-Now that you have some Git skills, why don't you try [proposing a change to this handbook](../#contributing-to-the-handbook), or [suggesting a new issue on the Improvements board](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/improvements.html)
+Now that you have some Git skills, why don't you try [proposing a change to this handbook](../#contributing-to-the-handbook).
 
 If you have any questions that aren't answered by this guide, you can ask them by [creating a new issue](https://github.com/enspiral/handbook/issues/new).
-
-## The amazing Github intro video series
-
-Gabby made these excellent videos introducing Github for beginners. Some of the details are out of date but the bulk of the content is right on. And there are onesies!
-
-### What is Github and Why use it for org documentation?
-
-### Visiting the repo
-
-### Posting issues
 
 ### Practice now:
 

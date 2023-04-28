@@ -2,7 +2,7 @@
 
 ## a.k.a. Restorative Justice Guidelines
 
-Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](../working-groups/well-working-group.md) historically supported this mission by developing network resources for constructive dialogue and co-working.
+Enspiral's value resides in the people and the relationships that make up our inspiring, changemaking network. We collectively strive to foster an increasingly open, inclusive and caring culture. The [Well Working Group](../archive/well-working-group.md) historically supported this mission by developing network resources for constructive dialogue and co-working.
 
 In this document you will find three suggested steps to take to safely and appropriately resolve conflict. Also included are support mechanisms if you need additional input to help resolve the conflict.
 
@@ -18,8 +18,8 @@ If you are in conflict with someone else consider taking these three steps:
 
 * Take time to process your experiences if you feel confused, overwhelmed or agitated.
 * Note uncertainties and possible misunderstandings in your interactions, including cultural differences.
-* Distinguish people's actions from your feelings about them.  They're both important, but they're different.
-* Distinguish disagreement from personal hostility.  We're allowed to disagree, dissent and discuss.
+* Distinguish people's actions from your feelings about them. They're both important, but they're different.
+* Distinguish disagreement from personal hostility. We're allowed to disagree, dissent and discuss.
 * Review relevant documents and Conflict Resolution Support.
 
 If you've contemplated the experience and have decided it feels like it may be _harassment_ or _abuse_, please consult our [Harassment and Abuse Policy](../agreements/harassment_and_abuse.md).
@@ -30,7 +30,7 @@ If you're unable to resolve a conflict on your own, invite conversation. The soo
 
 * If you feel able and safe to, directly discuss your concerns with the person you are in conflict with.
 * Otherwise, see Conflict Resolution Support.
-* Consider your communication approach; [Comms Guidelines](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/guides/comms_guidelines.html) might be helpful.
+* Consider your communication approach; [Comms Guidelines](../guides/comms_guidelines.html) might be helpful.
 * Ensure a mutually agreeable time and place for conversation, including adequate privacy.
 
 ### 3.  Develop a Plan
@@ -63,7 +63,7 @@ Directly discuss your concerns with a conflicting person _if you're comfortable 
 
 ### 2. Private support
 
-Talk privately to your [Enspiral Steward\(s\)](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/stewardship_agreement.md) or trusted friends to help you resolve conflicts with other Enspiral participants. Make a plan together about what you're going to do.
+Talk privately to your trusted friends to help you resolve conflicts with other Enspiral participants. Make a plan together about what you're going to do.
 
 ### 3. Expanded dialogue
 
@@ -71,13 +71,9 @@ Enspiral participants may seek to informally resolve their conflicts by discussi
 
 ### 4. Mediation
 
-For intense conflicts, Enspiral participants may request mediation meetings which are assigned to trained, in-network \(orexternal\) mediators.
+For intense conflicts, Enspiral participants may request mediation meetings which are assigned to trained, in-network \(or external\) mediators.
 
 Our expectations are that a mediator is suitably qualified, costs incurred will be negotiated directly with the people involved. We commit to hosting a recurring bucket and—at the Enspiral Foundation's discretion—the use of reserves.
-
-## Reporting Back / Accountabilities
-
-coming soon
 
 ### Related Agreements
 
@@ -91,7 +87,6 @@ coming soon
 
 ### Other useful materials
 
-* [Open Mediation Protocol](https://docs.google.com/document/d/1WU0cf3wyeX4NIgXPDOzocn9UxAUM5aDaN_9VZGf5sB4/edit?usp=sharing)
 * [Loomio's Conflict Resolution Process](http://loomio.coop/conflict_resolution.html) and [resources](http://loomio.coop/conflict_resolution_resources.html)
 * [AORTA - Conflict mediation in action](https://github.com/valueflows/valueflows/files/371989/Conflict.Mediation.in.Action.March.2015.pdf)
 * [AORTA - Conflict Resolution Worksheet](https://github.com/valueflows/valueflows/files/371994/AORTA.Conflict.Resolution.Worksheet.pdf)
@@ -103,4 +98,3 @@ coming soon
 * [The FOSDEM Conundrum](http://www.sarahmei.com/blog/2015/02/01/the-fosdem-conundrum/)
 * [Facilitation Guide for Effective Conflict Resolution](http://peacefulschoolsinternational.org/wp-content/uploads/cooperative-guide-to-conflict-resolution.pdf)
 * ["Manifesto of Being and Working Together" from \#OurField and Future Farm Lab](http://www.phoebetickell.com/s/Manifesto_of_Being_and_Working_Together-c3kd.pdf)
-

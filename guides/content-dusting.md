@@ -19,7 +19,7 @@ Amending content and discussing with content authors are also means to directly 
   Let your skills and own perception of « stuff that matters » guide you towards the piece of stale content that you want to update.
 
 * **Step 2 - Put yourself in the author's shoes** - Before you even notify them that some of their previous work needs a rework, think of what you would do in their place to get things sorted. Make sure you understand what needs doing to an extent that will allow effective communication with the author.
-* **Step 3 - Notify the author and take steps towards resolution** - It's now time to notify the author of the issue you've found. If the content is in a Github file, find the original commit where this content was authored [using these insructions](https://help.github.com/articles/tracing-changes-in-a-file/), and place a Github comment on the relevant line. If it's on the Drive, just include a comment and mention the author and any other person you think should be notified. Your comment should ideally offer a simple solution to the issue and potentially request mandate to amend the author's work.
+* **Step 3 - Notify the author and take steps towards resolution** - It's now time to notify the author of the issue you've found. If the content is in a Github file, find the original commit where this content was authored [using these instructions](https://help.github.com/articles/tracing-changes-in-a-file/), and place a Github comment on the relevant line. If it's on the Drive, just include a comment and mention the author and any other person you think should be notified. Your comment should ideally offer a simple solution to the issue and potentially request mandate to amend the author's work.
 
   > Github tip: You can use the `- [ ] item` notation to create a checklist. This will allow you to list tasks that authors will be able give you mandate for by ticking the box. For trivial amendments that you think are not worth disturbing the author, go straigth to committing changes.
 
@@ -33,5 +33,5 @@ You can see various examples of \(so far Github-centered\) content-dusting [here
 
 ## Discuss
 
-The emergence of this group is discussed in [this Loomio](https://www.loomio.org/d/P97tAUYQ). Conversation is also happening in the [\#activation-program](https://enspiral.slack.com/messages/C56MTV8SV/convo/C56MTV8SV-1499108780.752336/) Slack channel. Feel free to join and weight in your thoughts!
+The emergence of this group is discussed in [this Loomio](https://www.loomio.org/d/P97tAUYQ). Feel free to join and weight in your thoughts!
 

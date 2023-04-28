@@ -1,22 +1,22 @@
 # Decisions Agreement
 
-This agreement defines how formal decisions are made at . It identifies a number of different types of decision-making protocols, and describes processes for participating in formal decision making.
+This agreement defines how formal decisions are made at Enspiral. It identifies a number of different types of decision-making protocols, and describes processes for participating in formal decision making.
 
 ## Context
 
-is a network of highly autonomous individuals, teams, and ventures. As much as possible, we encourage people to make decisions for themselves.
+Enspiral is a network of highly autonomous individuals, teams, and ventures. As much as possible, we encourage people to make decisions for themselves.
 
-is also a network building shared commons, and pursuing shared aspirations, that call for collective agreements and commitments. There are a variety of situations where it is useful or necessary to make a formal decision as a group.
+Enspiral is also a network building shared commons, and pursuing shared aspirations, that call for collective agreements and commitments. There are a variety of situations where it is useful or necessary to make a formal decision as a group.
 
 ## Decision Protocol: Consensus
 
-For formal decisions, uses [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), a methodology with a specific meaning and practice. Consensus does not mean unanimous agreement or engagement from everyone on all decisions. The key concept is consent \(you can live with it\), which is distinct from agreement \(it’s your preference or first choice\).
+For formal decisions, Enspiral uses [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), a methodology with a specific meaning and practice. Consensus does not mean unanimous agreement or engagement from everyone on all decisions. The key concept is consent \(you can live with it\), which is distinct from agreement \(it’s your preference or first choice\).
 
 ## Agreements
 
-Formal decisions with everyone are only intended to be used when they will have significant impact on the wider network. This Decision Agreement is the core agreement from which all others derive their mandate.
+**Formal decisions with everyone are only intended to be used when they will have significant impact on the wider network**. This Decision Agreement is the core agreement from which all others derive their mandate.
 
-In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](https://handbook.enspiral.com/agreements). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
+In order to enable efficient decision-making, provide clarity to participants, comply with laws, and protect the network, certain formal decisions are delegated to specific people, groups, or processes other than a consensus decision. This delegation is an Agreement and they are [documented in our Handbook](../agreements/README.md). Decisions to change existing Agreements or create new ones are made by everyone in the network together.
 
 ## Decision Tool: Loomio
 
@@ -28,14 +28,14 @@ Not every Loomio proposal constitutes a formal decision. Many Loomio proposals a
 
 ## Making Formal Decisions
 
-Anyone can propose a formal decision at any time. We seek open, transparent decision-making and strive to enable the people who are affected by a decision to participate as fully as possible in making it. tries to make decisions with the widest possible circle of participants, while recognising the necessity and wisdom of delegating responsibility for certain decisions.
+**Anyone can propose a formal decision at any time. We seek open, transparent decision-making and strive to enable the people who are affected by a decision to participate as fully as possible in making it**. tries to make decisions with the widest possible circle of participants, while recognising the necessity and wisdom of delegating responsibility for certain decisions.
 
 A formal decision is only required whenever there is a significant impact on the network. It is difficult to specify exact criteria for every case, so everyone is encouraged to use their best judgement to balance exercising autonomy with gaining shared understanding.
 
 Formal decisions are needed for the following areas \(some with the whole network, some with a subset of people or by a process which has been delegated by an Agreement\).
 
-* Agreements - creating new rules about how  works
-* Brand - using the  logo and identity publicly
+* Agreements - creating new rules about how Enspiral works
+* Brand - using the Enspiral's logo and identity publicly
 * Money - spending collective funds or for actions that impact our financial outlook
 * Tools & Processes - how the network as a whole will work and communicate
 * Relationships - commitments as a network with individuals or entities \(such as invitations to membership, appointing directors, MOUs with ventures or other entities\)
@@ -49,14 +49,14 @@ The default for all formal decision making in is the Standard Decision.
 
 | Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| Standard Decision | Passes as long as there are no blocks | None | 3 working days \(5 working days encouraged when possible\) | This is the default option and is used for most decisions at . Ensures that no one strongly opposes a course of action, while allowing progress to move forward. If there are a large number of “no”s, it’s strongly advised to work on another iteration to find a better solution, but the proposer may move ahead at their discretion. |
+| Standard Decision | Passes as long as there are no blocks | None | 3 working days \(5 working days encouraged when possible\) | This is the default option and is used for most decisions at Enspiral. It ensures that no one strongly opposes a course of action, while allowing progress to move forward. If there are a large number of “no”s, it’s strongly advised to work on another iteration to find a better solution, but the proposer may move ahead at their discretion. |
 
 Additionally, we have other types of formal decisions for specific circumstances. When using any of the decision types below, it must be clearly specified in the proposal.
 
 | Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days \(10 working days encouraged when possible\) | This option should be used for more consequential decisions, such as changes to [Agreements](https://handbook.enspiral.com/agreements). |
-| Quorum Decision | Passes as long as there are no blocks. | Requires at least 75% of all eligible voters to agree or abstain \(meaning at least ¾ of all group members must participate\) | 5 working days \(10 working days encouraged when possible\) | This option is used when a Special Resolution \(as defined in the [Constitution](https://handbook.enspiral.com/foundation/constitution) is required |
+| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days \(10 working days encouraged when possible\) | This option should be used for more consequential decisions, such as changes to [Agreements](../agreements/README.md). |
+| Quorum Decision | Passes as long as there are no blocks. | Requires at least 75% of all eligible voters to agree or abstain \(meaning at least ¾ of all group members must participate\) | 5 working days \(10 working days encouraged when possible\) | This option is used when a Special Resolution \(as defined in the [Constitution](../foundation/constitution) is required |
 | Emergency Decision | Passes even if there are blocks, but requires 75% of those stating a position to agree | None | 10 working days. If faster action is required, the board can exercise its emergency powers. | This option is a safeguard when the normal decision making processes fails. This option is only used in specific circumstances where a minority block would be destructive, such as removing a member, contributor or venture from the community or a role. |
 | Advice Decision | Quorum Decision of *decision makers*  | See Quorum Decision above | See Quroum Decision above | An advice decision must define the *decision makers* who have the power to make the decision after they have sought the input and feedback of those affected by the decision. |
 
@@ -75,7 +75,7 @@ Any participant can raise a proposal, which describes a clear course of action o
 
 ## Blocking
 
-At Enspiral, a single block is sufficient to stop a proposal proceeding in most cases. This places a considerable responsibility on someone blocking to deeply consider their choice, and on everyone involved to respect the right to block and to work toward a resolution.
+**At Enspiral, a single block is sufficient to stop a proposal proceeding in most cases. This places a considerable responsibility on someone blocking to deeply consider their choice, and on everyone involved to respect the right to block and to work toward a resolution.**
 
 A decision to block should not be taken lightly, but if you feel strongly about an issue and really want to stop a proposal you actually need to block it, because simply disagreeing or arguing against is not a guarantee that it won't be passed.
 
@@ -84,12 +84,12 @@ A decision to block should not be taken lightly, but if you feel strongly about 
 * Place the good of the whole group above your own individual preferences.
 * You are not required to propose an alternative solution to raise a block, but you must articulate the nature of your block clearly so the group can understand the concern and work toward a resolution.
 * Simply vetoing a decision is not considered a responsible use of consensus blocking - you must be prepared to work collaboratively to try and reach a resolution, make time for conversations, and to help others understand the issue.
-* Blocks should only be used in cases where the blocker genuinely believes there is a significant risk of harm to the network, or that the proposal contravenes the fundamental values of .
+* Blocks should only be used in cases where the blocker genuinely believes there is a significant risk of harm to the network, or that the proposal contravenes the fundamental values of Enspiral.
 
 
 ## Decision Culture & Practice
 
-While this document defines our formal decision making protocols, the effectiveness of our decision-making practice depends on our collective culture. The following principles have been found to be helpful in supporting formal decision-making at .
+While this document defines our formal decision making protocols, the effectiveness of our decision-making practice depends on our collective culture. The following principles have been found to be helpful in supporting formal decision-making at Enspiral.
 
 **Your Participation**
 

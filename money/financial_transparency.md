@@ -1,6 +1,8 @@
 # Financial Transparency
 
-How money works at Enspiral is determined by the [Financial Agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/financial.html). This page is to provide information and transparency about our financial situation.
+How money works at Enspiral is determined by the [Financial Agreement](../agreements/financial.md). This page is to provide information and transparency about our financial situation.
+
+[This post on Loomio](https://www.loomio.com/d/SoNn7pb5/enspiral-foundations-ltd-financials) includes regular financial updates.
 
 ### Bank Accounts
 
@@ -49,11 +51,10 @@ EF receives money from five sources:
 EF spends money generally in the following areas:
 
 Accounting and Operations  
-Software services \(mailchimp, loomio, domain registration etc\)  
+Software services \(loomio, domain registration etc\)  
 Google Workspace  
 Collab funding  
 Newsletter  
-Catalysts \(via WG-Catalysts\)
 
 
 

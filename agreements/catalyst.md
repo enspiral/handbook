@@ -1,5 +1,11 @@
 # Catalyst Agreement
 
+{% hint style="info" %}
+
+At the moment Enspiral has no active Catalysts. However, this social technology developed by Enspiral is still relevant in creating impact in the world. If you want to learn more about the role of the catalyst, here's [an interview with our ex-catalyst Joriam](https://youtu.be/SIlBobGS-Q8), exploring the role the Catalyst plays inside a network.
+
+{% endhint %}
+
 ## Context
 
 In chemistry, a Catalyst is an agent of change, used in small amounts relative to the reactants, which reduces the amount of energy required to create a reaction, and activates the rest of the system without itself getting consumed.
@@ -24,11 +30,11 @@ As leaders, Catalysts are responsible for defining and managing their own work. 
 
 **Appointment**
 
-The [Catalyst support working group](../working-groups/catalysts.md) is responsible for selecting and supporting catalysts.
+The [Catalyst support working group](web/enspiral-handbook-2023/archive/catalysts.md) is responsible for selecting and supporting catalysts.
 
 **Resourcing**
 
-The [Catalyst support working group](../working-groups/catalysts.md) is responsible for raising funds through cobudget or other means to fund on-going catalyst work.
+The [Catalyst support working group](web/enspiral-handbook-2023/archive/catalysts.md) is responsible for raising funds through cobudget or other means to fund on-going catalyst work.
 
 ## Expectations
 

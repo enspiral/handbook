@@ -10,11 +10,11 @@ This Handbook is like a wiki, maintained by everyone in the community: we need y
 
 All the files that make up this handbook live in a Github "repository" \(often called a "repo"\) : [https://github.com/enspiral/handbook](https://github.com/enspiral/handbook)
 
-**Check the** [**Github for Beginners**](github_for_beginners.md) **guide if you want to learn more.**
+**Check the** [**Github for Beginners**](../guides/github_for_beginners.md) **guide if you want to learn more.**
 
 If you have a Github account, you can draft another version of the handbook and let people comment on your draft. You make a "pull request" to request that repo maintainers merge your changes into the canonical version of the handbook, the "master" version. If you don't have an account [click here](https://github.com/join?source=header-home) to set one up. Once you have an account, post your github user ID in the \#enspiral\_help channel in Slack and ask for someone to add you to Enspiral' github account.
 
-To change an agreement you need to follow the process outlined in the [decisions agreement](https://github.com/enspiral/handbook/tree/d3234f4c1fe3afc87e5231beeb2d3926aee696d2/agreements/decisions.html). These agreements govern our community so they can only be changed with community input.
+To change an agreement you need to follow the process outlined in the [decisions agreement](../agreements/decisions.md). These agreements govern our community so they can only be changed with community input.
 
 If you're making a small edit like fixing a typo, or adding a guide, the pull request is a good place to start.
 
