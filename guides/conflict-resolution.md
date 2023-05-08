@@ -6,7 +6,7 @@ Enspiral's value resides in the people and the relationships that make up our in
 
 In this document you will find three suggested steps to take to safely and appropriately resolve conflict. Also included are support mechanisms if you need additional input to help resolve the conflict.
 
-Note: If you currently feel unsafe in Enspiral's communication channels, please immediately e-mail [foundation@enspiral.com](mailto:foundation@enspiral.com).
+Note: If you currently feel unsafe in Enspiral's communication channels, please immediately e-mail the board at [foundation@enspiral.com](mailto:foundation@enspiral.com).
 
 **If you or someone you know is in immediate danger, seek local law enforcement.**
 
