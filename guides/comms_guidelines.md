@@ -26,21 +26,21 @@ When you join Enspiral you should be added to the newsletter. If for some reason
 
 We also have an [external newsletter](https://enspiral.substack.com). There's no need to subscribe to both - internal newsletter has more info + links to our internal affairs.
 
-### [**Slack**](http://enspiral.slack.com) **- Daily Realtime Comms**
+### [**Enspiral Chat**](https://chat.enspiral.com/) **- Daily Realtime Comms**
 
-Daily chatting, realtime comms, quick questions, interesting links. There is a \#watercooler channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own!
+Daily chatting, realtime comms, quick questions, interesting links. There is a ~town-spiral channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own!
 
 {% hint style="info" %}
 
-If you'd have to pick ONE channel to join, it's definitely \#watercooler.
+If you'd have to pick ONE channel to join, it's definitely ~town-spiral.
 
 {% endhint %}
 
-You can browse through all the channels on Slack. Note that some channels are inactive.
+Enspiral Chat runs on the Mattermost open source platform. Here's an [Onboarding Guide](https://docs.google.com/document/d/16svrL5uOtyxauR-8VfRqHL0OW_st4ch80RW4gP1jRVM/edit) to help you join the chat.
 
-![Slack browse channel screenshot](../.gitbook/assets/enspiral-slack-browse.png)
+You can browse through, and join, all the channels by clicking the + button at the top left. Note that some channels are inactive.
 
-Here's a list of popular Slack Channels:
+Here's a list of popular Enspiral Chat Channels:
 
 #### Locations
 (particularly relevant if you're based around a specific place.)
