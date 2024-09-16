@@ -19,7 +19,7 @@ jobs:
         with:
           mdbook-version: '0.4.37'
 
-      - run: mdbook build en
+      - run: mdbook build
       - run: mkdir ./public
       - run: cp -R static/* ./public/
       - run: mv ./book/* ./public/
