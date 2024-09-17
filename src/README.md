@@ -1,6 +1,8 @@
 # Introduction
 
 
+_updated_
+
 **Enspiral is a network of people who support each other to do meaningful work.**
 
 Or at least that's one way to define what Enspiral is. Check out [our website](https://enspiral.com) for more context. You might also be inspired by our blog [Enspiral Tales](https://medium.com/enspiral-tales) and [this video](https://www.youtube.com/watch?v=lScGElP49Jc) created at Enspiral Summer Fest 2018.
