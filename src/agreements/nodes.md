@@ -52,9 +52,5 @@ Please talk to the Board early if you are considering starting a Node. When youâ
 * receive **Board or Brand working group approval for any commercial use** of the Enspiral brand except for running Enspiral gatherings.
 
 
-{% hint style="info" %}
-
-You can see current [Enspiral Nodes here](../nodes/README.md).
-
-{% endhint %}
+_You can see current [Enspiral Nodes here](/nodes/README.md)._
 

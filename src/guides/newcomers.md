@@ -1,10 +1,6 @@
 # A Guide for Newcomers
 
-{% hint style="info" %}
-
-🎙 You can learn more about landing in Enspiral in [this podcast](https://youtu.be/79OhyzQVQp0).
-
-{% endhint %}
+_🎙 You can learn more about landing in Enspiral in [this podcast](https://youtu.be/79OhyzQVQp0)._
 
 ## Every experience of Enspiral is different
 

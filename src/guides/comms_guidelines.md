@@ -30,11 +30,7 @@ We also have an [external newsletter](https://enspiral.substack.com). There's no
 
 Daily chatting, realtime comms, quick questions, interesting links. There is a ~town-spiral channel for general discussion, and many channels for teams, projects, locations, and topics, or you can create your own!
 
-{% hint style="info" %}
-
-If you'd have to pick ONE channel to join, it's definitely ~town-spiral.
-
-{% endhint %}
+_If you'd have to pick ONE channel to join, it's definitely ~town-spiral._
 
 Enspiral Chat runs on the Mattermost open source platform. Here's an [Onboarding Guide](https://docs.google.com/document/d/16svrL5uOtyxauR-8VfRqHL0OW_st4ch80RW4gP1jRVM/edit) to help you join the chat.
 

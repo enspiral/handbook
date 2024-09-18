@@ -2,7 +2,7 @@
 
 Enspiral Europe node exists to cultivate more connection for Enspiral people who live in Europe.
 
-![Group photo from Winter Retreat](.gitbook/assets/enspiral-europe-2023-winter-retreat.jpg)
+![Group photo from Winter Retreat](/.gitbook/assets/enspiral-europe-2023-winter-retreat.jpg)
 
 *Group photo from the Jan 23 Winter Retreat in Belgium.*
 

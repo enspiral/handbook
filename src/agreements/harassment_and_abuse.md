@@ -1,6 +1,6 @@
 # Harassment And Abuse
 
-_**Note:**_ **If you currently feel unsafe in Enspiral's communication channels, please immediately e-mail** [foundation@enspiral.com](mailto:foundation@enspiral.com) **.**
+**If you currently feel unsafe in Enspiral's communication channels, please immediately e-mail** [foundation@enspiral.com](mailto:foundation@enspiral.com)**.**
 
 _**If you or someone you know is in immediate danger, seek local law enforcement.**_
 

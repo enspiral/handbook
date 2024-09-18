@@ -1,11 +1,7 @@
 # Working Groups Agreement
 
 
-{% hint style="info" %}
-
-There are currently no catalysts in Enspiral. Formal WG approval process in this agreement should be updated.
-
-{% endhint %}
+_There are currently no catalysts in Enspiral. Formal WG approval process in this agreement should be updated._
 
 [_Approved: April 2019_](https://www.loomio.org/p/vksIn6z0/we-approve-the-working-group-agreement)
 

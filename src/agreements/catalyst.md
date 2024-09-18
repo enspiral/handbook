@@ -1,10 +1,7 @@
 # Catalyst Agreement
 
-{% hint style="info" %}
 
-At the moment Enspiral has no active Catalysts. However, this social technology developed by Enspiral is still relevant in creating impact in the world. If you want to learn more about the role of the catalyst, here's [an interview with our ex-catalyst Joriam](https://youtu.be/SIlBobGS-Q8), exploring the role the Catalyst plays inside a network.
-
-{% endhint %}
+_At the moment Enspiral has no active Catalysts. However, this social technology developed by Enspiral is still relevant in creating impact in the world. If you want to learn more about the role of the catalyst, here's [an interview with our ex-catalyst Joriam](https://youtu.be/SIlBobGS-Q8), exploring the role the Catalyst plays inside a network._
 
 ## Context
 

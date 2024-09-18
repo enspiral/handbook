@@ -1,10 +1,6 @@
 # Brand Agreement
 
-{% hint style="info" %}
-
-Brand WG is currently "inactive". Approval process in this agreement should be updated.
-
-{% endhint %}
+_Brand WG is currently "inactive". Approval process in this agreement should be updated._
 
 _Note: this agreement is not about ‘branded Enspiral ventures’ or Enspiral associated ventures/companies. For now potential ventures go through the venture process. We have identified that that work needs wider input and alignment with the people working on clarifying Enspiral ventures._
 
@@ -26,8 +22,5 @@ When you’ve got this crew behind you, you can go for it and use the brand on y
 
 If you fail spectacularly and publicly, you'll have our support. Innovation is messy - and running with clear intent and failing is a great thing. If you succeed, awesome. No doubt the network will continue to support you.
 
-{% hint style="info" %}
 
-If you're looking for specific on how to use Enspiral Logo and Brand, check out [this document](https://drive.google.com/drive/folders/0B-dkcrKwMspoMTJKMUtWd25mbE0?resourcekey=0-D21_UlfwYlYAWO7-aHwWSw).
-
-{% endhint %}
+_If you're looking for specific on how to use Enspiral Logo and Brand, check out [this document](https://drive.google.com/drive/folders/0B-dkcrKwMspoMTJKMUtWd25mbE0?resourcekey=0-D21_UlfwYlYAWO7-aHwWSw)._

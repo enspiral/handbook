@@ -2,11 +2,7 @@
 
 As a registered New Zealand company, Enspiral Foundation Ltd has to have directors. Enspiral’s goal is to distribute vision, strategy, and leadership as widely as possible in the network, so the board has a narrow focus. You can see the details in the [Board Agreement](https://handbook.enspiral.com/agreements/board).
 
-{% hint style="info" %}
-
-With recent changes to Enspiral membership and emergence of [nodes](/agreements/nodes.md) the role of the board in the network is currently in transition.
-
-{% endhint %}
+_With recent changes to Enspiral membership and emergence of [nodes](/agreements/nodes.md) the role of the board in the network is currently in transition._
 
 **Responsibilities**
 
