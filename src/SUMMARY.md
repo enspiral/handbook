@@ -52,6 +52,9 @@
   * [Collaborative Funding](money/collabfunding.md)
   * [Contributing Money](money/contributing-money.md)
   * [Financial Transparency](money/financial_transparency.md)
+
+* [Brand assets](brand/README.md)
 * [Ventures](ventures.md)
 * [Resources](resources.md)
 * [Archive](archive/README.md)
+
