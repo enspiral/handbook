@@ -32,4 +32,4 @@ In your invoice include:
 - [Financial Agreement](../agreements/financial.md)
 - More context about cobudget rounds on [Loomio](https://www.loomio.org/d/DbW3nipl/it-s-time-facilitated-cobudget-) (Enspiral only)
 - Thriving Nodes Supercharge - cobudget round February 2024 on [Loomio](https://www.loomio.com/d/xuMb3mfq/thriving-nodes-supercharge-cobudget-round-february-2024) (Enspiral only)
-- Growing a thriving network of Enspiral nodes - cobudget round October 2023 on [Loomio](https://www.loomio.com/d/m2bAPO8h/you-are-invited-to-a-round-of-participatory-budgeting-growing-a-thriving-network-of-enspiral-nodes-
+- Growing a thriving network of Enspiral nodes - cobudget round October 2023 on [Loomio](https://www.loomio.com/d/m2bAPO8h/you-are-invited-to-a-round-of-participatory-budgeting-growing-a-thriving-network-of-enspiral-nodes-)
