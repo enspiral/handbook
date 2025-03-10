@@ -1,1 +1,0 @@
-You can find the [previous version of this handbook here](https://github.com/enspiral/handbook/blob/archive-2023-snapshot/README.md).
