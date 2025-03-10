@@ -7,7 +7,7 @@ title = "Enspiral Handbook"
 
 [output.html]
 no-section-label = true
-edit-url-template = "https://github.com/robguthrie/handbook/edit/main{path}"
+edit-url-template = "https://github.com/robguthrie/handbook/edit/main/{path}"
 
 [output.html.fold]
 enable = false    # whether or not to enable section folding
