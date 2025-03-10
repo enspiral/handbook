@@ -1,0 +1,291 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Newcomers - Enspiral Handbook</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+
+        <!-- Fonts -->
+        <!-- HTML in your document's head -->
+        <link rel="preconnect" href="https://rsms.me/">
+        <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
+<!--         <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+ -->        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <!-- <link rel="stylesheet" href="../fonts/fonts.css"> -->
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <div style="display: flex; align-items: center; justify-content: start">
+                    <!-- <img src="/brand/enspiral-logo.svg" style="width: 64px; padding: 8px 16px 0 0"> -->
+                    <img src="https://robguthrie.github.io/handbook/brand/enspiral-logo.svg" style="width: 64px; padding: 8px 16px 0 0">
+                </div>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Introduction</a></li><li class="chapter-item expanded "><a href="../agreements/index.html">Agreements</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../agreements/board.html">Board Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/brand.html">Brand Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/catalyst.html">Catalyst Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/decisions.html">Decisions Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/diversity.html">Diversity Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/email_accounts_agreement.html">Email Accounts Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/financial.html">Financial Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/foundation-stewards.html">Foundation Stewards</a></li><li class="chapter-item expanded "><a href="../agreements/harassment_and_abuse.html">Harassment And Abuse</a></li><li class="chapter-item expanded "><a href="../agreements/nodes.html">Node Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/personal_conduct.html">Personal Conduct</a></li><li class="chapter-item expanded "><a href="../agreements/pods.html">Pods Agreement</a></li><li class="chapter-item expanded "><a href="../agreements/working_groups.html">Working Groups Agreement</a></li></ol></li><li class="chapter-item expanded "><a href="../guides/index.html">Guides</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../guides/assembly-sprints.html">Assembly Sprint</a></li><li class="chapter-item expanded "><a href="../guides/blogging.html">Blogging</a></li><li class="chapter-item expanded "><a href="../guides/conflict-resolution.html">Conflict Resolution</a></li><li class="chapter-item expanded "><a href="../guides/comms_guidelines.html">Comms Guidelines</a></li><li class="chapter-item expanded "><a href="../guides/contributing.html">Contributing to the Handbook</a></li><li class="chapter-item expanded "><a href="../guides/content-dusting.html">Content dusting</a></li><li class="chapter-item expanded "><a href="../guides/email_accounts.html">Email accounts</a></li><li class="chapter-item expanded "><a href="../guides/values.html">Enspiral Values</a></li><li class="chapter-item expanded "><a href="../guides/github_for_beginners.html">Github for Beginners</a></li><li class="chapter-item expanded "><a href="../guides/newcomers.html" class="active">Newcomers</a></li><li class="chapter-item expanded "><a href="../guides/onboarding.html">Onboarding</a></li><li class="chapter-item expanded "><a href="../guides/ops_processes.html">Ops processes</a></li><li class="chapter-item expanded "><a href="../guides/pods.html">Pods</a></li><li class="chapter-item expanded "><a href="../guides/project_kitchen.html">Project Kitchens</a></li><li class="chapter-item expanded "><a href="../guides/projects_reports.html">Projects & Reports</a></li><li class="chapter-item expanded "><a href="../guides/press.html">PR tips for humans</a></li><li class="chapter-item expanded "><a href="../guides/research.html">Research</a></li><li class="chapter-item expanded "><a href="../guides/retreats.html">Retreats</a></li><li class="chapter-item expanded "><a href="../guides/songs.html">Songs</a></li><li class="chapter-item expanded "><a href="../guides/workshop_patterns.html">Workshop Patterns</a></li></ol></li><li class="chapter-item expanded "><a href="../nodes/index.html">Nodes</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../nodes/enspiral-europe.html">Enspiral Europe</a></li><li class="chapter-item expanded "><a href="../nodes/enspiral-dao.html">Enspiral DAO</a></li><li class="chapter-item expanded "><a href="../nodes/kumara.html">Kumara Node</a></li></ol></li><li class="chapter-item expanded "><a href="../working-groups/index.html">Working Groups</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../working-groups/comms.html">Comms</a></li><li class="chapter-item expanded "><a href="../working-groups/gatherings.html">Gatherings</a></li></ol></li><li class="chapter-item expanded "><a href="../foundation/index.html">Enspiral Foundation Ltd</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../foundation/constitution.html">Constitution</a></li><li class="chapter-item expanded "><a href="../foundation/board.html">Board of Directors</a></li><li class="chapter-item expanded "><a href="../foundation/ops-scope.html">Ops Scope</a></li><li class="chapter-item expanded "><a href="../foundation/comms-role.html">Comms Role Scope</a></li></ol></li><li class="chapter-item expanded "><a href="../money/index.html">Money</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../money/collabfunding.html">Collaborative Funding</a></li><li class="chapter-item expanded "><a href="../money/contributing-money.html">Contributing Money</a></li><li class="chapter-item expanded "><a href="../money/financial_transparency.html">Financial Transparency</a></li></ol></li><li class="chapter-item expanded "><a href="../brand/index.html">Brand assets</a></li><li class="chapter-item expanded "><a href="../ventures.html">Ventures</a></li><li class="chapter-item expanded "><a href="../resources.html">Resources</a></li><li class="chapter-item expanded "><a href="../archive/index.html">Archive</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Dark</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Enspiral Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="https://github.com/robguthrie/handbook/edit/mainsrc/guides/newcomers.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="a-guide-for-newcomers"><a class="header" href="#a-guide-for-newcomers">A Guide for Newcomers</a></h1>
+<p><em>🎙 You can learn more about landing in Enspiral in <a href="https://youtu.be/79OhyzQVQp0">this podcast</a>.</em></p>
+<h2 id="every-experience-of-enspiral-is-different"><a class="header" href="#every-experience-of-enspiral-is-different">Every experience of Enspiral is different</a></h2>
+<p>Enspiral is a network of individuals, each with wonderfully varied experiences, aspirations, skills, knowledge, connections…and baggage! We all have our own versions of all of these, and it influences our experience of Enspiral just as much as it does the rest of our lives.</p>
+<p>Yet perhaps even more, because Enspiral is a space which imposes less clarity around what it is and does. So those personal patterns of desire, reaction and defence can have a greater influence over the experience you have.</p>
+<p>This is not right or wrong. Not good or bad. It just is. And knowing it can help you let go of expectations (see also ‘<a href="newcomers.html#leave-your-expectations-at-the-door">Leave your expectations at the door</a>’), and be present to what your unique experience is.</p>
+<h2 id="leave-your-expectations-at-the-door"><a class="header" href="#leave-your-expectations-at-the-door">Leave your expectations at the door</a></h2>
+<p>The picture of Enspiral that is presented outside of the network can differ markedly from the experience you find when joining.</p>
+<p>Some of this comes from materials and experiences generated in the early days of Enspiral that still live on within the ‘library of the internet’. Some of this is the result of the Enspiral experience varying considerably between individuals (see also ‘<a href="newcomers.html#every-experience-of-enspiral-is-different">Every experience of Enspiral is different</a>’). Some of this is because of the attachment people have to what Enspiral represents to them rather than what it really is.</p>
+<p>Enspiral is still a network of ‘people doing good in the world’. But your experience will be more accurate (and likely less frustrating) if you let go of every other expectation and assumption you have. Join because you think this might be a place where you fit, not because you need Enspiral to do, be or deliver something specific.</p>
+<h2 id="enspiral-is-purpose-agnostic"><a class="header" href="#enspiral-is-purpose-agnostic">Enspiral is ‘purpose-agnostic’</a></h2>
+<p>To become part of the Enspiral network, it does not matter what version of ‘doing good in the world’ you embrace. Or whether this is an aspiration, something you’re actively involved in or something you’ve done in the past. </p>
+<p>For example, you may be focused on eliminating poverty across many regions of the world and spend hundreds of hours each year flying from place to place. Alternatively, you may be at the frontline of local initiatives to minimise carbon emissions. Both are welcome.</p>
+<p>Similarly, an Enspiral retreat may embrace one set of values (vegetarian meals) and ignore another (minimising carbon footprint).</p>
+<p>This can be a little confusing and confounding for the newcomer who is viewing things through their own specific ‘purpose lens’.</p>
+<p>But how do you know whether your definition of ‘doing good in the world’ is accepted? Well, at least one person within the network will need to agree with you for an invitation to be offered in the first place. And if you’re pushing the boundaries of what might be considered as ‘doing good’ they’ll likely sense-check with others in the network too. </p>
+<p>So whilst Enspiral is ‘purpose-agnostic’, there will be boundaries, and those boundaries have not been defined. The work of doing so will likely happen only as the need arises, which can be seen as either efficient prioritisation of capacity or perpetuating a lack of clarity. Or anything in between.</p>
+<p>It’s also worth noting that any decision around boundaries may or may not happen within a defined and agreed framework (see also ‘<a href="#decisions-happen-through-due-process">Decisions happen through due process</a>’). </p>
+<p>If you think you’re pushing the boundaries, the best course of action is to ask. If nothing else, you’ll be creating the opportunity for Enspiral to engage and evolve.</p>
+<h2 id="decisions-happen-through-due-process"><a class="header" href="#decisions-happen-through-due-process">Decisions happen through due process</a></h2>
+<p>At least sometimes they do...</p>
+<p>Enspiral is a network of individuals, each with their own unique relationship to…   …well, everything! </p>
+<p>Over the years, Enspiral has experimented with numerous formal methodologies for decision- and agreement-making, and many are still in use today. Some are more effective than others. Some are more clearly defined than others. Some are more enjoyable than others. </p>
+<p>The experience of these processes is as individual as those who are involved in them. </p>
+<p>However, many decisions and agreements are made outside of these formal processes, whether during in-person get-togethers like Summerfest or on asynchronous communication channels like Slack. And depending on where, when and how deeply you’re engaged with the network, you may not realise it’s happening, or have an opportunity to participate.</p>
+<p>This is how it is.</p>
+<p>Some decisions or agreements have a defined process (e.g. co-budget funding rounds). For others, whether a formal process is justified or required – and the extent to which the Enspiral network is consulted or invited to participate – is generally determined by those involved. If the decision is significant, at least some will likely be individuals with deeper experience of Enspiral, and the network relies on their judgement to strike an appropriate balance between action, participation and risk.</p>
+<h2 id="openness-and-connection-does-not-mean-friendship"><a class="header" href="#openness-and-connection-does-not-mean-friendship">Openness and connection does not mean friendship</a></h2>
+<p>The openness with which new people are welcomed into the network (particularly at Enspiral events) along with the authenticity with which people share, is a key element in the Enspiral experience. But for many newcomers this can feel like people are becoming your friend…   …because that’s the main situation in which you might have experienced such openness in the past.</p>
+<p>Don’t mistake this openness and acceptance for friendship. That’s not to say people you meet within Enspiral can’t become friends, as some most likely will.</p>
+<p>It is a wonderful aspect of Enspiral, but can also be confusing for newcomers. People who might connect with each other only once, or maybe once every year or so, are typically able to be present and receive fully. They can be there for each other, and for you, in the moment.</p>
+<p>Over time (see also ‘<a href="newcomers.html#give-it-time">Give it time</a>’), those connections you repeat will likely build and strengthen. Though the timescale can be much longer than you’re used to, the result can be a network of like-minded people you can reach out to for help, to discuss a particular topic or just a periodic chat.</p>
+<p>Be curious, don’t assume friendship or familiarity, and stay connected where the exchanges are mutually beneficial. The rest will take care of itself.</p>
+<h2 id="participate-at-a-level-that-is-appropriate-for-you"><a class="header" href="#participate-at-a-level-that-is-appropriate-for-you">Participate at a level that is appropriate for you</a></h2>
+<p>By participating in Enspiral events, processes, working groups and so on, you will gain experience, acknowledgement, connections and opportunities. Over time you will also gain social capital (whether you want it or not…).</p>
+<p>On arrival into the network this is an exciting opportunity, and many leap in with both feet, particularly if this is the first space in which they’ve connected with like-minded people.</p>
+<p>But many also become disillusioned, frustrated and burnt out within the first 6-12 months. The enthusiasm to engage can turn to disappointment with the lack of progress, not being heard or the sheer level of energy required to remain engaged at a high level.</p>
+<p>Pace yourself (see also ‘<a href="newcomers.html#give-it-time">Give it time</a>’ below), and find a level of engagement that is appropriate, healthy and sustainable for you. Above all, don’t judge yourself against others.</p>
+<p>Everyone’s situation is different. Everyone’s ability to contribute is different. Everyone’s tolerance for process is different. Everyone’s influence on outcomes is different.</p>
+<p>Embrace your unique differences and be you. It’s the greatest contribution you can make.</p>
+<h2 id="the-power-in-social-capital"><a class="header" href="#the-power-in-social-capital">The power in social capital</a></h2>
+<p>With the removal of the member / contributor divide in mid-2022, Enspiral is now broadly non-hierarchical in terms of decision-making structures. Anyone within the network can engage in processes that determine the future direction of Enspiral, how it operates, how its funds are spent, suggest amendments to agreements, and so on (see also ‘<a href="newcomers.html#decisions-happen-through-due-process">Decisions happen through due process</a>’).</p>
+<p>However, not all opinions and perspectives have equal weight within these processes.</p>
+<p>Whilst there is no hierarchical power, there is considerable social capital held by specific individuals, whether wanted or not. Examples include those who’ve been in Enspiral a long time (particularly early founding members), those who arrive with established reputations for high impact work, and those who have put a lot of time and energy into participating in Enspiral events, processes, working groups, etc.</p>
+<p>All people are not equal within Enspiral, and it pays to acknowledge this at the outset.</p>
+<h2 id="your-full-self-may-not-yet-be-received"><a class="header" href="#your-full-self-may-not-yet-be-received">Your full self may not (yet) be received</a></h2>
+<p>Whilst there is a wide acceptance of an individual’s ‘purpose’ within Enspiral (see also ‘<a href="newcomers.html#enspiral-is-purpose-agnostic">Enspiral is ‘purpose agnostic</a>’), there are certain aspects of diversity that are not comfortably held. As a network of individuals, Enspiral still learning, still evolving, and the first step in that is to acknowledge where we fall short.</p>
+<p>Issues that society as a whole may still be grappling with such as gender and race are broadly embraced and openly discussed. Yet depending on the context, other aspects of how people live their lives  – such as our relationships to fossil fuels, agro-chemicals, firearms – may not feel as safe to share. We know we can do better.</p>
+<p>It is up to all of us to work to accept others as they are, and be kind to everyone (including ourselves) when we cannot. We all have work to do in this area – perhaps the most important thing is not where we are, but that we’re actively doing the work to grow.</p>
+<h2 id="give-it-time"><a class="header" href="#give-it-time">Give it time</a></h2>
+<p>It takes time to work out what your version of the Enspiral experience is. It takes time to understand the processes that shape and steer this network. It takes time for initial connections to become people you can reach out to. It takes time to find your place and build your presence.</p>
+<p>Many newcomers to Enspiral leave within the first 12-18 months, and for any number of reasons. So make sure you give it – and yourself – time. Time for the true shape of Enspiral to emerge. And time for you to truly see it, experience it and maybe even evolve yourself along the way.</p>
+<p>The Enspiral network has had a huge positive influence on many, many people since its inception and continues to do so. It’s not for everyone, and it’s not always a long-term relationship. But you are more likely to find your best Enspiral experience if you give it time, and take an approach which means it’s sustainable to do so (see also ‘<a href="newcomers.html#participate-at-a-level-that-is-appropriate-for-you">Participate at a level that is appropriate for you</a>’).</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../guides/github_for_beginners.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../guides/onboarding.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../guides/github_for_beginners.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../guides/onboarding.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
