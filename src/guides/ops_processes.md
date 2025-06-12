@@ -19,12 +19,11 @@ If a Node wishes for Optimi to do any custom integrations or management they wil
 
 - [ ] cross check the process below with Uli’s documentation.
 
-1. Node reps complete the “Add new contributor form” listed on the [Forms page](https://www.loomio.org/d/eUqFhOdN/introductions-and-readme-2019) in Loomio. Members are the new Contributor’s Steward by default unless they have arranged for someone else to be their Steward.
+1. Node hosts add members from the [Enspiral Directory](https://optimi.knack.com/enspiralportal#enspiral-network/) by first navigating to their node and then using the **invite new member** button.
 2. Upon completion of this Form, Ops receives a notification with all of the details. 
-3. At the same time, the new member is sent an automated email with a link and request to login to the directory. 
+3. At the same time, the new member is sent an automated email with a link and request to login to the directory and fill out a short form. 
 4. Once they’ve set their password and logged in, they can fill out their bio including the following fields: personal tagline/origin story, website, ask me about, skills, activities, values, interests, bio/introduction, aspirations within the network
 5. Once filled in, Ops invites them to Slack and Loomio for introductions as well as these other tools: 
-    - Cobudget
     - Added to the [Foundation Global members](https://groups.google.com/a/enspiral.com/g/contributors) (to access Google Drive, this has to be a Google account)
     - Newsletter list (managed by the newsletter person).
 - Introductions are added to each tool as they accept their invites (which can take a while). Be sure to look our for those emails. Introductions are done on these channels:
@@ -43,7 +42,6 @@ Contributors are offboarded from the network when:
 Ops then removes the member from the following systems:
 
 - Loomio
-- Cobudget \(any remaining funds are recycled into the next Cobudget round\)
 - Removed from the Foundation Global Members Group
 - Removed from the Monthly Enspiral Newsletter e-mail list (by newsletter person)
 - Slack: \(Note: you cannot fully “remove” users, instead the members account is “disabled”\)
