@@ -15,6 +15,7 @@ _With recent changes to Enspiral membership and emergence of [nodes](/agreements
 * Oversee the Foundation’s financial accounts
 * Make agreements between the Enspiral Foundation and other entities \(MOUs, Service contracts\)
 * Occasionally make recommendations or raise issues to the members or the network as a whole
+* Approve the formation of new [nodes](/agreements/nodes.md) of the network
 * Have some emergency powers to use in rare crisis situations if our other processes have broken down
 
 **Reporting**
@@ -36,15 +37,19 @@ Examples of things within scope:
 
 ### Susan Basterfield
 
-I’m a catalyst, cultivator, convenor and curator, helping individuals and organisations experiment with new ways of working and being. I’m a member of the Golden Pandas, participate in a variety of working groups, engage in acts of ambassador-ing, and work with teams worldwide as a coach and facilitator.
+I’m a catalyst, cultivator, convenor and curator, helping individuals and organisations experiment with new ways of working and being. I participate in a variety of working groups, engage in acts of ambassador-ing, and work with teams worldwide as a coach and facilitator.
 
-### Richard Bartlett
+### Joriam Ramos
 
-I'm enthusiastic about co-ownership, self-governance and building relationships of partnership instead of domination to create collaborative workplaces. I'm a co-founder of Loomio and The Hum. I have a unique way of seeing patterns and speaking about complexity in simple words.
+I'm a community catalyst, worldbuilder, and storyteller.
 
 ### Charley Davenport
 
 I am an experienced systems and technical support specialist and helping people to connect with new technology is at the heart of what I do for work. I'm currently working with New Zealand-based electric vehicle charging network Thundergrid as a Charge Point Operator, with the mission of transitioning transport to cleaner technology. I also work with the Enspiral Venture Greaterthan administering finances. I am also a freelance cellist and adventurous performer and arts advocate in Wellington.
+
+### Hailey Cooperrider
+
+I'm interested in how collaboration scales and how networks govern themselves. I work in related fields and also make serious games that help with collaboration and complicated topics.
 
 ### Joshua Vial
 
