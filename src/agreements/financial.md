@@ -52,7 +52,10 @@ The board is responsible for managing the fixed costs of the network from core f
 
 #### Discretionary Costs
 
-All discretionary costs are managed through an approved collaborative funding process and taken from collaborative funds.
+All discretionary costs are managed in one of two ways:
+
+- through an approved collaborative funding process and taken from collaborative funds.
+- through a significant decision process and taken from core funds.
 
 #### Emergency Costs
 
