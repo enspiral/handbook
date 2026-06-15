@@ -10,8 +10,8 @@ If you want to start a node in Enspiral, a good place to start is reading the [N
 
 Each node has two representatives who are responsible to communicate with the board:
 
-- Enspiral Europe: Michal Korzonek, Joriam Ramos
-- Enspiral DAO: Itamar Goldminz, Joshua Vial
-- Kūmara node: Sukie Conley, Hailey Cooperrider 
+- Enspiral Europe: Michal Korzonek, Joriam Ramos (still?)
+- Enspiral Forge: Kate Beecroft, Joshua Vial (confirm)
+- Enspiral Kūmara: Julien Leyre, Hailey Cooperrider 
 
 Details on each node are available on the following pages.
