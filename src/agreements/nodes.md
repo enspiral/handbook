@@ -6,9 +6,9 @@ The Foundation Board is responsible for creating and maintaining the Node Requir
 
 The Foundation Board has the power to approve requests for new Nodes and dissolve inactive / rogue Nodes.
 
-## Node Hosts
+## Node Hosts ("Reps")
 
-Each node is expected to have at least two node hosts who are responsible for communicating with the Foundation Board and the wider network.
+Each node is expected to have at least two node hosts, sometimes called "node reps", who are responsible for communicating with the Foundation Board and the wider network.
 
 ## Joining / leaving process
 
