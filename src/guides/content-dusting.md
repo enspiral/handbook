@@ -29,7 +29,7 @@ Amending content and discussing with content authors are also means to directly 
 
 * **Step 5 - Follow through \(but don't burn your wings\)** - Understand that the author may now be busy with other work, and may need to be reminded several times of the issue. We advice against insisting if authors state that the amendment should not be made. In that case limit the scope of your work to what is actually needed and received as help. Also be extra cautious of complex tasks that would get you stuck for too long. On these, limit _step 3_ to simple notifications/discussions and reminders, not the actual implementation of a solution.
 
-You can see various examples of \(so far Github-centered\) content-dusting [here \(troubleshooting dead links\)](https://github.com/enspiral/handbook/commit/bde6f77889172219c3d8741f494c97d1701fc77f#commitcomment-22974043), [here \(demystifying jargon in the board agreement\)](https://github.com/enspiral/handbook/commit/9216a3917dd50b14dc676c9d5d06f75fb5521118#commitcomment-23069595) and [here \(updating the member list of the brang working group\)](https://github.com/enspiral/handbook/commit/4a165ee6b11f9ab7f722bcc57aa6ad314b34bc93#commitcomment-23070125).
+You can see various examples of \(so far Github-centered\) content-dusting [here \(troubleshooting dead links\)](https://github.com/enspiral/handbook/commit/bde6f77889172219c3d8741f494c97d1701fc77f#commitcomment-22974043), [here \(demystifying jargon in the board agreement\)](https://github.com/enspiral/handbook/commit/9216a3917dd50b14dc676c9d5d06f75fb5521118#commitcomment-23069595) and [here \(updating the member list of a working group\)](https://github.com/enspiral/handbook/commit/4a165ee6b11f9ab7f722bcc57aa6ad314b34bc93#commitcomment-23070125).
 
 ## Discuss
 
