@@ -38,7 +38,6 @@
   * [Workshop Patterns](guides/workshop_patterns.md)
 * [Nodes](nodes/README.md)
 	* [Enspiral Europe](nodes/enspiral-europe.md)
-	* [Enspiral DAO](nodes/enspiral-dao.md)
 	* [Kumara Node](nodes/kumara.md)
 * [Working Groups](working-groups/README.md)
   * [Comms](working-groups/comms.md)
