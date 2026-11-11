@@ -12,9 +12,9 @@ Under this agreement to use the brand in this way all you need to do is:
 
 The purpose of this form is to act as a risk register and ask some reflective questions that further the thinking of the person behind the project, whilst providing some rigour of thinking to people outside of the project.
 
-**\(2:\) Get a consent decision from the Board / Node Reps group.**
+**\(2:\) Get a Standard Decision from the Board / Node Reps group.**
 
-Bring your idea to the Board / Node Reps group (the [Board](../foundation/board.md) and the [node representatives](../nodes/README.md)), who make a [consent decision](decisions.md) on it. It’s a good chance to circulate your idea in the network, gain momentum for it and also get valuable feedback to see risks, issues and opportunities you might not have seen yet.
+Bring your idea to the Board / Node Reps group (the [Board](../foundation/board.md) and the [node representatives](../nodes/README.md)), who make a [Standard Decision](decisions.md#decision-types) on it. It’s a good chance to circulate your idea in the network, gain momentum for it and also get valuable feedback to see risks, issues and opportunities you might not have seen yet.
 
 When you’ve got this crew behind you, you can go for it and use the brand on your amazing, innovative, risky-as-hell or safe-as-houses new 'Supported by Enspiral' project.
 
