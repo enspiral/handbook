@@ -49,7 +49,7 @@ Please talk to the Board early if you are considering starting a Node. When youâ
 
 * ensure that all ownership and **control over Enspiral branded** domain names, trade marks, social media accounts is **given to the Enspiral Foundation**.
 
-* receive **Board / Node Reps group approval for any commercial use** of the Enspiral brand except for running Enspiral gatherings.
+* receive **a consent decision from the Board / Node Reps group for any commercial use** of the Enspiral brand except for running Enspiral gatherings.
 
 
 _You can see current [Enspiral Nodes here](/nodes/index.html)._
